@@ -1,0 +1,966 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>Video game design - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Video_game_design","wgTitle":"Video game design","wgCurRevisionId":876741390,"wgRevisionId":876741390,"wgArticleId":473526,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2018","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from February 2017","Articles with unsourced statements from November 2012","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from March 2010","Articles with unsourced statements from February 2011","Articles with unsourced statements from March 2010","Wikipedia articles needing clarification from March 2010","All articles that may contain original research","Articles that may contain original research from March 2010","Articles with Curlie links","Webarchive template wayback links","Video game design","Video game development"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Video_game_design","wgRelevantArticleId":473526,"wgRequestId":"XDJHNwpAME8AALfJf8AAAADR","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Video_game_designer","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgInternalRedirectTargetUrl":"/wiki/Video_game_design#Game_designer","wgWikibaseItemId":"Q12336660","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.toc.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["mediawiki.action.view.redirect","ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cmediawiki.toc.styles%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Video_game_design#Game_designer"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=Video_game_design&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=Video_game_design&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/Video_game_design#Game_designer"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-Video_game_design rootpage-Video_game_design skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">Video game design</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"><span class="mw-redirectedfrom">&#160;&#160;(Redirected from <a href="/w/index.php?title=Video_game_designer&amp;redirect=no" class="mw-redirect" title="Video game designer">Video game designer</a>)</span></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><table class="box-More_footnotes plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation"><tbody><tr><td class="mbox-image"><div style="width:52px"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" width="40" height="40" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" data-file-width="48" data-file-height="48" /></div></td><td class="mbox-text"><div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>.<span class="hide-when-compact"> Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span>  <small class="date-container"><i>(<span class="date">February 2018</span>)</i></small><small class="hide-when-compact"><i> (<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div></td></tr></tbody></table>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;padding:0em; line-height:normal; font-size:100%; width:16em; border-spacing:2px 0px;"><tbody><tr><td style="padding:0.4em 0"><a href="/wiki/File:Video-Game-Controller-Icon-IDV-green-industry.svg" class="image"><img alt="Video-Game-Controller-Icon-IDV-green-industry.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Video-Game-Controller-Icon-IDV-green-industry.svg/100px-Video-Game-Controller-Icon-IDV-green-industry.svg.png" width="100" height="100" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Video-Game-Controller-Icon-IDV-green-industry.svg/150px-Video-Game-Controller-Icon-IDV-green-industry.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Video-Game-Controller-Icon-IDV-green-industry.svg/200px-Video-Game-Controller-Icon-IDV-green-industry.svg.png 2x" data-file-width="249" data-file-height="249" /></a></td></tr><tr><td style="padding-top:0.2em;line-height:1.2em;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto;">Part of a series on the:</td></tr><tr><th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;"><a href="/wiki/Video_game_industry" title="Video game industry">Video game industry</a></th></tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;">Activities/jobs</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a class="mw-selflink selflink">Video game design</a></li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a></li>
+<li><a href="/wiki/Game_art_design" title="Game art design">Game art design</a></li>
+<li><a href="/wiki/Video_game_development" title="Video game development">Game development</a> / <a href="/wiki/Video_game_developer" title="Video game developer">Game developer</a></li>
+<li><a href="/wiki/Mod_(video_gaming)" title="Mod (video gaming)">Game modification</a></li>
+<li><a href="/wiki/Video_game_producer" title="Video game producer">Game producer</a></li>
+<li><a href="/wiki/Game_programming" title="Game programming">Game programming</a> / <a href="/wiki/Game_programmer" class="mw-redirect" title="Game programmer">Game programmer</a></li>
+<li><a href="/wiki/Video_game_publisher" title="Video game publisher">Game publisher</a></li>
+<li><a href="/wiki/Game_studies" title="Game studies">Game studies</a></li>
+<li><a href="/wiki/Game_testing" title="Game testing">Game testing</a></li>
+<li><a href="/wiki/Video_game_journalism" title="Video game journalism">Game journalism</a></li>
+<li><a href="/wiki/Level_design" title="Level design">Level design</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;"><a href="/wiki/Video_game_development" title="Video game development">Development</a></div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a href="/wiki/Artificial_intelligence_(video_games)" class="mw-redirect" title="Artificial intelligence (video games)">Game AI</a></li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a></li>
+<li><a href="/wiki/Interaction_design" title="Interaction design">Interaction design</a></li>
+<li><a href="/wiki/Game_programming" title="Game programming">Game programming</a></li>
+<li><a href="/wiki/Level_design" title="Level design">Level design</a></li>
+<li><a href="/wiki/Video_game_art" title="Video game art">Video game art</a></li>
+<li><a class="mw-selflink selflink">Video game design</a></li>
+<li><a href="/wiki/Video_game_graphics" title="Video game graphics">Video game graphics</a></li>
+<li><a href="/wiki/Video_game_music" title="Video game music">Video game music</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;">Types</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a href="/wiki/Sex_and_nudity_in_video_games" title="Sex and nudity in video games">Adult game</a></li>
+<li><a href="/wiki/Casual_game" title="Casual game">Casual game</a></li>
+<li><a href="/wiki/Indie_game" title="Indie game">Indie game</a></li>
+<li><a href="/wiki/Non-game" title="Non-game">Non-game</a>
+<ul><li><a href="/wiki/Interactive_art" title="Interactive art">Interactive art</a></li>
+<li><a href="/wiki/Interactive_movie" title="Interactive movie">Interactive movie</a></li></ul></li>
+<li><a href="/wiki/Nonviolent_video_game" title="Nonviolent video game">Nonviolent video game</a></li>
+<li><a href="/wiki/Serious_game" title="Serious game">Serious game</a>
+<ul><li><a href="/wiki/Advergaming" class="mw-redirect" title="Advergaming">Advergame</a></li>
+<li><a href="/wiki/Art_game" title="Art game">Art game</a></li>
+<li><a href="/wiki/Educational_game" title="Educational game">Edugame</a></li>
+<li><a href="/wiki/Exergaming" title="Exergaming">Exergame</a></li></ul></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;">Topics</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a href="/wiki/Digital_rights_management" title="Digital rights management">Digital rights management</a> (DRM)</li>
+<li><a href="/wiki/Outsourcing" title="Outsourcing">Outsourcing</a></li>
+<li><a href="/wiki/Software_license" title="Software license">Software license</a></li>
+<li><a href="/wiki/End-user_license_agreement" title="End-user license agreement">End-user license agreement</a> (EULA)</li>
+<li><a href="/wiki/Video_game_preservation" title="Video game preservation">Video game preservation</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;">Related</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a href="/wiki/Video_game" title="Video game">Video game</a></li>
+<li><a href="/wiki/History_of_video_games" title="History of video games">History of video games</a></li></ul></div></div></td>
+</tr><tr><td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0;padding:0em; margin:0px; line-height:normal; font-size:100%; height:auto; border:none;"><div class="NavHead" style="font-size:105%;background:transparent;text-align:left;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;">Lists</div><div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding:2px; margin:0px; line-height:normal; font-size: 90%; height:auto; text-align:left;">
+<ul><li><a href="/wiki/List_of_indie_game_developers" title="List of indie game developers">List of indie game developers</a></li>
+<li><a href="/wiki/List_of_video_game_developers" title="List of video game developers">List of video game developers</a></li>
+<li><a href="/wiki/List_of_video_game_industry_people" title="List of video game industry people">List of video game industry people</a></li>
+<li><a href="/wiki/List_of_video_game_publishers" title="List of video game publishers">List of video game publishers</a></li>
+<li><a href="/wiki/List_of_video_game_websites" title="List of video game websites">List of video game websites</a></li></ul></div></div></td>
+</tr><tr><td style="text-align:right;font-size:115%;padding-top: 0.6em;padding:2px; margin:0px; line-height:normal; font-size:100%; height:auto;"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:VG_Industry" title="Template:VG Industry"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:VG_Industry" title="Template talk:VG Industry"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:VG_Industry&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+<p><b>Video game design</b> is the process of designing the content and rules of a <a href="/wiki/Video_game" title="Video game">video game</a> in the <a href="/wiki/Game_development#Pre-production" class="mw-redirect" title="Game development">pre-production stage</a><sup id="cite_ref-1" class="reference"><a href="#cite_note-1">&#91;1&#93;</a></sup> and designing the gameplay, environment, storyline, and characters in the <a href="/wiki/Video_game_development#Production" title="Video game development">production stage</a>. The designer of a game is very much like the director of a film; the designer is the visionary of the game and controls the artistic and technical elements of the game in fulfillment of their vision.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup> Video game design requires artistic and technical competence as well as writing skills.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup> As the industry has aged and embraced alternative production methodologies such as agile, the role of a principal game designer has begun to separate - some studios emphasising the auteur model while others emphasising a more team oriented model. Within the <a href="/wiki/Video_game_industry" title="Video game industry">video game industry</a>, video game design is usually just referred to as "<a href="/wiki/Game_design" title="Game design">game design</a>", which is a more general term elsewhere.
+</p><p>Video game programmers have also sometimes comprised the entire design team. This is the case of such noted designers as <a href="/wiki/Sid_Meier" title="Sid Meier">Sid Meier</a>, <a href="/wiki/John_Romero" title="John Romero">John Romero</a>, <a href="/wiki/Chris_Sawyer" title="Chris Sawyer">Chris Sawyer</a> and <a href="/wiki/Will_Wright_(game_designer)" title="Will Wright (game designer)">Will Wright</a>. A notable exception to this policy was <a href="/wiki/Coleco" title="Coleco">Coleco</a>, which from its very start separated the function of design and programming.
+</p><p>As games became more complex and <a href="/wiki/Home_computer" title="Home computer">computers</a> and <a href="/wiki/Video_game_console" title="Video game console">consoles</a> became more powerful, the job of the game designer became separate from the lead programmer. Soon game complexity demanded team members focused on game design. Many early veterans chose the game design path eschewing programming and delegating those tasks to others.
+</p><p>With very complex games, such as <a href="/wiki/MMORPG" class="mw-redirect" title="MMORPG">MMORPGs</a>, or a big budget action or sports title, designers may number in the dozens. In these cases, there are generally one or two principal designers and many junior designers who specify subsets or subsystems of the game. In larger companies like <a href="/wiki/Electronic_Arts" title="Electronic Arts">Electronic Arts</a>, each aspect of the game (control, level design) may have a separate producer, lead designer and several general designers. They may also come up with a plot for the game.
+</p>
+<div id="toc" class="toc"><input type="checkbox" role="button" id="toctogglecheckbox" class="toctogglecheckbox" style="display:none" /><div class="toctitle" lang="en" dir="ltr"><h2>Contents</h2><span class="toctogglespan"><label class="toctogglelabel" for="toctogglecheckbox"></label></span></div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Game_designer"><span class="tocnumber">2</span> <span class="toctext">Game designer</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Compensation"><span class="tocnumber">2.1</span> <span class="toctext">Compensation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Disciplines"><span class="tocnumber">3</span> <span class="toctext">Disciplines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#World_design"><span class="tocnumber">3.1</span> <span class="toctext">World design</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#System_design"><span class="tocnumber">3.2</span> <span class="toctext">System design</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Content_design"><span class="tocnumber">3.3</span> <span class="toctext">Content design</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Game_writing"><span class="tocnumber">3.4</span> <span class="toctext">Game writing</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Level_design"><span class="tocnumber">3.5</span> <span class="toctext">Level design</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#User_interface_design"><span class="tocnumber">3.6</span> <span class="toctext">User interface design</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Audio_design"><span class="tocnumber">3.7</span> <span class="toctext">Audio design</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Game_feel"><span class="tocnumber">3.8</span> <span class="toctext">Game feel</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#Game_elements"><span class="tocnumber">4</span> <span class="toctext">Game elements</span></a>
+<ul>
+<li class="toclevel-2 tocsection-14"><a href="#Narrative"><span class="tocnumber">4.1</span> <span class="toctext">Narrative</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Gameplay"><span class="tocnumber">4.2</span> <span class="toctext">Gameplay</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#Design_process"><span class="tocnumber">5</span> <span class="toctext">Design process</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="note" class="hatnote navigation-not-searchable">See also: <a href="/wiki/Game_design" title="Game design">Game design</a></div>
+<p>Video game design starts with an idea,<sup id="cite_ref-Bates3_4-0" class="reference"><a href="#cite_note-Bates3-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup><sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup><sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup> often a modification on an existing concept.<sup id="cite_ref-Bates3_4-1" class="reference"><a href="#cite_note-Bates3-4">&#91;4&#93;</a></sup><sup id="cite_ref-8" class="reference"><a href="#cite_note-8">&#91;8&#93;</a></sup> The game idea may fall within one or several <a href="/wiki/Game_genre" class="mw-redirect" title="Game genre">genres</a>. Designers often experiment with mixing genres.<sup id="cite_ref-9" class="reference"><a href="#cite_note-9">&#91;9&#93;</a></sup><sup id="cite_ref-10" class="reference"><a href="#cite_note-10">&#91;10&#93;</a></sup> The game designer usually produces an initial game proposal document containing the concept, gameplay, feature list, setting and story, target audience, requirements and schedule, staff and budget estimates.<sup id="cite_ref-11" class="reference"><a href="#cite_note-11">&#91;11&#93;</a></sup>
+</p><p>Many decisions are made during the course of a game's development about the game's design; it is the responsibility of the designer to decide which elements will be implemented, based on, for example, consistency with the game's vision, budget or hardware limitations.<sup id="cite_ref-12" class="reference"><a href="#cite_note-12">&#91;12&#93;</a></sup> Design changes may have a significant positive or negative impact on required resources.<sup id="cite_ref-13" class="reference"><a href="#cite_note-13">&#91;13&#93;</a></sup>
+</p><p>The designer may use <a href="/wiki/Scripting_language" title="Scripting language">scripting languages</a> to implement and preview design ideas without necessarily modifying the game's <a href="/wiki/Codebase" title="Codebase">codebase</a>.<sup id="cite_ref-14" class="reference"><a href="#cite_note-14">&#91;14&#93;</a></sup><sup id="cite_ref-15" class="reference"><a href="#cite_note-15">&#91;15&#93;</a></sup>
+</p><p>A game designer often plays video games and demos to follow the game market development.<sup id="cite_ref-16" class="reference"><a href="#cite_note-16">&#91;16&#93;</a></sup>
+</p><p>It is common for the game designer's name to misleadingly be given an undue amount of association to the game, neglecting the rest of the development team.<sup id="cite_ref-Bates_2004,_p._162_17-0" class="reference"><a href="#cite_note-Bates_2004,_p._162-17">&#91;17&#93;</a></sup>
+</p><p>Funding game publishers must be taken into account, who may have specific expectations from a game<sup id="cite_ref-18" class="reference"><a href="#cite_note-18">&#91;18&#93;</a></sup> as most video games are <i>market-driven</i> — developed to sell for profit.<sup id="cite_ref-19" class="reference"><a href="#cite_note-19">&#91;19&#93;</a></sup> However, if financial issues do not influence designer's decisions, the game becomes <i>design-</i> or <i>designer-driven</i>; few games are designed this way because of lack of funding.<sup id="cite_ref-20" class="reference"><a href="#cite_note-20">&#91;20&#93;</a></sup> Alternatively, a game may be <i>technology-driven</i>, such as <a href="/wiki/Quake_(video_game)" title="Quake (video game)">Quake</a> (1996),<sup id="cite_ref-AdRol51_21-0" class="reference"><a href="#cite_note-AdRol51-21">&#91;21&#93;</a></sup> to show off a particular hardware achievement or to market the <a href="/wiki/Game_engine" title="Game engine">game engine</a>.<sup id="cite_ref-AdRol51_21-1" class="reference"><a href="#cite_note-AdRol51-21">&#91;21&#93;</a></sup> Finally, a game may be <i>art-driven</i>, such as <i><a href="/wiki/Myst" title="Myst">Myst</a></i> (1993),<sup id="cite_ref-AdRol52_22-0" class="reference"><a href="#cite_note-AdRol52-22">&#91;22&#93;</a></sup> mainly to show off impressive visuals designed by artists.<sup id="cite_ref-AdRol52_22-1" class="reference"><a href="#cite_note-AdRol52-22">&#91;22&#93;</a></sup>
+</p><p>In <i>Rules of Play</i> (2004), Katie Salen and Eric Zimmermann write:
+</p>
+<table class="cquote pullquote" role="presentation" style="margin:auto; border-collapse: collapse; border: none; background-color: transparent; width: auto;">
+<tbody><tr>
+<td style="width: 20px; vertical-align: top; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: left; padding: 10px 10px;">“
+</td>
+<td style="vertical-align: top; border: none; padding: 4px 10px;">A game designer is a particular kind of designer, much like a graphic designer, industrial designer, or architect.  A game designer is not necessarily a programmer, visual designer, or project manager, although sometimes he or she can also play these roles in the creation of a game.  A game designer might work alone or as part of a larger team. A game designer might create card games, social games, video games, or any other kind of game. The focus of a game designer is designing game play, conceiving and designing rules and structures that result in an experience for players.
+<p>Thus game design, as a discipline, requires a focus on games in and of themselves. Rather than placing games in the service of another field such as sociology, literary criticism, or computer science, our aim is to study games within their own disciplinary space. Because game design is an emerging discipline, we often borrow from other areas of knowledge — from mathematics and cognitive science; from semiotics and cultural studies. We may not borrow in the most orthodox manner, but we do so in the service of helping to establish a field of game design proper.
+</p>
+</td>
+<td style="width: 20px; vertical-align: bottom; border: none; color: #B2B7F2; font-size: 40px; font-family: &#39;Times New Roman&#39;, Times, serif; font-weight: bold; line-height: .6em; text-align: right; padding: 10px 10px;">”
+</td></tr>
+
+</tbody></table>
+<h2><span class="mw-headline" id="Game_designer">Game designer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=2" title="Edit section: Game designer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A game designer is a person who designs <a href="/wiki/Gameplay" title="Gameplay">gameplay</a>, conceiving and designing the rules and structure of a <a href="/wiki/Game" title="Game">game</a>.<sup id="cite_ref-23" class="reference"><a href="#cite_note-23">&#91;23&#93;</a></sup><sup id="cite_ref-24" class="reference"><a href="#cite_note-24">&#91;24&#93;</a></sup><sup id="cite_ref-25" class="reference"><a href="#cite_note-25">&#91;25&#93;</a></sup> Many designers start their career in testing departments, other roles in game development or in classroom conditions,<sup id="cite_ref-26" class="reference"><a href="#cite_note-26">&#91;26&#93;</a></sup> where mistakes by others can be seen first-hand.<sup id="cite_ref-27" class="reference"><a href="#cite_note-27">&#91;27&#93;</a></sup>
+</p>
+<ul><li><b>Lead designer</b> coordinates the work of other designers and is the main visionary of the game.<sup id="cite_ref-28" class="reference"><a href="#cite_note-28">&#91;28&#93;</a></sup><sup id="cite_ref-Bethke40_29-0" class="reference"><a href="#cite_note-Bethke40-29">&#91;29&#93;</a></sup> Lead designer ensures team communication, makes large design decisions, and presents design outside of the team.<sup id="cite_ref-30" class="reference"><a href="#cite_note-30">&#91;30&#93;</a></sup> Often the lead designer is technically and artistically astute.<sup id="cite_ref-31" class="reference"><a href="#cite_note-31">&#91;31&#93;</a></sup> Keeping well-presented documentation also falls within the lead designer responsibilities.<sup id="cite_ref-32" class="reference"><a href="#cite_note-32">&#91;32&#93;</a></sup> Lead designer may be the founder of a game development company or a promoted employee.</li>
+<li><b><a href="/wiki/Game_mechanics" title="Game mechanics">Game mechanics</a> designer</b> or <b>systems designer</b> designs and <a href="/wiki/Game_balance" title="Game balance">balances</a> the game's rules.<sup id="cite_ref-Bethke40_29-1" class="reference"><a href="#cite_note-Bethke40-29">&#91;29&#93;</a></sup></li>
+<li><b><a href="/wiki/Level_designer" class="mw-redirect" title="Level designer">Level designer</a></b> or <b>environment designer</b> is a position becoming prominent in the recent years.<sup id="cite_ref-Bates_2004,_p._162_17-1" class="reference"><a href="#cite_note-Bates_2004,_p._162-17">&#91;17&#93;</a></sup> Level designer is the person responsible for creating game environment, <a href="/wiki/Level_(video_gaming)" title="Level (video gaming)">levels</a>, and missions.<sup id="cite_ref-MoNov76_33-0" class="reference"><a href="#cite_note-MoNov76-33">&#91;33&#93;</a></sup><sup id="cite_ref-ShahArt1_34-0" class="reference"><a href="#cite_note-ShahArt1-34">&#91;34&#93;</a></sup><sup id="cite_ref-Oxland296297_35-0" class="reference"><a href="#cite_note-Oxland296297-35">&#91;35&#93;</a></sup><sup id="cite_ref-36" class="reference"><a href="#cite_note-36">&#91;36&#93;</a></sup></li></ul>
+<h3><span class="mw-headline" id="Compensation">Compensation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=3" title="Edit section: Compensation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In 2010, a game designer with more than six years of experience earned an average of <a href="/wiki/United_States_dollar" title="United States dollar">US$</a>65,000 (GBP <span style="white-space: nowrap">GB£44,761.22</span>), $54,000 (GBP <b>£</b>37,186.24) with three to six years of experience and $44,000 (GBP  <b>£</b>30,299.90) with less than 3 years of experience. Lead designers earned $75,000 (GBP <b>£</b>51,647.56)  with three to six years of experience and $95,000(GBP <b>£</b>65,420.24) with more than six years of experience.<sup id="cite_ref-37" class="reference"><a href="#cite_note-37">&#91;37&#93;</a></sup> In 2013, a game designer with less than 3 years of experience earned, on average, $55,000 (GBP <b>£</b>37,874.88). A game designer with more than 6 years of experience made, on average, $105,000 (GBP <b>£</b>72,306.58). The average salary of these designers varies depending on their region.<sup id="cite_ref-38" class="reference"><a href="#cite_note-38">&#91;38&#93;</a></sup> As of 2015 the salary of experienced workers has shifted to approximately $87,000 USD (GBP <b>£</b>59,911.17) <sup id="cite_ref-39" class="reference"><a href="#cite_note-39">&#91;39&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Disciplines">Disciplines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=4" title="Edit section: Disciplines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="World_design">World design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=5" title="Edit section: World design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>World design is the creation of a backstory, setting, and theme for the game; often done by a lead designer. <sup id="cite_ref-BrSch5_40-0" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup> World design can also be the creation of a universe or a map, as well as topics or areas that are likely to be pursued by the player. It is a map referenced for creation of everything as it shows where it is and allows for the most logistical design in any given game.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="System_design">System design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=6" title="Edit section: System design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>System design is the creation of game rules and underlying mathematical patterns.<sup id="cite_ref-BrSch5_40-1" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Content_design">Content design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=7" title="Edit section: Content design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Content design is the creation of characters, items, puzzles, and missions.<sup id="cite_ref-BrSch5_40-2" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup>
+</p><p>A secondary definition of Content design is the creation of any aspect of the game that is not required for the game to function properly and meet the <a href="/wiki/Minimum_viable_product" title="Minimum viable product">minimum viable product</a> standard. In essence, content is the complexity added to a minimum viable product to increase its value. An example of this is the item list from Final Fantasy. None of the items are necessary for the game to function, but they add value and complexity to the game as a whole.
+</p>
+<h3><span class="mw-headline" id="Game_writing">Game writing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=8" title="Edit section: Game writing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Video_game_writing" title="Video game writing">Video game writing</a></div>
+<p>Game writing involves writing dialogue, text, and story.<sup id="cite_ref-BrSch5_40-3" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup>
+</p><p>Writing in games also includes the elements in which the literature is presented. Voice acting, text, and music are all elements of game writing.
+</p>
+<h3><span class="mw-headline" id="Level_design">Level design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=9" title="Edit section: Level design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Main article: <a href="/wiki/Level_design" title="Level design">Level design</a></div>
+<p>Level design is the construction of world levels and its features.<sup id="cite_ref-MoNov76_33-1" class="reference"><a href="#cite_note-MoNov76-33">&#91;33&#93;</a></sup><sup id="cite_ref-ShahArt1_34-1" class="reference"><a href="#cite_note-ShahArt1-34">&#91;34&#93;</a></sup><sup id="cite_ref-Oxland296297_35-1" class="reference"><a href="#cite_note-Oxland296297-35">&#91;35&#93;</a></sup><sup id="cite_ref-BrSch5_40-4" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup>
+</p><p>Level design makes use of many different fields to create a game world. Lighting, space, framing, color and contrast are used to draw a player's attention. A designer can then use these elements to guide or direct the player in a specific direction through the game world, or mislead them
+</p>
+<h3><span class="mw-headline" id="User_interface_design">User interface design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=10" title="Edit section: User interface design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>User interface (UI) design deals with the construction the user interactions and feedback interface, like <a href="/wiki/Menu_(computing)" title="Menu (computing)">menus</a> or <a href="/wiki/HUD_(video_gaming)" class="mw-redirect" title="HUD (video gaming)">heads-up displays</a>.<sup id="cite_ref-BrSch5_40-5" class="reference"><a href="#cite_note-BrSch5-40">&#91;40&#93;</a></sup>
+</p><p>The user interface also incorporates game mechanics design. Deciding how much information to give the player and in what way allows the designer to inform the player about the world, or perhaps leave them uninformed. Another aspect to consider is the method of input a game will use and deciding to what degree a player can interact with a game with these inputs. These choices have a profound effect on the mood of the game, as it directly affects the player in both noticeable and subtle ways.
+</p><p>User interface design in video games has unique goals. A conscious decision has to be made regarding the amount of information to relay to the player. However, the UI in games do not have to be absolutely streamlined. Players expect challenges and are willing to accept them as long as the experience is sufficiently rewarding. By the same token, navigating or interaction with a game's UI can be satisfying without the need to be effortless.<sup id="cite_ref-41" class="reference"><a href="#cite_note-41">&#91;41&#93;</a></sup>
+</p>
+<h3><span class="mw-headline" id="Audio_design">Audio design</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=11" title="Edit section: Audio design">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Audio design involves the process of creating or incorporating all of the sounds that are in the game, like <a href="/wiki/Sound_effects" class="mw-redirect" title="Sound effects">sound effects</a> or <a href="/wiki/Voice_acting" title="Voice acting">voice acting</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2012)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Game_feel">Game feel</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=12" title="Edit section: Game feel">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The disciplines listed above all combine to form the discipline of <a href="/wiki/Game_feel" title="Game feel">game feel</a>.
+</p>
+<h2><span class="mw-headline" id="Game_elements">Game elements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=13" title="Edit section: Game elements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Narrative">Narrative</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=14" title="Edit section: Narrative">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Narrative_designer" title="Narrative designer">Narrative designer</a></div>
+<p>Numerous games have narrative elements which give a context to an event in a game, making the activity of playing it less abstract and enhance its entertainment value, although narrative elements are not always clearly present or present at all. The original version of <i><a href="/wiki/Tetris" title="Tetris">Tetris</a></i> is an example of a game apparently without narrative. Some<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (March 2010)">who?</span></a></i>&#93;</sup> <a href="/wiki/Narratology" title="Narratology">narratologists</a> claim that all games have a narrative element. Some go further and claim that games are essentially a form of narrative. Narrative in practice can be the starting point for the development of a game, or can be added to a design that started as a set of game mechanics.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2011)">citation needed</span></a></i>&#93;</sup>
+</p>
+<h3><span class="mw-headline" id="Gameplay">Gameplay</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=15" title="Edit section: Gameplay">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div role="note" class="hatnote navigation-not-searchable">Further information: <a href="/wiki/Gameplay" title="Gameplay">Gameplay</a></div>
+<p>Gameplay is the interactive aspects of video game design. Gameplay involves player interaction with the game, usually for the purpose of entertainment, education or training.
+</p>
+<h2><span class="mw-headline" id="Design_process">Design process</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=16" title="Edit section: Design process">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The design process varies from designer to designer and companies have different formal procedures and philosophies.<sup id="cite_ref-42" class="reference"><a href="#cite_note-42">&#91;42&#93;</a></sup>
+</p><p>The typical "textbook" approach is to start with a concept or a previously completed game and from there create a <a href="/wiki/Game_design_document" title="Game design document">game design document</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>&#93;</sup> This document is intended to map out the complete game design and acts as a central resource for the development team. This document should ideally be updated as the game evolves throughout the production process.
+</p><p>Designers are frequently expected to adapt to multiple roles of widely varying nature: For example, concept prototyping can be assisted with the use of pre-existing engines and tools like <a href="/wiki/GameMaker_Studio" title="GameMaker Studio">GameMaker Studio</a>, <a href="/wiki/Unity_(game_engine)" title="Unity (game engine)">Unity</a>, <a href="/wiki/Godot_(game_engine)" title="Godot (game engine)">Godot</a>, or <a href="/wiki/Construct_(game_engine)" title="Construct (game engine)">Construct</a>. Level designs might be done first on paper and again for the game engine using a 3D modelling tool. Scripting languages are used for many elements—AI, cutscenes, GUI, environmental processes, and many other behaviours and effects—that designers would want to tune without a programmer's assistance. Setting, story and character concepts require a research and writing process. Designers may oversee focus testing, write up art and audio asset lists, and write game documentation. In addition to the skillset, designers are ideally clear communicators with attention to detail and ability to delegate responsibilities appropriately.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2010)">citation needed</span></a></i>&#93;</sup>
+</p><p>Design approval<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="first mention (March 2010)">clarification needed</span></a></i>&#93;</sup> in the commercial setting is a continuous process from the earliest stages until the game ships.
+</p><p>When a new project is being discussed (either internally, or as a result of dialogue with potential publishers), the designer may be asked to write a sell-sheet of short concepts, followed by a one or two-page pitch of specific features, audience, platform, and other details. Designers will first meet with leads in other departments to establish agreement on the feasibility of the game given the available time, scope, and budget. If the pitch is approved, early milestones focus on the creation of a fleshed-out design document. Some developers advocate a prototyping phase before the design document is written to experiment with new ideas before they become part of the design.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (March 2010)">original research?</span></a></i>&#93;</sup>
+</p><p>As production progresses, designers are asked to make frequent decisions about elements missing from the design. The consequences of these decisions are hard to predict and often can only be determined after creating the full implementation. These are referred to as the <i>unknowns</i> of the design, and the faster they are uncovered, the less risk the team faces later in the production process. Outside factors such as budget cuts or changes in milestone expectations also result in cuts to the design, and while overly large cuts can take the heart out of a project, cuts can also result in a streamlined design with only the essential features, polished well.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (March 2010)">original research?</span></a></i>&#93;</sup>
+</p><p>Towards the end of production, designers take the brunt of responsibility for ensuring that the gameplay remains at a uniform standard throughout the game, even in very long games. This task is made more difficult under "crunch" conditions, as the entire team may begin to lose sight of the core gameplay once pressured to hit a date for a finished and bug-free game.<sup class="noprint Inline-Template" style="white-space:nowrap;">&#91;<i><a href="/wiki/Wikipedia:No_original_research" title="Wikipedia:No original research"><span title="The material near this tag possibly contains original research. (March 2010)">original research?</span></a></i>&#93;</sup>
+</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div role="navigation" aria-label="Portals" class="noprint portal plainlist tright" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png" width="32" height="28" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/48px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/64px-Portal-puzzle.svg.png 2x" data-file-width="32" data-file-height="28" /></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Game_development" class="mw-redirect" title="Portal:Game development">Game development portal</a></span></li></ul></div>
+<ul><li><a href="/wiki/List_of_video_game_designers" title="List of video game designers">List of video game designers</a></li>
+<li><a href="/wiki/List_of_video_gaming_topics" class="mw-redirect" title="List of video gaming topics">List of video gaming topics</a></li>
+<li><a href="/wiki/List_of_books_about_video_games" title="List of books about video games">List of books about video games</a></li>
+<li><a href="/wiki/First_playable_demo" class="mw-redirect" title="First playable demo">First playable demo</a></li>
+<li><a href="/wiki/Educational_video_game#Design" title="Educational video game">Educational game design</a></li></ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=18" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a href="#BrSch">Brathwaite, Schreiber 2009</a>, p. 2</span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a rel="nofollow" class="external text" href="http://www.siam.org/news/news.php?id=1699">The Making of a Great Modern Game Designer</a> Glassner, Andrew. <i>Society for Industrial and Applied Mathematics</i>.</span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, pp. 20, 22-25</span>
+</li>
+<li id="cite_note-Bates3-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bates3_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bates3_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 3</span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, pp. 29-30</span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a href="#Bethke">Bethke 2003</a>, p. 75</span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a href="#Chand">Chandler 2009</a>, p. 3</span>
+</li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, pp. 31-33</span>
+</li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 6</span>
+</li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, p. 25</span>
+</li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, pp. 14-16</span>
+</li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 160</span>
+</li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, pp. 160-161</span>
+</li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 161</span>
+</li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 297-298</span>
+</li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, pp. 161-162</span>
+</li>
+<li id="cite_note-Bates_2004,_p._162-17"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bates_2004,_p._162_17-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bates_2004,_p._162_17-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 162</span>
+</li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 12</span>
+</li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, pp. 47-48</span>
+</li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, pp. 48-49</span>
+</li>
+<li id="cite_note-AdRol51-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-AdRol51_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AdRol51_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, p. 51</span>
+</li>
+<li id="cite_note-AdRol52-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-AdRol52_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AdRol52_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#AdRol">Adams, Rollings 2003</a>, p. 52</span>
+</li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><a href="#SalZim">Salem, Zimmerman 2003</a></span>
+</li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, p. 292</span>
+</li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><a href="#MoNov">Moore, Novak 2010</a>, p. 74</span>
+</li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.nyfa.edu/game-design-school/">"Game Design School in New York &amp; Los Angeles - NYFA"</a>. <i>www.nyfa.edu</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.nyfa.edu&amp;rft.atitle=Game+Design+School+in+New+York+%26+Los+Angeles+-+NYFA&amp;rft_id=http%3A%2F%2Fwww.nyfa.edu%2Fgame-design-school%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 179</span>
+</li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 292-296</span>
+</li>
+<li id="cite_note-Bethke40-29"><span class="mw-cite-backlink">^ <a href="#cite_ref-Bethke40_29-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Bethke40_29-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#Bethke">Bethke 2003</a>, p. 40</span>
+</li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 293-294</span>
+</li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 294, 295</span>
+</li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 295-296</span>
+</li>
+<li id="cite_note-MoNov76-33"><span class="mw-cite-backlink">^ <a href="#cite_ref-MoNov76_33-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MoNov76_33-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#MoNov">Moore, Novak 2010</a>, p. 76</span>
+</li>
+<li id="cite_note-ShahArt1-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-ShahArt1_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ShahArt1_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#ShahArt">Shahrani 2006</a>, part I</span>
+</li>
+<li id="cite_note-Oxland296297-35"><span class="mw-cite-backlink">^ <a href="#cite_ref-Oxland296297_35-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Oxland296297_35-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#Oxland">Oxland 2004</a>, pp. 296-297</span>
+</li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a href="#Bethke">Bethke 2003</a>, pp. 40-41</span>
+</li>
+<li id="cite_note-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-37">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fleming, Jeffrey (April 2008). "9th Annual Salary Survey". <i><a href="/wiki/Game_Developer_(magazine)" title="Game Developer (magazine)">Game Developer</a></i>. <a href="/wiki/United_Business_Media" class="mw-redirect" title="United Business Media">United Business Media</a>. <b>17</b> (4): 8.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=article&amp;rft.jtitle=Game+Developer&amp;rft.atitle=9th+Annual+Salary+Survey&amp;rft.volume=17&amp;rft.issue=4&amp;rft.pages=8&amp;rft.date=2008-04&amp;rft.aulast=Fleming&amp;rft.aufirst=Jeffrey&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-38">^</a></b></span> <span class="reference-text">"<a rel="nofollow" class="external text" href="http://www.bigfishgames.com/blog/video-gaming-industry-numbers-by-region/">Top Gaming Studios, Schools &amp; Salaries</a>". <a rel="nofollow" class="external text" href="http://www.bigfishgames.com/">Big Fish Games</a>.</span>
+</li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="http://www.indeed.com/salary/Game-Designer.html">"Game Designer Salaries in the United States - Indeed.com"</a>. <i>www.indeed.com</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=www.indeed.com&amp;rft.atitle=Game+Designer+Salaries+in+the+United+States+-+Indeed.com&amp;rft_id=http%3A%2F%2Fwww.indeed.com%2Fsalary%2FGame-Designer.html&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-BrSch5-40"><span class="mw-cite-backlink">^ <a href="#cite_ref-BrSch5_40-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BrSch5_40-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BrSch5_40-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BrSch5_40-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BrSch5_40-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BrSch5_40-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><a href="#BrSch">Brathwaite, Schreiber 2009</a>, p. 5</span>
+</li>
+<li id="cite_note-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-41">^</a></b></span> <span class="reference-text"><cite class="citation web">G, Luis Miguel Bello (2017-09-25). <a rel="nofollow" class="external text" href="https://medium.com/@ludwidium/design-principles-face-off-ux-versus-game-design-526e99ad41ab">"Design principles face-off: UX versus Game Design"</a>. <i>Luis Miguel Bello G</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-12-04</span></span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Luis+Miguel+Bello+G.&amp;rft.atitle=Design+principles+face-off%3A+UX+versus+Game+Design&amp;rft.date=2017-09-25&amp;rft.aulast=G&amp;rft.aufirst=Luis+Miguel+Bello&amp;rft_id=https%3A%2F%2Fmedium.com%2F%40ludwidium%2Fdesign-principles-face-off-ux-versus-game-design-526e99ad41ab&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><a href="#Bates">Bates 2004</a>, p. 151</span>
+</li>
+</ol></div>
+<ul><li><cite id="AdRol" class="citation book">Adams, Ernest; Rollings, Andrew (2003). <i>Andrew Rollings and Ernest Adams on game design</i>. New Riders Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59273-001-9" title="Special:BookSources/1-59273-001-9">1-59273-001-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Andrew+Rollings+and+Ernest+Adams+on+game+design&amp;rft.pub=New+Riders+Publishing&amp;rft.date=2003&amp;rft.isbn=1-59273-001-9&amp;rft.aulast=Adams&amp;rft.aufirst=Ernest&amp;rft.au=Rollings%2C+Andrew&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="Bates" class="citation book">Bates, Bob (2004). <i>Game Design</i> (2nd ed.). Thomson Course Technology. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-59200-493-8" title="Special:BookSources/1-59200-493-8">1-59200-493-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Game+Design&amp;rft.edition=2nd&amp;rft.pub=Thomson+Course+Technology&amp;rft.date=2004&amp;rft.isbn=1-59200-493-8&amp;rft.aulast=Bates&amp;rft.aufirst=Bob&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="Bethke" class="citation book">Bethke, Erik (2003). <i>Game development and production</i>. Texas: Wordware Publishing, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-55622-951-8" title="Special:BookSources/1-55622-951-8">1-55622-951-8</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Game+development+and+production&amp;rft.place=Texas&amp;rft.pub=Wordware+Publishing%2C+Inc.&amp;rft.date=2003&amp;rft.isbn=1-55622-951-8&amp;rft.aulast=Bethke&amp;rft.aufirst=Erik&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="BrSch" class="citation book">Brathwaite, Brenda; Schreiber, Ian (2009). <i>Challenges for Game Designers</i>. Charles River Media. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/1-58450-580-X" title="Special:BookSources/1-58450-580-X">1-58450-580-X</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Challenges+for+Game+Designers&amp;rft.pub=Charles+River+Media&amp;rft.date=2009&amp;rft.isbn=1-58450-580-X&amp;rft.aulast=Brathwaite&amp;rft.aufirst=Brenda&amp;rft.au=Schreiber%2C+Ian&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="MoNov" class="citation book">Moore, Michael E.; Novak, Jeannie (2010). <i>Game Industry Career Guide</i>. Delmar: Cengage Learning. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/978-1-4283-7647-2" title="Special:BookSources/978-1-4283-7647-2">978-1-4283-7647-2</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Game+Industry+Career+Guide&amp;rft.place=Delmar&amp;rft.pub=Cengage+Learning&amp;rft.date=2010&amp;rft.isbn=978-1-4283-7647-2&amp;rft.aulast=Moore&amp;rft.aufirst=Michael+E.&amp;rft.au=Novak%2C+Jeannie&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="Oxland" class="citation book">Oxland, Kevin (2004). <i>Gameplay and design</i>. Addison Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-321-20467-0" title="Special:BookSources/0-321-20467-0">0-321-20467-0</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Gameplay+and+design&amp;rft.pub=Addison+Wesley&amp;rft.date=2004&amp;rft.isbn=0-321-20467-0&amp;rft.aulast=Oxland&amp;rft.aufirst=Kevin&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="SalZim" class="citation book"><a href="/wiki/Katie_Salen" title="Katie Salen">Salen, Katie</a>; <a href="/wiki/Eric_Zimmerman" title="Eric Zimmerman">Zimmerman, Eric</a> (2003). <i><a href="/wiki/Rules_of_Play" title="Rules of Play">Rules of Play</a>: Game Design Fundamentals</i>. MIT Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a>&#160;<a href="/wiki/Special:BookSources/0-262-24045-9" title="Special:BookSources/0-262-24045-9">0-262-24045-9</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=book&amp;rft.btitle=Rules+of+Play%3A+Game+Design+Fundamentals&amp;rft.pub=MIT+Press&amp;rft.date=2003&amp;rft.isbn=0-262-24045-9&amp;rft.aulast=Salen&amp;rft.aufirst=Katie&amp;rft.au=Zimmerman%2C+Eric&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li>
+<li><cite id="ShahArt" class="citation web">Shahrani, Sam (April 25, 2006). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090422170131/http://gamasutra.com/features/20060425/shahrani_01.shtml">"Educational Feature: A History and Analysis of Level Design in 3D Computer Games"</a>. Archived from <a rel="nofollow" class="external text" href="http://www.gamasutra.com/features/20060425/shahrani_01.shtml">the original</a> on 2009-04-22<span class="reference-accessdate">. Retrieved <span class="nowrap">29 March</span> 2010</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Educational+Feature%3A+A+History+and+Analysis+of+Level+Design+in+3D+Computer+Games&amp;rft.date=2006-04-25&amp;rft.aulast=Shahrani&amp;rft.aufirst=Sam&amp;rft_id=http%3A%2F%2Fwww.gamasutra.com%2Ffeatures%2F20060425%2Fshahrani_01.shtml&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVideo+game+design" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></li></ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Video_game_design&amp;action=edit&amp;section=19" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table role="presentation" class="mbox-small plainlinks sistersitebox" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tbody><tr>
+<td class="mbox-image"><img alt="" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/40px-Wikiversity-logo.svg.png" width="40" height="32" class="noviewer" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/60px-Wikiversity-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/91/Wikiversity-logo.svg/80px-Wikiversity-logo.svg.png 2x" data-file-width="1000" data-file-height="800" /></td>
+<td class="mbox-text plainlist">Wikiversity has learning resources about <i><b><a href="https://en.wikiversity.org/wiki/School:Game_design" class="extiw" title="v:School:Game design">School:Game design</a></b></i></td></tr></tbody></table>
+<ul><li>Game design veteran <a rel="nofollow" class="external text" href="https://web.archive.org/web/20071107062944/http://www.eurocom.co.uk/content/view/102/81/">Tom Sloper's game biz advice</a>, including lessons on game design</li>
+<li><a rel="nofollow" class="external text" href="http://queue.acm.org/detail.cfm?id=971590">ACM Queue article "Game Development: Harder Than You Think"</a> by Jonathan Blow</li>
+<li><a rel="nofollow" class="external text" href="https://www.amazon.com/dp/B0052QA5WU">The Art of Computer Game Design</a> by <a href="/wiki/Chris_Crawford_(game_designer)" title="Chris Crawford (game designer)">Chris Crawford</a></li>
+<li><a rel="nofollow" class="external text" href="https://curlie.org/Games/Video_Games/Game_Design">Game design</a> at <a href="/wiki/Curlie" title="Curlie">Curlie</a></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20071107062944/http://www.eurocom.co.uk/content/view/102/81/">Example Game Design Document</a> by Chris Taylor</li>
+<li><a rel="nofollow" class="external text" href="http://www.gamespot.com/features/so-you-wanna-be-a-game-designer-6129276/">"So You Wanna Be a Game Designer"</a> at <i><a href="/wiki/GameSpot" title="GameSpot">GameSpot</a></i></li>
+<li><a rel="nofollow" class="external text" href="https://web.archive.org/web/20080107182604/http://www.eurocom.co.uk/content/view/102/81/">The Designer</a> at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>&#32;(archived January 7, 2008) at <a href="/wiki/Eurocom" title="Eurocom">Eurocom</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.escapistmagazine.com/articles/view/issues/issue_273/8159-The-Philosophy-of-Game-Design-part-1">The Philosophy of Game Design (part 1)</a> at <a href="/wiki/The_Escapist_(website)" title="The Escapist (website)">The Escapist</a></li>
+<li><a rel="nofollow" class="external text" href="http://gdp2.tii.se/index.php/Category:Patterns">GDP2: Game Designs and Game Design Patterns collection</a> hosted by <a rel="nofollow" class="external text" href="http://www.tii.se/">Interactive Institute</a></li>
+<li><a rel="nofollow" class="external text" href="http://www.gamasutra.com/view/feature/129948/the_chemistry_of_game_design.php?print=1">The Chemistry Of Game Design</a> at <a href="/wiki/Gamasutra" title="Gamasutra">Gamasutra</a> - by Daniel Cook</li>
+<li><a rel="nofollow" class="external text" href="https://www.youtube.com/watch?v=qwPe3OHR04c">Daniel Cook: Game Design Theory I Wish I had Known When I Started</a> video from <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a rel="nofollow" class="external text" href="http://aeon.co/magazine/culture/welcome-to-the-scarcity-games/">Hunger games</a> (January 2015). "A new wave of videogames offers lessons in powerlessness, scarcity and inevitable failure. What makes them so compelling?" Will Wiles, <i><a href="/wiki/Aeon_(digital_magazine)" title="Aeon (digital magazine)">Aeon</a></i></li></ul>
+<div role="navigation" class="navbox" aria-labelledby="Design" style="padding:3px"><table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Design" title="Template:Design"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Design" title="Template talk:Design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Design" style="font-size:114%;margin:0 4em"><a href="/wiki/Design" title="Design">Design</a></div></th></tr><tr><td class="navbox-abovebelow hlist" colspan="2" style="background:lemonchiffon;"><div id="*_Outline&amp;#10;*_Portal&amp;#10;*_Designer">
+<ul><li><a href="/wiki/Outline_of_design" title="Outline of design">Outline</a></li>
+<li><a href="/wiki/Portal:Design" title="Portal:Design">Portal</a></li>
+<li><a href="/wiki/Designer" title="Designer">Designer</a></li></ul>
+</div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Disciplines" style="font-size:114%;margin:0 4em">Disciplines</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Communication_design" title="Communication design">Communication<br />design</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Advertising" title="Advertising">Advertising</a></li>
+<li><a href="/wiki/Book_design" title="Book design">Book design</a></li>
+<li><a href="/wiki/Corporate_design" title="Corporate design">Corporate design</a></li>
+<li><a href="/wiki/Exhibit_design" title="Exhibit design">Exhibit design</a></li>
+<li><a href="/wiki/Film_title_design" title="Film title design">Film title design</a></li>
+<li><a href="/wiki/Graphic_design" title="Graphic design">Graphic design</a>
+<ul><li><a href="/wiki/Motion_graphic_design" title="Motion graphic design">Motion</a></li>
+<li><a href="/wiki/Postage_stamp_design" title="Postage stamp design">Postage stamp design</a></li>
+<li><a href="/wiki/Print_design" title="Print design">Print design</a></li></ul></li>
+<li><a href="/wiki/Illustration" title="Illustration">Illustration</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Instructional_design" title="Instructional design">Instructional design</a></li>
+<li><a href="/wiki/News_design" title="News design">News design</a></li>
+<li><a href="/wiki/Photography" title="Photography">Photography</a></li>
+<li><a href="/wiki/Retail_design" title="Retail design">Retail design</a></li>
+<li><a href="/wiki/Signage" title="Signage">Signage</a>&#160;/&#32;<a href="/wiki/Traffic_sign_design" title="Traffic sign design">Traffic sign design</a></li>
+<li><a href="/wiki/Typography" title="Typography">Typography</a>&#160;/&#32;<a href="/wiki/Type_design" title="Type design">Type design</a></li>
+<li><a href="/wiki/Video_design" title="Video design">Video design</a></li>
+<li><a href="/wiki/Visual_merchandising" title="Visual merchandising">Visual merchandising</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Environmental_design" title="Environmental design">Environmental<br />design</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Architecture" title="Architecture">Architecture</a></li>
+<li><a href="/wiki/Architectural_lighting_design" title="Architectural lighting design">Architectural lighting design</a></li>
+<li><a href="/wiki/Building_design" title="Building design">Building design</a>
+<ul><li><a href="/wiki/Passive_solar_building_design" title="Passive solar building design">Passive solar</a></li></ul></li>
+<li><a href="/wiki/Ecological_design" title="Ecological design">Ecological design</a></li>
+<li><a href="/wiki/Environmental_impact_design" title="Environmental impact design">Environmental impact design</a></li>
+<li><a href="/wiki/Garden_design" title="Garden design">Garden design</a>
+<ul><li><a href="/wiki/Computer-aided_garden_design" title="Computer-aided garden design">Computer-aided</a></li></ul></li>
+<li><a href="/wiki/Healthy_community_design" title="Healthy community design">Healthy community design</a></li>
+<li><a href="/wiki/Hotel_design" title="Hotel design">Hotel design</a></li>
+<li><a href="/wiki/Interior_architecture" title="Interior architecture">Interior architecture</a></li>
+<li><a href="/wiki/Interior_design" title="Interior design">Interior design</a>
+<ul><li><a href="/wiki/Experiential_interior_design" title="Experiential interior design">EID</a></li></ul></li>
+<li><a href="/wiki/Keyline_design" title="Keyline design">Keyline design</a></li>
+<li><a href="/wiki/Landscape_architecture" title="Landscape architecture">Landscape architecture</a>
+<ul><li><a href="/wiki/Sustainable_landscape_architecture" title="Sustainable landscape architecture">Sustainable</a></li></ul></li>
+<li><a href="/wiki/Landscape_design" title="Landscape design">Landscape design</a></li>
+<li><a href="/wiki/Spatial_design" title="Spatial design">Spatial design</a></li>
+<li><a href="/wiki/Urban_design" title="Urban design">Urban design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Industrial_design" title="Industrial design">Industrial<br />design</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Automotive_design" title="Automotive design">Automotive design</a></li>
+<li><a href="/wiki/Automotive_suspension_design" title="Automotive suspension design">Automotive suspension design</a></li>
+<li><a href="/wiki/CMF_design" title="CMF design">CMF design</a></li>
+<li><a href="/wiki/Corrugated_box_design" title="Corrugated box design">Corrugated box design</a></li>
+<li><a href="/wiki/Electric_guitar_design" title="Electric guitar design">Electric guitar design</a></li>
+<li><a href="/wiki/Furniture" title="Furniture">Furniture design</a>
+<ul><li><a href="/wiki/Sustainable_furniture_design" title="Sustainable furniture design">Sustainable</a></li></ul></li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Motorcycle_design" title="Motorcycle design">Motorcycle design</a></li>
+<li><a href="/wiki/Packaging_and_labeling" title="Packaging and labeling">Packaging and labeling</a></li>
+<li><a href="/wiki/Photographic_lens_design" title="Photographic lens design">Photographic lens design</a></li>
+<li><a href="/wiki/Product_design" title="Product design">Product design</a></li>
+<li><a href="/wiki/Production_design" class="mw-redirect" title="Production design">Production design</a></li>
+<li><a href="/wiki/Sensory_design" title="Sensory design">Sensory design</a></li>
+<li><a href="/wiki/Service_design" title="Service design">Service design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Interaction_design" title="Interaction design">Interaction<br />design</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Experience_design" title="Experience design">Experience design</a>
+<ul><li><a href="/wiki/Employee_experience_design" title="Employee experience design">EED</a></li></ul></li>
+<li><a href="/wiki/Game_design" title="Game design">Game design</a>
+<ul><li><a href="/wiki/Level_design" title="Level design">Level design</a></li>
+<li><a class="mw-selflink selflink">Video game design</a></li></ul></li>
+<li><a href="/wiki/Hardware_interface_design" title="Hardware interface design">Hardware interface design</a></li>
+<li><a href="/wiki/Icon_design" title="Icon design">Icon design</a></li>
+<li><a href="/wiki/Immersive_design" title="Immersive design">Immersive design</a></li>
+<li><a href="/wiki/Information_design" title="Information design">Information design</a></li>
+<li><a href="/wiki/Sonic_interaction_design" title="Sonic interaction design">Sonic interaction design</a></li>
+<li><a href="/wiki/User_experience_design" title="User experience design">User experience design</a></li>
+<li><a href="/wiki/User_interface_design" title="User interface design">User interface design</a></li>
+<li><a href="/wiki/Web_design" title="Web design">Web design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Other<br /><a href="/wiki/Applied_arts" title="Applied arts">applied arts</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Public_art" title="Public art">Public art design</a></li>
+<li><a href="/wiki/Ceramic_art" title="Ceramic art">Ceramic</a>&#160;/&#32;<a href="/wiki/Glass_art" title="Glass art">glass design</a></li>
+<li><a href="/wiki/Fashion_design" title="Fashion design">Fashion design</a>
+<ul><li><a href="/wiki/Costume_design" title="Costume design">Costume design</a></li>
+<li><a href="/wiki/Jewelry_design" class="mw-redirect" title="Jewelry design">Jewelry design</a></li></ul></li>
+<li><a href="/wiki/Floral_design" title="Floral design">Floral design</a></li>
+<li><a href="/wiki/Game_art_design" title="Game art design">Game art design</a></li>
+<li><a href="/wiki/Property_designer" title="Property designer">Property design</a></li>
+<li><a href="/wiki/Scenic_design" title="Scenic design">Scenic design</a></li>
+<li><a href="/wiki/Sound_design" title="Sound design">Sound design</a></li>
+<li><a href="/wiki/Lighting_designer" title="Lighting designer">Stage/set lighting design</a></li>
+<li><a href="/wiki/Textile_design" title="Textile design">Textile design</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Other<br />design<br />&amp; <a href="/wiki/Engineering" title="Engineering">engineering</a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithm_design" class="mw-redirect" title="Algorithm design">Algorithm design</a></li>
+<li><a href="/wiki/Boiler_design" title="Boiler design">Boiler design</a></li>
+<li><a href="/wiki/Conceptual_design" title="Conceptual design">Conceptual design</a></li>
+<li><a href="/wiki/Database_design" title="Database design">Database design</a></li>
+<li><a href="/wiki/Drug_design" title="Drug design">Drug design</a></li>
+<li><a href="/wiki/Electrical_system_design" title="Electrical system design">Electrical system design</a></li>
+<li><a href="/wiki/Design_of_experiments" title="Design of experiments">Experimental design</a></li>
+<li><a href="/wiki/Filter_design" title="Filter design">Filter design</a></li>
+<li><a href="/wiki/Job_design" title="Job design">Job design</a></li>
+<li><a href="/wiki/Integrated_circuit_design" title="Integrated circuit design">Integrated circuit design</a>
+<ul><li><a href="/wiki/Circuit_design" title="Circuit design">Circuit design</a></li>
+<li><a href="/wiki/Physical_design_(electronics)" title="Physical design (electronics)">Physical design</a></li>
+<li><a href="/wiki/Power_network_design_(IC)" title="Power network design (IC)">Power network design</a></li></ul></li>
+<li><a href="/wiki/Mechanism_design" title="Mechanism design">Mechanism design</a></li>
+<li><a href="/wiki/Nuclear_weapon_design" title="Nuclear weapon design">Nuclear weapon design</a></li>
+<li><a href="/wiki/Nucleic_acid_design" title="Nucleic acid design">Nucleic acid design</a></li>
+<li><a href="/wiki/Organization_design" class="mw-redirect" title="Organization design">Organization design</a></li>
+<li><a href="/wiki/Process_design" title="Process design">Process design</a></li>
+<li><a href="/wiki/Processor_design" title="Processor design">Processor design</a></li>
+<li><a href="/wiki/Protein_design" title="Protein design">Protein design</a></li>
+<li><a href="/wiki/Research_design" title="Research design">Research design</a></li>
+<li><a href="/wiki/Social_design" title="Social design">Social design</a></li>
+<li><a href="/wiki/Software_design" title="Software design">Software design</a></li>
+<li><a href="/wiki/Spacecraft_design" title="Spacecraft design">Spacecraft design</a></li>
+<li><a href="/wiki/Strategic_design" title="Strategic design">Strategic design</a></li>
+<li><a href="/wiki/Systems_design" title="Systems design">Systems design</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Approaches" style="font-size:114%;margin:0 4em">Approaches</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Activity-centered_design" title="Activity-centered design">Activity-centered</a></li>
+<li><a href="/wiki/Adaptive_web_design" title="Adaptive web design">Adaptive web</a></li>
+<li><a href="/wiki/Affective_design" title="Affective design">Affective</a></li>
+<li><a href="/wiki/Brainstorming" title="Brainstorming">Brainstorming</a></li>
+<li><a href="/wiki/Design_by_committee" title="Design by committee">By committee</a></li>
+<li><a href="/wiki/Design_by_contract" title="Design by contract">By contract</a></li>
+<li><a href="/wiki/C-K_theory" title="C-K theory">C-K theory</a></li>
+<li><a href="/wiki/Design_closure" title="Design closure">Closure</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Co-design</a></li>
+<li><a href="/w/index.php?title=Concept-oriented_design&amp;action=edit&amp;redlink=1" class="new" title="Concept-oriented design (page does not exist)">Concept-oriented</a></li>
+<li><a href="/wiki/Configuration_design" title="Configuration design">Configuration</a></li>
+<li><a href="/wiki/Contextual_design" title="Contextual design">Contextual</a></li>
+<li><a href="/wiki/Continuous_design" title="Continuous design">Continuous</a></li>
+<li><a href="/wiki/Cradle-to-cradle_design" title="Cradle-to-cradle design">Cradle-to-cradle</a></li>
+<li><a href="/wiki/Creative_problem-solving" title="Creative problem-solving">Creative problem-solving</a></li>
+<li><a href="/wiki/Creativity_techniques" title="Creativity techniques">Creativity techniques</a></li>
+<li><a href="/wiki/Critical_design" title="Critical design">Critical</a>
+<ul><li><a href="/wiki/Design_fiction" title="Design fiction">Design fiction</a></li></ul></li>
+<li><a href="/wiki/Defensive_design" title="Defensive design">Defensive</a></li>
+<li><a href="/wiki/Design%E2%80%93bid%E2%80%93build" title="Design–bid–build">Design–bid–build</a></li>
+<li><a href="/wiki/Design%E2%80%93build" title="Design–build">Design–build</a>
+<ul><li><a href="/wiki/Architect-led_design%E2%80%93build" class="mw-redirect" title="Architect-led design–build">architect-led</a></li></ul></li>
+<li><a href="/wiki/Domain-driven_design" title="Domain-driven design">Domain-driven</a></li>
+<li><a href="/wiki/Ecodesign" title="Ecodesign">Ecodesign</a></li>
+<li><a href="/wiki/Energy_neutral_design" title="Energy neutral design">Energy neutral</a></li>
+<li><a href="/wiki/Engineering_design_process" title="Engineering design process">Engineering design process</a>
+<ul><li><a href="/wiki/Probabilistic_design" title="Probabilistic design">Probabilistic design</a></li></ul></li>
+<li><a href="/wiki/Error-tolerant_design" title="Error-tolerant design">Error-tolerant</a></li>
+<li><a href="/wiki/Fault-tolerant_design" class="mw-redirect" title="Fault-tolerant design">Fault-tolerant</a></li>
+<li><a href="/wiki/Framework-oriented_design" title="Framework-oriented design">Framework-oriented</a></li>
+<li><a href="/wiki/Design_for_assembly" title="Design for assembly">For assembly</a></li>
+<li><a href="/wiki/Design_for_behaviour_change" title="Design for behaviour change">For behaviour change</a></li>
+<li><a href="/wiki/Design_for_manufacturability" title="Design for manufacturability">For manufacturability</a></li>
+<li><a href="/wiki/Design_for_Six_Sigma" title="Design for Six Sigma">For Six Sigma</a></li>
+<li><a href="/wiki/Design_for_testing" title="Design for testing">For testing</a></li>
+<li><a href="/wiki/Design_for_X" title="Design for X">For X</a></li>
+<li><a href="/wiki/Functional_design" title="Functional design">Functional</a></li>
+<li><a href="/wiki/Generative_Design" class="mw-redirect" title="Generative Design">Generative</a></li>
+<li><a href="/wiki/Geodesign" title="Geodesign">Geodesign</a></li>
+<li><a href="/wiki/High-level_design" title="High-level design">High-level</a></li>
+<li><a href="/wiki/Integrated_design" title="Integrated design">Integrated</a></li>
+<li><a href="/wiki/Integrated_topside_design" title="Integrated topside design">Integrated topside</a></li>
+<li><a href="/wiki/Intelligence-based_design" title="Intelligence-based design">Intelligence-based</a></li>
+<li><a href="/wiki/Iterative_design" title="Iterative design">Iterative</a></li>
+<li><a href="/wiki/KISS_principle" title="KISS principle">KISS principle</a></li>
+<li><a href="/wiki/Low-level_design" title="Low-level design">Low-level</a></li>
+<li><a href="/wiki/Metadesign" title="Metadesign">Metadesign</a></li>
+<li><a href="/wiki/Mind_map" title="Mind map">Mind mapping</a></li>
+<li><a href="/wiki/Modular_design" title="Modular design">Modular</a></li>
+<li><a href="/wiki/New_Wave_(design)" title="New Wave (design)">New Wave</a></li>
+<li><a href="/wiki/Object-oriented_design" title="Object-oriented design">Object-oriented</a></li>
+<li><a href="/wiki/Open-design_movement" title="Open-design movement">Open</a></li>
+<li><a href="/wiki/Parametric_design" title="Parametric design">Parametric</a></li>
+<li><a href="/wiki/Participatory_design" title="Participatory design">Participatory</a></li>
+<li><a href="/wiki/Platform-based_design" title="Platform-based design">Platform-based</a></li>
+<li><a href="/wiki/Policy-based_design" class="mw-redirect" title="Policy-based design">Policy-based</a></li>
+<li><a href="/wiki/Process-centered_design" title="Process-centered design">Process-centered</a></li>
+<li><a href="/wiki/Public_interest_design" title="Public interest design">Public interest</a></li>
+<li><a href="/wiki/Rational_design" title="Rational design">Rational</a></li>
+<li><a href="/wiki/Regenerative_design" title="Regenerative design">Regenerative</a></li>
+<li><a href="/wiki/Reliability_engineering" title="Reliability engineering">Reliability engineering</a></li>
+<li><a href="/wiki/Research-based_design" title="Research-based design">Research-based</a></li>
+<li><a href="/wiki/Responsibility-driven_design" title="Responsibility-driven design">Responsibility-driven</a></li>
+<li><a href="/wiki/Responsive_web_design" title="Responsive web design">RWD</a></li>
+<li><a href="/wiki/Safe-life_design" title="Safe-life design">Safe-life</a></li>
+<li><a href="/wiki/Sustainable_design" title="Sustainable design">Sustainable</a></li>
+<li><a href="/wiki/Systemic_Design" class="mw-redirect" title="Systemic Design">Systemic</a>
+<ul><li><a href="/wiki/Systems_Oriented_Design" class="mw-redirect" title="Systems Oriented Design">SOD</a></li></ul></li>
+<li><a href="/wiki/Tableless_web_design" title="Tableless web design">Tableless web</a></li>
+<li><a href="/wiki/Theory_of_constraints" title="Theory of constraints">Theory of constraints</a></li>
+<li><a href="/wiki/Top-down_and_bottom-up_design" title="Top-down and bottom-up design">Top-down and bottom-up</a></li>
+<li><a href="/wiki/Transformation_design" title="Transformation design">Transformation</a></li>
+<li><a href="/wiki/Transgenerational_design" title="Transgenerational design">Transgenerational</a></li>
+<li><a href="/wiki/TRIZ" title="TRIZ">TRIZ</a></li>
+<li><a href="/wiki/Universal_design" title="Universal design">Universal</a>
+<ul><li><a href="/wiki/Design_for_All_(in_ICT)" title="Design for All (in ICT)">Design for All</a></li></ul></li>
+<li><a href="/wiki/Usage-centered_design" title="Usage-centered design">Usage-centered</a></li>
+<li><a href="/wiki/Use-centered_design" title="Use-centered design">Use-centered</a></li>
+<li><a href="/wiki/User-centered_design" title="User-centered design">User-centered</a>
+<ul><li><a href="/wiki/Empathic_design" title="Empathic design">Empathic</a></li></ul></li>
+<li><a href="/wiki/User_innovation" title="User innovation">User innovation</a></li>
+<li><a href="/wiki/Value-driven_design" title="Value-driven design">Value-driven</a></li>
+<li><a href="/wiki/Value_sensitive_design" title="Value sensitive design">Value sensitive</a>
+<ul><li><a href="/wiki/Privacy_by_Design" class="mw-redirect" title="Privacy by Design">Privacy by</a></li></ul></li></ul>
+<ul><li>Design <a href="/wiki/Design_choice" title="Design choice">choice</a></li>
+<li><a href="/wiki/Design_computing" title="Design computing">computing</a></li>
+<li><a href="/wiki/Design_controls" title="Design controls">controls</a></li>
+<li><a href="/wiki/Design_flow_(EDA)" title="Design flow (EDA)">flow</a></li>
+<li><a href="/wiki/Design_leadership" title="Design leadership">leadership</a></li>
+<li><a href="/wiki/Design_management" title="Design management">management</a></li>
+<li><a href="/wiki/Design_marker" title="Design marker">marker</a></li>
+<li><a href="/wiki/Design_methods" title="Design methods">methods</a></li>
+<li><a href="/wiki/Design_pattern" title="Design pattern">pattern</a></li>
+<li><a href="/wiki/Design_research" title="Design research">research</a></li>
+<li><a href="/wiki/Design_science" title="Design science">science</a></li>
+<li><a href="/wiki/Design_strategy" class="mw-redirect" title="Design strategy">strategy</a></li>
+<li><a href="/wiki/Design_theory" title="Design theory">theory</a></li>
+<li><a href="/wiki/Design_thinking" title="Design thinking">thinking</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="ToolsIntellectual_propertyOrganizationsAwards" style="font-size:114%;margin:0 4em"><div class="hlist hlist-separated"><ul><li>Tools</li><li>Intellectual property</li><li>Organizations</li><li>Awards</li></ul></div></div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;"><a href="/wiki/Design_tool" title="Design tool">Tools</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Algorithms-Aided_Design_(AAD)" title="Algorithms-Aided Design (AAD)">AAD</a></li>
+<li><a href="/wiki/Architectural_model" title="Architectural model">Architectural model</a></li>
+<li><a href="/wiki/Blueprint" title="Blueprint">Blueprint</a></li>
+<li><a href="/wiki/Comprehensive_layout" title="Comprehensive layout">Comprehensive layout</a></li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">CAD</a>
+<ul><li><a href="/wiki/Computer-aided_industrial_design" title="Computer-aided industrial design">CAID</a></li>
+<li><a href="/wiki/Virtual_home_design_software" title="Virtual home design software">Virtual home design software</a></li></ul></li>
+<li><a href="/wiki/Computer-automated_design" title="Computer-automated design">CAutoD</a></li>
+<li><a href="/wiki/Design_quality_indicator" title="Design quality indicator">Design quality indicator</a></li>
+<li><a href="/wiki/Electronic_design_automation" title="Electronic design automation">Electronic design automation</a></li>
+<li><a href="/wiki/Flowchart" title="Flowchart">Flowchart</a></li>
+<li><a href="/wiki/Mockup" title="Mockup">Mockup</a></li>
+<li><a href="/wiki/Product_design_specification" title="Product design specification">Product design specification</a></li>
+<li><a href="/wiki/Prototype" title="Prototype">Prototype</a></li>
+<li><a href="/wiki/Sketch_(drawing)" title="Sketch (drawing)">Sketch</a></li>
+<li><a href="/wiki/Storyboard" title="Storyboard">Storyboard</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/Web_design_program" class="mw-redirect" title="Web design program">Web design program</a></li>
+<li><a href="/wiki/Website_wireframe" title="Website wireframe">Website wireframe</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Intellectual<br />property</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Community_design" title="Community design">Community design</a></li>
+<li><a href="/wiki/Design_around" title="Design around">Design around</a></li>
+<li><a href="/wiki/Design_patent" title="Design patent">Design patent</a></li>
+<li><a href="/wiki/Fashion_design_copyright" title="Fashion design copyright">Fashion design copyright</a></li>
+<li><i><a href="/wiki/Geschmacksmuster" title="Geschmacksmuster">Geschmacksmuster</a></i></li>
+<li><a href="/wiki/Industrial_design_right" title="Industrial design right">Industrial design rights</a>
+<ul><li><a href="/wiki/Industrial_design_rights_in_the_European_Union" title="Industrial design rights in the European Union">European Union</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Organizations</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/AIGA" class="mw-redirect" title="AIGA">AIGA</a></li>
+<li><a href="/wiki/Chartered_Society_of_Designers" title="Chartered Society of Designers">Chartered Society of Designers</a></li>
+<li><a href="/wiki/Design_and_Industries_Association" title="Design and Industries Association">Design and Industries Association</a></li>
+<li><a href="/wiki/Design_Council" title="Design Council">Design Council</a></li>
+<li><a href="/wiki/International_Forum_Design" title="International Forum Design">International Forum Design</a></li>
+<li><a href="/wiki/The_Design_Society" title="The Design Society">The Design Society</a></li>
+<li><a href="/wiki/Design_Research_Society" title="Design Research Society">Design Research Society</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%;background:lemonchiffon;">Awards</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/European_Design_Award" title="European Design Award">European Design Award</a></li>
+<li><a href="/wiki/German_Design_Award" title="German Design Award">German Design Award</a></li>
+<li><a href="/wiki/Good_Design_Award_(Chicago)" title="Good Design Award (Chicago)">Good Design Award (Chicago)</a></li>
+<li><a href="/wiki/Good_Design_Award_(Japan)" title="Good Design Award (Japan)">Good Design Award (Japan)</a></li>
+<li><a href="/wiki/Graphex" title="Graphex">Graphex</a></li>
+<li><a href="/wiki/IF_product_design_award" title="IF product design award">IF product design award</a></li>
+<li><a href="/wiki/James_Dyson_Award" title="James Dyson Award">James Dyson Award</a></li>
+<li><a href="/wiki/Prince_Philip_Designers_Prize" title="Prince Philip Designers Prize">Prince Philip Designers Prize</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr></tbody></table><div></div></td></tr><tr><td colspan="2" class="navbox-list navbox-odd hlist" style="width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="col" class="navbox-title" colspan="2" style=";background:lemonchiffon;"><div id="Related_topics" style="font-size:114%;margin:0 4em">Related topics</div></th></tr><tr><td colspan="2" class="navbox-list navbox-odd" style="width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Aesthetics" title="Aesthetics">Aesthetics</a></li>
+<li><a href="/wiki/Agile_software_development" title="Agile software development">Agile</a></li>
+<li><a href="/wiki/Concept_art" title="Concept art">Concept art</a></li>
+<li><a href="/wiki/Creative_industries" title="Creative industries">Creative industries</a></li>
+<li><a href="/wiki/Cultural_icon" title="Cultural icon">Cultural icon</a></li>
+<li><a href="/wiki/.design" title=".design">.design</a></li>
+<li><a href="/wiki/Enterprise_architecture" title="Enterprise architecture">Enterprise architecture</a></li>
+<li><a href="/wiki/Futures_studies" title="Futures studies">Futures studies</a></li>
+<li><a href="/wiki/Innovation_Management" class="mw-redirect" title="Innovation Management">Innovation Management</a></li>
+<li><a href="/wiki/Intelligent_design" title="Intelligent design">Intelligent design</a></li>
+<li><a href="/wiki/Lean_Startup" class="mw-redirect" title="Lean Startup">Lean Startup</a></li>
+<li><a href="/wiki/New_product_development" title="New product development">New product development</a></li>
+<li><a href="/wiki/OODA_Loop" class="mw-redirect" title="OODA Loop">OODA Loop</a></li>
+<li><a href="/wiki/Philosophy_of_design" title="Philosophy of design">Philosophy of design</a></li>
+<li><a href="/wiki/Process_simulation" title="Process simulation">Process simulation</a></li>
+<li><a href="/wiki/Slow_design" title="Slow design">Slow design</a></li>
+<li><a href="/wiki/STEAM_fields" title="STEAM fields">STEAM fields</a></li>
+<li><a href="/wiki/Unintelligent_design" class="mw-redirect" title="Unintelligent design">Unintelligent design</a></li>
+<li><a href="/wiki/Visualization_(computer_graphics)" class="mw-redirect" title="Visualization (computer graphics)">Visualization</a></li>
+<li><a href="/wiki/Wicked_problem" title="Wicked problem">Wicked problem</a></li></ul>
+<ul><li>Design <a href="/wiki/Design_brief" title="Design brief">brief</a></li>
+<li><a href="/wiki/Design_change" title="Design change">change</a></li>
+<li><a href="/wiki/Design_classic" title="Design classic">classic</a></li>
+<li><a href="/wiki/Design_director" title="Design director">director</a></li>
+<li><a href="/wiki/Design_education" title="Design education">education</a></li>
+<li><a href="/wiki/Design_elements_and_principles" class="mw-redirect" title="Design elements and principles">elements and principles</a></li>
+<li><a href="/wiki/Design_engineer" title="Design engineer">engineer</a></li>
+<li><a href="/wiki/Design_firm" class="mw-redirect" title="Design firm">firm</a></li>
+<li><a href="/wiki/Design_history" title="Design history">history</a></li>
+<li><a href="/wiki/Design_knowledge" title="Design knowledge">knowledge</a></li>
+<li><a href="/wiki/Design_language" title="Design language">language</a></li>
+<li><a href="/wiki/Design_life" title="Design life">life</a></li>
+<li><a href="/wiki/Design_load" title="Design load">load</a></li>
+<li><a href="/wiki/Design_museum" title="Design museum">museum</a></li>
+<li><a href="/wiki/Design_paradigm" title="Design paradigm">paradigm</a></li>
+<li><a href="/wiki/Design_rationale" title="Design rationale">rationale</a></li>
+<li><a href="/wiki/Design_review" title="Design review">review</a></li>
+<li><a href="/wiki/Design_specification" title="Design specification">specification</a></li>
+<li><a href="/wiki/Design_studio" title="Design studio">studio</a></li>
+<li><a href="/wiki/Design_technology" title="Design technology">technology</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow hlist" colspan="2"><div>
+<ul><li><a href="https://commons.wikimedia.org/wiki/category:Design" class="extiw" title="commons:category:Design"> <span style="color:#002bb8">Commons</span>    </a></li>
+<li><a href="https://en.wikibooks.org/wiki/Design" class="extiw" title="wikibooks:Design"> <span style="color:#002bb8">Wikibooks</span>  </a></li>
+<li><a href="https://en.wikinews.org/wiki/Special:Search/Design" class="extiw" title="wikinews:Special:Search/Design"> <span style="color:#002bb8">Wikinews</span>   </a></li>
+<li><a href="https://en.wikiquote.org/wiki/Design" class="extiw" title="wikiquote:Design"> <span style="color:#002bb8">Wikiquote</span>  </a></li>
+<li><a href="https://en.wikisource.org/wiki/Category:Design" class="extiw" title="wikisource:Category:Design"> <span style="color:#002bb8">Wikisource</span> </a></li>
+<li><a href="https://en.wiktionary.org/wiki/Design" class="extiw" title="wiktionary:Design"> <span style="color:#002bb8">Wiktionary</span> </a></li></ul>
+</div></td></tr></tbody></table></div>
+<div role="navigation" class="navbox" aria-labelledby="Game_design_elements" style="padding:3px"><table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="2"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Game_design" title="Template:Game design"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Game_design" title="Template talk:Game design"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Game_design&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Game_design_elements" style="font-size:114%;margin:0 4em">Game design elements</div></th></tr><tr><td class="navbox-abovebelow" colspan="2"><div id="Subjects_relating_to_game_design,_video_game_design,_game_studies,_gameplay_and_game_mechanics">Subjects relating to <a href="/wiki/Game_design" title="Game design">game design</a>, <a class="mw-selflink selflink">video game design</a>, <a href="/wiki/Game_studies" title="Game studies">game studies</a>, <a href="/wiki/Gameplay" title="Gameplay">gameplay</a> and <a href="/wiki/Game_mechanic" class="mw-redirect" title="Game mechanic">game mechanics</a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Concepts</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Balance_(game_design)" class="mw-redirect" title="Balance (game design)">Balance</a></li>
+<li><a href="/wiki/Game_theory" title="Game theory">Game theory</a></li>
+<li><a href="/wiki/Interactivity" title="Interactivity">Interactivity</a></li>
+<li><a href="/wiki/Lusory_attitude" title="Lusory attitude">Lusory attitude</a></li>
+<li><a href="/wiki/Magic_Circle_(synthetic_worlds)" class="mw-redirect" title="Magic Circle (synthetic worlds)">Magic circle</a></li>
+<li><a href="/wiki/Meaningful_play" title="Meaningful play">Meaningful play</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Rules</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Action_point_(video_gaming)" class="mw-redirect" title="Action point (video gaming)">Action point</a></li>
+<li><a href="/wiki/Build_order" title="Build order">Build order</a></li>
+<li><a href="/wiki/Continue_(video_gaming)" class="mw-redirect" title="Continue (video gaming)">Continue</a></li>
+<li><a href="/wiki/Difficulty_level" class="mw-redirect" title="Difficulty level">Difficulty level</a></li>
+<li><a href="/wiki/Experience_point" title="Experience point">Experience point</a></li>
+<li><a href="/wiki/Game_over" title="Game over">Game over</a></li>
+<li><a href="/wiki/Health_(gaming)" title="Health (gaming)">Health</a></li>
+<li><a href="/wiki/Kingmaker_scenario" title="Kingmaker scenario">Kingmaker scenario</a></li>
+<li><a href="/wiki/Magic_point" class="mw-redirect" title="Magic point">Magic point</a></li>
+<li><a href="/wiki/Permanent_death" class="mw-redirect" title="Permanent death">Permanent death</a></li>
+<li><a href="/wiki/Point_of_no_return_(computer_games)" class="mw-redirect" title="Point of no return (computer games)">Point of no return</a></li>
+<li><a href="/wiki/Probability_of_kill" title="Probability of kill">Probability of kill</a></li>
+<li><a href="/wiki/Score_(gaming)" class="mw-redirect" title="Score (gaming)">Score</a></li>
+<li><a href="/wiki/Six_degrees_of_freedom" title="Six degrees of freedom">Six degrees of freedom</a></li>
+<li><a href="/wiki/Technology_tree" title="Technology tree">Technology tree</a></li>
+<li><a href="/wiki/Unwinnable" class="mw-redirect" title="Unwinnable">Unwinnable</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Game_mode" class="mw-redirect" title="Game mode">Modes</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Attract_mode" class="mw-redirect" title="Attract mode">Attract mode</a></li>
+<li><a href="/wiki/Bonus_stage" title="Bonus stage">Bonus stage</a></li>
+<li><a href="/wiki/Zero-player_game" title="Zero-player game">CPU vs. CPU</a></li>
+<li><a href="/wiki/Capture_the_flag" title="Capture the flag">Capture the flag</a></li>
+<li><a href="/wiki/Conquest_(gametype)" title="Conquest (gametype)">Conquest</a></li>
+<li><a href="/wiki/Cooperative_gameplay" title="Cooperative gameplay">Cooperative gameplay</a></li>
+<li><a href="/wiki/Deathmatch_(gaming)" class="mw-redirect" title="Deathmatch (gaming)">Deathmatch</a></li>
+<li><a href="/wiki/Game_replay" title="Game replay">Game replay</a></li>
+<li><a href="/wiki/Hotseat_(multiplayer_mode)" title="Hotseat (multiplayer mode)">Hotseat</a></li>
+<li><a href="/wiki/King_of_the_Hill_(game)" title="King of the Hill (game)">King of the hill</a></li>
+<li><a href="/wiki/Last_man_standing_(gaming)" title="Last man standing (gaming)">Last man standing</a></li>
+<li><a href="/wiki/Multiplayer_video_game" title="Multiplayer video game">Multiplayer</a></li>
+<li><a href="/wiki/New_Game_Plus" title="New Game Plus">New Game Plus</a></li>
+<li><a href="/wiki/Nonlinear_gameplay" title="Nonlinear gameplay">Nonlinear gameplay</a></li>
+<li><a href="/wiki/Player_versus_environment" title="Player versus environment">Player versus environment</a></li>
+<li><a href="/wiki/Player_versus_player" title="Player versus player">Player versus player</a></li>
+<li><a href="/wiki/Real-time_vs._turn-based_gameplay" class="mw-redirect" title="Real-time vs. turn-based gameplay">Real-time vs. turn-based gameplay</a></li>
+<li><a href="/wiki/Single-player_video_game" title="Single-player video game">Single-player</a></li>
+<li><a href="/wiki/Sudden_death_(sport)" title="Sudden death (sport)">Sudden death</a></li>
+<li><a href="/wiki/Time_attack" title="Time attack">Time attack</a></li>
+<li><a href="/wiki/Time_trial" title="Time trial">Time trial</a></li>
+<li><a href="/wiki/Turn-based_game" class="mw-redirect" title="Turn-based game">Turn-based game</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/System" title="System">Systems</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Character_creation" title="Character creation">Character creation</a></li>
+<li><a href="/wiki/Dialog_tree" class="mw-redirect" title="Dialog tree">Dialog tree</a></li>
+<li><a href="/wiki/Dynamic_game_difficulty_balancing" title="Dynamic game difficulty balancing">Dynamic game difficulty balancing</a></li>
+<li><a href="/wiki/Gold_sink" title="Gold sink">Gold sink</a></li>
+<li><a href="/wiki/Instance_dungeon" title="Instance dungeon">Instance dungeon</a></li>
+<li><a href="/wiki/Leveled_gameplay" class="mw-redirect" title="Leveled gameplay">Leveled gameplay</a></li>
+<li><a href="/wiki/Monster_infighting" class="mw-redirect" title="Monster infighting">Monster infighting</a></li>
+<li><a href="/wiki/Minigame" title="Minigame">Minigame</a></li>
+<li><a href="/wiki/Puzzle" title="Puzzle">Puzzle</a></li>
+<li><a href="/wiki/Quicksaving" class="mw-redirect" title="Quicksaving">Quicksaving</a></li>
+<li><a href="/wiki/Quick_Time_Event" class="mw-redirect" title="Quick Time Event">Quick Time Event</a></li>
+<li><a href="/wiki/Random_dungeon" title="Random dungeon">Random dungeon</a></li>
+<li><a href="/wiki/Random_encounter" title="Random encounter">Random encounter</a></li>
+<li><a href="/wiki/Role-playing_battle_systems" class="mw-redirect" title="Role-playing battle systems">Role-playing battle systems</a></li>
+<li><a href="/wiki/Saved_game" title="Saved game">Saved game</a></li>
+<li><a href="/wiki/Spawning_(computer_gaming)" class="mw-redirect" title="Spawning (computer gaming)">Spawning</a></li>
+<li><a href="/wiki/Spawn_point" class="mw-redirect" title="Spawn point">Spawn point</a></li>
+<li><a href="/wiki/Virtual_economy" title="Virtual economy">Virtual economy</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Activities</th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Combo_(gaming)" class="mw-redirect" title="Combo (gaming)">Combo</a></li>
+<li><a href="/wiki/Double_jump_(disambiguation)" class="mw-redirect mw-disambig" title="Double jump (disambiguation)">Double jump</a></li>
+<li><a href="/wiki/Finishing_move" class="mw-redirect" title="Finishing move">Finishing move</a></li>
+<li><a href="/wiki/Glossary_of_video_game_terms#frag" title="Glossary of video game terms">Frag</a></li>
+<li><a href="/wiki/Grind_(gaming)" class="mw-redirect" title="Grind (gaming)">Grind</a></li>
+<li><a href="/wiki/Headshot" class="mw-redirect" title="Headshot">Headshot</a></li>
+<li><a href="/wiki/Looting_(gaming)" class="mw-redirect" title="Looting (gaming)">Looting</a></li>
+<li><a href="/wiki/Macromanagement_(gameplay)" class="mw-redirect" title="Macromanagement (gameplay)">Macromanagement</a></li>
+<li><a href="/wiki/Micromanagement_(gameplay)" title="Micromanagement (gameplay)">Micromanagement</a></li>
+<li><a href="/wiki/Quest_(gaming)" title="Quest (gaming)">Quest</a></li>
+<li><a href="/wiki/Raid_(gaming)" title="Raid (gaming)">Raid</a></li>
+<li><a href="/wiki/Fighting_game#Special_Attacks" title="Fighting game">Special attack</a></li>
+<li><a href="/wiki/Syntax_guessing" title="Syntax guessing">Syntax guessing</a></li>
+<li><a href="/wiki/Timesink" class="mw-redirect" title="Timesink">Timesink</a></li>
+<li><a href="/wiki/Twitch_gameplay" title="Twitch gameplay">Twitch gameplay</a></li>
+<li><a href="/wiki/Wall_jump" class="mw-redirect" title="Wall jump">Wall jump</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Emergent_gameplay" title="Emergent gameplay">Behavior</a></th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Actions_per_minute" title="Actions per minute">Actions per minute</a></li>
+<li><a href="/wiki/Button_mashing" class="mw-redirect" title="Button mashing">Button mashing</a></li>
+<li><a href="/wiki/Bunny_hopping" class="mw-redirect" title="Bunny hopping">Bunny hopping</a></li>
+<li><a href="/wiki/Camping_(computer_gaming)" class="mw-redirect" title="Camping (computer gaming)">Camping</a></li>
+<li><a href="/wiki/Cheating_in_video_games" title="Cheating in video games">Cheating</a></li>
+<li><a href="/wiki/Circle_strafing" class="mw-redirect" title="Circle strafing">Circle strafing</a></li>
+<li><a href="/wiki/Crowd_control_(video_gaming)" title="Crowd control (video gaming)">Crowd control</a></li>
+<li><a href="/wiki/Griefer" title="Griefer">Griefer</a></li>
+<li><a href="/wiki/Kill_stealing" title="Kill stealing">Kill stealing</a></li>
+<li><a href="/wiki/Glossary_of_video_game_terms#kiting" title="Glossary of video game terms">Kiting</a></li>
+<li><a href="/wiki/Maphack" class="mw-redirect" title="Maphack">Maphack</a></li>
+<li><a href="/wiki/Min-maxing" class="mw-redirect" title="Min-maxing">Min-maxing</a></li>
+<li><a href="/wiki/Ogging" class="mw-redirect" title="Ogging">Ogging</a></li>
+<li><a href="/wiki/Online_creation" title="Online creation">Online creation</a></li>
+<li><a href="/wiki/Powergaming" title="Powergaming">Powergaming</a></li>
+<li><a href="/wiki/Rocket_jumping" title="Rocket jumping">Rocket jumping</a></li>
+<li><a href="/wiki/Respecing" class="mw-redirect" title="Respecing">Respecing</a></li>
+<li><a href="/wiki/Rush_(video_gaming)" title="Rush (video gaming)">Rush</a></li>
+<li><a href="/wiki/Sequence_breaking" title="Sequence breaking">Sequence breaking</a></li>
+<li><a href="/wiki/Spam_(gaming)" title="Spam (gaming)">Spam</a></li>
+<li><a href="/wiki/Speedrun" title="Speedrun">Speedrun</a></li>
+<li><a href="/wiki/Glossary_of_video_game_terms#power_spike" title="Glossary of video game terms">Power spike</a></li>
+<li><a href="/wiki/Spray_and_pray" title="Spray and pray">Spray and pray</a></li>
+<li><a href="/wiki/Strafe-jumping" class="mw-redirect" title="Strafe-jumping">Strafe-jumping</a></li>
+<li><a href="/wiki/Straferunning" class="mw-redirect" title="Straferunning">Straferunning</a></li>
+<li><a href="/wiki/Tank_(gaming)" title="Tank (gaming)">Tank</a></li>
+<li><a href="/wiki/Tap_(gaming)" title="Tap (gaming)">Tap</a></li>
+<li><a href="/wiki/Team_killing" class="mw-redirect" title="Team killing">Team killing</a></li>
+<li><a href="/wiki/Tool-assisted_speedrun" title="Tool-assisted speedrun">Tool-assisted speedrun</a></li>
+<li><a href="/wiki/Trickjump" title="Trickjump">Trickjump</a></li>
+<li><a href="/wiki/Turtle_(gaming)" class="mw-redirect" title="Turtle (gaming)">Turtle</a></li>
+<li><a href="/wiki/Twinking" title="Twinking">Twinking</a></li>
+<li><a href="/wiki/Wallhacking" class="mw-redirect" title="Wallhacking">Wallhacking</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Item_(gaming)" title="Item (gaming)">Items</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/1-up" class="mw-redirect" title="1-up">1-up</a></li>
+<li><a href="/wiki/Hitscan" title="Hitscan">Hitscan</a></li>
+<li><a href="/wiki/Magic_satchel" title="Magic satchel">Magic satchel</a></li>
+<li><a href="/wiki/Nuke_(gaming)" title="Nuke (gaming)">Nuke</a></li>
+<li><a href="/wiki/Power-up" title="Power-up">Power-up</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Effects</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Buff_(computer_gaming)" class="mw-redirect" title="Buff (computer gaming)">Buff</a></li>
+<li><a href="/wiki/Cooldown" class="mw-redirect" title="Cooldown">Cooldown</a></li>
+<li><a href="/wiki/Critical_hit" title="Critical hit">Critical hit</a></li>
+<li><a href="/wiki/Damage_over_time" class="mw-redirect" title="Damage over time">Damage over time</a></li>
+<li><a href="/wiki/Damage_per_second" class="mw-redirect" title="Damage per second">Damage per second</a></li>
+<li><a href="/wiki/Splash_damage" class="mw-redirect" title="Splash damage">Splash damage</a></li>
+<li><a href="/wiki/Status_effect" title="Status effect">Status effect</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Feedback" title="Feedback">Feedback</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Automap" class="mw-redirect" title="Automap">Automap</a></li>
+<li><a href="/wiki/Cutscene" title="Cutscene">Cutscene</a></li>
+<li><a href="/wiki/Fog_of_war" title="Fog of war">Fog of war</a></li>
+<li><a href="/wiki/Ghost_(gaming)" class="mw-redirect" title="Ghost (gaming)">Ghost</a></li>
+<li><a href="/wiki/Gibs" class="mw-redirect" title="Gibs">Gibs</a></li>
+<li><a href="/wiki/HUD_(video_gaming)" class="mw-redirect" title="HUD (video gaming)">HUD</a></li>
+<li><a href="/wiki/Mini-map" title="Mini-map">Mini-map</a></li>
+<li><a href="/wiki/Overworld" title="Overworld">Overworld</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Characters</th><td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Artificial_intelligence_(video_games)" class="mw-redirect" title="Artificial intelligence (video games)">Artificial Intelligence</a></li>
+<li><a href="/wiki/Avatar_(computing)" title="Avatar (computing)">Avatar</a></li>
+<li><a href="/wiki/Boss_(video_gaming)" title="Boss (video gaming)">Boss</a></li>
+<li><a href="/wiki/Computer_game_bot" class="mw-redirect" title="Computer game bot">Bot</a></li>
+<li><a href="/wiki/Mob_(computer_gaming)" class="mw-redirect" title="Mob (computer gaming)">Mob</a></li>
+<li><a href="/wiki/Non-player_character" title="Non-player character">Non-player character</a></li>
+<li><a href="/wiki/Paper_doll_(gaming)" title="Paper doll (gaming)">Paper doll</a></li>
+<li><a href="/wiki/Player_character" title="Player character">Player character</a></li>
+<li><a href="/wiki/Super_(fighting_games)" class="mw-redirect" title="Super (fighting games)">Super move</a></li>
+<li><a href="/wiki/Win_quote" class="mw-redirect" title="Win quote">Win quote</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Virtual_world" title="Virtual world">Environment</a></th><td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Invisible_wall" title="Invisible wall">Invisible wall</a></li>
+<li><a href="/wiki/Level_(video_games)" class="mw-redirect" title="Level (video games)">Level</a></li>
+<li><a href="/wiki/Line_of_sight_(gaming)" title="Line of sight (gaming)">Line of sight</a></li>
+<li><a href="/wiki/Open_world" title="Open world">Open world</a></li>
+<li><a href="/wiki/Persistent_world" title="Persistent world">Persistent world</a></li></ul>
+</div></td></tr></tbody></table></div>
+
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20190105160216
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.540 seconds
+Real time usage: 0.682 seconds
+Preprocessor visited node count: 3133/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 152376/2097152 bytes
+Template argument size: 6804/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 9/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 35586/5000000 bytes
+Number of Wikibase entities loaded: 0/400
+Lua time usage: 0.218/10.000 seconds
+Lua memory usage: 5.89 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  511.456      1 -total
+ 19.74%  100.946      1 Template:Reflist
+ 18.57%   94.958      9 Template:Fix
+ 14.85%   75.943      1 Template:More_footnotes
+ 13.74%   70.258      4 Template:Cite_web
+ 10.91%   55.783     10 Template:Delink
+  9.29%   47.496      1 Template:Ambox
+  7.79%   39.843      4 Template:Citation_needed
+  7.15%   36.586      1 Template:Design
+  7.02%   35.927     16 Template:Category_handler
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:473526-0!canonical and timestamp 20190105160216 and revision id 876741390
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Video_game_design&amp;oldid=876741390#Game_designer">https://en.wikipedia.org/w/index.php?title=Video_game_design&amp;oldid=876741390#Game_designer</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Video_game_design" title="Category:Video game design">Video game design</a></li><li><a href="/wiki/Category:Video_game_development" title="Category:Video game development">Video game development</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2018" title="Category:Articles lacking in-text citations from February 2018">Articles lacking in-text citations from February 2018</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2012" title="Category:Articles with unsourced statements from November 2012">Articles with unsourced statements from November 2012</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_March_2010" title="Category:Articles with specifically marked weasel-worded phrases from March 2010">Articles with specifically marked weasel-worded phrases from March 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2011" title="Category:Articles with unsourced statements from February 2011">Articles with unsourced statements from February 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2010" title="Category:Articles with unsourced statements from March 2010">Articles with unsourced statements from March 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_March_2010" title="Category:Wikipedia articles needing clarification from March 2010">Wikipedia articles needing clarification from March 2010</a></li><li><a href="/wiki/Category:All_articles_that_may_contain_original_research" title="Category:All articles that may contain original research">All articles that may contain original research</a></li><li><a href="/wiki/Category:Articles_that_may_contain_original_research_from_March_2010" title="Category:Articles that may contain original research from March 2010">Articles that may contain original research from March 2010</a></li><li><a href="/wiki/Category:Articles_with_Curlie_links" title="Category:Articles with Curlie links">Articles with Curlie links</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Video+game+design" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=Video+game+design" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/Video_game_design" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:Video_game_design" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/Video_game_design">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=Video_game_design&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=Video_game_design&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/Video_game_design" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/Video_game_design" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Video_game_design&amp;oldid=876741390" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Video_game_design&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12336660" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Video_game_design&amp;id=876741390" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Video+game+design">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Video+game+design&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=Video_game_design&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-wikibase-otherprojects" aria-labelledby="p-wikibase-otherprojects-label">
+			<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+			<div class="body">
+								<ul>
+					<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Video_game_design" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikibooks"><a href="https://en.wikibooks.org/wiki/Video_Game_Design" hreflang="en">Wikibooks</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ar"><a href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B5%D9%85%D9%8A%D9%85_%D9%84%D8%B9%D8%A8%D8%A9_%D9%81%D9%8A%D8%AF%D9%8A%D9%88" title="تصميم لعبة فيديو – Arabic" lang="ar" hreflang="ar" class="interlanguage-link-target">العربية</a></li><li class="interlanguage-link interwiki-da"><a href="https://da.wikipedia.org/wiki/Spildesign" title="Spildesign – Danish" lang="da" hreflang="da" class="interlanguage-link-target">Dansk</a></li><li class="interlanguage-link interwiki-fa"><a href="https://fa.wikipedia.org/wiki/%D8%B7%D8%B1%D8%A7%D8%AD%DB%8C_%D8%A8%D8%A7%D8%B2%DB%8C" title="طراحی بازی – Persian" lang="fa" hreflang="fa" class="interlanguage-link-target">فارسی</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/Videospilldesign" title="Videospilldesign – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-sco"><a href="https://sco.wikipedia.org/wiki/Video_gemme_design" title="Video gemme design – Scots" lang="sco" hreflang="sco" class="interlanguage-link-target">Scots</a></li><li class="interlanguage-link interwiki-tr"><a href="https://tr.wikipedia.org/wiki/Video_oyunu_tasar%C4%B1m%C4%B1" title="Video oyunu tasarımı – Turkish" lang="tr" hreflang="tr" class="interlanguage-link-target">Türkçe</a></li><li class="interlanguage-link interwiki-wuu"><a href="https://wuu.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1" title="电子游戏设计 – Wu Chinese" lang="wuu" hreflang="wuu" class="interlanguage-link-target">吴语</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E7%94%B5%E5%AD%90%E6%B8%B8%E6%88%8F%E8%AE%BE%E8%AE%A1" title="电子游戏设计 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q12336660#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 4 January 2019, at 04:39<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=Video_game_design&amp;mobileaction=toggle_view_mobile#Game_designer" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.540","walltime":"0.682","ppvisitednodes":{"value":3133,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":152376,"limit":2097152},"templateargumentsize":{"value":6804,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":9,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":35586,"limit":5000000},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  511.456      1 -total"," 19.74%  100.946      1 Template:Reflist"," 18.57%   94.958      9 Template:Fix"," 14.85%   75.943      1 Template:More_footnotes"," 13.74%   70.258      4 Template:Cite_web"," 10.91%   55.783     10 Template:Delink","  9.29%   47.496      1 Template:Ambox","  7.79%   39.843      4 Template:Citation_needed","  7.15%   36.586      1 Template:Design","  7.02%   35.927     16 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.218","limit":"10.000"},"limitreport-memusage":{"value":6176670,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20190105160216","ttl":1900800,"transientcontent":false}}});mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1244"});});</script>
+	</body>
+</html>

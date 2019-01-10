@@ -1,0 +1,667 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# image: http://ogp.me/ns/image#"><script data-cfasync="true">
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create','UA-550649-1','auto', {'autoLinker': true});
+  ga('require','linker');
+  if (window.location.protocol === 'https:' && window.location.host === 'www.destructoid.com')
+  {
+  	ga('linker:autoLink', ['http://uk.destructoid.com','https://uk.destructoid.com','http://ie.destructoid.com','https://ie.destructoid.com','http://ca.destructoid.com','https://ca.destructoid.com','http://au.destructoid.com','https://au.destructoid.com','http://www.destructoid.com','http://bulk.destructoid.com','https://bulk.destructoid.com','http://bulk2.destructoid.com','https://bulk2.destructoid.com','http://bulk3.destructoid.com','https://bulk3.destructoid.com','http://bulk4.destructoid.com','https://bulk4.destructoid.com','http://bulk5.destructoid.com','https://bulk5.destructoid.com','http://bulk6.destructoid.com','https://bulk6.destructoid.com','http://bulk7.destructoid.com','https://bulk7.destructoid.com','http://bulk8.destructoid.com','https://bulk8.destructoid.com','http://bulk9.destructoid.com','https://bulk9.destructoid.com','http://cdn.destructoid.com','https://cdn.destructoid.com','http://crutches.destructoid.com','https://crutches.destructoid.com','destructoid.com','http://dev.destructoid.com','https://dev.destructoid.com','http://dt.destructoid.com','https://dt.destructoid.com','http://dt2.destructoid.com','https://dt2.destructoid.com','http://dt3.destructoid.com','https://dt3.destructoid.com','http://dt4.destructoid.com','https://dt4.destructoid.com','http://dt5.destructoid.com','https://dt5.destructoid.com','http://dt6.destructoid.com','https://dt6.destructoid.com','http://dt7.destructoid.com','https://dt7.destructoid.com','http://dt8.destructoid.com','https://dt8.destructoid.com','http://dt9.destructoid.com','https://dt9.destructoid.com','http://eyepatch.destructoid.com','https://eyepatch.destructoid.com','http://forum.destructoid.com','https://forum.destructoid.com','http://frank.destructoid.com','https://frank.destructoid.com','http://implant.destructoid.com','https://implant.destructoid.com','http://live.destructoid.com','https://live.destructoid.com','http://m.destructoid.com','https://m.destructoid.com','http://pacemaker.destructoid.com','https://pacemaker.destructoid.com','http://raul.destructoid.com','https://raul.destructoid.com','http://touch.destructoid.com','https://touch.destructoid.com','http://q.destructoid.com','https://niero.dev.destructoid.com','https://destructoid.com','http://destructoid.com','https://japanator.destructoid.com','https://flixist.destructoid.com','https://tomopop.destructoid.com']);
+  }
+  else
+  {
+  	ga('linker:autoLink', ['https://www.destructoid.com']);
+  }
+  ga('set', 'dimension1', '112487/patrick hancock');
+  ga('set', 'dimension2', '2013-07');
+  ga('set', 'dimension3', 2300);
+  ga('set', 'dimension4', 'review');
+  ga('send','pageview');
+
+
+</script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-PGQLTQD');</script><base href="https://www.destructoid.com"><meta name="robots" content="noodp, noydir" /><meta name="copyright" content="destructoid" /><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><meta charset="UTF-8"><meta name="language" content="english"><meta http-equiv="X-UA-Compatible" content="IE=edge"><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUFWVVACQMJV1dVAg=="};window.NREUM||(NREUM={}),__nr_require=function(t,n,e){function r(e){if(!n[e]){var o=n[e]={exports:{}};t[e][0].call(o.exports,function(n){var o=t[e][1][n];return r(o||n)},o,o.exports)}return n[e].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<e.length;o++)r(e[o]);return r}({1:[function(t,n,e){function r(t){try{s.console&&console.log(t)}catch(n){}}var o,i=t("ee"),a=t(16),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,n,e){r(e.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,n){return t}).join(", ")))},{}],2:[function(t,n,e){function r(t,n,e,r,s){try{p?p-=1:o(s||new UncaughtException(t,n,e),!0)}catch(f){try{i("ierr",[f,c.now(),!0])}catch(d){}}return"function"==typeof u&&u.apply(this,a(arguments))}function UncaughtException(t,n,e){this.message=t||"Uncaught error with no additional information",this.sourceURL=n,this.line=e}function o(t,n){var e=n?null:c.now();i("err",[t,e])}var i=t("handle"),a=t(17),s=t("ee"),c=t("loader"),f=t("gos"),u=window.onerror,d=!1,l="nr@seenError",p=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(h){"stack"in h&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),d=!0)}s.on("fn-start",function(t,n,e){d&&(p+=1)}),s.on("fn-err",function(t,n,e){d&&!e[l]&&(f(e,l,function(){return!0}),this.thrown=!0,o(e))}),s.on("fn-end",function(){d&&!this.thrown&&p>0&&(p-=1)}),s.on("internal-error",function(t){i("ierr",[t,c.now(),!0])})},{}],3:[function(t,n,e){t("loader").features.ins=!0},{}],4:[function(t,n,e){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,v="fn"+h,w="bstTimer",y="pushState",g=t("loader");g.features.stn=!0,t(6);var b=NREUM.o.EV;o.on(m,function(t,n){var e=t[0];e instanceof b&&(this.bstStart=g.now())}),o.on(v,function(t,n){var e=t[0];e instanceof b&&i("bst",[e,n,this.bstStart,g.now()])}),a.on(m,function(t,n,e){this.bstStart=g.now(),this.bstType=e}),a.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),this.bstType])}),s.on(m,function(){this.bstStart=g.now()}),s.on(v,function(t,n){i(w,[n,this.bstStart,g.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=g.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,n,e){function r(t){for(var n=t;n&&!n.hasOwnProperty(u);)n=Object.getPrototypeOf(n);n&&o(n)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,n){return t[1]}var a=t("ee").get("events"),s=t(19)(a,!0),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";n.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,n){var e=t[1],r=c(e,"nr@wrapped",function(){function t(){if("function"==typeof e.handleEvent)return e.handleEvent.apply(e,arguments)}var n={object:t,"function":e}[typeof e];return n?s(n,"fn-",null,n.name||"anonymous"):e});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,n,e){var r=t("ee").get("history"),o=t(19)(r);n.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,n,e){var r=t("ee").get("raf"),o=t(19)(r),i="equestAnimationFrame";n.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,n,e){function r(t,n,e){t[0]=a(t[0],"fn-",null,e)}function o(t,n,e){this.method=e,this.timerDuration=isNaN(t[1])?0:+t[1],t[0]=a(t[0],"fn-",this,e)}var i=t("ee").get("timer"),a=t(19)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";n.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,n,e){function r(t,n){d.inPlace(n,["onreadystatechange"],"fn-",s)}function o(){var t=this,n=u.context(t);t.readyState>3&&!n.resolved&&(n.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,y,"fn-",s)}function i(t){g.push(t),h&&(x?x.then(a):v?v(a):(E=-E,O.data=E))}function a(){for(var t=0;t<g.length;t++)r([],g[t]);g.length&&(g=[])}function s(t,n){return n}function c(t,n){for(var e in t)n[e]=t[e];return n}t(5);var f=t("ee"),u=f.get("xhr"),d=t(19)(u),l=NREUM.o,p=l.XHR,h=l.MO,m=l.PR,v=l.SI,w="readystatechange",y=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],g=[];n.exports=u;var b=window.XMLHttpRequest=function(t){var n=new p(t);try{u.emit("new-xhr",[n],n),n.addEventListener(w,o,!1)}catch(e){try{u.emit("internal-error",[e])}catch(r){}}return n};if(c(p,b),b.prototype=p.prototype,d.inPlace(b.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,n){r(t,n),i(n)}),u.on("open-xhr-start",r),h){var x=m&&m.resolve();if(!v&&!m){var E=1,O=document.createTextNode(E);new h(a).observe(O,{characterData:!0})}}else f.on("fn-end",function(t){t[0]&&t[0].type===w||a()})},{}],10:[function(t,n,e){function r(t){var n=this.params,e=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!n.aborted){if(e.duration=a.now()-this.startTime,4===t.readyState){n.status=t.status;var i=o(t,this.lastSize);if(i&&(e.rxSize=i),this.sameOrigin){var c=t.getResponseHeader("X-NewRelic-App-Data");c&&(n.cat=c.split(", ").pop())}}else n.status=0;e.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[n,e,this.startTime])}}}function o(t,n){var e=t.responseType;if("json"===e&&null!==n)return n;var r="arraybuffer"===e||"blob"===e||"json"===e?t.response:t.responseText;return h(r)}function i(t,n){var e=c(n),r=t.params;r.host=e.hostname+":"+e.port,r.pathname=e.pathname,t.sameOrigin=e.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=r,n.ended=!1,n.xhrGuids={},n.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,n){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&n.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,n){var e=this.metrics,r=t[0],o=this;if(e&&r){var i=h(r);i&&(e.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof n.onload))&&o.end(n)}catch(e){try{f.emit("internal-error",[e])}catch(r){}}};for(var s=0;s<d;s++)n.addEventListener(u[s],this.listener,!1)}),f.on("xhr-cb-time",function(t,n,e){this.cbTime+=t,n?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof e.onload||this.end(e)}),f.on("xhr-load-added",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&!this.xhrGuids[e]&&(this.xhrGuids[e]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,n){var e=""+l(t)+!!n;this.xhrGuids&&this.xhrGuids[e]&&(delete this.xhrGuids[e],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],n)}),f.on("removeEventListener-end",function(t,n){n instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],n)}),f.on("fn-start",function(t,n,e){n instanceof m&&("onload"===e&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,n){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,n],n)})}},{}],11:[function(t,n,e){n.exports=function(t){var n=document.createElement("a"),e=window.location,r={};n.href=t,r.port=n.port;var o=n.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=n.hostname||e.hostname,r.pathname=n.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!n.protocol||":"===n.protocol||n.protocol===e.protocol,a=n.hostname===document.domain&&n.port===e.port;return r.sameOrigin=i&&(!n.hostname||a),r}},{}],12:[function(t,n,e){function r(){}function o(t,n,e){return function(){return i(t,[f.now()].concat(s(arguments)),n?null:this,e),n?void 0:this}}var i=t("handle"),a=t(16),s=t(17),c=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,n){u[n]=o(l+n,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),n.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,n){var e={},r=this,o="function"==typeof n;return i(p+"tracer",[f.now(),t,e],r),function(){if(c.emit((o?"":"no-")+"fn-start",[f.now(),r,o],e),o)try{return n.apply(this,arguments)}catch(t){throw c.emit("fn-err",[arguments,this,t],e),t}finally{c.emit("fn-end",[f.now()],e)}}}};a("actionText,setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,n){h[n]=o(p+n)}),newrelic.noticeError=function(t,n){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now(),!1,n])}},{}],13:[function(t,n,e){n.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(n){return}}}},{}],14:[function(t,n,e){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),n.exports=r},{}],15:[function(t,n,e){function r(t,n){if(!o)return!1;if(t!==o)return!1;if(!n)return!0;if(!i)return!1;for(var e=i.split("."),r=n.split("."),a=0;a<r.length;a++)if(r[a]!==e[a])return!1;return!0}var o=null,i=null,a=/Version\/(\S+)\s+Safari/;if(navigator.userAgent){var s=navigator.userAgent,c=s.match(a);c&&s.indexOf("Chrome")===-1&&s.indexOf("Chromium")===-1&&(o="Safari",i=c[1])}n.exports={agent:o,version:i,match:r}},{}],16:[function(t,n,e){function r(t,n){var e=[],r="",i=0;for(r in t)o.call(t,r)&&(e[i]=n(r,t[r]),i+=1);return e}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],17:[function(t,n,e){function r(t,n,e){n||(n=0),"undefined"==typeof e&&(e=t?t.length:0);for(var r=-1,o=e-n||0,i=Array(o<0?0:o);++r<o;)i[r]=t[n+r];return i}n.exports=r},{}],18:[function(t,n,e){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],19:[function(t,n,e){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(17),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;n.exports=function(t,n){function e(t,n,e,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof e?e(r,a):e||{}}catch(f){l([f,"",[r,a,o],s])}u(n+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(d){throw u(n+"err",[r,a,d],s),d}finally{u(n+"end",[r,a,c],s)}}return r(t)?t:(n||(n=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function u(e,r,o){if(!c||n){var i=c;c=!0;try{t.emit(e,r,o,n)}catch(a){l([a,e,r,o])}c=i}}function d(t,n){if(Object.defineProperty&&Object.keys)try{var e=Object.keys(t);return e.forEach(function(e){Object.defineProperty(n,e,{get:function(){return t[e]},set:function(n){return t[e]=n,n}})}),n}catch(r){l([r])}for(var o in t)s.call(t,o)&&(n[o]=t[o]);return n}function l(n){try{t.emit("internal-error",n)}catch(e){}}return t||(t=o),e.inPlace=f,e.flag=a,e}},{}],ee:[function(t,n,e){function r(){}function o(t){function n(t){return t&&t instanceof r?t:t?c(t,s,i):i()}function e(e,r,o,i){if(!l.aborted||i){t&&t(e,r,o);for(var a=n(o),s=m(e),c=s.length,f=0;f<c;f++)s[f].apply(a,r);var d=u[g[e]];return d&&d.push([b,e,r,a]),a}}function p(t,n){y[t]=m(t).concat(n)}function h(t,n){var e=y[t];if(e)for(var r=0;r<e.length;r++)e[r]===n&&e.splice(r,1)}function m(t){return y[t]||[]}function v(t){return d[t]=d[t]||o(e)}function w(t,n){f(t,function(t,e){n=n||"feature",g[e]=n,n in u||(u[n]=[])})}var y={},g={},b={on:p,addEventListener:p,removeEventListener:h,emit:e,get:v,listeners:m,context:n,buffer:w,abort:a,aborted:!1};return b}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var s="nr@context",c=t("gos"),f=t(16),u={},d={},l=n.exports=o();l.backlog=u},{}],gos:[function(t,n,e){function r(t,n,e){if(o.call(t,n))return t[n];var r=e();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(t,n,e){function r(t,n,e,r){o.buffer([t],r),o.emit(t,n,e)}var o=t("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(t,n,e){function r(t){var n=typeof t;return!t||"object"!==n&&"function"!==n?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");n.exports=r},{}],loader:[function(t,n,e){function r(){if(!E++){var t=x.info=NREUM.info,n=p.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&n))return u.abort();f(g,function(n,e){t[n]||(t[n]=e)}),c("mark",["onload",a()+x.offset],null,"api");var e=p.createElement("script");e.src="https://"+t.agent,n.parentNode.insertBefore(e,n)}}function o(){"complete"===p.readyState&&i()}function i(){c("mark",["domContent",a()+x.offset],null,"api")}function a(){return O.exists&&performance.now?Math.round(performance.now()):(s=Math.max((new Date).getTime(),s))-x.offset}var s=(new Date).getTime(),c=t("handle"),f=t(16),u=t("ee"),d=t(15),l=window,p=l.document,h="addEventListener",m="attachEvent",v=l.XMLHttpRequest,w=v&&v.prototype;NREUM.o={ST:setTimeout,SI:l.setImmediate,CT:clearTimeout,XHR:v,REQ:l.Request,EV:l.Event,PR:l.Promise,MO:l.MutationObserver};var y=""+location,g={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1118.min.js"},b=v&&w&&w[h]&&!/CriOS/.test(navigator.userAgent),x=n.exports={offset:s,now:a,origin:y,features:{},xhrWrappable:b,userAgent:d};t(12),p[h]?(p[h]("DOMContentLoaded",i,!1),l[h]("load",r,!1)):(p[m]("onreadystatechange",o),l[m]("onload",r)),c("mark",["firstbyte",s],null,"api");var E=0,O=t(18)},{}]},{},["loader",2,10,4,3]);</script><meta name="viewport" content="width=device-width, minimum-scale=1, initial-scale=1, user-scalable=yes"><link hreflang="en" href="https://www.destructoid.com/" /><script data-cfasync>
+function loadGalleries(gSelect, gTitle) {
+
+		var initPhotoSwipeFromDOM = function(gallerySelector, galleryTitle) {
+
+			var parseThumbnailElements = function(el) {
+			    var thumbElements = el.childNodes,
+			        numNodes = thumbElements.length,
+			        items = [],
+			        el,
+			        childElements,
+			        thumbnailEl,
+			        size,
+			        item;
+
+			    for(var i = 0; i < numNodes; i++) {
+			        el = thumbElements[i];
+
+			        // include only element nodes
+			        if(el.nodeType !== 1) {
+			          continue;
+			        }
+
+			        childElements = el.children;
+
+			        size = el.getAttribute('data-size').split('x');
+
+			        // create slide object
+			        item = {
+						src: el.getAttribute('href'),
+						w: parseInt(size[0], 10),
+						h: parseInt(size[1], 10),
+						author: el.getAttribute('data-author')
+			        };
+
+			        item.el = el; // save link to element for getThumbBoundsFn
+
+			        if(childElements.length > 0) {
+			          item.msrc = childElements[0].getAttribute('src'); // thumbnail url
+			          if(childElements.length > 1) {
+			              item.title = childElements[1].innerHTML; // caption (contents of figure)
+			          }
+			        }
+
+
+					var mediumSrc = el.getAttribute('data-med');
+		          	if(mediumSrc) {
+		            	size = el.getAttribute('data-med-size').split('x');
+		            	// "medium-sized" image
+		            	item.m = {
+		              		src: mediumSrc,
+		              		w: parseInt(size[0], 10),
+		              		h: parseInt(size[1], 10)
+		            	};
+		          	}
+		          	// original image
+		          	item.o = {
+		          		src: item.src,
+		          		w: item.w,
+		          		h: item.h
+		          	};
+
+			        items.push(item);
+			    }
+
+			    return items;
+			};
+
+			// find nearest parent element
+			var closest = function closest(el, fn) {
+			    return el && ( fn(el) ? el : closest(el.parentNode, fn) );
+			};
+
+			var onThumbnailsClick = function(e) {
+			    e = e || window.event;
+			    e.preventDefault ? e.preventDefault() : e.returnValue = false;
+
+			    var eTarget = e.target || e.srcElement;
+
+			    var clickedListItem = closest(eTarget, function(el) {
+			        return el.tagName === 'A';
+			    });
+
+			    if(!clickedListItem) {
+			        return;
+			    }
+
+			    var clickedGallery = clickedListItem.parentNode;
+
+			    var childNodes = clickedListItem.parentNode.childNodes,
+			        numChildNodes = childNodes.length,
+			        nodeIndex = 0,
+			        index;
+
+			    for (var i = 0; i < numChildNodes; i++) {
+			        if(childNodes[i].nodeType !== 1) {
+			            continue;
+			        }
+
+			        if(childNodes[i] === clickedListItem) {
+			            index = nodeIndex;
+			            break;
+			        }
+			        nodeIndex++;
+			    }
+
+			    if(index >= 0) {
+			        openPhotoSwipe( index, clickedGallery );
+			    }
+			    return false;
+			};
+
+			var photoswipeParseHash = function() {
+				var hash = window.location.hash.substring(1),
+			    params = {};
+
+			    if(hash.length < 5) { // pid=1
+			        return params;
+			    }
+
+			    var vars = hash.split('&');
+			    for (var i = 0; i < vars.length; i++) {
+			        if(!vars[i]) {
+			            continue;
+			        }
+			        var pair = vars[i].split('=');
+			        if(pair.length < 2) {
+			            continue;
+			        }
+			        params[pair[0]] = pair[1];
+			    }
+
+			    if(params.gid) {
+			    	params.gid = parseInt(params.gid, 10);
+			    }
+
+			    return params;
+			};
+
+			var openPhotoSwipe = function(index, galleryElement, disableAnimation, fromURL) {
+			    var pswpElement = document.querySelectorAll('.pswp')[0],
+			        gallery,
+			        options,
+			        items;
+
+				items = parseThumbnailElements(galleryElement);
+
+			    // define options (if needed)
+			    options = {
+
+			        //galleryUID: galleryElement.getAttribute('data-pswp-uid'),
+				galleryUID: 258506,
+
+			        getThumbBoundsFn: function(index) {
+			            // See Options->getThumbBoundsFn section of docs for more info
+			            var thumbnail = items[index].el.children[0],
+			                pageYScroll = window.pageYOffset || document.documentElement.scrollTop,
+			                rect = thumbnail.getBoundingClientRect();
+
+			            return {x:rect.left, y:rect.top + pageYScroll, w:rect.width};
+			        },
+
+			        addCaptionHTMLFn: function(item, captionEl, isFake) {
+						if(!item.title) {
+							captionEl.children[0].innerText = '';
+							return false;
+						}
+						captionEl.children[0].innerHTML = item.title +  '<br/><small>Photo: ' + item.author + '</small>';
+						return true;
+			        }
+
+			    };
+
+
+			    if(fromURL) {
+			    	if(options.galleryPIDs) {
+			    		// parse real index when custom PIDs are used
+			    		// //photoswipe.com/documentation/faq.html#custom-pid-in-url
+			    		for(var j = 0; j < items.length; j++) {
+			    			if(items[j].pid == index) {
+			    				options.index = j;
+			    				break;
+			    			}
+			    		}
+				    } else {
+				    	options.index = parseInt(index, 10) - 1;
+				    }
+			    } else {
+			    	options.index = parseInt(index, 10);
+			    }
+
+			    // exit if index not found
+			    if( isNaN(options.index) ) {
+			    	return;
+			    }
+
+
+
+				var radios = document.getElementsByName('gallery-style');
+				for (var i = 0, length = radios.length; i < length; i++) {
+				    if (radios[i].checked) {
+				        if(radios[i].id == 'radio-all-controls') {
+
+				        } else if(radios[i].id == 'radio-minimal-black') {
+				        	options.mainClass = 'pswp--minimal--dark';
+					        options.barsSize = {top:0,bottom:0};
+							options.captionEl = false;
+							options.fullscreenEl = false;
+							options.shareEl = false;
+							options.bgOpacity = 0.85;
+							options.tapToClose = true;
+							options.tapToToggleControls = false;
+				        }
+				        break;
+				    }
+				}
+
+			    if(disableAnimation) {
+			        options.showAnimationDuration = 0;
+			    }
+
+			    // Pass data to PhotoSwipe and initialize it
+			    gallery = new PhotoSwipe( pswpElement, PhotoSwipeUI_Default, items, options);
+
+			    // see: //photoswipe.com/documentation/responsive-images.html
+				var realViewportWidth,
+				    useLargeImages = false,
+				    firstResize = true,
+				    imageSrcWillChange;
+
+				gallery.listen('beforeResize', function() {
+
+					var dpiRatio = window.devicePixelRatio ? window.devicePixelRatio : 1;
+					dpiRatio = Math.min(dpiRatio, 2.5);
+				    realViewportWidth = gallery.viewportSize.x * dpiRatio;
+
+
+				    if(realViewportWidth >= 1200 || (!gallery.likelyTouchDevice && realViewportWidth > 800) || screen.width > 1200 ) {
+				    	if(!useLargeImages) {
+				    		useLargeImages = true;
+				        	imageSrcWillChange = true;
+				    	}
+
+				    } else {
+				    	if(useLargeImages) {
+				    		useLargeImages = false;
+				        	imageSrcWillChange = true;
+				    	}
+				    }
+
+				    if(imageSrcWillChange && !firstResize) {
+				        gallery.invalidateCurrItems();
+				    }
+
+				    if(firstResize) {
+				        firstResize = false;
+				    }
+
+				    imageSrcWillChange = false;
+
+				});
+
+				gallery.listen('gettingData', function(index, item) {
+				    if( useLargeImages ) {
+				        item.src = item.o.src;
+				        item.w = item.o.w;
+				        item.h = item.o.h;
+				    } else {
+				        item.src = item.m.src;
+				        item.w = item.m.w;
+				        item.h = item.m.h;
+				    }
+				});
+
+				// After changing slide
+                                gallery.listen('afterChange', function() {
+                                        var currImg = gallery.currItem;
+                                        var pageTitle = "Gallery for " + gTitle + "  - Image " + gallery.getCurrentIndex();
+                                        ga('set', 'page', currImg.src);
+                                        ga('set', 'title', pageTitle);
+                                        ga('send', 'pageview');
+
+
+
+                                                                        });
+
+
+			    gallery.init();
+			};
+
+			// select all gallery elements
+			var galleryElements = document.querySelectorAll( gallerySelector );
+			for(var i = 0, l = galleryElements.length; i < l; i++) {
+				galleryElements[i].setAttribute('data-pswp-uid', i+1);
+				galleryElements[i].onclick = onThumbnailsClick;
+			}
+
+			// Parse URL and open gallery if it contains #&pid=3&gid=1
+			var hashData = photoswipeParseHash();
+			if(hashData.pid && hashData.gid) {
+				openPhotoSwipe( hashData.pid,  galleryElements[ hashData.gid - 1 ], true, true );
+			}
+		};
+
+		initPhotoSwipeFromDOM(gSelect, gTitle);
+	};
+</script><link rel="canonical" href="https://www.destructoid.com/review-dota-2-258506.phtml"><head prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><meta property="og:type" content="article" /><meta property="fb:app_id" content="141821669174947" /><meta property="og:url" content="https://www.destructoid.com/review-dota-2-258506.phtml" /><meta property="og:title" content="Review: Dota 2" /><meta property="og:image" content="https://cdn.destructoid.com//ul/258506-spread.jpg" /><meta property="og:author" content="Patrick Hancock"><meta property="og:site_name" content="destructoid"><meta name="twitter:description" content="Review: Dota 2"><meta name="description" content="The original Defense of the Ancients, a custom map for Warcraft III, became a hit almost instantly. Chances are, if you were playing Warcraft around that time, you've played a round or two of DotA. Since then standalone games like League of..."><meta name="live_date" content="2013-07-24 14:00:00"><meta property="al:web:url" content="https://www.destructoid.com/review-dota-2-258506.phtml"><meta name="keywords" content="Dota 2,Free-to-play,MOBA,pc,reviews,steam,Top Stories,Valve,,destructoid, video game, game reviews, gaming news"><title>Review: Dota 2</title><link rel="stylesheet" type="text/css" href="/sites/_default/css/theme-white-01.css?min2017aug" title="default"><link rel="stylesheet" type="text/css" href="/sites/_default/css/main2018.css?june257am"><link rel="stylesheet" media="screen" type="text/css" href="/sites/_default/css/media-queries-2018.css?min2017aug"><link rel="stylesheet" type="text/css" href="/sites/_default/css/jquery-ui.css"><link rel="stylesheet" href="/sites/_default/css/font-awesome.css"><link rel="stylesheet" href="/sites/_default/css/titillium-local.css"><link rel="stylesheet" type="text/css" href="/sites/_default/css/remodal.css"><link rel="stylesheet" type="text/css" href="/sites/_default/css/remodal-default-theme.css"><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><link type="application/atom+xml" rel="alternate" title="destructoid RSS Feed" href="https://www.destructoid.com/?mode=atom"><link rel="shortcut icon" href="https://bulk2.destructoid.com/img/2015/ico/destructoid/favicon.png"><link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://bulk2.destructoid.com/img/2015/ico/destructoid/apple-touch-icon-144-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://bulk2.destructoid.com/img/2015/ico/destructoid/apple-touch-icon-114-precomposed.png"><link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://bulk2.destructoid.com/img/2015/ico/destructoid/apple-touch-icon-72-precomposed.png"><link rel="apple-touch-icon-precomposed" href="https://bulk2.destructoid.com/img/2015/ico/destructoid/apple-touch-icon-57-precomposed.png"></head><body><div id="div-gpt-ad-1491417377896-0" style="    position: fixed;
+    margin-left: 50%;
+    left: -1168px;
+    top: 0px;
+    z-index: 0;"></div>
+<div id="sitewrapper_dtoid" class="public" data-name="sitewrapper_dtoid"><div style="width:100%;  max-width:978px; background-color:#222;   text-align:right; padding:10px 17px 10px 20px;"><div style="float:left; width:75%; text-align:left; font-size:85%;"><a href="https://forum.nintendoenthusiast.com" target="_blank">Join us! Nintendo Enthusiast Forums</a></div><a style="font-size:75%" href="/user_edit_userprefs.phtml?action=socialhome"><i class="fa fa-toggle-off" aria-hidden="true"></i> dark &nbsp; &nbsp; &nbsp; &nbsp; </a></div><header id="dtoid_siteheader" style="background-color:#222; margin:0px; padding:0px; width:100%;"><div id="siteheader_top"><div id="top_logobar"><div id="logobar_block"><a href="/" id="block_logoicon"><img data-src="https://www.destructoid.com/sites/_default/img/top-nav/destructoid-logo.png" alt="Destructoid" style="height:100px; width:100px;"></a><div id="block_logotext" style="font-size:10px; color:#ccc"><a href="/"><img data-src="/sites/_default/img/top-nav/destructoid-logo-name.png" width="350" style="margin-top:10px;" alt="Destructoid"></a><BR></div></div><div id="logobar_infologin"><div id="infologin_col1"><div id="login_uaccount"><a rel="nofollow" href="/user-login.phtml?backto=review-dota-2-258506.phtml"><i class="fa fa-key"></i>&nbsp; Log in</a><span> &nbsp; &nbsp; &nbsp;	</span><a rel="nofollow" href="/user-signup.phtml?category=Sign%20Up"><i class="fa fa-arrow-right"></i>&nbsp; Sign up</a></div></div><div id="infologin_col2"><a id="uaccount_photo" class="" href="/user-login.phtml?backto=/review-dota-2-258506.phtml" style="background-image: url('/sites/_default/img/top-nav/account-icon.png');">&nbsp;</a></div></div></div><nav id="top_mainnav" class="dropdown"><ul id="mainnav_contentfilter"><ul id="mainnav_platformfilter" class="collapse navbar-collapse" style="float:left; margin-right:10px;"><li><a href="" data-toggle="dropdown" data-submenu>TOPICS</a><ul id="platformfilter_mobile" class="dropdown-menu"><li><a href="https://www.destructoid.com/?t=PS4">PS4</a></li><li><a href="https://www.destructoid.com/?t=Nintendo%20Switch">Switch</a></li><li><a href="https://www.destructoid.com/?t=Xbox%20One">Xbox One</a></li><li><a href="https://www.destructoid.com/?t=PC">PC</a></li><li><a href="https://www.destructoid.com/?t=3ds">3DS</a></li><li><a href="https://www.destructoid.com/?t=ps%20vita">PS Vita</a></li><li><a href="https://www.destructoid.com/index.phtml?t=Flixist">Film & Movies</li><li><a href="https://www.destructoid.com/index.phtml?t=Japan">Japanese Games</li><li><a href="https://www.destructoid.com/?t=Virtual%20reality">Virtual Reality</a></li><li><a href="https://www.destructoid.com/?t=Action">Action</a></li><li><a href="https://www.destructoid.com/?t=Indie">Indie</a></li><li><a href="https://www.destructoid.com/?t=Fighting%20games">Fighting</a></li><li><a href="https://www.destructoid.com/?t=MMO">MMO</a></li><li><a href="https://www.destructoid.com/?t=Music%20games">Music</a></li><li><a href="https://www.destructoid.com/?t=platform%20games">Platformers</a></li><li><a href="https://www.destructoid.com/?t=puzzle%20games">Puzzle</a></li><li><a href="https://www.destructoid.com/?t=Racing%20games">Racing</a></li><li><a href="https://www.destructoid.com/?t=Role-Playing%20games">RPGs</a></li><li><a href="https://www.destructoid.com/?t=Sports">Sports</a></li><li><a href="https://www.destructoid.com/?t=first-person%20shooter">Shooters</a></li><li><a href="https://www.destructoid.com/?t=Strategy%20Games">Strategy</a></li><li><a href="tag_cloud.phtml">More topics</a></li></ul></li></ul><li><a href="/products-index.phtml?filt=reviews&date_s=desc&category=">REVIEWS</a></li><ul id="mainnav_platformfilter" class="collapse navbar-collapse" style="style=margin-left:0px;"><li><a href="" data-toggle="dropdown" data-submenu style="font-weight:normal">VIDEOS</a><ul id="platformfilter_mobile" class="dropdown-menu" style="width:110px; font-size:14px !important"><li><a href="/?t=trailers">Trailers</a></li><li><a href="/video-pregamedischarge.phtml">Pregame Discharge</a></li><li><a href="/?t=video">All videos</a></li></ul></ul><li><a href="/popular-posts.phtml">POPULAR</a><li><a href="/blogs/?qp=1">COMMUNITY BLOGS</a></li></ul></nav><div id="top_sitesearch"><form action="https://www.destructoid.com/search.phtml" id="searchbox_009275597616460404995:kghl5ewotmq" target="_top"><input type="hidden" name="cx" value="009275597616460404995:kghl5ewotmq"><input id="sitesearch_searchfield" value="search" onfocus="if(this.value==='search') this.value='';" onblur="if(this.value==='') this.value='search';" type="text" name="q"><input type="hidden" name="cof" value="FORID:11"></form></div></div></header><div style="width:100%; clear:both; text-align:center; padding: 10px 0 10px 0"><div id="div-gpt-ad-1491417377896-6" adonis-marker></div><span class='bt-uid-tg' uid='5accfc16df-12' style='display: none !important'></span>
+</div><script>var disqus_config = function() {this.page.api_key = "gn1AmWyo9i83qDfsv3DI7DKtPDLs7oeD0WkMRXM6YptFdLmM6ZmrQoMPWN56aS0i"};    var disqus_shortname = 'destructoid'; 
+    var disqus_identifier = 'destructoid_258506';
+    var disqus_url = 'https://www.destructoid.com/review-dota-2-258506.phtml';
+ 
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//destructoid.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script><noscript><BR><B>Can't see comments?</b> 
+
+
+  EasyList, Avast, and other blockers break Disqus. Tweak your extensions, brosef.  
+ 
+ </noscript><div id="middle_content-wrapper" class="reviews-postwrapper" data-pk="258506"><div id="post"></div><div id="articleContainer"><BR><div id="greview_gphoto" style="height:1px"></div><div id="storypost_article"><section id="article_posttop"><h1 style="margin-top:0px;"><a href="https://www.destructoid.com/review-dota-2-258506.phtml" style="color:#000; font-style:normal !important; letter-spacing:0px !important;">Review: Dota 2</h1><div id="posttop_byline"><span id="byline_datetime">2013-07-24 14:00:00</span><span id="byline_authorhandle"><a href="/?name=Patrick+Hancock&a=112487&start=0&chaos=ok">by Patrick Hancock</a></span></div></section><div id="article_postcontent"><a class="post-comments cmts2 bigger" href="https://www.destructoid.com/review-dota-2-258506.phtml#disqus_thread" data-disqus-identifier="destructoid_258506">0</a><div id="postcontent_post"><p><span id="subtitle-large">Lion and Tinker and Bane, oh my!</span></p><div id="bannerad_side" style="margin-right:-30px; padding-top:30px;"><div id="div-gpt-ad-1491417377896-1" adonis-marker></div><span class='bt-uid-tg' uid='5accfbd26b-12' style='display: none !important'></span>
+</div><p>The original <i>Defense of the Ancients</i>, a custom map for <i>Warcraft III</i>, became a hit almost instantly. Chances are, if you were playing <i>Warcraft</i> around that time, you've played a round or two of <i>DotA</i>. Since then standalone games like <i>League of Legends </i>or <i>Heroes of Newerth </i>have risen up, following the basic idea that <i>DotA</i> popularized way back when.</p>
+<p>Finally, after some legal issues and a very long beta phase, <i>Dota 2</i> has been officially released. Less of a sequel and more of an enhanced edition, <i>Dota 2</i> is still very much a work in progress as all of the original Heroes have yet to be ported over to Valve's Source engine edition of the game. Even so, one of the original creators, "Icefrog," is on board with Valve and has continually worked to improve the game in order to create one of the best in the genre -- one that has even become its own sport.</p>
+<p>Best of all, it's free-to-play with no hoops to jump through.</p><p><strong><em><img src="../ul/258506-review-dota-2/main%20menu-620x.jpg" border="0" /></em></strong></p>
+<p><strong><em>Dota 2</em> (Linux, Mac, PC[reviewed])<em><br /></em></strong><strong>Developer: Valve<br /></strong><strong>Publisher: Valve<br /></strong><strong>Release Date: July 9, 2013<br /></strong><strong>MSRP: Free-to-play<br /></strong><strong><strong>Rig:&nbsp;<strong>AMD 7850 Dual-Core 2.80 GHz, &nbsp;4 GB of RAM, GeForce GTX 560 Ti, and Windows 7 64-bit.&nbsp;</strong>&nbsp;</strong>&nbsp;</strong></p>
+<p><i>Dota 2</i> is what most people would call a "Multiplayer Online Battle Arena," or MOBA for short, but some may call it a <i>DotA-like</i> or an "action RTS (ARTS)" or who knows what else. The bottom line is you control one Hero unit in a team of five against another team of five Heroes on a single map. The goal is to destroy the enemy team's "Ancient," a towering structure at the center of their base. In order to do so, players need to work as a team, level up, destroy a series of towers that defend the enemy "lanes," and push their way into the enemy base.</p>
+<p>The only way to move is to right click around the map, similar to how RTS games like <i>StarCraft</i> control. Anyone who has played an ARPG like <i>Diablo</i> or an RTS will feel right at home when navigating a unit in <i>Dota 2</i>.</p>
+<p>Each Hero has a set of abilities, usually four in total, and can increase their effectiveness by gaining experience and leveling up. Experience can be gained by killing a multitude of things around the map: little AI enemy units called Creeps, bigger neutral AI units in various spots, or enemy Heroes. Each ability, with the exception of the fourth, can be leveled up four times in any order the player so chooses.</p>
+<p>The fourth ability is considered the Hero's Ultimate ability. Sometimes this ability is what defines the Hero, other times it's simply a nice skill to add to an arsenal. Hell, occasionally leveling up the Ultimate ability is <i>avoided</i> for most of the match. The order in which the player levels up the Hero's abilities is called a "build," and while most players tend to stick to a certain order, there's no real penalty for pulling a Fleetwood Mac and going your own way.</p>
+<p><img src="../ul/258506-review-dota-2/rubick%20in%20river-620x.jpg" border="0" /></p>
+<p>Killing stuff also awards Gold, which is used to purchase items and buy back into the game. The latter option is straightforward: when dead, a player can spend an amount of gold (determined by the Hero's level) to instantly respawn instead of waiting the allotted amount of time. The concept is simple, but knowing <i>when</i> to buy back into the game is the hard part, and will always vary given the situation at hand.</p>
+<p>As for items, well there's a whole lot of them. They&nbsp;can be bought from anywhere on the map, but can only be retrieved from specific locations. Knowing which items are good for specific Heroes and <b>why</b> will take time, but Valve has done a great job of putting "suggested items" on the shop menus, ensuring that even the newest of players can at least be on the right track.</p>
+<p>There is a <i>lot</i> of diversity in the items that players pick up for specific Heroes; everybody has their own item preferences. Buying a single item can alter the behavior of a player dramatically, as can the exact moment during the match in which that item is bought. Each Hero can be played in many ways when various skill and item builds are taken into account, and even two identical Hero builds played by different players can result in quite diverse outcomes.</p>
+<p><img src="../ul/258506-review-dota-2/sniper%20tut-620x.jpg" border="0" /></p>
+<p>Feeling overwhelmed yet? Don't worry, just take a deep breath.</p>
+<p>There is a tutorial available for new players to jump into right from the start, and it actually does a decent job of introducing players to the overwhelming amount of information present in <i>Dota 2</i>. The basics like moving, attacking, and getting gold/experience are taught through an RPG-style scripted tutorial. Aimed towards completely new players, this tutorial serves its purpose well enough to reduce any initial feelings of stress for those unfamiliar with the genre.</p>
+<p>The tutorial eventually has players playing 1v1 matches against a bot (AI opponent), progressing to full matches with nine other bots. The biggest problem arises when it has players compete against real humans for a few matches -- it doesn't guarantee that players will be playing with other new people. <span style="text-decoration: line-through;">Since the tutorial awards cosmetic items as rewards, players of all skill levels will complete it and be placed into these matchmaking games.</span>&nbsp;(EDIT: Valve has fixed this issue, and veteran players have been given the cosmetic item regardless of whether or not they have completed the matchmaking portion of the tutorial. The paragraph suggesting a fix has been removed. The review score remains unchanged.)</p>
+<p><img src="../ul/258506-review-dota-2/all%20pick-620x.jpg" border="0" /></p>
+<p>There are a few different game modes to experience, though all but one play exactly the same (5v5 matches). The only difference between the modes comes at the hero selection screen before the match begins. All Pick mode allows players to choose from any hero currently in <i>Dota 2</i> on a first-come first-served basis and is a great mode to practice one specific hero of your choosing. The other modes limit the Hero selection in some way: Single Draft only gives each player three Heroes to choose from, Random Draft chooses 20 Heroes at random for everyone to choose from; Least Played forces players to choose from their least played Heroes; and All Random gives each player a random Hero.</p>
+<p>Captain's Mode is the "professional" method of choosing Heroes and is by far the most interesting selection method. Each team alternates banning and choosing Heroes until a total of ten Heroes are banned and ten are chosen (five for each team). The amount of planning and strategy that goes into each and every pick is incredibly stressful and is always interesting to watch on a professional level.</p>
+<p>Playing Captain's Mode can be a mixed bag with strangers as teammates, as the captain is randomly chosen. Without communication, a team can be left with a captain who picks and bans whoever they please, often to the dismay of their fellow teammates. Communication is certainly important in each mode in order to create decent team compositions, but this applies tenfold to Captain's Mode.</p>
+<p><img src="../ul/258506-review-dota-2/am%20doing%20stuff-620x.jpg" border="0" /></p>
+<p>Chances are, everyone has heard of the prototypical MOBA player being excessively cynical towards other players. And yes, it's true that I've received more trash-talk from <i>fellow teammates</i> in <i>Dota 2</i> than any other game that comes to mind. Likely due to the importance of each team member within any given match, this behavior is regrettably common. Fortunately, however, Valve has implemented some ways to help quell the overwhelming force of buttheads.</p>
+<p>Reporting is fairly straightforward and can be used to punish more than just the angry text chat abusers. Multiple categories exist for reporting other players, including chat abuse and griefing. It's not guaranteed that action will be taken against these players, but if it is, the player who reported them will get a notification saying so. It is also possible for players to receive a communication ban, which prevents them from typing or voice chatting.</p>
+<p>On the flip side, there is also a commendation system, allowing players to reward others for <i>not </i>being gigantic asshats. This doesn't have much of an effect on the player, other than being displayed in their profile for others to see. It does help reputation for item trading, but that's about it.</p>
+<p><a href="http://blog.dota2.com/2013/05/communication-reports/">According to Valve</a>, the reporting system is working pretty well. Yes, there are still buttheads that will swear and curse up a storm if any player makes even the slightest mistake, but it's easy enough to simply ignore them and move on. Just stay calm, don't get worked up, and be the bigger person.</p>
+<p><img src="../ul/258506-review-dota-2/captains%20mode-620x.jpg" border="0" /></p>
+<p>On top of actually <b>playing</b> <i>Dota 2</i>, Valve has made it incredibly easy to <b>watch</b> <i>Dota 2</i>. In fact, I watched hours and hours of <i>Dota 2</i> matches before I even thought about joining a real match in order to better learn the game. It is incredibly easy to watch popular matches going on live or even a match that a user on your Friends List is in. The client will also let players know when there are live professional tournaments taking place in case they want to tune in.</p>
+<p>While watching a match, both the commentators and spectators have perfect control over what they see. Spectators can allow the camera to be controlled by any commentators who are also spectating the match, as well as hearing their commentary straight from the client itself. Spectators can also choose to control the camera themselves, have it follow a hero, or have the game decide where the action is. There is a slight delay in the broadcast, so no cheating can be arranged.</p>
+<p>Spectators can also text chat to each other, but I'll just recommend that you turn the spectator chat off, unless you'd like to hear a lot of criticisms from people who always claim to be better than those actually playing, regardless of who it is. There is even a slight possibility to earn unique items while watching <i>Dota 2 </i>tournaments from within the game client, incentivizing players to do so. Spectating has come a long way in <i>Dota 2</i>, and it seems to be getting better every week.</p>
+<p><img src="../ul/258506-review-dota-2/store-620x.jpg" border="0" /></p>
+<p><i>Dota 2</i> may be free-to-play, but you would never know it. Absolutely nothing that has any gameplay value can be bought with real money. Cosmetic items make up the bulk of the store, with other items like tournament viewing tickets, Profile XP boosts (<em>not</em> in-game XP or advantages), and keys battling for your cash. Every Hero is free, and no in-game advantages even exist for purchase.</p>
+<p>On top of that, items will drop randomly at the end of matches and will always drop to a player who levels up their profile. Profile XP is awarded at the end of each match, and doesn't mean much except to gain more items. Really, it's a business model that not many can pull off, yet Valve can execute with maximum efficiency. Cosmetic items are a veritable gold mine for Valve and the items' creators, rewarding the obvious amount of hard work that goes into each item. Many of them really are amazing.</p>
+<p><i>Dota 2</i> has been updating <b>weekly</b> for years now. Every Thursday, a new update comes to the main client, bringing bug fixes, balance changes, and sometimes new Heroes. Not all of the Heroes from <i>Defense of the Ancients</i> have made their way into <i>Dota 2</i> quite yet, so there is still plenty of work to do in that regard. This isn't a free-to-play game that will get support for a year and then die off; <i>Dota 2</i> will be around forever. Valve is already the king of free-to-play games thanks to <i>Team Fortress 2</i>, and they aren't giving up their crown any time soon.</p>
+<p><img src="../ul/258506-review-dota-2/compendium%20teams-620x.jpg" border="0" /></p>
+<p>They tell me that <i>Dota 2</i> runs on the Source engine, but I just don't believe them. The game looks great, though some of the models are a bit rough when viewed up close. The models and textures are constantly being updated, and specific Heroes definitely look better than others for now, but that will likely be fixed in the future.</p>
+<p>The voice acting is what really steals the show in <i>Dota 2</i>. Valve has, unsurprisingly, gotten top-notch voice actors to portray the Heroes, with many of them double-, triple-, or quadruple-dipping when it comes to doing voices. Not only do the voices reflect the characters, but the one-liners are well written, well performed, and convey a wide range of emotions in such a small amount of space. I personally find some of the best-performed heroes to include Timbersaw, Io, Ogre Magi, and Earthshaker.</p>
+<p>There are quite a few bugs still in <i>Dota 2</i>, however, and I'm not so sure they will ever all go away. A game this big, with this frequency of updates, is bound to have some bugs to be worked out. Some are more heinous than others, and the worst ones tend to be squashed pretty quickly. That doesn't excuse their presence however, since when they do rear their ugly heads it can be quite frustrating.</p>
+<p><img src="../ul/258506-review-dota-2/bestmaster-620x.jpg" border="0" /></p>
+<p><i>Dota 2</i> is many things to many people: it's a great way to kill an afternoon with friends; it's a spectator sport platform with its own <a href="http://dota2lounge.com/">item-betting scene</a>; it's a hobby; it's a <i>profession</i>, and a way to make a living. It isn't perfect and likely never will be, as each update tends to fix bugs and introduce new ones, and the tutorial could certainly use some work. However, with zero cost to play and one of the highest skill ceilings of any game I've ever encountered, <i>Dota 2</i> is a modern multiplayer masterpiece.&nbsp;</p><P><IMG SRC="https://cdn.destructoid.com//ul/258506-spread.jpg');"></P><p><p>
+You are logged out. <a href="/user_login.phtml">Login</a> | <a href="/user_signup.phtml">Sign up</a></p><div class="cb-break">&nbsp;</div><div style="text-align:center; width:100%"><center><div id="div-gpt-ad-1491417377896-3" adonis-marker></div><span class='bt-uid-tg' uid='5accfbfa31-12' style='display: none !important'></span>
+</center></div><div class="cb-break">&nbsp;</div></p></center><div class="clrdiv">&nbsp;</div><p class="center"><b>Dota 2</b> reviewed by Patrick Hancock</p><div id="post_gverdict"><div class="gscore scr9-5"><span>9.5</span></div><div id="gverdict_closing"><h4 style="color:#fff">SUPERB</h4><p>A hallmark of excellence. There may be flaws, but they are negligible and won't cause massive damage.<BR><B>How we score:&nbsp;&nbsp;<a href="//www.destructoid.com/the-official-destructoid-review-guide-2011-203909.phtml">The destructoid reviews guide</a></B><BR></p></div><div id="gverdict_imgclip">&nbsp;</div><div id="gverdict_img" style="background-image: url('https://cdn.destructoid.com//ul/258506-spread.jpg');">&nbsp;</div></div><div class="clrdiv">&nbsp;</div><div id="post_sharethis"><BR><a href="https://twitter.com/share?url=http%3A%2F%2Fwww.destructoid.com%2Freview-dota-2-258506.phtml"><img src="sites/_default/img/body/sm_twitter.png" alt="Twitter" /></a><a href="https://www.reddit.com/submit?url=http%3A%2F%2Fwww.destructoid.com%2Freview-dota-2-258506.phtml"><img src="sites/_default/img/body/sm_reddit.png" alt="Reddit" /></a><a href="/cdn-cgi/l/email-protection#ccf3bfb9aea6a9afb8f19ea9baa5a9bbe9ff8de788a3b8ade7feeaaea3a8b5f1a4b8b8bce9ff8de9fe8ae9fe8abbbbbbe2a8a9bfb8beb9afb8a3a5a8e2afa3a1e9fe8abea9baa5a9bbe1a8a3b8ade1fee1fef9f4f9fcfae2bca4b8a1a0"><img src="sites/_default/img/body/sm_email.png" alt="Email" /></a><a href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.destructoid.com%2Freview-dota-2-258506.phtml"><img src="sites/_default/img/body/sm_facebook.png" alt="Facebook" /></a></div><div class="clrdiv">&nbsp;</div></div><section id="article_postauthor"><div id="postauthor_photo"><div id="photo_author"><a href="/?name=Patrick+Hancock&a=112487&start=0&chaos=ok"><img src="https://www.destructoid.com/ul/user/1/112487-8ea3a-300.jpg" alt="Patrick Hancock" /></a></div></div><div id="postauthor_bio"><h5><B></B>Patrick Hancock</B><a class="icon_button" href="/user_inbox_compose.phtml?to=Patrick+Hancock"><i class="fa fa-envelope-o"></i></a><a class="icon_button" href="//www.twitter.com/therealhancock"><i class="fa fa-twitter"></i></a><span style="width:100%">Contributor &nbsp; <a href="/?a=112487&name=Patrick+Hancock&chaos=ok&start=0" style="color:#d20200">gamer profile</a></span></h5><div id="bio_content"><BR>During the day, he teaches high school kids about history. At night he kicks their butts in competitive games like Rocket League, Dota 2, Overwatch, and Counter-Strike. Disclosure: I've persona...&nbsp;<a href="/?a=112487&name=Patrick+Hancock&chaos=ok&start=0" style="color:#d20200">more + disclosures</a></div></div></section><BR><BR clear="all"><div style="width:300px; margin:auto; padding:7px; background-color:#cc0000; text-align:center"><a href="/user-signup.phtml" style="color:#fff">create your own gaming blog</a></div><div class="clrdiv">&nbsp;</div><BR><BR><div class="clrdiv">&nbsp;</div><BR><BR><B><h3 style="text-decoration:none;">Also on destructoid:
+<a href="http://www.destructoid.com/products_detail.phtml?p=Dota+2&c=news" target="_blank">Dota 2 &nbsp;
+(58)</b>
+&nbsp; <i class="fa fa-external-link" style="font-size:70%"></i></a><span>From our database:</span></h3></a><li style="padding:5px;"><a href="dota-2-s-massive-international-tournament-moved-to-canada-494581.phtml">Dota 2's massive International tournament moved to Canada - Chris Carter</a><BR><li style="padding:5px;"><a href="dota-2-is-getting-a-new-monthly-subscription-and-a-controversial-in-game-ai-helper-494101.phtml">Dota 2 is getting a new monthly subscription and a controversial in-game AI helper - Chris Carter</a><BR><li style="padding:5px;"><a href="this-tricky-dota-2-pro-play-involving-wards-is-worth-studying-493298.phtml">This tricky DOTA 2 pro play involving wards is worth studying - Chris Carter</a><BR><li style="padding:5px;"><a href="capcom-submit-okami-s-amaterasu-as-a-potential-dota-2-courier-476459.phtml">Capcom submit Okami's Amaterasu as a potential DOTA 2 courier - Chris Moyse</a><BR><li style="padding:5px;"><a href="dota-2-s-long-awaited-campaign-is-unwelcoming-unique-441112.phtml">Dota 2's long awaited campaign is unwelcoming, unique - Chris Carter</a><BR><li style="padding:5px;"><a href="valve-has-a-new-co-op-campaign-out-for-dota-2-440617.phtml">Valve has a new co-op campaign out for Dota 2 - Jordan Devore</a><BR><li style="padding:5px;"><a href="dota-2-is-getting-a-co-op-mode-in-support-of-the-international-2017-434687.phtml">Dota 2 is getting a co-op mode in support of The International 2017 - Peter Glagowski</a><BR><li style="padding:5px;"><a href="want-to-play-ranked-in-dota-2-you-ll-need-to-give-valve-your-phone-number-432374.phtml">Want to play ranked in Dota 2? You'll need to give Valve your phone number - Chris Carter</a><BR><li style="padding:5px;"><a href="modders-are-angry-at-valve-s-recent-handling-of-dota-2-429150.phtml">Modders are angry at Valve's recent handling of Dota 2 - Chris Carter</a><BR><li style="padding:5px; font-weight:bold;"><a href="http://www.destructoid.com/products_detail.phtml?p=Dota+2&c=news" target="_blank">More related stories</a><hr>
+Filed under...
+<a href="/tag.phtml?t=Dota+2&start=0" style="margin-right:10px;">
+#Dota 2</a><a href="/tag.phtml?t=Free-to-play&start=0" style="margin-right:10px;">
+#Free-to-play</a><a href="/tag.phtml?t=MOBA&start=0" style="margin-right:10px;">
+#MOBA</a><a href="/tag.phtml?t=pc&start=0" style="margin-right:10px;">
+#pc</a><a href="/tag.phtml?t=reviews&start=0" style="margin-right:10px;">
+#reviews</a><a href="/tag.phtml?t=steam&start=0" style="margin-right:10px;">
+#steam</a><a href="/tag.phtml?t=Top+Stories&start=0" style="margin-right:10px;">
+#Top Stories</a><a href="/tag.phtml?t=Valve&start=0" style="margin-right:10px;">
+#Valve</a><div style="width:100%"><div id='div-gpt-ad-1491417377896-2' style="float:right; width:300px; height:250px;" class="hideonmobile" adonis-marker></div><div id='div-gpt-ad-1491417377896-3' adonis-marker></div></div></strong></b><h4>READER COMMENTS LOADING BELOW...</H4><div id="disqus_thread"></div><hr><h4>LET'S KEEP THE COMMUNITY GREAT</h4><BR></b></strong><small style="font-weight:normal">
+You're not expected to always agree, but do please keep cool and never make it personal. Report harassment, spam, and hate speech to <a href="/cdn-cgi/l/email-protection#385b5755554d56514c41785c5d4b4c4a4d5b4c57515c165b5755">our community team</a>. Also, on the right side of a comment you can flag nasty comments <B>anonymously</b> (we ban users dishing <a href="/community-blogs-terms-and-conditions-77513.phtml">bad karma</a>). For everything else, <a href="/contact-us.phtml">contact us!</a></small><br><BR><center><div id="div-gpt-ad-1491417377896-7" adonis-marker></div><BR><BR></center><script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script>var disqus_config = function() {this.page.api_key = "gn1AmWyo9i83qDfsv3DI7DKtPDLs7oeD0WkMRXM6YptFdLmM6ZmrQoMPWN56aS0i"};    var disqus_shortname = 'destructoid'; 
+    var disqus_identifier = 'destructoid_258506';
+    var disqus_url = 'https://www.destructoid.com/review-dota-2-258506.phtml';
+ 
+(function() { // DON'T EDIT BELOW THIS LINE
+var d = document, s = d.createElement('script');
+
+s.src = '//destructoid.disqus.com/embed.js';
+
+s.setAttribute('data-timestamp', +new Date());
+(d.head || d.body).appendChild(s);
+})();
+</script><noscript><B>Can't see comments?</b> 
+
+ EasyList, Avast, and other blockers break Disqus. Tweak your extensions, brosef.
+ </noscript><script type="text/javascript" src="//destructoid.disqus.com/popular_threads_widget.js?num_items=9"></script><div class="clrdiv">&nbsp;</div><div class="clrdiv">&nbsp;</div></div></div></div></div><div class="clrdiv">&nbsp;</div><div class="clrdiv">&nbsp;</div><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script><script data-cfasync src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script><script data-cfasync src="https://code.jquery.com/jquery-migrate-1.2.1.min.js"></script><script data-cfasync="false" id="dsq-count-scr" src="//destructoid.disqus.com/count.js" data-cfasync="true" async></script><script data-cfasync="true" src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script><script src="//www.destructoid.com//photoswipe-2.min.js"></script><script src="//www.destructoid.com/photoswipe.min.js"></script><script data-cfasync="true">
+  var pst = $("#articleContainer");
+  var pcounter = 20;
+  var postAdCount = 1;
+  var removeAd = 0;
+  var oUrl = window.location.pathname.substring(1);
+  var nk = $(".reviews-postwrapper").data("pk");
+
+  $(window).data('readytogo', true).scroll(function(e) {
+    pst = $("#articleContainer");
+    if ($(window).data('readytogo') == false)
+    {
+      return;
+    }
+    else if ($(window).scrollTop() >= (pst.offset().top + pst.outerHeight()) - window.innerHeight)
+    {
+      $(window).data('readytogo', false);
+      pst.append("<div id='page_loader' style='width:100%;text-align:center;background-color:#fff'><img src='/sites/_default/img/loading/loading1.gif' id='loadImg'></div>");
+      pst.append($("<div>").load("/posts-related.phtml?start=" + pcounter + "&sp=" + nk + " .reviews-postwrapper:first", function() {
+        $("#loadImg").remove();
+        var pTitle = "Destructoid." + $(this).find("h1").text() +".Page";
+        var pUrl = $(this).find("a").attr("href");
+
+        pcounter++;
+
+        ga('set', 'page', pUrl);
+        ga('set', 'title', pTitle);
+        ga('send', 'pageview');
+
+        
+
+        DISQUSWIDGETS.getCount({reset: true});
+        $(window).lazyLoadXT({edgeY:  500});
+      }));
+
+      pst.append("<center><div id='dynamic-post-ad-" + postAdCount + "'></div><center>");
+
+      if(typeof window.setSlot !== undefined){
+        setSlot("dynamic-post-ad-" + postAdCount, window.slotNum, window.dynUnit, window.dynSizes);
+      }
+
+      postAdCount++;
+
+      setTimeout(function(){
+        $(window).data('readytogo', true);
+      }, 1000);
+    }
+  });
+</script><script data-cfasync="true" type="text/javascript"> 
+				function openDir( form ) { 
+					var newIndex = form.fieldname.selectedIndex; 
+					if ( newIndex == 0 ) { 
+						alert( "How many faps?" ); 
+					} else { 
+						cururl = form.fieldname.options[ newIndex ].value; 
+						window.location.assign( cururl ); 
+					} 
+				} 
+</script><script data-cfasync="true" type="text/javascript">
+//$(document).ready(function() { $(".upv-upvote").bind('click', upvote); });
+</script><script data-cfasync="true" type="text/javascript">
+ function toggle_more_info() {
+  if ($('#more-information').is(':visible')) {
+   $('#more-information').slideUp();
+   $('#footer-button a').html('More Information');
+  } else {
+   $('#more-information').slideDown();
+   $('#footer-button a').html('Back');
+  }
+ }
+     function toggler(divId) {
+      $("#" + divId).toggle();
+    }
+</script><script data-cfasync="true" type="text/javascript">
+function limitText(limitField, limitCount, limitNum) {
+	if (limitField.value.length > limitNum) {
+		limitField.value = limitField.value.substring(0, limitNum);
+	} else {
+		limitCount.value = limitNum - limitField.value.length;
+	}
+}
+</script><script data-cfasync="true" type="text/javascript">
+var upvoted = function(data){
+	id = "#v" + data;
+	num = $(id).text();
+
+	if (isNaN(Number(num) + 1))
+	{
+		$(id + ".upv-upvote").text(1);
+	}
+
+	else
+	{
+		$(id + ".upv-upvote").text(Number(num) + 1);
+	}
+}
+
+var upvote = function(e) {
+	e.preventDefault();
+	pk = $(this).parent().attr('id').substring(1);
+	$.post('/userblog_vote_up_action.phtml', { pk: pk }, upvoted);
+}
+
+
+var downvoted = function(data){
+	id = "#v" + data;
+	num = $(id).text();
+	$(id + ".upv-upvote").text(Number(num) - 1);
+}
+
+var downvoted = function() {
+	pk = $(this).attr('id');
+	$.post('/userblog_vote_up_action.phtml', { pk: pk }, upvoted);
+}
+</script><script data-cfasync="true" type="text/javascript" src="/sites/_default/js/jquery.themepunch.revolution.min.js"></script><script data-cfasync="true" type="text/javascript" src="/sites/_default/js/jquery.themepunch.plugins.min.js"></script><script data-cfasync="true" type="text/javascript" src="/sites/_default/js/juxtapose.js"></script><script data-cfasync="true" src="/js/bower_components/footable/js/footable.js"></script><script data-cfasync="true" src="/js/infinite-scroll/jquery.infinitescroll.js"></script><script data-cfasync="true" src="/js/bower_components/footable/js/footable.paginate.js"></script><script data-cfasync="true" src="/js/remodal.js"></script><script data-cfasync="true">
+$(document).ready(function(){
+
+$(".upv-upvote").bind('click', upvote);
+
+
+
+$.extend($.lazyLoadXT, {
+  edgeY:  800,
+  srcAttr: 'data-src'
+});
+
+});
+</script><script data-cfasync="true">
+
+$("#postcontent_post iframe").parent().addClass("flex-video");
+$("#postcontent_post p iframe").parent().addClass("flex-video");
+$("p p iframe").parent().addClass("flex-video");
+$("p p iframe").parent().addClass("flex-video");
+$("p p object").parent().addClass("flex-video");
+$("p p embed").parent().addClass("flex-video");
+$("p iframe").parent().addClass("flex-video");
+$("p object").parent().addClass("flex-video");
+$("p div embed").parent().addClass("flex-video");
+$("p span embed").parent().addClass("flex-video");
+$("p embed").parent().addClass("flex-video");
+$("p span embed").parent().addClass("flex-video");
+</script><script data-cfasync src="/sites/_default/js/jquery.fitvids.js"></script><script data-cfasync>
+  $(document).ready(function(){
+    // Target your .container, .wrapper, .post, etc.
+    $(".flex-video").fitVids();
+    $(".video-container").fitVids();
+  });
+</script><script data-cfasync="false">
+        function sendPic(imgUrl)
+        {
+		$(".fp__btn").prop("disabled", "true");
+		$(".fp__btn").text("Success!");
+		$("#picDiv").html("<BR><BR><img src='" + imgUrl + "' height='42' width='42'>");
+		$("#imgUrl").val(imgUrl);
+	}
+
+	$("#vidBtn").on("click", function(e){
+		e.preventDefault();
+		
+		if ($("#vidBtn").text().indexOf("Youtube") > -1)
+		{
+			$("#vidBtn").html("<i class='fa fa-youtube-play'></i> &nbsp;&nbsp;Remove Video");
+			$("#videoField").show();
+		}
+
+		else
+		{
+			$("#vidBtn").html("<i class='fa fa-youtube-play'></i> &nbsp;&nbsp;Youtube");
+			$("#videoLink").val("");
+			$("#videoField").hide();
+		}
+	});
+</script><script data-cfasync="true">
+        function sendPic2(imgUrl)
+        {
+		$(".fp__btn").prop("disabled", "true");
+		$(".fp__btn").text("Success!");
+		$("#picDiv").html("<img src='" + imgUrl + "' width='32'><BR><BR>Copy/Paste this in: <span style='background-color:yellow;color:black;padding:20px;'>[img]" + imgUrl + "[/img]</span><BR><BR>");
+		$("#imgUrl").val(imgUrl);
+	}
+</script><script>
+window.REMODAL_GLOBALS = {
+        DEFAULTS: {
+            hashTracking: false
+        }
+    };
+
+$(document).on('closed', '.remodal', function (e) {
+	$("#modal1Desc").html("");
+        $("#modal1Title").html("");
+});
+
+$(".watchLnk").on("click", function(e){
+  getVid($(this).data("vidcode"), $(this).data("vidtitle"), $(this).data("purl"));
+});
+
+function getVid(code, title, purl)
+{
+	$.ajax({url: '/get_vid.phtml',
+            type: "POST",
+            data: {
+                     vidcode: "[embed]" + code + "[/embed]"
+                  }
+        }).done(function(data) {
+               $("#modal1Desc").html(data);
+	       $("#modal1Title").html(title);
+               $("#modal1Desc").fitVids();
+		var pTitle = "Destructoid." + title +" - Featured Video.Page";
+
+		ga('set', 'page', purl);
+                ga('set', 'title', pTitle);
+                ga('send', 'pageview');
+
+             
+        });
+}
+
+$(".galLnk").live("click", function(e){
+  e.preventDefault();
+  if ($(this).hasClass("clicked"))
+  {
+	return false;
+  }
+
+  else
+  {
+	$(this).addClass("clicked");
+  	getGal($(this).data("pk"));
+  }
+});
+
+function getGal(post)
+{
+	$("#galDiv" + post).append("Loading gallery... <img src='https://www.destructoid.com/sites/_default/img/loading/loading1.gif' width='80' height='80'><br/>");
+	$("#galDiv" + post).load("/get_gal.phtml?pk=" + post, function(){
+		$("#galLnk" + post).hide();
+		$(".galLnk" + post).hide();});
+}
+
+</script><script src="/js/jquery.lazyloadxt.js" data-cfasync="false"></script>
+

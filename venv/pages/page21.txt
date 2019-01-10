@@ -1,0 +1,602 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+	<link href="http://www.dota2.com/public/css/global.css?v=b4890656" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/blog.css?v=kBwbC1D04B1b" rel="stylesheet" type="text/css" >
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+	<title>Game Updates</title>
+
+			
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+</head>
+<body>
+<center>
+
+
+
+	<div id="navBarBGRepeat" class="DotaFont">
+		<div id="navBarBG">
+			<div id="navBar">
+								
+												<div id="navLoginAndLanguage">
+
+																												<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=news%2Fupdates%2F">Login</a>
+										
+					<span id="HeaderAdminSeperator" class="DotaFont">|</span>
+
+					<div id="languageSelector" class="DotaFont">
+						<a href="javascript:void(0)">Language</a> <img style="margin-bottom: 2px;" src="http://cdn.dota2.com/apps/dota2/images/header/small_arrow.png" width="5px" height="3px" border="0" /><br />
+						<div style="display:none;" id="languageList">
+																						<a class="DotaFont languageItem" href="?l=brazilian">Português - Brasil (Portuguese - Brazil)</a>
+																						<a class="DotaFont languageItem" href="?l=bulgarian">Български (Bulgarian)</a>
+																						<a class="DotaFont languageItem" href="?l=czech">Čeština (Czech)</a>
+																						<a class="DotaFont languageItem" href="?l=danish">Dansk (Danish)</a>
+																						<a class="DotaFont languageItem" href="?l=dutch">Nederlands (Dutch)</a>
+																													<a class="DotaFont languageItem" href="?l=finnish">Suomi (Finnish)</a>
+																						<a class="DotaFont languageItem" href="?l=french">Français (French)</a>
+																						<a class="DotaFont languageItem" href="?l=german">Deutsch (German)</a>
+																						<a class="DotaFont languageItem" href="?l=greek">Ελληνικά (Greek)</a>
+																						<a class="DotaFont languageItem" href="?l=hungarian">Magyar (Hungarian)</a>
+																						<a class="DotaFont languageItem" href="?l=italian">Italiano (Italian)</a>
+																						<a class="DotaFont languageItem" href="?l=japanese">日本語 (Japanese)</a>
+																						<a class="DotaFont languageItem" href="?l=koreana">한국어 (Korean)</a>
+																						<a class="DotaFont languageItem" href="?l=norwegian">Norsk (Norwegian)</a>
+																						<a class="DotaFont languageItem" href="?l=polish">Polski (Polish)</a>
+																						<a class="DotaFont languageItem" href="?l=portuguese">Português (Portuguese)</a>
+																						<a class="DotaFont languageItem" href="?l=russian">Русский (Russian)</a>
+																						<a class="DotaFont languageItem" href="?l=romanian">Română (Romanian)</a>
+																						<a class="DotaFont languageItem" href="?l=schinese">简体中文 (Simplified Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=spanish">Español - España (Spanish - Spain)</a>
+																						<a class="DotaFont languageItem" href="?l=swedish">Svenska (Swedish)</a>
+																						<a class="DotaFont languageItem" href="?l=tchinese">繁體中文 (Traditional Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=thai">ไทย (Thai)</a>
+																						<a class="DotaFont languageItem" href="?l=turkish">Türkçe (Turkish)</a>
+																						<a class="DotaFont languageItem" href="?l=ukrainian">Українська (Ukrainian)</a>
+													</div>
+					</div>
+				</div>
+
+
+				<a href="http://store.steampowered.com/app/570/Dota_2/"><div id="PlayForFreeButton">
+					Play for Free
+				</div></a>
+
+									<span class="navItem navItemDotaLogo">
+						<a class="navBarItem DotaFont" href="http://www.dota2.com/play/">
+							<img border="0" class="DotaLogo" src="http://cdn.dota2.com/apps/dota2/images/nav/logo.png"/>
+						</a>
+					</span>
+
+											<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://blog.dota2.com/">News</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://www.dota2.com/store/">Store</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="javascript:void(0)">Heropedia</a>
+								<div style="display:none;" class="menuSubItemList">
+																				<a class="DotaFont" href="http://www.dota2.com/heroes/">Heroes</a>
+																				<a class="DotaFont" href="http://www.dota2.com/items/">Item Explorer</a>
+																				<a class="DotaFont" href="http://www.dota2.com/workshop/builds">Builds</a>
+																				<a class="DotaFont" href="https://steamcommunity.com/app/570/guides" target="_blank">Steam Guides</a>
+																				<a class="DotaFont" href="http://www.dota2.com/quiz">The Shopkeeper's Quiz</a>
+														</div>
+								<img class="dn_arrow" src="http://cdn.dota2.com/apps/dota2/images/nav/arrow.png"/>
+							</span>
+																		</div>
+		</div>
+	</div>
+<script language="javascript">
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function PreloadHeaderImages()
+	{
+		//  Preload header rollover images
+		//MM_preloadImages(
+		//);
+	}
+
+			if ( document.addEventListener ) {
+		document.addEventListener( "DOMContentLoaded", PreloadHeaderImages, false );
+	} else if ( document.attachEvent ) {
+		document.attachEvent( 'onDomContentLoaded', PreloadHeaderImages );
+	}
+
+</script>
+
+
+
+	<script language="javascript">
+		function closeSubMenu( target ) {
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow.png" );
+			$(target).find('.menuSubItemList').hide();
+		}
+
+		function closeAllSubMenus() {
+			$('.navItem').each( function() {
+				closeSubMenu( $(this) );
+			});
+		}
+
+		function openSubMenu( target ) {
+			closeAllSubMenus();
+
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow_over.png" );
+
+			// Show the sub-menu
+			var subItemList = $(target).find('.menuSubItemList');
+			if ( subItemList.length ) {
+				var itemTop = $(target).position().top + $(target).outerHeight() - 16;
+				var itemLeft = $(target).position().left;
+				subItemList
+					.css({
+						"top": itemTop + 'px',
+						"left": itemLeft
+					})
+					.fadeIn( 'fast' );
+			}
+		}
+
+		$(document).ready( function () {
+			// Deal with the nav bars
+			$('.navItem').each( function() {
+				$(this).hover( function () {
+					$(this)
+						.find('a.navBarItem img.top')
+						.animate({
+							"opacity": 1
+						}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						openSubMenu( this );
+					}
+				},
+				function () {
+					$(this)
+					.find('a.navBarItem img.top')
+					.animate({
+						"opacity": 0
+					}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						closeSubMenu(this);
+					}
+				}
+				);
+			});
+
+			// Deal with header drop-downs
+			var strMenus = '#languageSelector';
+			
+			$(strMenus).each( function() {
+				$(this).hover( function () {
+					//show its submenu
+					$( this ).find( 'div' ).fadeIn( 'fast' );
+				},
+				function () {
+					//hide its submenu
+					$( this ).find( 'div' ).hide();
+				}
+				);
+			});
+		});
+
+	</script>
+
+<div id="calloutHeader" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/bg_five_heroes.jpg');">
+    <div id="calloutHeaderLink">
+        <div id="calloutHeaderLink"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="938" height="377" border="0" />
+    </div>
+</div>
+<div id="mainContentSideBG">
+	<div id="mainContentBG">
+		<div id="mainContent">
+			<div id="rightColHeaderImage"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_bg_top.png" width="292" height="24" border="0" /></div>
+			<div id="tabArea">
+				<!--<img id="tabAreaBG" src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/tabs_bg.png" width="659" height="61" border="0" />-->
+				<div style="margin-left:4px;">
+					<a href="http://blog.dota2.com/" class="btn_tab fl_left" style="text-transform:uppercase">
+						<div class="btn_left"></div>
+						<div class="btn_right"></div>
+						BLOG					</a>
+						<div class="tab_split"></div>
+					<a href="http://www.dota2.com/news/updates/" class="btn_tab_on fl_left" style="text-transform:uppercase">
+						<div class="btn_left"></div>
+						<div class="btn_right"></div>
+						UPDATES					</a>
+					<div class="tab_split"></div>
+				</div>
+			</div>
+
+			<div id="primary" ><!-- begin sidebar -->
+								<a class="hoverBG" id="rightColGetDotaLink" href="http://store.steampowered.com/app/570/"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="264" height="77" border="0" /></a>
+								<div id="rightColPlayerCount"><div id="rightColPlayerCountNum">10,192,508</div></div>
+               <a class="hoverBG rcbLink" href="http://www.dota2.com/duelingfates/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_duelingfates.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a> 
+								<div id="recentPostsTopBar"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_recentposts_top.png" width="294" height="10" border="0" /></div>
+				<div id="recentPostsSearchArea" class="valve_widget_recent_entries">
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/47429/">Dota 2 Update - January 8th, 2019</a>
+						<div class="recent_entry_date">Jan. 8, 2019</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/47404/">Dota 2 Update - January 7th, 2019</a>
+						<div class="recent_entry_date">Jan. 7, 2019</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/46659/">Dota 2 Update - December 9th, 2018</a>
+						<div class="recent_entry_date">Dec. 9, 2018</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/46630/">Dota 2 Update - December 7th, 2018</a>
+						<div class="recent_entry_date">Dec. 7, 2018</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/46426/">Dota 2 Update - November 30th, 2018</a>
+						<div class="recent_entry_date">Nov. 30, 2018</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/46220/">Dota 2 Update - November 24th, 2018</a>
+						<div class="recent_entry_date">Nov. 24, 2018</div>
+					</div>
+					<div class="recent_entry">
+						<a href="http://www.dota2.com/news/updates/46217/">Dota 2 Update - November 24th, 2018</a>
+						<div class="recent_entry_date">Nov. 24, 2018</div>
+					</div>
+					<br />
+					<div id="recentPostsBottomBar"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_recentposts_bot.png" width="294" height="10" border="0" /></div>
+				</div>
+				
+				<a class="hoverBG" id="lbLink" href="http://www.dota2.com/leaderboards/" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_leaderboards.png');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="262" height="48" border="0" /></a>
+
+				<div id="rightColDotaLinks">
+					<a id="dotaLinkImgFacebook" class="rightColDotaLinkImg" href="http://www.facebook.com/pages/Dota-2/106876872711112" target="_blank"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/link_icon_facebook.png" width="23" height="23" border="0" /></a>
+					<a id="dotaLinkFacebook" class="rightColDotaLink" href="http://www.facebook.com/pages/Dota-2/106876872711112" target="_blank">Facebook</a>
+
+					<a id="dotaLinkImgTwitter" class="rightColDotaLinkImg" href="http://twitter.com/DOTA2" target="_blank"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/link_icon_twitter.png" width="24" height="24" border="0" /></a>
+					<a id="dotaLinkTwitter" class="rightColDotaLink" href="http://twitter.com/DOTA2" target="_blank">Twitter</a>
+
+					<a id="dotaLinkImgYoutube" class="rightColDotaLinkImg" href="http://www.youtube.com/user/dota2" target="_blank"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/link_icon_youtube.png" width="20" height="24" border="0" /></a>
+					<a id="dotaLinkYoutube" class="rightColDotaLink" href="http://www.youtube.com/user/dota2" target="_blank">YouTube</a>
+
+					<a id="dotaLinkImgSteam" class="rightColDotaLinkImg" href="http://store.steampowered.com/app/570/" target="_blank"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/link_icon_steam.png" width="24" height="24" border="0" /></a>
+					<a id="dotaLinkSteam" class="rightColDotaLink" href="http://store.steampowered.com/app/570/" target="_blank">Steam</a>
+				</div>
+								<a class="hoverBG rcbLink" href="http://www.dota2.com/international/overview/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_ti7.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+								<a class="hoverBG rcbLink" href="http://www.dota2.com/international/battlepass" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_ti7_battle_pass.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/700" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_700a.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/darkrift" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_darkrift.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/international/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_ti6.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/international/battlepass" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rightcol_ti6battlepass.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com.cn/theshanghaimajor/english/overview" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_theshanghaimajor2016.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/winter2016" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_winterbattlepass2016.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/balanceofpower" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_balanceofpower.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.thefrankfurtmajor.com/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_frankfurt2015.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/reborn/updates/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_rebornupdates.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/international/overview/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_ti5.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/international/compendium/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_ti5compendium.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/newbloom/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_newbloom15.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/shiftingsnows/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_shiftingsnows.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/oracle/day2/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_foreseerscontract.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/rekindlingsoul/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_rekindlingsoul.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/techies/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_techies.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/international/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_international4.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.freetoplaythemovie.com/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_freetoplay.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+                <a class="hoverBG rcbLink" href="http://www.dota2.com/newbloom2014/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_newbloom.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/wraithnight/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_wraithnight.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/threespirits/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_3spirits.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/firstblood/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_firstblood.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/thebetaisover/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_betaover.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/international2013/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_international3.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/greeviling/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_greeviling.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/diretide/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_diretide.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/aegisofchampions/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_aegis.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/tournaments/international2012/mainevent/results/champions/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_international2.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/spoilsofwar/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_spoils.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/tournaments/international2011/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_international1.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://store.steampowered.com/video/570/81026" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_trailer.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				<a class="hoverBG rcbLink" href="http://www.dota2.com/comics/are_we_heroes_yet/" target="_blank" style="background-image:url('http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/rcb_comic.jpg');"><img src="http://cdn.dota2.com/apps/dota2/images/trans.gif" width="256" height="164" border="0" /></a>
+				
+				<div id="rightColFeedback">
+					<div id="feedbackForums">
+						<a href="http://dev.dota2.com" target="_blank">Feedback Forums</a><br />
+						For general feedback about the game.					</div>
+					<div id="feedbackContact">
+						<a href="http://www.valvesoftware.com/email.php?recipient=Dota+2+Team" target="_blank">Contact the Team</a><br />
+						To contact us directly about specific matters.					</div>
+					<div id="feedbackSupport">
+						<a href="http://support.steampowered.com" target="_blank">Steam Support</a><br />
+						Visit the support site for any issues you may be having with the game or Steam.					</div>
+				</div>
+
+				<div id="rightColLanguages">
+								</div>
+				<br /><br />
+			</div><!-- end sidebar -->
+
+			<div id="mainLoop"><!-- begin main post area -->
+				<div id="post-47429">
+					<h2 class="entry-title"><a href="http://www.dota2.com/news/updates/47429/" rel="bookmark">Dota 2 Update - January 8th, 2019</a></h2>
+
+					<div class="entry-meta">
+						January 8, 2019 - Valve					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						* Added missing skirt to the Mistress of the Long Night set. Players who have already unbundled the set and own a Belt of the Long Night will be granted a corresponding Skirt of the Long Night.							<br clear="left" />
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+				<!-- inter-post rule -->
+				<div class="dota_rule">
+				</div>
+				<div id="post-47404">
+					<h2 class="entry-title"><a href="http://www.dota2.com/news/updates/47404/" rel="bookmark">Dota 2 Update - January 7th, 2019</a></h2>
+
+					<div class="entry-meta">
+						January 7, 2019 - Valve					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						* Frosthaven has now ended.<br>* The Frostivus consumables bundle no longer contains Frosthaven consumables. Its price has been lowered to 750 to reflect this.							<br clear="left" />
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+				<!-- inter-post rule -->
+				<div class="dota_rule">
+				</div>
+				<div id="post-46659">
+					<h2 class="entry-title"><a href="http://www.dota2.com/news/updates/46659/" rel="bookmark">Dota 2 Update - December 9th, 2018</a></h2>
+
+					<div class="entry-meta">
+						December 9, 2018 - Valve					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						7.20e:<br>==<br>* Wraith Band: Bonus agility reduced from +8 to +6 (cost reduced by 25)<br>* Bracer: Bonus strength reduced from +8 to +6 (cost reduced by 25)<br>* Null Talisman: Bonus intelligence reduced from +8 to +6 (cost reduced by 25)<br>* Power Treads: Bonus damage reduced from 16 to 12<br><br>* Anti-Mage: Counterspell duration reduced from 1.4 to 1.2<br>* Anti-Mage: Counterspell manacost increased from 40 to 45/50/55/60<br>* Beastmaster: Level 25 Talent reduced from +40 Inner Beast Attack Speed to +30<br>* Brewmaster: Drunken Brawler critical damage reduced from 200/220/240/260% to 170/200/230/260%<br>* Brewmaster: Drunken Brawler cooldown increased from 20/19/18/17 to 23/21/19/17<br>* Bristleback: Strength gain increased from 2.2 to 2.5<br>* Bristleback: Bristleback now considers damage from towers as valid<br>* Chaos Knight: Chaos Strike lifesteal increased from 35/45/55/65% to 50/55/60/65%<br>* Dark Seer: Surge speed reduced from 36/54/72/90% to 30/45/60/75%<br>* Dazzle: Poison Touch cast range reduced from 600/700/800/900 to 500/600/700/800<br>* Dazzle: Poison Touch manacost increased from 80/100/120/140 to 95/110/125/140<br>* Dazzle: Shallow Grave cooldown increased from 60/45/30/15 to 60/46/32/18<br>* Death Prophet: Spirit Siphon charge replenish time reduced from 60/55/50/45 to 60/52/44/36<br>* Death Prophet: Exorcism damage increased from 56-61 to 59-64<br>* Ember Spirit: Strength increased from 20 + 2.4 to 21 + 2.6<br>* Grimstroke: Ink Swell max stun duration reduced from 1.7/2.4/3.1/3.8 to 1.4/2.2/3/3.8<br>* Grimstroke: Soulbind cooldown increased from 90/70/50 to 100/75/50<br>* Gyrocopter: Agility gain increased from 2.8 to 3.1<br>* Huskar: Level 10 Talent reduced from +20 Damage to +15<br>* Juggernaut: Omnislash bonus damage from 30/45/60 to 30/40/50<br>* Keeper of the Light: Will-O-Wisp off period increased from 1.75 to 1.85<br>* Keeper of the Light: Will-O-Wisp AoE increased from 650 to 675<br>* Lifestealer: Agility gain increased from 1.9 to 2.4<br>* Lina: Base armor increased by 1<br>* Lone Druid: Base movement speed reduced from 340 to 330<br>* Lone Druid: Spirit Bear movement speed increased from 340/350/360/370 to 340/355/370/385<br>* Lone Druid: Level 10 Talent reduced from +150 Attack Range to +125<br>* Lone Druid: Level 20 Talent improved from -0.2 Spirit Bear Base Attack Time to -0.3<br>* Magnus: Empower bonus damage reduced from 20/30/40/50 to 10/20/30/40%<br>* Magnus: Empower cleave reduced from 20/38/56/74% to 14/34/54/74%<br>* Magnus: Reverse Polarity cooldown increased from 120 to 130<br>* Night Stalker: Dark Ascension cooldown reduced from 160/140/120 to 140/130/120<br>* Outworld Devourer: Equilibrium mana restore from 80/100/120/140% to 65/90/115/140%<br>* Phantom Assassin: Phantom Strike duration reduced from 2.25 to 2<br>* Phantom Assassin: Stifling Dagger manacost increased from 30/25/20/15 to 30<br>* Phantom Assassin: Coup de Grace critical damage reduced from 210/330/450% to 200/325/450%<br>* Phantom Assassin: Blur manacost increased from 30 to 50<br>* Puck: Base armor increased by 1<br>* Puck: Illusory Orb cooldown reduced from 14/13/12/11 to 13/12/11/10<br>* Queen of Pain: Agility increased from 18 + 2 to 22 + 2.2<br>* Queen of Pain: Scream of Pain manacost reduced from 110/120/130/140 to 95/110/125/140<br>* Riki: Base damage increased by 3<br>* Sand King: Sand Storm damage reduced from 25/50/75/100 to 20/40/60/80<br>* Shadow Fiend: Base armor increased by 1<br>* Slark: Level 20 talent reduced from +1.5s Pounce Leash to +1.25s<br>* Spectre: Haunt illusion damage increased from 40/55/70% to 40/60/80%<br>* Storm Spirit: Base damage increased by 2<br>* Sven: Base movement speed increased from 290 to 295<br>* Sven: Warcry shield health is 25% stronger on your hero<br>* Terrorblade: Metamorphosis movement speed loss increased from 25 to 30<br>* Undying: Flesh Golem cooldown increased from 110 to 125<br>* Undying: Level 10 Talent reduced from +10 Health Regen to +8<br>* Ursa: Base movement speed increased from 305 to 315<br>* Venomancer: Poison Nova damage increased from 30/55/80 to 40/65/90							<br clear="left" />
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+				<!-- inter-post rule -->
+				<div class="dota_rule">
+				</div>
+				<div id="post-46630">
+					<h2 class="entry-title"><a href="http://www.dota2.com/news/updates/46630/" rel="bookmark">Dota 2 Update - December 7th, 2018</a></h2>
+
+					<div class="entry-meta">
+						December 7, 2018 - Valve					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						* Minor CPU performance improvements with certain types of art content<br>* Reworked the Global Item Loadout page to make shuffling items easier to work with.<br>* Fixed Last Hit Trainer bugs<br>* Various SFM improvements (material overrides, health bars, etc)<br>* Fountain damage now cancels effects similar to hero damage (e.g. salve, heart, blink), and now has 25% Accuracy (Note: This change was added in an update last week)							<br clear="left" />
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+				<!-- inter-post rule -->
+				<div class="dota_rule">
+				</div>
+				<div id="post-46426">
+					<h2 class="entry-title"><a href="http://www.dota2.com/news/updates/46426/" rel="bookmark">Dota 2 Update - November 30th, 2018</a></h2>
+
+					<div class="entry-meta">
+						November 30, 2018 - Valve					</div><!-- .entry-meta -->
+
+					<div class="entry-content">
+						7.20d:<br>==<br><br><br>* Melee heroes below 300 base movement speed increased by 5<br><br>* Tranquil Boots: Movement speed reduced from +28% to +24%<br>* Power Treads: Attribute bonus increased from 12 to 14<br>* Phase Boots: Now has the active again instead of the passive<br>* Mask of Madness: Movement speed changed from +12% to +25 constant<br>* Yasha: Movement speed changed from +8% to +25 constant<br>* Manta Style: Movement speed changed from +8% to +25 constant<br>* Sange and Yasha: Movement speed changed from +12% to +35 constant<br>* Yasha and Kaya: Movement speed changed from +12% to +35 constant<br>* Wraith Band: Recipe cost increased from 220 to 240<br>* Bracer: Recipe cost increased from 220 to 240<br>* Null Talisman: Recipe cost increased from 220 to 240<br><br>* Axe: Counter Helix damage reduced from 75/110/145/180 to 60/100/140/180<br>* Axe: Level 15 Talent reduced from +4 Mana Regen to +3<br>* Brewmaster: Primal Split cooldown increased from 140/120/100 to 140/130/120<br>* Brewmaster: Level 10 talent reduced from +30 Damage to +20<br>* Clinkz: Burning Army damage type changed from Pierce to Hero type (50% vs heroes to 100%)<br>* Clinkz: Burning Army base attack time increased from 1.5/1.35/1.2 to 1.75/1.6/1.45<br>* Dazzle: Intelligence gain reduced from 3.4 to 3.2<br>* Dazzle: Bad Juju cooldown reduction reduced from 30/40/50% to 20/35/50%<br>* Elder Titan: Level 25 Talent changed from Astral Spirit Grants Spell Immunity to +600 Echo Stomp Wake Damage<br>* Ember Spirit: Base armor increased by 1<br>* Faceless Void: Time Lock chance reduced from 10/15/20/25% to 10/14/18/22%<br>* Faceless Void: Level 10 Talent reduced from +20 Damage to +15<br>* Grimstroke: Ink Swell max damage reduced from 160/240/320/400 to 100/200/300/400<br>* Grimstroke: Ink Swell max stun duration reduced from 2/2.6/3.2/3.8 to 1.7/2.4/3.1/3.8<br>* Grimstroke: Soul Bind cooldown increased from 80/65/50 to 90/70/50<br>* Io: Tether heal/mp transfer rate from 1.2/1.3/1.4/1.5 to 1.05/1.2/1.35/1.5<br>* Juggernaut: Omnislash now removes debuffs on cast<br>* Juggernaut: Level 15 Talent reduced from +25 Attack Speed to +20<br>* Keeper of the Light: Will-o-Wisp now has a 100/125/150 gold bounty<br>* Keeper of the Light: Will-o-wisp manacost increased from 200/300/400 to 250/350/450<br>* Lich: Base movement speed reduced from 315 to 310<br>* Magnus: Empower cleave damage reduced from 30/45/60/75% to 20/38/56/74%<br>* Magnus: Level 15 Talent reduced from +15 Strength to +12<br>* Magnus: Level 20 Talent reduced from +12 Armor to +10<br>* Monkey King: Mischief invulnerability duration reduced from 0.3 to 0.2<br>* Nature's Prophet: Agility gain increased from 2.8 to 3.3<br>* Nature's Prophet: Wrath of Nature's max targets increased from 16 to 18<br>* Phantom Assassin: Phantom Strike attack speed duration reduced from 2.5 to 2.25<br>* Phantom Assassin: Blur now has a 0.4 second cast point<br>* Phantom Assassin: Coup de Grace damage reduced from 230/340/450% to 210/330/450%<br>* Puck: Dream Coil stun duration from 1.5/2.25/3 to 1.8/2.4/3<br>* Rubick: Telekinesis cooldown increased from 28/26/24/22 to 34/30/26/22<br>* Rubick: Telekinesis lift duration reduced from 1.1/1.5/1.9/2.3 to 1/1.4/1.8/2.2<br>* Sand King: Sand Storm cooldown from 40/32/24/16 to 40/34/28/22<br>* Sand King: Burrow Strike stun duration from 1.9/2/2.1/2.2 to 1.6/1.8/2/2.2<br>* Sand King: Level 15 Talent reduced from +50 Sand Storm DPS to +40<br>* Slark: Leash distance increased from 350 to 400<br>* Slark: Shadow Dance movement speed reduced from 30/40/50% to 20/35/50%<br>* Slark: Level 25 Talent reduced from +100s Essense Shift Duration to +80s<br>* Spirit Breaker: Greater Bash damage reduced from 12/20/28/36% to 8/16/24/32%							<br clear="left" />
+					</div><!-- .entry-content -->
+				</div><!-- #post-## -->
+				
+
+
+
+				<div class="pagePrevNextLinks">
+					<a href="?p=2">&larr; Older Updates</a>
+				</div>
+				<br clear="right" />
+			</div>
+		</div><!-- /mainContent -->
+		<div id="mainContentBottomBG"></div>
+	</div><!-- /mainContentBG -->
+</div><!-- /mainContentSideBG -->
+<div id="footer" role="contentinfo">
+	<div id="footer-widget-area" role="complementary">
+		<div id="first" class="widget-area">
+			<ul class="xoxo">
+				<li id="dota2-recent-posts-4" class="widget-container valve_widget_recent_entries">
+					<div class="rightLinksTitle">Recent Entries</div>
+					<div class="archive_column">
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/47429/">Dota 2 Update - January 8th, 2019</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jan. 8, 2019</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/47404/">Dota 2 Update - January 7th, 2019</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jan. 7, 2019</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46659/">Dota 2 Update - December 9th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Dec. 9, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46630/">Dota 2 Update - December 7th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Dec. 7, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46426/">Dota 2 Update - November 30th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Nov. 30, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46220/">Dota 2 Update - November 24th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Nov. 24, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46217/">Dota 2 Update - November 24th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Nov. 24, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/46110/">Dota 2 Update - November 20th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Nov. 20, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/45767/">Dota 2 Update - November 9th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Nov. 9, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/45375/">Dota 2 Update - October 31st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Oct. 31, 2018</div>
+						</div>
+					</div>
+					<div class="archive_column">
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/44826/">Dota 2 Update - October 12th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Oct. 12, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/44368/">Dota 2 Update - September 27, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 27, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/44355/">Dota 2 Update - September 27, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 27, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/44031/">Dota 2 Update - September 18th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 18, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43938/">Dota 2 Update - September 14th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 14, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43616/">Dota 2 Update - September 5th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 5, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43515/">Dota 2 Update - September 1st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 1, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43513/">Dota 2 Update - September 1st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Sep. 1, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43493/">Dota 2 Update - August 31st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 31, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43385/">Dota 2 Update - August 29th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 29, 2018</div>
+						</div>
+					</div>
+					<div class="archive_column">
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/43099/">Dota 2 Update - August 19th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 19, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42938/">Dota 2 Update - August 14th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 14, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42902/">Dota 2 Update - August 13th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 13, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42708/">Dota 2 Update - August 6th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 6, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42666/">Dota 2 Update - August 3rd, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 3, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42617/">Dota 2 Update - August 2nd, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Aug. 2, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42537/">Dota 2 Update - July 31st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 31, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42446/">Dota 2 Update - July 29th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 29, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42445/">Dota 2 Update - July 29th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 29, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42209/">Dota 2 Update - July 21st, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 21, 2018</div>
+						</div>
+					</div>
+					<div class="archive_column">
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/42007/">Dota 2 Update - July 16th 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 16, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41985/">Dota 2 Update - July 14th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 14, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41849/">Dota 2 Update - July 11th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 11, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41848/">Dota 2 Update - July 11th 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 11, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41637/">Dota 2 Update - July 2nd, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jul. 2, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41583/">Dota 2 Update - June 29th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jun. 29, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41474/">Dota 2 Update - June 25th 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jun. 25, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41219/">Dota 2 Update #2 - June 15th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jun. 15, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41206/">Dota 2 Update - June 15th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jun. 15, 2018</div>
+						</div>
+						<div class="recent_entry">
+							<a href="http://www.dota2.com/news/updates/41151/">Dota 2 Update - June 14th, 2018</a>
+							<div style="margin-top:4px" class="recent_entry_date">Jun. 14, 2018</div>
+						</div>
+					</div>
+				</li>
+			</ul>
+		</div><!-- #first .widget-area -->
+	</div><!-- #footer-widget-area -->
+	<div class="legal_footer">
+		<img id="valveLogoLegal" src="http://cdn.dota2.com/apps/dota2/images/blogfiles/2014/valve_logo_footer.png" width="112" height="34" border="0" />
+		&copy; Valve Corporation, all rights reserved. Valve, the Valve logo, Steam, the Steam logo, Source, the Source logo, Valve Source and Dota are trademarks and/or registered trademarks of Valve Corporation. 
+	</div>
+</div><!-- #footer -->
+</body>
+</html>

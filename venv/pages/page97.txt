@@ -1,0 +1,1048 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition) - Polygon</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-title" content="Polygon" />
+    
+    <script type="text/javascript" src="https://optimize-stats.voxmedia.com/loader.min.js?key=6e06b9766c08ed8f"></script>
+      <meta property="author" content="Arthur Gies" />
+  <meta property="article:published_time" content="2017-08-02T15:36:19-04:00" />
+  <meta property="article:modified_time" content="2017-08-02T15:36:19-04:00" />
+  <meta property="fb:pages" content="340327135979921,1121292284586403,353942168328519,231096643968522" />
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+    <link rel="preload" href="https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2" as="font" type="font/woff2" crossorigin>
+  
+
+
+<meta id="chorus-fonts" data-cid="site/font_loader-1547147725_4578_4956" data-cdata='{"version":"40719e3c4493f1c79468ca39365344cd","fonts_catalog":[{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"400","style":"italic","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"400","style":"normal","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"700","style":"normal","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"700","style":"normal","woff2_url":"","woff_url":""},{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"}],"font_stylesheets":["https://cloud.typography.com/706184/753582/css/fonts.css","https://fonts.voxmedia.com/unison/stylesheets/polygon.210270e8252b06bd9e4410de8aec9063.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
+
+    <script>var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(t,e){var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src=t,"function"==typeof e&&(o.onload=e);var a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(o,a),o},Chorus.ready=function(t){"loading"!=document.readyState?t():document.addEventListener?document.addEventListener("DOMContentLoaded",t):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&t()})},Chorus.OnLoad=function(t){if(Chorus.windowLoaded=!0)return void t();var e=window.onload;"function"!=typeof window.onload?window.onload=t:window.onload=function(){e(),t()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});var dataLayer=dataLayer||[];Chorus.OnLoad(function(){var t;void 0!==navigator.doNotTrack?t=navigator.doNotTrack:void 0!==window.doNotTrack?t=window.doNotTrack:void 0!==navigator.msDoNotTrack&&(t=navigator.msDoNotTrack),t=void 0!==t?/1|yes|true/.test(String(t).toLowerCase())?"true":"false":"undefined";var e={DNT:t};dataLayer.push(e)});var VoxMediaFontLoader=function(t){function e(t,e){var o=window.performance;if(o&&o.mark&&o.measure){var a=t.toLocaleLowerCase().replace(/\W+/g,"_")+(e?"_"+e:"");o.mark(a),o.measure(a+"_time","navigationStart",a)}}function o(){s.classList.add(c),e("fonts_success")}function a(){s.classList.add(c),e("fonts_fail")}function n(t){var o=[t.family,t.style,t.weight,"loaded"].join(" ");e(o)}function r(t){var e=u.font_stylesheets||[];t&&(e=e.filter(function(e){return!e.match(t)})),e.forEach(i)}function i(e){var o=t.createElement("link");o.href=e,o.rel="stylesheet",o.media="all",f.parentNode.insertBefore(o,f)}function d(e){var o,a=t,n=a.documentElement,r=setTimeout(function(){n.className=n.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),i=a.createElement("script"),d=!1,c=a.getElementsByTagName("script")[0];n.className+=" wf-loading",i.src="https://use.typekit.net/"+e.kitId+".js",i.async=!0,i.onload=i.onreadystatechange=function(){if(o=this.readyState,!(d||o&&"complete"!=o&&"loaded"!=o)){d=!0,clearTimeout(r);try{Typekit.load(e)}catch(t){}}},c.parentNode.insertBefore(i,c)}var c="fonts-loaded",s=t.documentElement,f=t.getElementById("chorus-fonts");if(f){var u=JSON.parse(f.getAttribute("data-cdata"));t.fonts?(r("voxmedia.com"),u.fonts_catalog.forEach(function(e){if(e.woff2_url||e.woff_url){var o=[e.woff2_url,e.woff_url].filter(function(t){return t}).map(function(t){return"url("+t+")"}).join(", "),a=new FontFace(e.family,o,{weight:e.weight,style:e.style});t.fonts.add(a),a.load().then(n)}}),t.fonts.ready.then(o,a)):r(),u.typekit_ids.forEach(function(t){d({kitId:t,scriptTimeout:3e3,async:!0})}),u.font_tracker_stylesheets.forEach(i)}};VoxMediaFontLoader(document);</script>
+  <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(e){var r,o="kxvoxmedia_"+e;return window.localStorage?window.localStorage[o]||"":navigator.cookieEnabled?(r=document.cookie.match(o+"=([^;]*)"),r&&unescape(r[1])||""):""}Krux.user=retrieve("user"),Krux.segments=retrieve("segs")&&retrieve("segs").split(",")||[];
+    })();
+  </script>
+
+    <script>
+  dataLayer = [{"Network":"polygon","Community":"polygon","GA Primary ID":"UA-29192711-1","GA CrossDomains":"heroesneverdie.com,polygon.com,theflyingcourier.com,riftherald.com","Content ID":"15837629","Story Word Count":3671,"Entry Groups":"front-page","Story Streams":"15850203","Author":"Arthur Gies","Last Time Updated":"2017-08-02 15:36","Hour of Update":"15","Publish Date":"2017-08-02 15:36","Hour of Publish":"15","Demand Post":"no","All Chorus Categories":"polygon:polygon:front-page:15850203","Content Type":"feature","chartbeat_domain":"polygon.com","chartbeat_zone":"172968584/polygon/polygon.com","chartbeat_authors":"Arthur Gies","Logged in Status":"Logged Out"}];
+</script>
+
+<!-- Google Optimize -->
+<!-- Page hiding snippet -->
+<style>.async-hide { opacity: 0 !important} </style>
+<script>(function(a,s,y,n,c,h,i,d,e){s.className+=' '+y;h.start=1*new Date;
+h.end=i=function(){s.className=s.className.replace(RegExp(' ?'+y),'')};
+(a[n]=a[n]||[]).hide=h;setTimeout(function(){i();h.end=null},c);h.timeout=c;
+})(window,document.documentElement,'async-hide','dataLayer',4000,
+{'GTM-TD83RPT':true});</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-29192711-1', 'auto', {'allowLinker': true,'useAmpClientId': true});
+  ga('require', 'GTM-TD83RPT');
+</script>
+<!-- End Google Optimize -->
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8JKW6');</script>
+<!-- End Google Tag Manager -->
+    <script>
+  var concertAdsQueue = concertAdsQueue || [];
+
+  CONCERT_ADS_CONFIG = {"production":true,"slug":"/172968584/polygon/polygon.com","dfpVariables":{"network":["polygon"],"affiliation":["general"],"unison":[true],"entry_id":[15837629],"entry_type":["feature"],"entry_slug":["2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition"],"entry_author":["Arthur Gies"],"entry_group":["front-page"],"page_type":["interior_page"],"keywords":"the normal person s guide to watching competitive dota edition polygon"},"isUnison":true,"is_unison":true,"prebid":{"enabled":false,"timeout":1000,"defaultConfig":{"openx":{"delDomain":"sbnationbidder-d.openx.net"},"rubicon":{"accountId":7470,"position":"btf"},"rubiconLite":{"accountId":18288,"siteId":193902,"sizes":[213,270,271,272],"position":"btf"},"consumable":{"networkId":9969,"siteId":1039096}},"prelude":{"trustx":{"uid":2663}},"reskin":{"trustx":{"uid":2664}},"desktop_leaderboard_variable":{"trustx":{"uid":2665}},"medium_rectangle_variable":{"trustx":{"uid":2666}},"btf_medium_rectangle_variable":{"trustx":{"uid":2668}},"desktop_article_medrec_dynamic":{"trustx":{"uid":2669}},"btf_leaderboard_variable":{"trustx":{"uid":2670}},"native_ad_latest":{"trustx":{"uid":2671}},"native_ad_ymal_link":{"trustx":{"uid":2672}},"mobile_leaderboard":{"trustx":{"uid":2673}},"mobile_article_body":{"trustx":{"uid":2674}},"native_ad_mobile":{"trustx":{"uid":2675}},"mobile_article_body_med_rec_dynamic":{"trustx":{"uid":2676}},"mobile_footer":{"trustx":{"uid":2677}},"tablet_leaderboard":{"trustx":{"uid":2678}},"tablet_medium_rectangle":{"trustx":{"uid":2679}},"tablet_btf_leaderboard":{"trustx":{"uid":2680}},"native_ad_content_link":{"trustx":{"uid":2681}},"hub_river_leaderboard":{"trustx":{"uid":2682}},"hub_river_med_rec":{"trustx":{"uid":2684}},"mobile_med_rec_athena":{"trustx":{"uid":2685}}},"slots":[{"name":"editorially_placed_athena_mobile","className":"m-ad__editorially_placed_athena","prebidName":"editorially_placed_athena","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],[325,508],[325,203],[325,236],[325,204]],"holdSize":[300,500],"filters":{"viewportWidth":{"max":727}}},{"name":"editorially_placed_athena_desktop","className":"m-ad__editorially_placed_athena","prebidName":"editorially_placed_athena","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,295],"filters":{"viewportWidth":{"min":728}}},{"name":"editorially_placed_leaderboard","selector":".m-ad.m-ad__editorial-leaderboard-placement","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":728}}},{"name":"native_quicklistings","selector":".l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(2), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(3), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(4), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(5)","sizes":["fluid"],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"native_quicklistings_article","selector":".l-segment .l-segment .c-compact-river__entry","sizes":["fluid"],"maxSlots":1,"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"insertion":"after","filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"prelude","selector":".l-root","sizes":[[1400,600]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"allowSiblings":true,"filters":{"viewportWidth":{"min":881},"deviceType":"desktop"}},{"name":"reskin","selector":".l-root","sizes":[[2,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":1280},"hideIfPresent":{"selector":".l-feature, .c-maps-hub"}}},{"name":"desktop_leaderboard_variable","selector":".l-header","sizes":[[728,90],[970,250],[970,90],[1020,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-feature"}}},{"name":"tablet_leaderboard","selector":".l-header","sizes":[[728,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729,"max":880}}},{"name":"mobile_leaderboard_hub","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-hub-page .l-header","sizes":[[320,50],[300,250]],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"mobile_leaderboard_group","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-group-page .l-header","sizes":[[320,50]],"holdSize":[320,50],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"package_cover_ad","selector":".c-package-subnav","sizes":[[728,90],[970,250],[970,90],[1020,90],[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"package_cover_ad_mobile","selector":".c-package-subnav","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204],[1020,90]],"holdSize":[320,50],"insertion":"after","filters":{"viewportWidth":{"max":729}}},{"name":"btf_leaderboard_variable","selector":".c-footer","sizes":[[728,90],[1020,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":881}}},{"name":"tablet_btf_leaderboard","selector":".c-footer","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":729,"max":888}}},{"name":"mobile_footer","selector":"body:not(.entry_layout_unison_package_landing) .c-footer","sizes":[[320,50],[300,250],[325,203],[325,236],[325,204]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"package_mobile_footer","selector":".entry_layout_unison_package_landing .c-footer","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"mobile_feature_body","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[300,250],[325,508],[325,203],[325,236],[325,204],[320,50],[1030,590]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"spacing":{"before":150},"viewportWidth":{"max":779}}},{"name":"desktop_feature_body","selector":".l-feature .c-entry-content \u003e p + p + p","sizes":[[728,90],[1030,590]],"previewHoldSize":[728,90],"maxSlots":1,"insertion":"after","filters":{"avoidFloats":true,"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"desktop_feature_body_dynamic","className":"m-ad__desktop_feature_body","prebidName":"desktop_feature_body","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[728,90],[300,250],[1030,590]],"previewHoldSize":[728,90],"maxSlots":3,"filters":{"avoidFloats":true,"spacing":{"before":1500},"paragraphHeight":{"above":200},"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"athena_features_mobile","className":"m-ad__athena_features","prebidName":"athena_features","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_dynamic_mobile","className":"m-ad__athena_features_dynamic","prebidName":"athena_features_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":2,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_desktop","className":"m-ad__athena_features","prebidName":"athena_features","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415]],"previewHoldSize":[726,415],"maxSlots":3,"filters":{"paragraphHeight":{"above":200},"avoidFloats":true,"viewportWidth":{"min":779},"spacing":{"before":2000}}},{"name":"mobile_leaderboard","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[320,50],[300,250]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"desktop_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415],{"size":[728,90],"filters":{"containerWidth":{"min":700}}}],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"avoidFloats":true,"spacing":{"before":750,"after":450},"containerWidth":{"min":620}}},{"name":"mobile_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"native_ad_mobile","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"mobile_article_body_med_rec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"filters":{"viewportWidth":{"max":728},"spacing":{"before":900}}},{"name":"desktop_article_medrec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[300,250]],"holdSize":[300,250],"filters":{"paragraphHeight":{"above":150,"below":250},"viewportWidth":{"min":729},"avoidFloats":true,"spacing":{"before":1500,"after":750}}},{"name":"medium_rectangle_variable","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250],[300,600]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","min":2001}}},{"name":"medium_rectangle_short","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","max":2000}}},{"name":"btf_medium_rectangle_variable_article","className":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":"body[data-entry-id] .l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:last-of-type","sticky":true,"sizes":[[300,250],{"size":[300,600],"filters":{"viewportHeight":{"min":600}}}],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":881}}},{"name":"btf_medium_rectangle_variable_hub","className":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":".l-hub-page .river-segment-1 .l-col__sidebar \u003e div:last-of-type, .l-hub-page .river-segment-0 .l-col__sidebar \u003e div:last-of-type, .l-group-page .river-segment-0 .l-col__sidebar \u003e div:last-of-type","sizes":[[300,250]],"holdSize":[300,250],"insertion":"after","maxSlots":2,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"}}},{"name":"in_map_legacy","className":"m-ad__in_map","prebidName":"in_map","selector":".c-mapstack__ad","sizes":[[300,250]],"previewHoldSize":[300,250]},{"name":"in_map","selector":".c-mapstack__card--ad","sizes":[[300,250],[1030,590],[620,366],[620,371],[620,415]],"previewHoldSize":[300,250],"insertion":"after"},{"name":"mapstack_sponsorship","className":"m-ad__mapstack_sponsorship","selector":".c-mapstack__content","insertion":"before","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"athena_hub","className":"m-ad__athena","prebidName":"athena","selector":".l-hub-page .river-segment-0, .l-group-page .river-segment-0","sizes":[[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,295],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728}}},{"name":"athena_article","className":"m-ad__athena","prebidName":"athena","selector":".l-article-body-segment","sizes":[[1030,590],[728,90],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[970,250],"filters":{"viewportWidth":{"min":970}}},{"size":[620,371],"filters":{"containerWidth":{"max":1059}}},{"size":[620,415],"filters":{"containerWidth":{"max":1059}}}],"holdSize":[728,295],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728}}},{"name":"hub_river_leaderboard","selector":".l-hub-page .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[728,90],[1030,590],[620,366]],"holdSize":[728,90],"filters":{"spacing":{"before":700,"after":500,"exceptSlot":"native_quicklistings"},"containerWidth":{"min":728}}},{"name":"mobile_med_rec_athena","selector":".l-hub-page .river-segment-0","sizes":[[300,250],[1030,590],[325,508],[300,265],[325,203],[325,236],[325,204]],"holdSize":[300,250],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"hub_river_med_rec","selector":".l-hub-wrapper .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[300,250],[1030,590]],"customSizes":[{"placement":1,"sizes":[[1030,590]]}],"holdSize":[300,250],"filters":{"spacing":{"before":600,"after":400},"viewportWidth":{"max":728}}},{"name":"gift_guide_leaderboard_variable_desktop","className":"m-ad__desktop_article_body","prebidName":"desktop_article_body","selector":".l-feature .c-buying-guide","sizes":[[1030,590],[620,366],[728,90],[620,371],[620,415]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"viewportWidth":{"min":728}}},{"name":"gift_guide_leaderboard_mobile","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-feature .c-buying-guide","sizes":[[320,50],[300,250],[1030,590]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_top_leaderboard_desktop","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[728,90]],"holdSize":[728,90],"maxSlots":1,"filters":{"viewportWidth":{"min":880}}},{"name":"storystream_bottom_leaderboard_variable_desktop","className":"m-ad__desktop_article_body","prebidName":"desktop_article_body","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"avoidFloats":true,"containerWidth":{"min":729}}},{"name":"storystream_river_leaderboard_variable_desktop","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n) .c-entry-box--stream-item","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"storystream_top_leaderboard_mobile","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[320,50]],"holdSize":[320,50],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_bottom_leaderboard_variable_mobile","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"containerWidth":{"max":728}}},{"name":"storystream_river_leaderboard_variable_mobile","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n) .c-entry-box--stream-item","sizes":[[320,50],[300,250]],"customSizes":[{"placement":2,"sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]]}],"previewHoldSize":[300,250],"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"site_sponsorship_logo_white","selector":".site_sponsorship_logo.site_sponsorship_logo-white","sizes":[[26,1]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_color","selector":".site_sponsorship_logo:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_mobile_white","selector":".site_sponsorship_logo_mobile.site_sponsorship_logo-white","sizes":[[26,3]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"site_sponsorship_logo_mobile_color","selector":".site_sponsorship_logo_mobile:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,4]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"native_ad_latest","selector":".dynamic-native-ad-native_ad_latest","sizes":[[300,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_video","selector":".dynamic-native-ad-native_ad_video","sizes":[[200,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_ymal_link","selector":".dynamic-native-ad-native_ad_ymal_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_linkset_link","selector":".dynamic-native-ad-native_ad_linkset_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_content_link","selector":".dynamic-native-ad-native_ad_content_link","sizes":[[650,150]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_module","selector":".c-related-list","sizes":["fluid"],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"branded_content_feedback_form","selector":".branded_content_feedback_form","sizes":[[300,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"article_sponsorship","className":"m-ad__article_sponsorship","selector":"body.entry_layout_unison_main .c-entry-hero--feature .c-entry-hero__content .c-byline, body.entry_layout_unison_main div.c-entry-hero:not(.c-entry-hero--feature)","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"hub_sponsorship","className":"m-ad__hub_sponsorship","selector":".c-hub-title__inner","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"failsafe_article_med_rec_athena_mobile","className":"m-ad__mobile_med_rec_athena","prebidName":"mobile_med_rec_athena","selector":"body:not(.entry_template_stream):not(.entry_template_package_landing) .c-entry-content \u003e *:last-child","sizes":[[300,250],[1030,590],[325,508],[300,265],[325,203],[325,236],[325,204]],"holdSize":[300,250],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728},"spacing":{"before":600},"hideIfPresent":{"selector":".c-entry-content .m-ad","count":2}}}],"adConfigurationUrl":"https://concertads-configs.vox-cdn.com/sbn/polygon/config.json"};
+</script>
+
+
+      <link href="https://www.polygon.com/style/community/405/9bc3adb5d0b24873cfc3225fdb96c890/chorus.css" data-chorus-theme="chorus" rel="stylesheet" media="all">
+
+    <meta name="style-tools" content="https://www.polygon.com/style/community/405/0e2a33a2d438443394ad3c2da87db3b4/tools.css">
+    
+      <script class="kxct" data-id="JImcqyW7" data-timing="async" data-version="1.9" type="text/javascript" src="https://cdn.krxd.net/controltag?confid=JImcqyW7" async></script>
+<script src="https://cdn.vox-cdn.com/packs/concert_ads-38fe20caec9bb2f7937e.js" async integrity="sha256-46WRSw0NWU3Ij1JDL0IbqmJUPJp4+1c6kZZjceK6Vhg= sha384-zAqoDyoyjEIAHH9Fqv3HXfuQY7QY6pUdbbdwD2qVYaCmnkv078mHi09yDT8IUrsW" crossorigin="anonymous"></script>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js" async></script>
+<script src="https://cdn.concert.io/lib/concert-concierge.2.3.5.min.js" async></script>
+
+    <script src="https://sejs.moatads.com/voxprebidheader841653991752/yi.js" async></script><script type="text/javascript">var _sf_startpt=(new Date()).getTime()</script>
+
+
+
+
+
+<meta name="msvalidate.01" content="D385D0326A3AE144205C298DB34B4E94" />
+
+
+    <meta name="description" content="You’re not a doofus if you don’t understand Dota 2. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch.
+With the 2017..." />
+<link rel="canonical" href="https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" />
+<meta property="og:description" content="You’re not a doofus if you don’t understand Dota 2. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch.
+With the 2017..." />
+<meta property="fb:app_id" content="549923288395304" />
+<meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/m4OKlsJY7rizMLu-g2pPp8H75j4=/0x47:1920x1127/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/56020577/bg_01.0.jpg" />
+<meta property="og:image:height" content="900" />
+<meta property="og:image:width" content="1600" />
+<meta property="og:site_name" content="Polygon" />
+<meta property="og:title" content="The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:url" content="https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" />
+      <meta name="twitter:title" content="The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)" />
+      <meta name="twitter:description" content="You’re not a doofus if you don’t understand Dota 2. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch.
+With the 2017..." />
+      <meta name="twitter:image" content="https://cdn.vox-cdn.com/thumbor/m4OKlsJY7rizMLu-g2pPp8H75j4=/0x47:1920x1127/1600x900/cdn.vox-cdn.com/uploads/chorus_image/image/56020577/bg_01.0.jpg" />
+      <meta name="twitter:site" content="Polygon" />
+    
+
+      <meta name="sailthru.title" content="The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)" />
+      <meta name="sailthru.tags" content="general,polygon" />
+      <meta name="sailthru.date" content="2017-08-02" />
+      <meta name="sailthru.description" content="You’re not a doofus if you don’t understand Dota 2. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch.
+With the 2017..." />
+    
+    
+  <link rel="shortcut icon" href="https://cdn.vox-cdn.com/community_logos/42931/favicon.ico">
+
+
+  
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/community_logos/51927/38.png" sizes="32x32">
+  
+
+  
+
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" sizes="192x192">
+  
+
+
+  
+    <link rel="apple-touch-icon" href="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png" sizes="180x180">
+  
+
+
+  <meta name="msapplication-TileImage" content="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/405/touch_icon_ipad_retina_1000x1000.7014.png">
+  <meta name="msapplication-TileColor" content="#ff0052">
+  <meta name="theme-color" content="">
+
+
+    <meta data-chorus-version="c49c8648981d4b6448ed0f3047ccfc625eae2fc7" />
+
+    <link rel="amphtml" href="https://www.polygon.com/platform/amp/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition">
+
+
+    <link rel="alternate" type="application/rss+xml" title="Polygon" href="/rss/index.xml" />
+    
+      <script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition","headline":"The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)","description":"You’re not a doofus if you don’t understand Dota 2. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch. With the 2017...","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2017-08-02T15:36:19-04:00","dateModified":"2017-08-02T15:36:19-04:00","author":{"@type":"Person","name":"Arthur Gies"},"publisher":{"@type":"Organization","name":"Polygon","logo":{"@type":"ImageObject","url":"https://www.polygon.com/v/polygon/images/logos/google_amp.png","width":265,"height":60}},"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/Tb-D2ytcBSPGnJlctbix1mkfFt4=/0x0:1920x1174/1400x1400/filters:focal(807x434:1113x740):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56020577/bg_01.0.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/S3S9nhu2wbVNKMCesVo_LZpdFEA=/0x0:1920x1174/1400x1050/filters:focal(807x434:1113x740):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56020577/bg_01.0.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/eTGfPt6fUpmfvM8IZp8S8yhqNXM=/0x0:1920x1174/1400x788/filters:focal(807x434:1113x740):format(jpeg)/cdn.vox-cdn.com/uploads/chorus_image/image/56020577/bg_01.0.jpg","width":1400,"height":788}]}
+</script>
+
+
+    
+  </head>
+  <!--[if lte IE 9]><body class="ie9"><![endif]-->
+  <!--[if gte IE 10]><body class="ie"><![endif]-->
+  <body class="entry_key_unison_overlay entry_layout_unison_main entry_template_minimal" data-entry-id="15837629">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    
+      <svg width="0" height="0" style="position:absolute;display:none;"><symbol viewbox="90 0 689 645" id="icon-clock" xmlns="http://www.w3.org/2000/svg"><title>clock</title>
+<path d="M489.1 322.5c0 15-5.4 27.9-16 38.6-10.7 10.7-23.6 16-38.6 16-23.7 0-40.3-10.9-49.9-32.8h-125c-6.4 0-11.6-2.1-15.7-6.1-4-4.1-6.1-9.3-6.1-15.7 0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.4-6.1 15.8-6.1h125c5.9-13.2 15.3-22.5 28-28V125.8c0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.3-6.1 15.7-6.1 6.4 0 11.6 2 15.7 6.1s6.1 9.3 6.1 15.7v146.8c21.9 9.5 32.9 26.1 32.8 49.9zm-54.6-306c84.2 0 156.3 29.9 216.2 89.8 59.9 59.9 89.8 131.9 89.8 216.2s-29.9 156.3-89.8 216.2c-59.9 59.9-131.9 89.8-216.2 89.8s-156.3-29.9-216.2-89.8c-59.9-59.9-89.8-131.9-89.8-216.2s29.9-156.3 89.8-216.2c59.9-59.9 132-89.8 216.2-89.8zm0 546.4c66.5 0 123.2-23.4 170.1-70.4 46.9-46.9 70.4-103.6 70.4-170.1s-23.4-123.2-70.4-170.1C557.7 105.5 501 82.1 434.5 82.1s-123.2 23.4-170.1 70.4C217.5 199.4 194 256.1 194 322.6s23.4 123.2 70.4 170.1c46.9 46.8 103.6 70.2 170.1 70.2z"></path></symbol><symbol viewbox="0 0 1000 1000" id="icon-close" xmlns="http://www.w3.org/2000/svg"><path d="M638.6 500l322.7-322.7c38.3-38.3 38.3-100.3 0-138.6S861 .4 822.7 38.7L500 361.4 177.3 38.7C139 .4 77 .4 38.7 38.7S.4 139 38.7 177.3L361.4 500 38.7 822.7C.4 861 .4 923 38.7 961.3 57.9 980.4 82.9 990 108 990s50.1-9.6 69.3-28.7L500 638.6l322.7 322.7c19.1 19.1 44.2 28.7 69.3 28.7 25.1 0 50.1-9.6 69.3-28.7 38.3-38.3 38.3-100.3 0-138.6L638.6 500z"></path></symbol><symbol viewbox="0 0 14 14" id="icon-close-map" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.074 12.27L7.698 6.958l5.376-5.312-.896-.896-5.312 5.376L1.554.75l-.896.864 5.376 5.312L.658 12.27l.896.896L6.898 7.79l5.312 5.376z"></path></symbol><symbol viewbox="0 0 18 17" id="icon-comment" xmlns="http://www.w3.org/2000/svg"><path d="M15.667 6.654c0 3.532-3.432 6.397-7.667 6.397-.945 0-1.85-.14-2.686-.4l-4.406 2.1 1.725-3.52c-1.42-1.16-2.3-2.78-2.3-4.56C.333 3.12 3.765.257 8 .257c4.235 0 7.667 2.863 7.667 6.4z"></path></symbol><symbol viewbox="-135.7 744.2 1008.1 429.7" id="icon-down" xmlns="http://www.w3.org/2000/svg"><path d="M872.3 788.5c0 12.1-5.1 25.2-18.2 35.3l-446 335c-12.1 10.1-28.3 15.2-40.4 15.2-15.2 0-28.3-5.1-40.4-15.2l-446.1-335c-18.2-15.2-22.2-40.4-10.1-60.5s40.4-22.2 58.5-10.1l439.1 330.9 435.9-331c18.2-15.2 45.4-10.1 58.5 10.1 7.2 8.1 9.2 15.1 9.2 25.3"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-email" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="afshape-1"></path></symbol><symbol viewbox="0 0 21.406 43.754" id="icon-facebook" xmlns="http://www.w3.org/2000/svg"><path d="M5.43 43.754v-20.53H0V15.83h5.43V9.518C5.43 4.558 8.635 0 16.024 0c2.99 0 5.204.286 5.204.286l-.175 6.903s-2.257-.03-4.72-.03c-2.663 0-3.09 1.23-3.09 3.26v5.4h8.022l-.35 7.39h-7.672v20.53H5.43z"></path></symbol><symbol viewbox="0 0 140 200" id="icon-foursquare" xmlns="http://www.w3.org/2000/svg"><path d="M114.697 27.581l-4.278 22.294c-.511 2.41-3.545 4.945-6.358 4.945h-39.7c-4.467 0-7.664 3.045-7.664 7.508v4.86c0 4.467 3.216 7.632 7.686 7.632h33.681c3.154 0 6.25 3.459 5.568 6.826-.685 3.373-3.886 20.08-4.271 21.924-.387 1.846-2.5 5-6.25 5H65.618c-5.007 0-6.521.654-9.87 4.818-3.353 4.166-33.477 40.342-33.477 40.342-.305.35-.603.249-.603-.134V27.25c0-2.85 2.478-6.194 6.194-6.194h81.78c3.01 0 5.822 2.829 5.055 6.525m3.59 87.418c1.137-4.602 13.899-69.93 18.16-90.656M120.716 0H18.809C4.745 0 .61 10.575.61 17.235v161.916c0 7.503 4.032 10.285 6.296 11.203 2.267.919 8.519 1.692 12.266-2.632 0 0 48.111-55.826 48.938-56.652 1.25-1.25 1.25-1.25 2.5-1.25h31.127c13.08 0 15.183-9.327 16.549-14.821 1.137-4.602 13.899-69.93 18.16-90.656C139.699 8.526 135.681 0 120.716 0"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-275 387.7c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.5c-.4 0-.7.3-.7.7 0 .4.4.8.6 1l1.4 1.4-3.9 3.9 1.9 1.9 3.9-3.9 1.4 1.4c.3.3.6.6 1 .6s.7-.3.7-.7l-.1-5.6zm-13.1 10.5l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen-exit" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-293.2 406.9l3.9-4 1.4 1.4c.3.3.6.6 1 .6s.6-.3.6-.6v-5.4c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.4c-.4 0-.6.3-.6.6 0 .4.4.8.6.9l1.4 1.4-4 3.9 1.8 1.9zM-276.91 387.05l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="0 0 39.605 39.633" id="icon-google-plus" xmlns="http://www.w3.org/2000/svg"><path d="M12.488 37.682c-4.69 0-8.08-2.97-8.08-6.537 0-3.496 3.976-6.51 8.667-6.46a10.21 10.21 0 0 1 3.04.488c2.547 1.77 4.6 2.876 5.117 4.894.096.41.15.83.15 1.26 0 3.567-2.3 6.355-8.894 6.355m1.233-21.46c-3.14-.093-6.14-2.982-6.68-7.116-.54-4.136 1.57-7.3 4.72-7.206 3.15.094 5.84 3.486 6.39 7.62.55 4.136-1.27 6.797-4.41 6.703m6.75 6.457c-1.08-.813-3.44-2.478-3.44-3.596 0-1.31.38-1.955 2.35-3.495 2.03-1.58 3.46-3.67 3.46-6.25 0-2.82-1.15-5.37-3.31-6.61h3.06L25.2 0H13.51C7.584 0 2.644 4.37 2.644 9.18c0 4.912 3.246 8.83 8.82 8.83.388 0 .764-.02 1.133-.048-.36.694-.62 1.467-.62 2.277 0 1.36.75 2.14 1.68 3.04-.702 0-1.38.02-2.12.02C4.75 23.3 0 27.97 0 32.46c0 4.412 5.726 7.173 12.513 7.173 7.737 0 12.495-4.39 12.495-8.8 0-3.54-.764-5.32-4.536-8.15M31.52.54v5.388h-5.388v2.695h5.39v5.39h2.694v-5.39h5.39V5.928h-5.39V.538"></path></symbol><symbol viewbox="0 0 105.4 105.7" class="alinline-svg" id="icon-grid" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M0 0h47.7v47.7H0z" class="alshape-1"></path><path fill="#ccc" d="M57.7 0h47.7v47.7H57.7z" class="alshape-2"></path><path fill="#ccc" d="M0 58h47.7v47.7H0z" class="alshape-3"></path><path fill="#ccc" d="M57.7 58h47.7v47.7H57.7z" class="alshape-4"></path></symbol><symbol viewbox="0 0 64.37 40.34" id="icon-hamburger" xmlns="http://www.w3.org/2000/svg"><path class="amcls-1" d="M0 30h64.37v10.34H0zm0-15h64.37v10.34H0zM0 0h64.37v10.34H0z"></path></symbol><symbol viewbox="0 0 671.78668 671.78668" id="icon-instagram" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.13333 0 0 -.13333 0 671.787)"><path d="M2519.21 5038.41c-684.18 0-769.97-2.9-1038.67-15.16-268.14-12.23-451.27-54.82-611.513-117.09-165.66-64.38-306.148-150.52-446.203-290.57-140.051-140.05-226.191-280.55-290.57-446.21-62.273-160.24-104.86-343.37-117.098-611.51C2.898 3289.17 0 3203.38 0 2519.2c0-684.17 2.898-769.96 15.156-1038.66 12.239-268.14 54.825-451.27 117.098-611.509 64.379-165.66 150.519-306.152 290.57-446.211 140.055-140.05 280.543-226.191 446.203-290.57C1029.27 69.98 1212.4 27.39 1480.54 15.16 1749.24 2.902 1835.03 0 2519.21 0c684.17 0 769.96 2.902 1038.66 15.16 268.14 12.23 451.27 54.82 611.51 117.09 165.66 64.379 306.15 150.52 446.21 290.57 140.05 140.059 226.19 280.551 290.57 446.211 62.27 160.239 104.86 343.369 117.09 611.509 12.26 268.7 15.16 354.49 15.16 1038.66 0 684.18-2.9 769.97-15.16 1038.67-12.23 268.14-54.82 451.27-117.09 611.51-64.38 165.66-150.52 306.16-290.57 446.21-140.06 140.05-280.55 226.19-446.21 290.57-160.24 62.27-343.37 104.86-611.51 117.09-268.7 12.26-354.49 15.16-1038.66 15.16zm0-453.91c672.65 0 752.33-2.57 1017.97-14.69 245.62-11.2 379.01-52.24 467.78-86.74 117.59-45.7 201.51-100.29 289.66-188.44 88.16-88.16 142.75-172.08 188.45-289.67 34.5-88.77 75.54-222.16 86.74-467.78 12.12-265.64 14.69-345.32 14.69-1017.98 0-672.65-2.57-752.33-14.69-1017.97-11.2-245.62-52.24-379.01-86.74-467.78-45.7-117.591-100.29-201.509-188.45-289.661-88.15-88.16-172.07-142.75-289.66-188.449-88.77-34.5-222.16-75.539-467.78-86.738-265.6-12.122-345.27-14.692-1017.97-14.692-672.71 0-752.37 2.57-1017.98 14.692-245.62 11.199-379.01 52.238-467.78 86.738-117.591 45.699-201.509 100.289-289.661 188.449-88.152 88.152-142.75 172.07-188.449 289.661-34.5 88.77-75.535 222.16-86.742 467.78-12.121 265.64-14.688 345.32-14.688 1017.97 0 672.66 2.567 752.34 14.688 1017.98 11.207 245.62 52.242 379.01 86.742 467.78 45.699 117.59 100.293 201.51 188.445 289.66 88.156 88.16 172.074 142.75 289.665 188.45 88.77 34.5 222.16 75.54 467.78 86.74 265.64 12.12 345.32 14.69 1017.98 14.69"></path><path d="M2519.21 1679.47c-463.78 0-839.74 375.96-839.74 839.73 0 463.78 375.96 839.74 839.74 839.74 463.77 0 839.73-375.96 839.73-839.74 0-463.77-375.96-839.73-839.73-839.73zm0 2133.38c-714.47 0-1293.65-579.18-1293.65-1293.65 0-714.46 579.18-1293.64 1293.65-1293.64 714.46 0 1293.64 579.18 1293.64 1293.64 0 714.47-579.18 1293.65-1293.64 1293.65M4166.27 3863.96c0-166.96-135.35-302.3-302.31-302.3-166.95 0-302.3 135.34-302.3 302.3s135.35 302.31 302.3 302.31c166.96 0 302.31-135.35 302.31-302.31"></path></g></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-left" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M274.8 1246.2c-9.5 0-19.8-4-27.7-14.3l-262.9-350c-7.9-9.5-11.9-22.2-11.9-31.7 0-11.9 4-22.2 11.9-31.7l262.9-350.1c11.9-14.3 31.7-17.4 47.5-7.9 15.8 9.5 17.4 31.7 7.9 45.9L42.8 851l259.8 342.1c11.9 14.3 7.9 35.6-7.9 45.9-6.4 5.6-11.9 7.2-19.9 7.2"></path></symbol><symbol viewbox="0 0 18 18" id="icon-link" xmlns="http://www.w3.org/2000/svg"><g opacity=".4"><path d="M10.546 13.732l.623-.623a.957.957 0 0 0 .121-.137c.263-.273.48-.582.65-.905a4.44 4.44 0 0 0 .46-2.733 3.766 3.766 0 0 0-.158-.692 3.61 3.61 0 0 0-.244-.604 4.355 4.355 0 0 0-.877-1.245 4.35 4.35 0 0 0-1.245-.876l-1.14 1.14c-.08.08-.146.163-.204.256a2.735 2.735 0 0 1 2.07 2.07c.044.21.066.426.06.644a2.601 2.601 0 0 1-.765 1.81l-.69.689-.513.513-.485.485-1.237 1.237c-1.037 1.037-2.737 1.024-3.79-.029-1.052-1.052-1.064-2.753-.028-3.789L4.39 9.706a5.663 5.663 0 0 1-.208-2.338L1.881 9.67c-1.73 1.73-1.709 4.56.048 6.316 1.757 1.757 4.586 1.778 6.316.048l2.302-2.302z"></path><path d="M7.339 7.802a2.54 2.54 0 0 1 .1-.668c.114-.42.339-.814.665-1.14l.693-.694.51-.51.48-.48 1.242-1.241c1.036-1.036 2.736-1.024 3.789.029 1.052 1.052 1.064 2.753.029 3.789l-1.241 1.24c.233.76.302 1.556.211 2.335l2.303-2.303c1.73-1.73 1.708-4.558-.049-6.315C14.314.087 11.485.066 9.756 1.796L7.453 4.098l-.623.623a.934.934 0 0 0-.121.138 3.904 3.904 0 0 0-.645.9 4.39 4.39 0 0 0-.46 2.733c.028.244.08.472.153.696.065.206.142.41.245.604.209.452.503.87.877 1.244.373.374.791.668 1.244.878l1.14-1.141a1.38 1.38 0 0 0 .204-.256 2.68 2.68 0 0 1-1.335-.734 2.685 2.685 0 0 1-.793-1.98z"></path></g></symbol><symbol viewbox="0 0 16 16" id="icon-linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M.2 15.876h3.394V5.222H.2v10.654zM1.997 0C.8 0 0 .836 0 1.88s.8 1.88 1.997 1.88 1.997-.836 1.997-1.88C3.794.836 2.994 0 1.997 0zm9.985 4.804c-1.798 0-2.596 1.045-2.996 1.88V5.222H5.392c.2 1.045 0 10.862 0 10.862h3.395V9.818c0-.21 0-.627.2-.836.2-.626.798-1.253 1.796-1.253 1.2 0 1.798 1.04 1.798 2.5v5.64h3.4V9.82c0-3.342-1.79-5.014-3.99-5.014z"></path></symbol><symbol viewbox="0 0 35.4 51" id="icon-map-marker" xmlns="http://www.w3.org/2000/svg"><path d="M18 51.733c11.8-15.9 17.7-27.1 17.7-33.5 0-9.7-7.9-17.5-17.7-17.5S.3 8.533.3 18.233c0 6.4 5.9 17.6 17.7 33.5z"></path><circle r="8" cy="18" cx="18" fill="#fff"></circle></symbol><symbol viewbox="-375 489.5 37.2 30.3" id="icon-menu" xmlns="http://www.w3.org/2000/svg"><title>menu</title>
+<path d="M-367 489.5h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 12.8h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 13.7h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4z"></path></symbol><symbol viewbox="0 0 179 96" id="icon-more" xmlns="http://www.w3.org/2000/svg"><title>more-arrow</title>
+<path d="M178.86 47.677L129.776 0v34.313H0v26.625h116.296v.103h13.48v34.31l49.084-47.67"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-newsletter_signup" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="aushape-1"></path></symbol><symbol viewbox="0 0 832 512" id="icon-norgie-down" xmlns="http://www.w3.org/2000/svg"><path d="M15.244 98.497L379.433 495.43c20.249 22.24 53.137 22.23 73.373-.021.51-.608.71-1.47 1.25-2.077L817.152 98.259c20.233-22.224 20.223-58.326-.028-80.54-.202-.1-.531-.202-.735-.404C807.065 6.732 793.993-.005 779.353 0L52.923.208C38.073.212 24.903 7.286 15.43 18.18l-.2-.227c-20.314 22.325-20.304 58.33.023 80.543h-.008z"></path></symbol><symbol viewbox="0 0 512 832.328" id="icon-norgie-right" xmlns="http://www.w3.org/2000/svg"><path d="M98.278 817.088l397.038-364.076c22.245-20.243 22.245-53.13 0-73.373-.608-.51-1.47-.71-2.077-1.25L98.27 15.18c-22.218-20.24-58.32-20.24-80.54.005-.1.202-.202.53-.404.734C6.74 25.24 0 38.31 0 52.95v726.43c0 14.85 7.07 28.022 17.963 37.5l-.228.2c22.32 20.32 58.324 20.32 80.543 0z"></path></symbol><symbol viewbox="0 0 47.3 34.3" id="icon-opentable" xmlns="http://www.w3.org/2000/svg"><path d="M30.1 0C20.7 0 13 7.7 13 17.2s7.7 17.2 17.2 17.2 17.2-7.7 17.2-17.2C47.3 7.7 39.6 0 30.1 0zm0 21.5c-2.4 0-4.3-1.9-4.3-4.3s1.9-4.3 4.3-4.3 4.3 1.9 4.3 4.3c0 2.3-1.9 4.3-4.3 4.3zM0 17.2c0 2.4 1.9 4.3 4.3 4.3s4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3S0 14.8 0 17.2"></path></symbol><symbol viewbox="0 0 12 12" id="icon-pencil" xmlns="http://www.w3.org/2000/svg"><path d="M1.3 8.4c0 .1 0 .1 0 0L0 11.6c0 .1 0 .2.1.3 0 .1.1.1.1.1h.1l3.1-1.2s.1 0 .1-.1l6.2-6.2-2.2-2.3-6.2 6.2zm10.5-7L10.6.2c-.3-.3-.8-.3-1.1 0L8.2 1.5l2.2 2.2 1.3-1.3c.4-.2.4-.7.1-1z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-pin" xmlns="http://www.w3.org/2000/svg"><path d="M57.2 34.6c0 4.8-1.3 9.3-3.5 13.2L31.8 87.5c-.3.5-.9.8-1.5.8-.7 0-1.2-.4-1.5-.8L6.9 47.7c-2.2-3.8-3.5-8.4-3.5-13.2 0-14.8 12-26.9 26.9-26.9 14.9.1 26.9 12.1 26.9 27zm-16.8 0c0-5.6-4.5-10.1-10.1-10.1S20.2 29 20.2 34.6s4.5 10.1 10.1 10.1 10.1-4.5 10.1-10.1z" xmlns="http://www.w3.org/2000/svg"></path></symbol><symbol viewbox="-285 377 40 40" id="icon-pinterest" xmlns="http://www.w3.org/2000/svg"><path d="M-265 377.1c-10.9 0-19.7 8.9-19.7 19.8 0 8.1 4.9 15 11.8 18.1-.1-1.4 0-3 .3-4.5.4-1.6 2.5-10.8 2.5-10.8s-.6-1.3-.6-3.1c0-2.9 1.7-5.1 3.8-5.1 1.8 0 2.7 1.3 2.7 3 0 1.8-1.2 4.5-1.7 7-.5 2.1 1 3.8 3.1 3.8 3.7 0 6.3-4.8 6.3-10.5 0-4.3-2.9-7.6-8.2-7.6-6 0-9.7 4.5-9.7 9.5 0 1.7.5 2.9 1.3 3.9.4.4.4.6.3 1.1l-.4 1.6c-.1.5-.5.7-1 .5-2.8-1.1-4-4.1-4-7.5 0-5.6 4.7-12.3 14.1-12.3 7.5 0 12.5 5.5 12.5 11.3 0 7.7-4.3 13.5-10.7 13.5-2.1 0-4.1-1.2-4.8-2.5 0 0-1.1 4.5-1.4 5.4-.4 1.5-1.2 3-2 4.2 1.8.5 3.7.8 5.6.8 10.9 0 19.7-8.8 19.7-19.7 0-11-8.9-19.9-19.8-19.9z"></path></symbol><symbol viewbox="-230 372 50 50" id="icon-play" xmlns="http://www.w3.org/2000/svg"><path fill="#999" d="M-214 376l25.6 21.1L-214 418v-42z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-rec" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="0 0 450 386" id="icon-refresh" xmlns="http://www.w3.org/2000/svg"><path d="M352.629 288.14l96-111.9h-64.7c-2.3-27.9-10.5-54-23.5-77.3-27.4-49.2-75.8-85.1-133-95.6-.7-.1-1.5-.3-2.2-.4-.5-.1-.9-.2-1.4-.2-10.1-1.7-20.6-2.6-31.2-2.6h-.4c-90.9.2-167 63.6-186.7 148.6v.1c-.3 1.1-.5 2.2-.7 3.3-.1.5-.2.9-.3 1.4-.1.7-.3 1.4-.4 2.1-.2.9-.3 1.7-.5 2.6-.1.4-.1.7-.2 1.1l-.6 3.6v.2c-1 6.3-1.6 12.7-1.9 19.1v.8c-.1 1.4-.1 2.7-.2 4.1 0 1.6-.1 3.3-.1 5 0 1.7 0 3.3.1 5 0 1.4.1 2.7.2 4.1v.9c.3 6.5 1 12.9 1.9 19.1v.2l.6 3.6c.1.4.1.7.2 1.1.2.9.3 1.8.5 2.6.1.7.3 1.4.4 2.1.1.5.2 1 .3 1.4.2 1.1.5 2.2.7 3.2v.1c19.7 85 96.1 148.4 187.1 148.6 42.9-.1 83.1-14.2 116.9-40.7l7.5-5.9-43.2-46.2-6.2 4.6c-22.1 16.3-47.5 24.2-75 24.2-70.6 0-128-57-128-128s57.4-128 128-128c66.4 0 122.8 46.6 129.5 112h-73.5l104 112z" xmlns:bx="https://boxy-svg.com" bx:origin="0.5 0.5"></path></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-right" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M6.9 455.1c9.5 0 19.8 4 27.7 14.3l262.9 350.1c7.9 9.5 11.9 22.2 11.9 31.7 0 11.9-4 22.2-11.9 31.7l-262.8 350c-11.9 14.3-31.7 17.4-47.5 7.9-15.8-9.5-17.4-31.7-7.9-45.9L239 850.3-20.8 508.2c-11.9-14.3-7.9-35.6 7.9-45.9 6.4-5.6 11.9-7.2 19.8-7.2"></path></symbol><symbol viewbox="0 0 1000 1000" preserveaspectratio="xMinYMin meet" id="icon-rss" xmlns="http://www.w3.org/2000/svg"><path d="M0 866q0-55 39-94t94-39 94 39 39 94q0 56-39 94.5T133 999t-94-39-39-94zm0-335V340q179 0 331 88.5T571.5 669t88.5 331H468q0-194-137-331Q193 531 0 531zm0-339V0q203 0 388 79.5T707 293t213.5 319 79.5 388H808q0-164-64-314T571.5 428t-258-172T0 192z"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-search" xmlns="http://www.w3.org/2000/svg"><path d="M754.7 468.7l-22.3-22.3c24.3-33.3 37.5-73.4 37.7-114.7 0-109.5-88.8-198.3-198.3-198.3s-198.3 88.8-198.3 198.3S462.1 530 571.7 530c41.2-.2 81.3-13.4 114.7-37.7l22.3 22.3 152.7 152 45.3-45.3-152-152.6zm-183 0c-75.8 0-137.3-61.5-137.3-137.3S495.8 194 571.7 194 709 255.5 709 331.3c.2 75.7-61 137.1-136.7 137.3-.2.1-.4.1-.6.1z"></path></symbol><symbol viewbox="206 29.9 642.1 681.3" id="icon-settings" xmlns="http://www.w3.org/2000/svg"><path d="M843 467.2c4.8 3.2 6.3 9.5 4 15-13.5 41.2-36.4 79.2-64.2 111.7-4 4.8-9.5 6.3-15 4l-81.6-28.5c-20.6 16.6-43.6 30.1-67.3 39.6l-16.6 84.7c-.8 5.5-5.5 10.3-11.1 11.1-21.4 4-42.8 6.3-64.2 6.3-22.2 0-43.6-2.4-64.2-6.3-5.5-.8-10.3-5.5-11.1-11.1L435.2 609c-24.6-9.5-48.3-23-67.3-39.6l-81.6 28.5c-5.5 2.4-11.1.8-15-4-28.5-32.5-51.5-70.5-64.2-111.7-2.4-5.5-.8-11.9 4-15l64.9-57c-2.4-12.7-3.2-26.1-3.2-39.6s.8-26.9 3.2-39.6l-65-57c-4.8-3.2-6.3-9.5-4-15 13.5-41.2 36.4-79.2 64.2-111.7 4-4.8 9.5-6.3 15-4l81.6 28.5c19.8-16.6 43.6-30.1 67.3-39.6l16.6-84.7c.8-5.5 5.5-10.3 11.1-11.1 42.8-8.7 86.3-8.7 129.1 0 5.5.8 10.3 5.5 11.1 11.1l15 85.5c24.6 9.5 47.5 23 67.3 39.6l81.6-28.5c5.5-2.4 11.1-.8 15 4 28.5 32.5 51.5 70.5 64.2 111.7 2.4 5.5.8 11.9-4 15l-65.7 57c2.4 12.7 3.2 26.1 3.2 39.6s-.8 26.9-3.2 39.6l66.6 56.2zm-190-95.8c0-69.7-57.8-127.5-127.5-127.5-70.5 0-127.5 57-127.5 127.5s57 127.5 127.5 127.5S653 441.9 653 371.4z"></path></symbol><symbol viewbox="0 0 16 16" id="icon-snapchat" xmlns="http://www.w3.org/2000/svg"><path d="M8.155.48c.662 0 2.903.185 3.96 2.552.354.797.27 2.15.2 3.237l-.002.04c-.008.12-.015.23-.02.34.05.03.135.06.268.06.2-.01.44-.08.69-.2.11-.06.23-.07.31-.07.12 0 .24.02.34.06.3.1.49.32.49.56.01.3-.26.56-.81.78-.06.02-.14.05-.23.08-.3.09-.76.24-.89.54-.06.15-.04.35.08.58l.01.01c.04.09 1.02 2.32 3.2 2.68.17.03.29.18.28.34 0 .05-.01.1-.03.15-.16.38-.85.66-2.1.85-.04.06-.08.25-.11.38-.02.12-.05.24-.09.37-.05.18-.18.27-.37.27h-.02c-.09 0-.21-.02-.36-.05-.24-.05-.51-.09-.85-.09-.2 0-.4.01-.61.05-.4.07-.75.31-1.15.59-.57.4-1.22.86-2.2.86-.04 0-.08-.01-.12-.01h-.1c-.98 0-1.62-.45-2.19-.86-.4-.28-.74-.52-1.14-.59-.21-.03-.42-.05-.62-.05-.36 0-.64.06-.85.1-.14.03-.26.05-.36.05-.25 0-.35-.15-.39-.28-.04-.13-.06-.26-.09-.38s-.07-.33-.11-.38C.89 12.9.2 12.62.04 12.23a.413.413 0 0 1-.036-.15.332.332 0 0 1 .28-.34c2.18-.36 3.16-2.59 3.2-2.684l.01-.02c.12-.23.15-.43.08-.58-.13-.29-.59-.44-.89-.54-.08-.02-.16-.05-.23-.08-.74-.29-.84-.62-.8-.85.06-.32.45-.53.78-.53.097 0 .18.02.256.05.28.13.527.2.737.2a.63.63 0 0 0 .31-.07l-.03-.38c-.065-1.086-.15-2.438.205-3.23C4.94.67 7.175.49 7.835.49l.28-.01h.04z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-star" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-down" xmlns="http://www.w3.org/2000/svg"><title>no</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-up" xmlns="http://www.w3.org/2000/svg"><title>yes</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-topics" xmlns="http://www.w3.org/2000/svg"><g xmlns="http://www.w3.org/2000/svg"><path d="M2.5 21.5h55.2v11.8H2.5zM2.5 42.1h55.2v11.8H2.5zM2.5 64.3h55.2v11.8H2.5z"></path></g></symbol><symbol viewbox="0 0 87 60" id="icon-trending" xmlns="http://www.w3.org/2000/svg"><path d="M1.906 46.826c2.213 1.787 5.466 1.46 7.262-.743v-.006l5.26-6.45 8.378 11.286a5.171 5.171 0 0 0 4.827 2.035 5.128 5.128 0 0 0 4.124-3.215l7.96-20.208L51.26 56.577a5.155 5.155 0 0 0 4.754 3.13c.097 0 .19 0 .286-.007a5.172 5.172 0 0 0 4.66-3.667l10.98-36.787 4.854 9.902c1.234 2.552 4.33 3.613 6.89 2.37 2.56-1.234 3.636-4.314 2.386-6.86L75.42 2.888a5.15 5.15 0 0 0-5.067-2.87 5.135 5.135 0 0 0-4.52 3.653L55.146 39.42 44.28 13.93a5.142 5.142 0 0 0-4.827-3.127 5.157 5.157 0 0 0-4.73 3.263L25.56 37.343l-6.79-9.148a5.197 5.197 0 0 0-4.033-2.08 5.139 5.139 0 0 0-4.124 1.897L1.153 39.6a5.125 5.125 0 0 0 .753 7.226" fill-rule="evenodd"></path></symbol><symbol viewbox="0 0 23.62 41.098" id="icon-tumblr" xmlns="http://www.w3.org/2000/svg"><path d="M21.643 32.826c-.764.364-2.226.682-3.316.71-3.29.088-3.927-2.31-3.955-4.052V16.69h8.252v-6.22h-8.222V0h-6.02c-.1 0-.272.087-.296.307C7.734 3.512 6.234 9.135 0 11.382v5.31h4.16V30.12c0 4.595 3.39 11.126 12.343 10.974 3.02-.053 6.375-1.318 7.117-2.408l-1.977-5.86z"></path></symbol><symbol viewbox="0 0 44.71 36.327" id="icon-twitter" xmlns="http://www.w3.org/2000/svg"><path d="M44.71 4.295c-1.656.724-3.415 1.242-5.278 1.45A9.146 9.146 0 0 0 43.468.673a18.75 18.75 0 0 1-5.796 2.225C35.965 1.138 33.584 0 30.945 0a9.145 9.145 0 0 0-9.16 9.16c0 .724.052 1.448.208 2.12-7.607-.413-14.335-3.88-18.888-9.417-.777 1.345-1.242 2.742-1.242 4.45 0 3.157 1.604 5.95 4.088 7.607a9.376 9.376 0 0 1-4.14-1.138v.103c0 4.45 3.16 8.176 7.35 9.004-.77.2-1.6.31-2.43.31-.57 0-1.14-.06-1.71-.16 1.14 3.62 4.56 6.31 8.54 6.36-3.1 2.48-7.09 4.34-11.38 4.34-.72 0-1.45-.05-2.17-.16 4.04 2.59 8.9 3.72 14.08 3.72 16.87 0 26.08-13.97 26.08-26.08V9.05c1.76-1.294 3.32-2.9 4.56-4.76"></path></symbol><symbol viewbox="-235.8 423.2 35.7 21.3" id="icon-up" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M-200.5 444.2L-218 424l-17.5 20.2"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-user" xmlns="http://www.w3.org/2000/svg"><path d="M640 400c73.6 0 133.3-59.7 133.3-133.3S713.6 133.3 640 133.3 506.7 193 506.7 266.7 566.4 400 640 400zm0 66.7c-89 0-266.7 44.7-266.7 133.3v66.7h533.3V600c.1-88.7-177.6-133.3-266.6-133.3z"></path></symbol><symbol viewbox="0 0 1146 1000" id="icon-vimeo" xmlns="http://www.w3.org/2000/svg"><path d="M0 272q55-65 110-116t95.5-77.5 72.5-43T326 14l17-4q12-2 24-2 19 0 35 6 26 10 42.5 34.5t29 55 21.5 72 15 77.5 13.5 79.5T538 403q32 125 51.5 177.5T631 633q24 0 66.5-55.5T791 426q26-48 26-91 0-13-2-23-9-52-51-65-11-4-24-4-35 0-83 26 22-130 134-209Q876 0 965 0q12 0 24 1 102 8 139 90 18 38 18 88 0 29-6 61-18 102-69.5 208t-113 187.5-132.5 155-123.5 117T611 976q-42 24-78.5 24T463 979t-56-48-38-57q-18-38-97.5-298.5T175 295q-1-2-4-4t-13.5-4.5-24 0-36.5 14T47 333z"></path></symbol><symbol viewbox="0 0 86.965 87.642" id="icon-whatsapp" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M44.038 13.007c-16.58 0-30.02 13.44-30.02 30.02a29.883 29.883 0 0 0 4.307 15.503l-5.418 16.106 16.62-5.32a29.915 29.915 0 0 0 14.512 3.733c16.58 0 30.02-13.45 30.02-30.03C74.06 26.44 60.61 13 44.03 13zm0 55.013a24.85 24.85 0 0 1-13.75-4.132l-9.604 3.074 3.122-9.28a24.858 24.858 0 0 1-4.76-14.653c0-13.79 11.212-25 24.993-25 13.78 0 24.99 11.21 24.99 24.99 0 13.78-11.22 24.99-25 24.99zm14.075-18.17c-.753-.412-4.45-2.407-5.143-2.69-.693-.28-1.2-.427-1.74.32s-2.072 2.418-2.538 2.913c-.467.495-.916.54-1.668.128-.752-.41-3.19-1.31-6.02-4.03-2.202-2.11-3.646-4.68-4.065-5.46-.42-.78-.01-1.18.39-1.55.35-.33.8-.86 1.2-1.3.4-.43.54-.74.81-1.25.27-.5.16-.95-.02-1.34s-1.57-4.22-2.15-5.77c-.58-1.56-1.23-1.32-1.68-1.34-.45-.01-.96-.1-1.47-.12-.51-.02-1.35.14-2.08.89-.73.74-2.78 2.52-2.92 6.29-.14 3.77 2.47 7.52 2.83 8.04.36.53 4.98 8.7 12.66 12.06 7.67 3.36 7.71 2.34 9.12 2.26 1.41-.07 4.6-1.68 5.31-3.45.7-1.76.76-3.3.58-3.62-.18-.32-.68-.54-1.43-.95z"></path></symbol><symbol viewbox="130.35156 177.43359 300 300" overflow="visible" id="icon-yahoo" xmlns="http://www.w3.org/2000/svg"><path d="M420.926 272.27c-5.2.514-26.85 5.365-34.13 6.925-7.79 2.073-78.983 57.075-83.66 70.58-1.036 4.674-1.556 11.866-1.556 18.624l-.52 10.91c-.002 7.79 2.162 20.35 3.198 27.1 4.68 1.04 38.555.13 44.79 1.17l-.768 13.97c-6.09-.45-49.106-.34-73.68-.34-12.475 0-52.576 1.37-64.897 1l2.33-13.29c6.755-.53 34.728 1.2 40.878-5.29 3.06-3.22 2.09-6.67 2.09-25.38v-8.83c0-4.16 0-11.96-1.04-19.24-2.59-7.8-65.3-86.09-81.41-98.56-4.68-1.56-33.99-4.49-41.26-6.05l-.36-11.97c3.63-1.82 36.22.44 67.85-.73 20.79-.77 68.22 0 74.07.7l-1.5 10.55c-6.23 1.56-36.26 2.14-44.06 4.21 20.27 30.14 52.31 68.94 62.71 84.01 5.72-8.31 55.96-42.87 57.51-54.82-7.79-1.57-33.6-5.28-37.76-5.28l-2.47-13.61c7.08-1.11 44.28 0 62.78 0 15.96 0 50.07 0 59.76.79l-8.86 12.81"></path></symbol><symbol viewbox="0 0 462 325" id="icon-youtube" xmlns="http://www.w3.org/2000/svg"><path d="M234.28 1.691c-53.492 0-132.53 3.24-156.188 4.031C52.396 8.02 42.884 9.366 28.811 21.41 7.368 40.48 2.28 77.954 2.28 135.285v54.562c0 65.439 8.69 98.684 23 110.844 16.517 14.17 27.407 15.302 38.406 17 4.27.646 34.49 6 168.594 6 83.626 0 155.507-3.95 162.937-4.906 11.945-1.508 29.104-3.696 42.063-18.094 19.183-21.803 23-57.999 23-110.437V126.69c0-33.943-1.891-81.916-23-102-15.991-13.536-21.848-17.367-54.938-19.031-9.358-.462-91.02-3.969-148.062-3.969zm-49.5 97l123.5 63.75-123.5 64.25v-128z"></path></symbol></svg>
+
+      <div class="l-root l-reskin">
+    <div class="l-header">
+      
+<div class="chorus-emc__content" data-emc-slug="UnisonCustomNavCell" data-emc-bucket="405::">
+    
+</div>
+
+
+      <div class="c-ad-whitelist" data-ui="ad-whitelist" data-cid="site/ad_whitelist-1547147724_1582_4953" data-cdata='{"adblocker_whitelist_prompt_enabled":true,"messaging_urls":["https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v0.html","https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v1.html","https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v2.html"],"selector":".l-header","display_per_page":33,"display_one_third_pageviews":33,"display_once_per_session":34}'></div>
+
+      
+    </div>
+    
+<style id="custom-entry-styles" type="text/css">
+  
+</style>
+<span data-content-admin-id="15837629"></span>
+
+
+<div class="c-entry-hero c-entry-hero--feature c-entry-hero--unison-overlay image-dark has-image  ">
+  
+    <a href="https://www.polygon.com/" class="c-entry-hero__logo">
+      
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+
+
+      
+    </a>
+  
+  
+    <div class="c-entry-hero__image">
+      <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147728_221_5513" data-cdata='{"image_id":56020579,"ratio":"*"}'>
+  
+
+  
+    <source media="(max-width: 900px)" srcset="https://cdn.vox-cdn.com/thumbor/tnMmYzswhINdFtG-V8ftALmRgl0=/0x0:1920x1174/320x427/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/XurYqPoGV5VKG1MsEEFSUtlXLWU=/0x0:1920x1174/420x560/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 420w, https://cdn.vox-cdn.com/thumbor/66KUq3tRoKNa3t5gynYlJSMSgN4=/0x0:1920x1174/520x693/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 520w, https://cdn.vox-cdn.com/thumbor/d8cYU8D-Aj778IAoT_Z9SM5G6gk=/0x0:1920x1174/620x827/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/gO_2ULw3e7Ghe5ij3e4qSjANrvM=/0x0:1920x1174/720x960/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 720w, https://cdn.vox-cdn.com/thumbor/v1KIliRFEKQgBiK9AZj2X5TKRBw=/0x0:1920x1174/820x1093/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 820w" sizes="100vw" type="image/webp">
+  
+
+  <source media="(max-width: 900px)" srcset="https://cdn.vox-cdn.com/thumbor/07Hlu9KJhJylxCbZztHYLeXkj1k=/0x0:1920x1174/320x427/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/DAlcsumdQzbX23YbVM98lXOASQQ=/0x0:1920x1174/420x560/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 420w, https://cdn.vox-cdn.com/thumbor/3w0LJGKKezSGcyJHAotpaeRYDB0=/0x0:1920x1174/520x693/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 520w, https://cdn.vox-cdn.com/thumbor/l0lk_a6IK1IghzxJuahpRPJdM40=/0x0:1920x1174/620x827/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/x5YhKdwaMIABwFR6HKO2USOfJcQ=/0x0:1920x1174/720x960/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 720w, https://cdn.vox-cdn.com/thumbor/yLE8EQJNxw1J8TLmmW7P7fhRC74=/0x0:1920x1174/820x1093/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 820w" sizes="100vw">
+
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/uYYZOWQ--T7Ij6OO5a1OGBq8KqY=/0x0:1920x1174/900x506/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 900w, https://cdn.vox-cdn.com/thumbor/h6nxiVoMj9OyHYgSnjZ9sZ1gjug=/0x0:1920x1174/1150x647/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1150w, https://cdn.vox-cdn.com/thumbor/tJyCL2zms5R3qZisgbepAoMCXko=/0x0:1920x1174/1400x788/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1400w, https://cdn.vox-cdn.com/thumbor/NKT3d4LDvf-PuAsA5B3kIUbuENY=/0x0:1920x1174/1650x928/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1650w, https://cdn.vox-cdn.com/thumbor/Qp3OA9EVZasVqiOY4sR-bHEdcE0=/0x0:1920x1174/1900x1069/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1900w, https://cdn.vox-cdn.com/thumbor/N1ukIC5dcjLIVXPnxCT9LBmfZG0=/0x0:1920x1174/2150x1209/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2150w, https://cdn.vox-cdn.com/thumbor/jyysD2IFtB8_bjMwI_v-Fq7kNm8=/0x0:1920x1174/2400x1350/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2400w, https://cdn.vox-cdn.com/thumbor/v_2WEVekXcGSXfOa0bsvDtu2ZBo=/0x0:1920x1174/2650x1491/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2650w, https://cdn.vox-cdn.com/thumbor/-IBWHebtg9Yg9K4_1tRD6fNgtOw=/0x0:1920x1174/2900x1631/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2900w, https://cdn.vox-cdn.com/thumbor/i4T1RtDZLXzsi0RDDkDi9a61prI=/0x0:1920x1174/3150x1772/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3150w, https://cdn.vox-cdn.com/thumbor/NI5lf95BAIJTzWCwddZ6LqgEd9Y=/0x0:1920x1174/3400x1913/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3400w, https://cdn.vox-cdn.com/thumbor/u5NO7I6OcGWxjMxE32ruv6XjldE=/0x0:1920x1174/3650x2053/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3650w, https://cdn.vox-cdn.com/thumbor/FDVO2Gx1G9XgRE4_Q81Ih4t1tvU=/0x0:1920x1174/3900x2194/filters:focal(807x434:1113x740):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3900w" sizes="100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/5eTHLatsLUV6zYp6fW-gMSaYf2I=/0x0:1920x1174/900x506/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 900w, https://cdn.vox-cdn.com/thumbor/-YfPfBW5opbPR-MoCz1HeIV_9As=/0x0:1920x1174/1150x647/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1150w, https://cdn.vox-cdn.com/thumbor/9EJQpJuBmNrZv2-R2duZJyTON6U=/0x0:1920x1174/1400x788/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1400w, https://cdn.vox-cdn.com/thumbor/iOfB45wRmjzSCC7nrTJWDYiErEI=/0x0:1920x1174/1650x928/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1650w, https://cdn.vox-cdn.com/thumbor/wKqfOLUz_LCj3pWd3xR5XkpHs0Y=/0x0:1920x1174/1900x1069/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 1900w, https://cdn.vox-cdn.com/thumbor/18kwbJewc_IE8qlFtTt9Z1EtyXY=/0x0:1920x1174/2150x1209/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2150w, https://cdn.vox-cdn.com/thumbor/1jnR5-BMhHWRuENLMQOmFYaBBvw=/0x0:1920x1174/2400x1350/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2400w, https://cdn.vox-cdn.com/thumbor/tw_8L8Nk7Z_KPz34hRyGQnCCdoo=/0x0:1920x1174/2650x1491/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2650w, https://cdn.vox-cdn.com/thumbor/8k5n7fylmYn_VoqOGt6VbtU7VKg=/0x0:1920x1174/2900x1631/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 2900w, https://cdn.vox-cdn.com/thumbor/TFIWS2UEYO6aElfhzO0fpJWCZkU=/0x0:1920x1174/3150x1772/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3150w, https://cdn.vox-cdn.com/thumbor/Mq-s75iTB_MjFOsaivVrM78Z_3k=/0x0:1920x1174/3400x1913/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3400w, https://cdn.vox-cdn.com/thumbor/KdIfbnl5leGLHPSbCcLr57xzM4Y=/0x0:1920x1174/3650x2053/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3650w, https://cdn.vox-cdn.com/thumbor/XTMa8N8KGwva4pqxC9l3dA2ORLQ=/0x0:1920x1174/3900x2194/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg 3900w" sizes="100vw" alt="" style="object-position: 50% 50%" data-upload-width="1920" src="https://cdn.vox-cdn.com/thumbor/TJaHuw02WYVE15VQIeNCDi6aEHQ=/0x0:1920x1174/1200x675/filters:focal(807x434:1113x740)/cdn.vox-cdn.com/uploads/chorus_image/image/56020579/bg_01.0.jpg">
+
+</source></source></source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+    </div>
+  
+  <div class="c-entry-hero__content l-segment l-feature">
+    
+    
+    <h1 class="c-page-title">The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)</h1>
+
+    
+    <div class="c-byline">
+  
+    By
+    <span class="c-byline__item">
+      
+        
+        <a href="https://www.polygon.com/users/aegies">Arthur Gies</a>
+      
+    </span>
+    
+    <span class="c-byline__item">
+      
+      <time class="c-byline__item" data-ui="timestamp" datetime="2017-08-02T19:36:19+00:00">
+        Aug  2, 2017,  3:36pm EDT
+      </time></span>
+    
+    
+    
+    
+  
+  
+  
+  <a data-entry-admin="15837629" data-cid="tools/entry_admin_button-1547147728_8587_5514" data-cdata='{"id":15837629}'></a>
+
+</div>
+
+    
+  </div>
+</div>
+
+<div class="l-wrapper">
+  <div class="l-segment l-feature">
+    <div class="c-social-buttons c-social-buttons--popover " data-cid="site/social_buttons_list/popover-1547147728_2136_5515" data-cdata='{"entry_id":15837629,"services":["twitter","facebook","reddit","pocket","flipboard","email"],"base_url":"https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition"}'>
+  
+    <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;u=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="facebook">
+      <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+      <span class="c-social-buttons--label">Share</span>
+    </a>
+  
+  
+    <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;via=Polygon" data-analytics-social="twitter">
+      <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+      <span class="c-social-buttons--label">Tweet</span>
+    </a>
+  
+  
+  
+    <a class="c-social-buttons__item c-social-buttons__more" href="#" data-ui="more">
+      <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" class="p-svg-icon c-social-buttons__svg">
+<path d="M18.4,12.9c-0.3,0-0.6,0.3-0.6,0.6V17c0,1-0.8,1.8-1.8,1.8H3c-1,0-1.8-0.8-1.8-1.8V4C1.2,3,2,2.2,3,2.2h8.4
+  c0.3,0,0.6-0.3,0.6-0.6S11.7,1,11.3,1H3C1.3,1,0,2.3,0,4V17c0,1.6,1.3,3,3,3H16c1.6,0,3-1.3,3-3v-3.5C19,13.2,18.7,12.9,18.4,12.9z"></path>
+<path d="M20.9,5.3C20.9,5.3,20.9,5.3,20.9,5.3c0-0.1,0-0.1,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0
+  c0,0,0,0,0,0c0,0,0,0,0,0l-4.6-4.6c-0.2-0.2-0.6-0.2-0.8,0s-0.2,0.6,0,0.8l3.3,3.3c-2.1-0.3-5.5-0.3-8.5,1.5
+  C7.6,7.5,5.9,10,5.2,13.5c-0.1,0.3,0.1,0.6,0.5,0.7c0,0,0.1,0,0.1,0c0.3,0,0.5-0.2,0.6-0.5c0.6-3.1,2.1-5.4,4.3-6.8
+  c3-1.8,6.7-1.5,8.5-1.2l-3.8,3.9c-0.2,0.2-0.2,0.6,0,0.8c0.1,0.1,0.3,0.2,0.4,0.2s0.3-0.1,0.4-0.2l4.6-4.6c0,0,0,0,0,0
+  c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0-0.1C20.9,5.4,20.9,5.4,20.9,5.3
+  C20.9,5.4,20.9,5.4,20.9,5.3z"></path>
+</svg>
+      <span class="c-social-buttons--label">Share</span>
+    </a>
+  
+  
+    <div class="c-social-buttons__popover" data-ui="popover">
+      <div class="c-social-buttons__popover-header">
+        <strong>Share</strong>
+        <span>The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)</span>
+      </div>
+      <div class="c-social-buttons__popover-body">
+        
+          <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;via=Polygon" data-analytics-social="twitter">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+            <span class="c-social-buttons__text">tweet</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;u=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="facebook">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+            <span class="c-social-buttons__text">share</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="reddit">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
+<path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
+  s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
+  c0.3-0.1,0.3-0.1,0.7-0.1l0.7-3.1C8.6,2.9,8.8,2.9,9.3,3C11.1,3.5,12,3.7,12,3.7c0.2-0.3,0.5-0.3,0.8-0.3c0.6,0,1.1,0.5,1.1,1.2
+  s-0.5,1.2-1.1,1.2c-0.5,0-1-0.5-1.1-1c0,0-0.7-0.2-2.2-0.6C9.1,5.9,8.9,6.7,8.9,6.7c1.3,0.1,2.6,0.5,3.5,1.1c0.3-0.3,0.6-0.4,1-0.4
+  c0.8,0,1.4,0.7,1.4,1.5C14.8,9.4,14.5,9.9,14,10.2z"></path>
+<path d="M10.2,12.2c-0.3,0.4-0.9,0.5-1.7,0.5l0,0l0,0c-0.8,0-1.4-0.2-1.7-0.5c-0.1-0.1-0.2-0.1-0.3,0c-0.1,0.1-0.1,0.2,0,0.3
+  c0.4,0.4,1.1,0.7,2,0.7l0,0l0,0c0.9,0,1.6-0.2,2-0.7c0.1-0.1,0.1-0.2,0-0.3C10.4,12.1,10.3,12.1,10.2,12.2z"></path>
+<ellipse cx="6.6" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+<ellipse cx="10.4" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+</svg>
+            <span class="c-social-buttons__text">Reddit</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__pocket" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="pocket">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 14" class="p-svg-icon c-social-buttons__svg">
+<path d="M14.4,0.1H2c-0.6,0-1.1,0.5-1.1,1.1v4.6c0,4,3.3,7.3,7.3,7.3c4,0,7.3-3.3,7.3-7.3V1.2C15.5,0.6,15,0.1,14.4,0.1
+  z M12.5,5.4L8.9,9C8.7,9.2,8.4,9.3,8.2,9.3C8,9.3,7.7,9.2,7.5,9L3.9,5.4C3.5,5,3.5,4.4,3.9,4c0.4-0.4,1-0.4,1.3,0l3,3l3-3
+  c0.4-0.4,1-0.4,1.3,0C12.9,4.4,12.9,5,12.5,5.4z"></path>
+</svg>
+            <span class="c-social-buttons__text">Pocket</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__flipboard" href="https://share.flipboard.com/bookmarklet/popout?title=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;v=2" data-analytics-social="flipboard">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="p-svg-icon c-social-buttons__svg">
+  <path d="M0,0v16h16V0H0z M12.9,6.4H9.6v3.2H6.5v3.2H3.2V3.2h9.7V6.4z"></path>
+  <polygon opacity="0.13" points="6.5,3.2 6.5,6.4 9.8,6.4 12.9,6.4 12.9,3.2 "></polygon>
+  <polygon opacity="0.23" points="6.5,9.7 9.7,9.7 9.7,6.4 6.5,6.4 "></polygon>
+</svg>
+            <span class="c-social-buttons__text">Flipboard</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__email" href="mailto:?subject=The%20Normal%20Person%E2%80%99s%20Guide%20to%20Watching%20Competitive%20Dota%202%20%282017%20Edition%29&amp;body=%0A%0Ahttps%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="email">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-email"></use></svg>
+            <span class="c-social-buttons__text">Email</span>
+          </a>
+        
+      </div>
+      <span class="c-social-buttons__popover-caret" data-ui="caret"></span>
+    </div>
+  
+</div>
+
+    
+
+      
+
+
+
+    
+
+
+
+
+
+<div class="c-entry-content">
+  <p class="p-dropcap has-dropcap p-large-text" id="24gjJ3">You’re not a doofus if you don’t understand <a href="http://www.polygon.com/game/dota-2/2243"><em>Dota 2</em></a>. I’ve put literally thousands of hours into it and I’m not always sure I understand it. But I do know it’s a lot of fun to watch.</p>
+<p id="SGlmiF">With the 2017 International <em>Dota 2</em> Championships’ main event <a href="http://www.polygon.com/2016/8/8/12401046/the-international-2016-livestream-watch-dota-2-guide">set to get underway</a>, maybe you’re curious about what all the $20-plus million, 13 million monthly player hubbub is all about. But maybe you’re also frustrated — <em>Dota 2</em> is an extremely complicated game, and clicking on a stream of the game to watch is like jumping into the deep end of a pool with a half-inflated flotation device.</p>
+<p id="0czS8A">But we’re here to help! We want to help you understand what <em>Dota 2</em> is, what you might see, and how to watch it as quickly and painlessly as possible. Because this week is likely to see some of the best, most exciting competitive gaming of 2017.</p>
+<p id="CtJ1oF">I’m going to do everyone a favor, and put the summary cheat sheet at the beginning. Then we’ll get into more detail. </p>
+<div><div id="gPFORv">
+<div class="c-entry-sidebar">
+  <p id="0i8BT0"><small>Even the most basic information about </small><small><em>Dota 2</em></small><small> can seem intimidatingly complex. So let’s summarize.</small></p>
+<ul>
+<li id="KNgayn"><small>The pregame draft is a chess match. Many games are won or lost in the draft. Casters will give you an idea why.</small></li>
+<li id="IG4SOW"><small>Kills are important, but not everything. Higher-level heroes are worth a lot more as a kill.</small></li>
+<li id="3UOiQI"><small>The team with fewer towers is often at a disadvantage. The team taking objectives is usually winning. But taking an enemy base is hard, and it’s where many games’ momentum can shift — especially this year, because of shrines.</small></li>
+<li id="atmHof"><small>Roshan is an important kill, but a bad fight at the Rosh pit can sink a team that previously held the advantage.</small></li>
+<li id="nP43NU"><small>The team with the economic advantage will usually win the game.</small></li>
+</ul>
+</div>
+</div></div>
+<hr class="p-entry-hr" id="ofLZzq">
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_2389_44224" data-cdata='{"asset_id":115152,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/VeXxdqTgOx27OiNGZiNse7NcY5c=/0x0:1100x619/320x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 320w, https://cdn.vox-cdn.com/thumbor/q8S2PFaqffodF5_sjGDNuYKOY8U=/0x0:1100x619/520x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 520w, https://cdn.vox-cdn.com/thumbor/QyEI1SLbHcSpoBoaNnyw0-bEZiw=/0x0:1100x619/720x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 720w, https://cdn.vox-cdn.com/thumbor/lgwNqpHuK48ST7lRToK-MKRtwGU=/0x0:1100x619/920x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 920w, https://cdn.vox-cdn.com/thumbor/XEe4lvzddEYsUNyjhofUMMndzIQ=/0x0:1100x619/1120x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1120w, https://cdn.vox-cdn.com/thumbor/V8jgN_aNSBME0aux2T4HE4b9vaE=/0x0:1100x619/1320x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1320w, https://cdn.vox-cdn.com/thumbor/fjrUKbo0mBW1tD6UOV2z-arEwjE=/0x0:1100x619/1520x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1520w, https://cdn.vox-cdn.com/thumbor/EYcu8Lb2kozumb0sVeXJraoqS1E=/0x0:1100x619/1720x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1720w, https://cdn.vox-cdn.com/thumbor/lNLWrSSu77WUZU57WzN4TO7lrps=/0x0:1100x619/1920x0/filters:focal(0x0:1100x619):format(webp):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/7X61rveQabNrztT5dw6_PNP22HQ=/0x0:1100x619/320x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 320w, https://cdn.vox-cdn.com/thumbor/K6RzVXF38M2HQV-IMGdKchZzr9g=/0x0:1100x619/520x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 520w, https://cdn.vox-cdn.com/thumbor/EQ2dn0XJJKp8lijgKtNgihRN8Z8=/0x0:1100x619/720x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 720w, https://cdn.vox-cdn.com/thumbor/cIpviUdnPeKGkQ7vR0mIKHWb_rU=/0x0:1100x619/920x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 920w, https://cdn.vox-cdn.com/thumbor/CjWOyqWFuGQj-4mfYOZHedT31oE=/0x0:1100x619/1120x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1120w, https://cdn.vox-cdn.com/thumbor/WmMdI6w8ZVeBpGVaJVzDYow1IYg=/0x0:1100x619/1320x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1320w, https://cdn.vox-cdn.com/thumbor/652iKV11RN55DMtamQgcqTFL9Bg=/0x0:1100x619/1520x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1520w, https://cdn.vox-cdn.com/thumbor/d_1K8TGzLaGu81JOow7-UQMou24=/0x0:1100x619/1720x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1720w, https://cdn.vox-cdn.com/thumbor/4sD3ACHtkgCu20xnjkiFObxSuSc=/0x0:1100x619/1920x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="Dota 2" style="object-position: 50% 49%" data-upload-width="1100" src="https://cdn.vox-cdn.com/thumbor/AMVPC4eKQn0D_LmimKTesjJeBzw=/0x0:1100x619/1200x0/filters:focal(0x0:1100x619):no_upscale()/cdn.vox-cdn.com/assets/3697185/dota_2_frostivus_2013.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<h1 id="gnjfgU">
+<strong>What is </strong><em><strong>Dota 2</strong></em><strong>?</strong>
+</h1>
+<p id="Duatga">(Or:<em> How I learned to stop worrying about MOBAs and watch a competitive action-RPG</em>)</p>
+<h5 id="H8KFuV">
+<em><strong>Dota 2</strong></em><strong> is, in a nutshell, a competitive action role-playing game.</strong> </h5>
+<p id="C7nFQJ">Each of <em>Dota 2</em>’s 100+ characters, referred to as heroes, have different abilities and traits that can help their teammates or harm their opponents in a variety of ways. Each player gets one character, and no one else can use that character. Players receive gold and experience for killing AI-controlled units on the map, and receive even more experience and gold for killing players on the other team. When one side destroys an structure, all players on that offending team receive a gold bounty. And players also receive a slow, steady trickle of gold passively over time.</p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_6854_44225" data-cdata='{"asset_id":8979635,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/OMRykbRc1m621wRi4ekNwAAa02I=/0x0:3841x2160/320x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 320w, https://cdn.vox-cdn.com/thumbor/ntFvpmpeHvWjJMsZdNgK8q2RWfI=/0x0:3841x2160/520x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 520w, https://cdn.vox-cdn.com/thumbor/VDCLwLc3h9jLxWZUoLuVTrtbcus=/0x0:3841x2160/720x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 720w, https://cdn.vox-cdn.com/thumbor/9Z0TXEY9VzXwOX0HjCz-yO8okYI=/0x0:3841x2160/920x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 920w, https://cdn.vox-cdn.com/thumbor/VEkcpxNOFBkwdKYzheALj9P1Ing=/0x0:3841x2160/1120x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1120w, https://cdn.vox-cdn.com/thumbor/ZvpZlj03NgZ1i1L1TuHwCYe5fU0=/0x0:3841x2160/1320x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1320w, https://cdn.vox-cdn.com/thumbor/ECg6gVIKeQB_65y1dJ-VmSJDhCk=/0x0:3841x2160/1520x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1520w, https://cdn.vox-cdn.com/thumbor/IzdCBOqJvI9wVdqE-Yv5WUjc8b8=/0x0:3841x2160/1720x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1720w, https://cdn.vox-cdn.com/thumbor/bw2awXj1LSCwLyZphoghprWlRdk=/0x0:3841x2160/1920x0/filters:focal(0x0:3841x2160):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/J8jh-1SnzDMwINw-Yu899aqoAik=/0x0:3841x2160/320x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 320w, https://cdn.vox-cdn.com/thumbor/Z9aNif1PM62bmRgKkSeJ7zgiEQM=/0x0:3841x2160/520x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 520w, https://cdn.vox-cdn.com/thumbor/gS8vTN4NRRdP_DgZ8txkTUh3AuY=/0x0:3841x2160/720x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 720w, https://cdn.vox-cdn.com/thumbor/gULg3U5KwisBaHDr3Af4gvROaUU=/0x0:3841x2160/920x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 920w, https://cdn.vox-cdn.com/thumbor/nfy6T4VffTlZGKQulUqzBbOR85I=/0x0:3841x2160/1120x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1120w, https://cdn.vox-cdn.com/thumbor/_t5va1ZF3PVefponkYa0331JUOs=/0x0:3841x2160/1320x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1320w, https://cdn.vox-cdn.com/thumbor/daBvvYgby4mtJh8S7nU-4intDGU=/0x0:3841x2160/1520x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1520w, https://cdn.vox-cdn.com/thumbor/ORTf7Sq0wFjwjCf0EOxwNFpcMP4=/0x0:3841x2160/1720x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1720w, https://cdn.vox-cdn.com/thumbor/n7bvCXhCYa6j0RFD_xbm4Z0aXcc=/0x0:3841x2160/1920x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 50%" data-upload-width="3841" src="https://cdn.vox-cdn.com/thumbor/xT7bf-3kCB5cJTK29VTxe4K-OKA=/0x0:3841x2160/1200x0/filters:focal(0x0:3841x2160):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979635/Screenshot_2017_08_02_10.17.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<h5 id="YqdXiN">
+<strong>If you’ve played any loot-grinding action game, like Diablo or, hell, even </strong><em><strong>Destiny</strong></em><strong> (kind of), you’ve got the basic idea.</strong> </h5>
+<p id="decgvd">There’s more to <em>Dota 2</em> than that, but this is a good starting point. Kill more stuff, level up, get more abilities, buy better gear. If you’re ever confused, just come back to that.</p>
+<div class="c-float-right c-float-hang"><div id="NCNIUr">
+<div class="c-entry-sidebar">
+  <h2 id="rgK62I"><small><strong>How to watch The International 2017</strong></small></h2>
+<p id="3jE2hX"><small><strong>Twitch</strong></small></p>
+<p id="xmGGWu"><small>As with just about any competitive video game now, the easiest way to watch The International is probably </small><a href="http://twitch.tv/dota2ti" data-analytics-viewport="related-story" data-analytics-link="related-story"><small>Twitch</small></a><small>. However, there are arguably better ways to spectate the most financially lucrative esports tournament ever.</small></p>
+<p id="Fd5lmF"><small><strong>Dota2.com</strong></small></p>
+<p id="cHz2xZ"><small>Valve is once again streaming every game of TI7 on </small><a href="http://www.dota2.com/international/live/" data-analytics-viewport="related-story" data-analytics-link="related-story"><small><em>Dota 2</em></small><small>’s website</small></a><small>. In addition to multiple versions and languages for each stream, you can also view each match with accompanying real-time information about the game in question, including hero levels, a live minimap, XP and gold graphs, and more.</small></p>
+<p id="oc3L1n"><small><strong>Dota 2</strong></small></p>
+<p id="KwaXlM"><small>If you’ve purchased The International Battle Pass within the </small><small><em>Dota 2</em></small><small> client, not only have you contributed money to TI7’s massive prize pool, you’ve also bought a ticket to watch the tournament inside the game. Watching in-game gives you complete control of your view of the action, while also providing the same professional spectator experience and casting you’d get on Twitch or the </small><small><em>Dota 2</em></small><small> site. Viewers who watch within </small><small><em>Dota 2</em></small><small> can also earn prizes for specific in-game events, make predictions on various aspects of each match, and win battle points and more prizes.</small></p>
+<p id="9YjccH"><small><strong>VR</strong></small></p>
+<p id="7zhN57"><small>Valve has created a unique spectator experience just for you, if you’ve got an HTC Vive and have </small><small><em>Dota 2</em></small><small> installed. I’ll let my colleague Ben Kuchera </small><a href="http://www.polygon.com/2016/7/29/12325418/dota-2-vr-valve-vive" data-analytics-viewport="related-story" data-analytics-link="related-story"><small>tell you about it</small></a><small>:</small></p>
+<blockquote><p id="TL3ORa"><small>Watching battles take place around you is thrilling, even though it can be a bit hard to keep track of everything that’s going on. The interface makes it easy for you to switch views or jump back and forth from the in-person view to the lobby as well; it only took me a few minutes to get used to moving back and forth to get the best view of the action. It’s like being able to watch a football game on TV with the ability to jump onto the field at any time to see what it looks like from the quarterback’s point of view.</small></p></blockquote>
+</div>
+</div></div>
+<h5 id="5CYlcM">
+<em><strong>Dota 2</strong></em><strong> takes place on the same map every game.</strong> </h5>
+<p id="WvvPVE">It’s a field, kind of like a football or soccer field, except there’s an endlessly reincarnated dragon in a pit and the woods are full of monsters that will attack anyone who gets close. The map is split diagonally down the middle by a river. This is important. When someone refers to "the river," this is what they’re talking about. <strong>The bottom left half of the </strong><em><strong>Dota 2</strong></em><strong> map is "The Radiant" side</strong>, which is colorful and vibrant. <strong>The upper right half of the </strong><em><strong>Dota 2</strong></em><strong> map is referred to as "The Dire,"</strong> and looks corrupted and dying. Teams are referred to as the Dire or Radiant depending on which side they spawn on. <em>Dota 2</em>’s map has a time of day as well, which affects things like how far heroes can see. Some heroes even have abilities tied to the time of day.</p>
+<h5 id="xKxbgy">
+<strong>Each "side" of </strong><em><strong>Dota 2</strong></em><strong> has a central structure called an "ancient."</strong> </h5>
+<p id="ehtHEh">The Radiant ancient is at the Radiant base in the lower left-hand corner of <em>Dota 2</em>’s map. The Dire ancient is located in the upper-right corner of <em>Dota 2</em>’s map. <strong>The ultimate goal of any </strong><em><strong>Dota 2</strong></em><strong> match is to destroy the other team’s ancient.</strong> This is easier said than done.</p>
+<h5 id="9SGlGa">
+<em><strong>Dota 2</strong></em><strong> matches do not have a time limit.</strong> </h5>
+<p id="nZPHcD">Games will go on until one side’s ancient is destroyed, or one team surrenders by typing “GG” into <em>Dota 2</em>’s in-game chat (note: this mechanic is only present in <em>Dota 2</em>’s Captains mode). Most professional matches last 30-45 minutes, anecdotally speaking, though hourlong matches — or longer — aren’t uncommon.</p>
+<h5 id="WCzZo0">
+<strong>The map in </strong><em><strong>Dota 2</strong></em><strong> has three main paths, called "lanes." </strong>
+</h5>
+<p id="3PFEVu">The top lane — or just "top" — runs along the left and top sides of <em>Dota 2</em>’s square map. The middle lane — or "mid," as players call it — runs diagonally from the lower left of the map to the upper right. The bottom lane — "bot" for short — runs along the bottom side of the map and then up the right side. In between each lane is "the jungle," which contains small camps of neutral monsters that will attack anyone who gets close.</p>
+<div class="c-float-left c-float-hang">  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_7876_44226" data-cdata='{"asset_id":8979677,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/9uxhUguzpw0Lw447K20lB2p-W2s=/0x0:700x720/320x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 320w, https://cdn.vox-cdn.com/thumbor/P3Jbiq5HbVwKsB9xJV1Y54G95KM=/0x0:700x720/520x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 520w, https://cdn.vox-cdn.com/thumbor/3UpvUp6yd-n0qyEwuQSG_L_TMVs=/0x0:700x720/720x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 720w, https://cdn.vox-cdn.com/thumbor/rUfC5VcrXiRp7A0w_1BFzjgYqUQ=/0x0:700x720/920x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 920w, https://cdn.vox-cdn.com/thumbor/9l_zxztfvQ2E4G9rHUHk2zo9boM=/0x0:700x720/1120x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1120w, https://cdn.vox-cdn.com/thumbor/0JtzF2q2K24ols_NlirKG1s6Npk=/0x0:700x720/1320x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1320w, https://cdn.vox-cdn.com/thumbor/UDuzmJAYXIZfTschtiy5gP7lQVE=/0x0:700x720/1520x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1520w, https://cdn.vox-cdn.com/thumbor/ZwCXhbE9f39cDGbHfKDbMw_9ycw=/0x0:700x720/1720x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1720w, https://cdn.vox-cdn.com/thumbor/6u44LueQJuBeywsbI0_OLTWAQt8=/0x0:700x720/1920x0/filters:focal(0x0:700x720):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/uQVgrt25F-yW0aWKBI40Lqgbol4=/0x0:700x720/320x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 320w, https://cdn.vox-cdn.com/thumbor/26rFqnDd-o5sWPPCu9Xg5Tbhmdc=/0x0:700x720/520x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 520w, https://cdn.vox-cdn.com/thumbor/1Du4mGUGaxnSp3sn4j4Dq5lskzI=/0x0:700x720/720x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 720w, https://cdn.vox-cdn.com/thumbor/JaxqkGiA9CU3DaryNxue-elmHzk=/0x0:700x720/920x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 920w, https://cdn.vox-cdn.com/thumbor/wUfrvNjrToOqyODhBcp9Ryy3C8I=/0x0:700x720/1120x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1120w, https://cdn.vox-cdn.com/thumbor/NAb1c00Jk2kKkTUy3bQyGEf0WAY=/0x0:700x720/1320x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1320w, https://cdn.vox-cdn.com/thumbor/AGkFX7lmT4MQZvJhJGNXcKqhvNw=/0x0:700x720/1520x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1520w, https://cdn.vox-cdn.com/thumbor/-myd8XVsI5MVCxYWZ9VzHYcWeRQ=/0x0:700x720/1720x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1720w, https://cdn.vox-cdn.com/thumbor/sD8CH1AyURlDm4rkPpdzMFMOcrw=/0x0:700x720/1920x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 50%" data-upload-width="700" src="https://cdn.vox-cdn.com/thumbor/malxPMeV1YHbonG7BPbNs7YLVu0=/0x0:700x720/1200x0/filters:focal(0x0:700x720):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979677/dota_2_map.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<h5 id="VRopL7">
+<strong>The Radiant and Dire bases spawn "creeps."</strong> </h5>
+<p id="cTL3Ed">Inside each base, there are three sets of "barracks" — or "racks/rax" in <em>Dota 2</em> shorthand — that spawn friendly units called creeps. Creeps walk down each lane toward the enemy base, mindlessly attacking any enemy or neutral unit. <strong>Radiant creeps attack Dire units and structures, while Dire units attack Radiant creeps and structures.</strong></p>
+<p id="mKgvWy"><strong>When creeps are killed, they give experience to any enemy hero within a certain range, and they give extra experience and gold to a hero who delivers a killing blow to them.</strong> This is called "<strong>last-hitting</strong>." </p>
+<div class="c-float-right c-float-hang">  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_945_44227" data-cdata='{"asset_id":8979687,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/jh1cKKF1qfy4Eq1tY_oIYGiz6Rs=/0x0:1519x1220/320x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 320w, https://cdn.vox-cdn.com/thumbor/cAIniUYj_F_LhBgZhfU7l4UdFmw=/0x0:1519x1220/520x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 520w, https://cdn.vox-cdn.com/thumbor/gmDSnA9xRxfXCYIIu9GLB6hmqjU=/0x0:1519x1220/720x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 720w, https://cdn.vox-cdn.com/thumbor/GnZmNDwfdGrx4RWOg_1__UYqJ4I=/0x0:1519x1220/920x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 920w, https://cdn.vox-cdn.com/thumbor/YXI3ukkBkNX7ltoewgqhIdTMveo=/0x0:1519x1220/1120x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1120w, https://cdn.vox-cdn.com/thumbor/x1ejaKSgB-8GRCeUxEVr_vpqthg=/0x0:1519x1220/1320x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1320w, https://cdn.vox-cdn.com/thumbor/cGtMOHY3Ci-iH_Zasexy61po3MU=/0x0:1519x1220/1520x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1520w, https://cdn.vox-cdn.com/thumbor/ImavNkIc-YCMV41Ql_Jzhx60mhA=/0x0:1519x1220/1720x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1720w, https://cdn.vox-cdn.com/thumbor/cfWclHHRyI60NrKZiQarjE0-fDk=/0x0:1519x1220/1920x0/filters:focal(0x0:1519x1220):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/-f_3RiX6G1bWF0kCFcWEs_G7CF4=/0x0:1519x1220/320x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 320w, https://cdn.vox-cdn.com/thumbor/3yno2KSqZ95Longm8zQAg1goBzg=/0x0:1519x1220/520x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 520w, https://cdn.vox-cdn.com/thumbor/IlquVHpGfAVV5cP7z_-WViFb8dY=/0x0:1519x1220/720x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 720w, https://cdn.vox-cdn.com/thumbor/8uLU2CrX8O5AGUb1oQTi6jMZMmw=/0x0:1519x1220/920x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 920w, https://cdn.vox-cdn.com/thumbor/0d8SQmyI3Ya4DhrdNw-K_IHc6xg=/0x0:1519x1220/1120x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1120w, https://cdn.vox-cdn.com/thumbor/tUSmUyfTiRWAYu-jLhMM8WqzVSw=/0x0:1519x1220/1320x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1320w, https://cdn.vox-cdn.com/thumbor/4muO_dUOi8jGlY_C0OudAHFXhl4=/0x0:1519x1220/1520x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1520w, https://cdn.vox-cdn.com/thumbor/-9V-l34MaHkEdOaGvgtLM36gVMA=/0x0:1519x1220/1720x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1720w, https://cdn.vox-cdn.com/thumbor/E7ClGNJNzN9LdrM0n5fVmQCMPGs=/0x0:1519x1220/1920x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 50%" data-upload-width="1519" src="https://cdn.vox-cdn.com/thumbor/vWjcHC1751qdkvTpisfx_sIk118=/0x0:1519x1220/1200x0/filters:focal(0x0:1519x1220):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979687/last_hit.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<p id="pPgTKS">However, a player can attack a friendly creep that’s below half health. If a player gets the last hit on a friendly creep, killing it, enemy heroes receive no gold for that creep, and only half the experience they’d otherwise receive. This is called a "<strong>deny.</strong>" </p>
+<p id="lU5ZhH">Denying is one of the primary differentiating factor of <em>Dota 2</em> from similar titles, and it’s only become more important with recent updates. <strong>For games played during The International 2017, any hero that denies a friendly creep also earns bonus experience for doing so. </strong></p>
+<p id="9o2PbA"><strong>In some special circumstances, players can "deny" their teammates, preventing the other team from getting any gold or experience for that kill. Heroes killed by "neutral" units on the map also give no experience or gold.</strong> This is a higher-level tactic employed by players in some situations to keep their opponents from gaining an experience or gold advantage from a kill.</p>
+<h5 id="wcVEzT">
+<strong>Each lane is protected by towers.</strong> </h5>
+<div class="c-float-left c-float-hang">  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_8881_44228" data-cdata='{"asset_id":8979709,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/hkBC__i08lsiCqwCSNbVF6h5nGM=/0x0:996x1227/320x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 320w, https://cdn.vox-cdn.com/thumbor/FvRx2m4s5RE8jCJ_3OIpXJ-YozM=/0x0:996x1227/520x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 520w, https://cdn.vox-cdn.com/thumbor/eELAAdURq8mpIiLpIXapkXgTnJg=/0x0:996x1227/720x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 720w, https://cdn.vox-cdn.com/thumbor/kv_GmVL9sX7dyGlG5DCltlXCPZU=/0x0:996x1227/920x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 920w, https://cdn.vox-cdn.com/thumbor/cUhLQ5hXgcA3TUmHNw1zu6bkZ24=/0x0:996x1227/1120x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1120w, https://cdn.vox-cdn.com/thumbor/hyX9RLMZFIk_zXF2ttqzfdh2kUM=/0x0:996x1227/1320x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1320w, https://cdn.vox-cdn.com/thumbor/2sHpXsI8Xj0tP0QqDT4I0x4Qozg=/0x0:996x1227/1520x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1520w, https://cdn.vox-cdn.com/thumbor/Qd9Wd8a2mOvDeB-0tqIHUkBWXRc=/0x0:996x1227/1720x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1720w, https://cdn.vox-cdn.com/thumbor/Qc0_29HeqcWQ8Qn_NooZnNNime8=/0x0:996x1227/1920x0/filters:focal(0x0:996x1227):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/gYPaJdDp-AD1DmB9yBEwNUVmXeo=/0x0:996x1227/320x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 320w, https://cdn.vox-cdn.com/thumbor/pDLdlO8FAX8HEQXIwIfotmr32TM=/0x0:996x1227/520x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 520w, https://cdn.vox-cdn.com/thumbor/Kj8pWNiUS9O01rufSFrhqvj1jAE=/0x0:996x1227/720x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 720w, https://cdn.vox-cdn.com/thumbor/FqemC0DsCqLv23L8kfvUGtaxHt8=/0x0:996x1227/920x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 920w, https://cdn.vox-cdn.com/thumbor/FRgCzsV9vuSWy2QgtKkrS44Yo4w=/0x0:996x1227/1120x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1120w, https://cdn.vox-cdn.com/thumbor/GvEsdgDA2E52_jJMmUXZC-AKOuU=/0x0:996x1227/1320x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1320w, https://cdn.vox-cdn.com/thumbor/HhdjRK3BQlZkqLAFt3-Tne2fPVk=/0x0:996x1227/1520x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1520w, https://cdn.vox-cdn.com/thumbor/1MqzL7Y1pVtf4LaCGM0d3jhVHT0=/0x0:996x1227/1720x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1720w, https://cdn.vox-cdn.com/thumbor/YHmBq1b3wu-GIJEUDpgMJvV2378=/0x0:996x1227/1920x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 49%" data-upload-width="996" src="https://cdn.vox-cdn.com/thumbor/2cCR20czZSl76NK2EDl7He-kfLI=/0x0:996x1227/1200x0/filters:focal(0x0:996x1227):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979709/dota_2_tower.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<p id="528efN">The lower left side of the map is protected by Radiant towers, and the upper right is protected by Dire towers. Radiant towers attack Dire units, and Dire towers attack Radiant units. There are three towers in each lane. The towers closest to the river are called the "Tier 1" towers. Between the entrance to each base and the Tier 1 towers are "Tier 2" towers, and the entrance to each side’s base is protected by a Tier 3 tower. Towers must be destroyed in order — the Tier 1 tower has to fall before the Tier 2 tower can be attacked, and so on. A team’s ancient is protected by a pair of Tier 4 towers.</p>
+<p id="UjUP43">Once a lane’s towers fall, barracks can also be destroyed. If a barracks is destroyed, creeps will still spawn in that lane, though they will be weaker, which allows the other team’s stronger creeps to get closer and damage the enemy ancient. If all of a team’s barracks are destroyed, the other team is rewarded with "mega creeps," which are much more powerful units that even many heroes will have difficulty dealing with effectively. Mega creeps can easily destroy buildings, given the opportunity.</p>
+<h5 id="oQTsnL">
+<strong>2017’s big addition: shrines</strong> </h5>
+<p id="MAA8es">With the close of the 2016 competitive season, Valve made huge changes to <em>Dota 2</em>’s in-game map. Lanes were altered, the spaces between lanes were redesigned, and, perhaps most importantly, a new type of building was added: the Shrine.</p>
+<div class="c-float-right">  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_8717_44229" data-cdata='{"asset_id":8975981,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/nOU044rr3cbmuLIrgn-ABtoUJY4=/0x0:539x497/320x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 320w, https://cdn.vox-cdn.com/thumbor/IdI0HvN9CxjPN7WQIJ5WsXFzDog=/0x0:539x497/520x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 520w, https://cdn.vox-cdn.com/thumbor/So5cdeMewXVfa3gA7TlLIeW136E=/0x0:539x497/720x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 720w, https://cdn.vox-cdn.com/thumbor/aoy7ni_AfPF2DnUsd3m_KOiAoyI=/0x0:539x497/920x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 920w, https://cdn.vox-cdn.com/thumbor/tUrFmyrr03ooVOi2o2Xkg5y8FFQ=/0x0:539x497/1120x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1120w, https://cdn.vox-cdn.com/thumbor/b0cqupGieAxslEr20oHengvDZ6g=/0x0:539x497/1320x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1320w, https://cdn.vox-cdn.com/thumbor/46cpYE-C-wV7OM4bM6D6tQo2S90=/0x0:539x497/1520x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1520w, https://cdn.vox-cdn.com/thumbor/B8kFZBRzdDyfXWNhekzCJlZPCgw=/0x0:539x497/1720x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1720w, https://cdn.vox-cdn.com/thumbor/mrGQciCHIioOFRmW8qnKAX6YKUA=/0x0:539x497/1920x0/filters:focal(0x0:539x497):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/mCeBUz8c5tSR8TVvn8DO0HP19uk=/0x0:539x497/320x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 320w, https://cdn.vox-cdn.com/thumbor/I-eeeC0Evf4N6YHU6flFjUR7684=/0x0:539x497/520x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 520w, https://cdn.vox-cdn.com/thumbor/7SF6jrkdvkk9esZRfhWQE_xQjvY=/0x0:539x497/720x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 720w, https://cdn.vox-cdn.com/thumbor/OEFP4p1dvpH2iG_CCjyaSj0edsA=/0x0:539x497/920x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 920w, https://cdn.vox-cdn.com/thumbor/-XNM-ox4uSQ8Qr6Zllh-UUtqISI=/0x0:539x497/1120x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1120w, https://cdn.vox-cdn.com/thumbor/M0I1dixVcQHNF5ymly4FG4HRH3I=/0x0:539x497/1320x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1320w, https://cdn.vox-cdn.com/thumbor/TvmmyJSfBtGSa9EoU5q9Vloylb0=/0x0:539x497/1520x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1520w, https://cdn.vox-cdn.com/thumbor/2d7uYfyQsK_bHYGEJxdfO6WeLSM=/0x0:539x497/1720x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1720w, https://cdn.vox-cdn.com/thumbor/2GsUsTeWbHRLJwY-T2-MS-1jHms=/0x0:539x497/1920x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 49%" data-upload-width="539" src="https://cdn.vox-cdn.com/thumbor/G2_izGqle1s5qI-iy2lYCc27BG8=/0x0:539x497/1200x0/filters:focal(0x0:539x497):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975981/shrine.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<p id="dhJUyo">Shrines in <em>Dota 2</em> are buildings that, once activated, provide health and mana regeneration for a short period of time to friendly units when triggered. Each team has a total of five shrines: three in their base, and one each between the mid and top lanes and mid and bottom. A used shrine has a five minute cooldown before it can be used again. </p>
+<p id="tNI48F">Shrines are important for a few reasons. They provide a means of “sustain” — meaning players can remain active on the map without having to return all the way home to restore their health and mana. Shrines also provide excellent defensive points on the map in the early game against aggressive enemy lineups — it’s difficult to “fight into” an enemy shrine, because of the fast health regeneration they provide to the defending team. Finally, friendly shrines may be teleported to by their respected teams, offering an additional spot for teams to respond to enemy aggression or points from which to stage their own maneuvers. A team’s shrines are invulnerable until that team loses a Tier 3 tower. </p>
+<p id="sAd0nX">These are the basics. With that info, you should be able to watch a game of <em>Dota 2</em> and have a basic idea of what’s going on. </p>
+<hr class="p-entry-hr" id="jrhTvZ">
+<h1 id="PUVqJP">Heroes hitting each other</h1>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_8245_44230" data-cdata='{"asset_id":8979787,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/FecM5BR_8GTRo1lqkb6d-whCJbM=/0x0:1920x1080/320x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 320w, https://cdn.vox-cdn.com/thumbor/GK1YeYiHRfObmXhGN0sT3gIi9HI=/0x0:1920x1080/520x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 520w, https://cdn.vox-cdn.com/thumbor/i1vWnDaWuFgo0utPmdB0UX8uo8Q=/0x0:1920x1080/720x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 720w, https://cdn.vox-cdn.com/thumbor/SWQNlx0_U1ld3xNuibYIx0WzOMw=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 920w, https://cdn.vox-cdn.com/thumbor/hyhvdwlwi9DeaScPF9POBbmu9ac=/0x0:1920x1080/1120x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1120w, https://cdn.vox-cdn.com/thumbor/f_QApLywp37Vo0P_lIAbOUTZWdk=/0x0:1920x1080/1320x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1320w, https://cdn.vox-cdn.com/thumbor/OyJrwdwIVJ57R6NZLKWnY6WwzAI=/0x0:1920x1080/1520x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1520w, https://cdn.vox-cdn.com/thumbor/AKR-bqmASkF5L5XTp7EeS4a4rUM=/0x0:1920x1080/1720x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1720w, https://cdn.vox-cdn.com/thumbor/gq2MzGiENeIXKMtT4prbwvOKR-4=/0x0:1920x1080/1920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/Z_WCLXPiLqpS-sil7fAwZxIdveU=/0x0:1920x1080/320x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 320w, https://cdn.vox-cdn.com/thumbor/RTmnyy5rK41kvOJUP0ZhYaxvIDw=/0x0:1920x1080/520x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 520w, https://cdn.vox-cdn.com/thumbor/8_ouzRW2S160U-o_m6DfZNkp8YU=/0x0:1920x1080/720x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 720w, https://cdn.vox-cdn.com/thumbor/nWEX7xj0h57siNKCUPVEMRIk19g=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 920w, https://cdn.vox-cdn.com/thumbor/21zFwAd_wEySi_ODaJVBah_gtJM=/0x0:1920x1080/1120x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1120w, https://cdn.vox-cdn.com/thumbor/98zhEqFws7VAFLqMmnEuwQ6OAZM=/0x0:1920x1080/1320x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1320w, https://cdn.vox-cdn.com/thumbor/8TS8VG45Vc1j54pHpoiZSl2DgnM=/0x0:1920x1080/1520x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1520w, https://cdn.vox-cdn.com/thumbor/3J529R0dFecpT2vxscnVK9qKZmQ=/0x0:1920x1080/1720x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1720w, https://cdn.vox-cdn.com/thumbor/OgeWDo1InQlfwfx4JF7u559opfA=/0x0:1920x1080/1920x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 50%" data-upload-width="1920" src="https://cdn.vox-cdn.com/thumbor/FrM6NihR5hYzllDbGmLvkYpGKO8=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979787/team_fight.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+      
+        <cite>dota 2</cite>
+      
+    </span>
+  
+</figure>
+
+<p id="lsue6e">There’s a lot more to the game than that, obviously. <em>Dota 2</em> is as much about the way players interact with each other as anything else. Let me try to explain.</p>
+<h5 id="aoknuv"><strong>The Draft</strong></h5>
+<p id="jxfnAg">Before a competitive game begins, there’s the draft. During the draft, each team takes turns banning some heroes, which prevents either team from selecting them, and picking heroes for their players. The back-and-forth of the draft is a game unto itself. Each team designates one player, usually the team captain, as their “drafter.” It’s the drafter’s job to think steps ahead of the other team, denying them the heroes they want and the strategies they plan to carry out, while securing the tools needed to win. You’ll often hear casters say a game was won or lost in the draft, and this isn’t an exaggeration.</p>
+<h5 id="WaZRM7">
+<strong>Heroes</strong> </h5>
+<p id="5CnN1W"><em>Dota 2</em> has 113 heroes, each with their own unique sets of abilities that evolve and grow as they gain experience and level up. Generally speaking, a <em>Dota 2</em> character has three "normal" abilities and one "ultimate" ability, but they can’t pick them all at once. Instead, players receive one point per level to unlock an ability, to level up an already-unlocked ability to make it more powerful, or to increase their basic attributes, or "stats." Stats determine how much health a hero has, how many spells they can cast (their "mana pool"), how fast they attack, and the degree to which incoming damage is reduced, which is referred to as "armor."</p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_338_44231" data-cdata='{"asset_id":8979825,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/0M4_4_oX8eO8aV7MqUzNozdk8kI=/0x0:1920x1033/320x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 320w, https://cdn.vox-cdn.com/thumbor/Zv9OynAeS6ke3eGj_uWNtYtV9oA=/0x0:1920x1033/520x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 520w, https://cdn.vox-cdn.com/thumbor/whvCIFq5aRxZv5vs_1OT44Xk6zQ=/0x0:1920x1033/720x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 720w, https://cdn.vox-cdn.com/thumbor/8khVXKsvA0uEWGApVVFZqMyls7Y=/0x0:1920x1033/920x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 920w, https://cdn.vox-cdn.com/thumbor/N_h84FZcGfvkmaCPpJGW_RLsZhI=/0x0:1920x1033/1120x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1120w, https://cdn.vox-cdn.com/thumbor/Y9XGYOr6aGI4_PohvAJ03O3wBl8=/0x0:1920x1033/1320x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1320w, https://cdn.vox-cdn.com/thumbor/Ce2BYQ6VM_05C6D37NbSLFkmCXU=/0x0:1920x1033/1520x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1520w, https://cdn.vox-cdn.com/thumbor/aTcBoK6gGVNodDMeWI5bdahhiek=/0x0:1920x1033/1720x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1720w, https://cdn.vox-cdn.com/thumbor/yEx82KvMK5SS-z9lZ8Il5L2kYDE=/0x0:1920x1033/1920x0/filters:focal(0x0:1920x1033):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/qI2XYJkLZ-3Gl5sOxjyxE_KU5y8=/0x0:1920x1033/320x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 320w, https://cdn.vox-cdn.com/thumbor/wUlhSCyAj2HSpVqcbYQGwhNaUgs=/0x0:1920x1033/520x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 520w, https://cdn.vox-cdn.com/thumbor/EDRQ3yApGyO1ltlkYt_Tc5SMAKI=/0x0:1920x1033/720x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 720w, https://cdn.vox-cdn.com/thumbor/fHGtocnSePs7CoSmLNih-EtGBHU=/0x0:1920x1033/920x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 920w, https://cdn.vox-cdn.com/thumbor/EkgS6iLwIPZIopI5Vvf1uookYrk=/0x0:1920x1033/1120x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1120w, https://cdn.vox-cdn.com/thumbor/Lm_TVrmfj8pf7OZKn1x7M8Unemw=/0x0:1920x1033/1320x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1320w, https://cdn.vox-cdn.com/thumbor/1JsZ3OrmkNY5RhJTXVFirD1W4vY=/0x0:1920x1033/1520x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1520w, https://cdn.vox-cdn.com/thumbor/qOcWYvHFR6dBUEbqneR4PNRnR8s=/0x0:1920x1033/1720x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1720w, https://cdn.vox-cdn.com/thumbor/ReslNWzQxl71ZhAuZOC15Cey-Lw=/0x0:1920x1033/1920x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 49%" data-upload-width="1920" src="https://cdn.vox-cdn.com/thumbor/1QGu67WXZYrVmHQ6B9shiNLFbO8=/0x0:1920x1033/1200x0/filters:focal(0x0:1920x1033):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8979825/draft.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<p id="pFZr9W">Ultimate abilities, or "ults," aren’t available for most heroes until they reach level six, which is important. The tempo of a <em>Dota 2</em> match begins to accelerate and change when more and more heroes unlock their ultimate abilities. Ults are usually very powerful, but take more time to become available again than most other abilities.</p>
+<p id="VfpSv5">At the end of 2016, Valve added an entirely new mechanic to <em>Dota 2</em>: talent trees. Talents are available at level 10, 15, 20 and 25, and are presented as either/or choices particular to every hero. Talents can make a big difference in how characters play and what roles they fulfill. </p>
+<h5 id="rzf0Ye">
+<strong>Items</strong> </h5>
+<p id="1vVEUn">Heroes in <em>Dota 2</em> aren’t limited to what they were "born" with. Instead, they can use gold to purchase items from one of <em>Dota 2</em>’s shops. </p>
+<div class="c-float-left c-float-hang"><div id="0VFKIK">
+<div class="c-entry-sidebar">
+  <h3 id="TkkyPu"><small>The inventory and the Backpack</small></h3>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_4010_44232" data-cdata='{"asset_id":8975943,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/dn4shP5BNpazDstbAoasGfoPDhE=/0x0:805x822/320x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 320w, https://cdn.vox-cdn.com/thumbor/FFv5YLs0rr_uWAhW4vSM2tlEp3k=/0x0:805x822/520x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 520w, https://cdn.vox-cdn.com/thumbor/K2Ha_4ZJ_87y8IVXL4X2-GOhG4c=/0x0:805x822/720x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 720w, https://cdn.vox-cdn.com/thumbor/rVtnRFDbIhAJjIcpAW4FaGfqysc=/0x0:805x822/920x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 920w, https://cdn.vox-cdn.com/thumbor/an7JvTUiEJV88aDcHiqXG8Bt7aU=/0x0:805x822/1120x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1120w, https://cdn.vox-cdn.com/thumbor/mt4ja9y1SkkQe-T_qGLC3BQVepU=/0x0:805x822/1320x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1320w, https://cdn.vox-cdn.com/thumbor/onvkE2xW3GtMj-SePhVlb7YIQ8s=/0x0:805x822/1520x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1520w, https://cdn.vox-cdn.com/thumbor/dpKMZE_r2zaANqDFQQNSB3V-nqU=/0x0:805x822/1720x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1720w, https://cdn.vox-cdn.com/thumbor/gwRNFZyF7vSmSxhuhBlHdYW7260=/0x0:805x822/1920x0/filters:focal(0x0:805x822):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/IgOPG5plgFxoISuPCO-TqoMcWqk=/0x0:805x822/320x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 320w, https://cdn.vox-cdn.com/thumbor/bVvU5WskGaZK6PafYqedyrkKnIo=/0x0:805x822/520x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 520w, https://cdn.vox-cdn.com/thumbor/S221phx2yaiVKikVLGahNnice0s=/0x0:805x822/720x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 720w, https://cdn.vox-cdn.com/thumbor/K3GkdndAOEaefcQwj4rOq6Nn6Do=/0x0:805x822/920x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 920w, https://cdn.vox-cdn.com/thumbor/oIkwHXjZPeZCtcGu0chX-pL7BtQ=/0x0:805x822/1120x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1120w, https://cdn.vox-cdn.com/thumbor/dFxIJNixa50yQD21FO_0Ywwp4YY=/0x0:805x822/1320x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1320w, https://cdn.vox-cdn.com/thumbor/cD8OYqCXwVJj7YxGNe5Go9Bv5l4=/0x0:805x822/1520x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1520w, https://cdn.vox-cdn.com/thumbor/nZQ3N8kyOM5Nzztk2X-HZpGZMeM=/0x0:805x822/1720x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1720w, https://cdn.vox-cdn.com/thumbor/uu2S49siqGQg0mXVe27VdCl2uik=/0x0:805x822/1920x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 50%" data-upload-width="805" src="https://cdn.vox-cdn.com/thumbor/wAYLBzPRaRIk5tzES-vz6yg0qGw=/0x0:805x822/1200x0/filters:focal(0x0:805x822):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975943/bg_12_a.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<p id="mjmLvs"><small>Every player can hold a maximum of six “active” items at a time, but at the end of 2016, Valve gave every character a new tool: the backpack. The backpack can carry up to three additional items, but there’s a catch — any item moved from a player’s backpack to their active inventory space has a brief cooldown period during which it is unusable and provides no bonuses. In addition, usable items with cooldown timers will see that timer delayed if placed in the backpack.</small></p>
+</div>
+</div></div>
+<p id="7wk7WO">There are three kinds of places for players to purchase items. Basic shops in either base sell consumables, items that can be used a limited number of times for various purposes, like regenerating health or mana out in the map; town portal scrolls, which allow the user to teleport to a friendly structure like one of their towers or their base; and the like. These shops also sell more expensive items that provide boosts to a hero’s stats or actually give them new abilities, like instantly teleporting a short distance — or "blinking" — or pushing themselves or another player. More powerful items can’t be bought outright. Instead, they’re built by buying a specific set of other items that then combine into something new.</p>
+<p id="02ZOif">You’ll often hear casters or other players refer to specific heroes as "item-dependent." This means that character needs specific items to become truly effective. For example, if a character can cast a spell that completely immobilizes any enemy hero caught within it, but lacks an ability to catch those heroes with that ability, they might want to buy a blink dagger, the item providing the aforementioned instant teleport. Without that item, the player’s ability to use their abilities is diminished. Other heroes can do a lot of damage up close, but can be quickly eliminated by spells. These characters might need a BKB, which will render them immune to all but a few extremely powerful spells for a limited amount of time.</p>
+<p id="46RkUZ">Items are important, is what I’m saying.</p>
+<div class="c-float-right c-float-hang"><div id="Z5LfgF">
+<div class="c-entry-sidebar">
+  <h2 id="K95aoH">
+<small>Important items in </small><small><em>Dota 2</em></small>
+</h2>
+<p id="rtV8EM"><small><strong>Wards:</strong></small><small> Wards in </small><small><em>Dota 2</em></small><small> come in two varieties: observers and sentries. Observers are invisible objects that last for six minutes and are used to gain vision over places on the map to monitor enemy movement. Defensive observer wards are stationed on the placing team’s side of the map. Offensive observer wards are placed on the enemy team’s side of the map, often behind towers or in the jungle, to secure objectives or kills on unsuspecting heroes. Sentry wards do not provide vision by themselves, but instead reveal invisible units — including observer wards. "Dewarding" means revealing and destroying an enemy team’s observer wards, which robs them of information and awareness of the map.</small></p>
+<p id="N3H088"><small><strong>Runes</strong></small><small>: There are two categories of runes in </small><small><em>Dota 2</em></small><small> — power runes, which grant a special bonus to the player who activates them, and bounty runes, which provide gold and experience to the player who picks them up. Bounty runes spawn every two minutes at four spots on </small><small><em>Dota 2</em></small><small>’s map: two places on Dire’s side of the map, and two places on Radiant’s. Power runes also spawn every two minutes, but only one at a time, and randomly at the top or bottom of the river that divides the map. </small></p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_285_44233" data-cdata='{"asset_id":8975971,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/VtUuHVhAjMw5npv4nwcq8TS66Ys=/0x0:309x277/320x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 320w, https://cdn.vox-cdn.com/thumbor/jRIGCJgTXqUqGH_zXbF9IhOWfxA=/0x0:309x277/520x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 520w, https://cdn.vox-cdn.com/thumbor/P3x7x5-3Epg5UgsXAp_GxGHzs4A=/0x0:309x277/720x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 720w, https://cdn.vox-cdn.com/thumbor/4th7sMW0qpDlqq4e1_ch8OihMOs=/0x0:309x277/920x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 920w, https://cdn.vox-cdn.com/thumbor/7DIYmjk72Rlsfsp_4JTH09Fxf8A=/0x0:309x277/1120x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1120w, https://cdn.vox-cdn.com/thumbor/dfHgs-WeaACA5-7BFDhG1b8EMO8=/0x0:309x277/1320x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1320w, https://cdn.vox-cdn.com/thumbor/KmlUE6pxHVVqnmXQ7bStvSZMy-I=/0x0:309x277/1520x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1520w, https://cdn.vox-cdn.com/thumbor/LOdwl7jhtrexFJXCPrxrClW4JM8=/0x0:309x277/1720x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1720w, https://cdn.vox-cdn.com/thumbor/Lxx_35hz2N9HCR0L02BN9lGl03Y=/0x0:309x277/1920x0/filters:focal(0x0:309x277):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/BBS5p2pzVCp4QgENOHjtmDitbmc=/0x0:309x277/320x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 320w, https://cdn.vox-cdn.com/thumbor/WIE4w2jkf8lXRF-x9M_lxDt8KBc=/0x0:309x277/520x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 520w, https://cdn.vox-cdn.com/thumbor/R1Aq9M3ytAZ68uZNZBQQnBCORpc=/0x0:309x277/720x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 720w, https://cdn.vox-cdn.com/thumbor/xtGd20fLAgR8kTl_Po233No185c=/0x0:309x277/920x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 920w, https://cdn.vox-cdn.com/thumbor/YDWpAPgHNNNZuXj-d4MBVf4bMd8=/0x0:309x277/1120x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1120w, https://cdn.vox-cdn.com/thumbor/CZA2veQU5ogypA3oNqXrQZU0p5U=/0x0:309x277/1320x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1320w, https://cdn.vox-cdn.com/thumbor/UPsa03EgxBWaKNDUaVH6hNFAsck=/0x0:309x277/1520x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1520w, https://cdn.vox-cdn.com/thumbor/cydKNf6pnuovnD_QkOFgqQE3HcY=/0x0:309x277/1720x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1720w, https://cdn.vox-cdn.com/thumbor/h9whO6HyL4sujaQIQfmMU1oH2Jo=/0x0:309x277/1920x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 49%" data-upload-width="309" src="https://cdn.vox-cdn.com/thumbor/IlTgZ9RWhw8DA4JDsgt313XFLmw=/0x0:309x277/1200x0/filters:focal(0x0:309x277):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8975971/bounty_rune.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<p id="cD0j9c"><small>There are 5 kinds of power rune: Haste — which provides maximum move speed to the hero who collects it; Illusions — which create less powerful duplicates of the hero who grabs them; Double Damage — which should be self explanatory; Regeneration — which refills a heroes health and mana pool quickly over time; and Arcane runes, which reduce the amount of mana required to cast a spell, and reduces the cooldown of any spell cast or item used. Runes collected also refill player bottles, with bounty runes providing two charges and power runes refilling them completely. Runes can be held in a bottle for up to two minutes, allowing them to be saved until needed.</small></p>
+<p id="Kf6rKm"><small><strong>Tangos:</strong></small><small> Tangos come in stacks of four from the main shop in each team’s spawn point. Tangos can be used to consume a tree on </small><small><em>Dota 2</em></small><small>’s map to provide a healing boost to the player who uses them. Tangos can also eat enemy wards, which provide the healing bonus for twice as long.</small></p>
+<p id="UMCVQA"><small><strong>Town portal scrolls:</strong></small><small> Town portal scrolls, or TPs, are used to relocate to a friendly structure. TP scrolls allow players to escape dangerous situations or respond to enemy aggression elsewhere on </small><small><em>Dota 2</em></small><small>’s map. However, town portal scrolls take time to cast. If a hero is stunned while casting a town portal scroll, the spell is interrupted, wasting the scroll. Also, each new hero teleporting to a tower or structure takes longer to channel the TP scroll than each previous hero for a short time.</small></p>
+<p id="GrNm2b"><small><strong>Smoke:</strong></small><small> A smoke is a single-use item that turns all allied heroes within a certain radius invisible for a period of time, and also grants increased move speed. Smoked heroes are not detectable by wards, but are revealed once they get within range of enemy heroes. Smokes are used to sneak into the rosh pit, to find unsuspecting enemy heroes to kill or "gank," or even for support players to place wards around the map undetected. Each team’s main shop can carry only a few smokes at a time, and when they’re exhausted, it takes quite a while for them to come back in stock.</small></p>
+<p id="dGVAYG"><small><strong>The Gem:</strong></small><small> The bearer of a gem can see any invisible unit or object, but there’s a catch: If the carrier of a gem is killed, the gem falls to the ground, and any player, friend or foe, can pick it up. Gems take a long time to come back in stock once bought, and a team that loses their gem will often lose all of their wards to the other team.</small></p>
+<p id="Oxnx51"><small><strong>Black King Bar:</strong></small><small> The Black King Bar, or "BKB," provides its user with a period of immunity to almost all spells and magic effects in the game. Of course, there’s a catch: The BKB has a long "cooldown" after use. Also, while the BKB is effective for 10 seconds initially, this duration diminishes by one second with each use. The minimum BKB duration is five seconds, though on the bright side, the lower the BKB’s next duration, the sooner it’s available after using it.</small></p>
+<p id="272otd"><small><strong>The Divine Rapier:</strong></small><small> The Divine Rapier, or simply, rapier, is the "In Case of Emergency, Break Glass" fire ax of </small><small><em>Dota 2</em></small><small>. The rapier is one of the most expensive items in the game and adds an incredible amount of raw damage. But that comes at a price: If a hero dies while carrying the rapier, they drop it, at which point any other player can pick it up. The rapier cannot be manually dropped by a player, unless they bought it originally and have not yet died with it in their possession. Otherwise, the holder must die for it to change hands. If a rapier is coming out, then shit is very, very real.</small></p>
+</div>
+</div></div>
+<h5 id="NXULZA">
+<strong>Timings</strong> </h5>
+<p id="d2eIto"><em>Dota 2</em> teams will play around time-based factors for the duration of every match. If a hero that needs a blink dagger to be effective finally has one, it might be time to catch the other team off guard with that. If an ultimate is available, it might be time to secure a kill or destroy a tower. Conversely, if the other team has used a powerful ult unsuccessfully, that provides their enemies with a window to secure an advantage. And if the other team’s item-dependent heroes aren’t doing as well as they need to in order to make those big purchases, smart opponents put more pressure on that team while they have an advantage. You might hear casters refer to "tempo control" — this means heroes and strategies that allow teams to better force the rhythm of a game.</p>
+<h5 id="zRH0Wn"><strong>Player “Positions”</strong></h5>
+<p id="MnMkyd">While <em>Dota 2</em> heroes can be somewhat flexible in how they’re played, in part due to items, players tend to fall into a few specific roles. Sometimes these roles are referred to by numbers, from Position 1 to Position 5, which refers to their economic priority — that is, who is given the most opportunity to amass gold and experience through killing, or "farming," neutral and enemy units. This is in ascending order of the player who is given the most farm.</p>
+<p id="5KtxtA"><strong>Support players</strong> are responsible for buying consumable items for the team, like wards, which give their team vision of an area of the map. <strong>Support heroes often have healing or defensive abilities</strong> that keep their teammates alive. Some supports also have abilities to hold enemy heroes in place, in order to allow their teammates to attack more or prevent enemies from getting away. This is often referred to as <strong>crowd control</strong>, or "<strong>CC</strong>" — teams without CC can have a hard time securing kills on enemies that have a means of escape. Support heroes also often have spells that do a lot of comparative damage early on, before their enemies have time to buy more expensive items providing additional health or spell resistance. This makes supports very important in the early going, though they lose some damage potential in later periods of a match.</p>
+<p id="Ch3bAZ">Supports are either Position 4 or Position 5. Position 5 supports will spend most of a match, well, broke, constantly buying wards and other consumables for their team ahead of their own immediate needs. Position 4 supports are often responsible for starting fights or making sure enemies don’t get away, and are more item- and/or level-dependent to be effective parts of their team.</p>
+<p id="53wgTU"><strong>Offlane</strong> or Position 3 players are sent to the bottom lane if Dire, and the top lane if Radiant. "Offlanes" are the most dangerous for each team, with the least safe space to sit next to the constant waves of enemy creep units to earn experience and gold. <strong>Offlane roles are often "initiators" — characters that start, or "initiate," a fight with the other team — or even counter-initiators that regain control when the other team attempts to start a fight or can help their team “disengage,” removing them from danger. </strong>Offlane heroes are usually "cores" for their team, responsible for much of a team’s damage in the early- to mid-game period of a match.</p>
+<p id="vEXkbv"><strong>Midlane</strong> or Position 2 heroes are characters that benefit from having the most farm quickly. Because the middle lane of the <em>Dota 2</em> map is the shortest distance between the Radiant and Dire sides, creep waves meet in the middle of the lane much more quickly, resulting in more opportunities to secure last hits and experience for players who lane there. Position 2 heroes often have devastating ultimate abilities that can assert an early advantage over the other team, and are almost always the first to reach level six in a game. These players will often be responsible for much of their team’s damage until the late-game stage of a match.</p>
+<p id="KbRO98"><strong>Carry</strong> or Position 1 heroes are so called because they "carry" their team. More specifically, carry players select heroes that become very powerful with experience and items, and they usually become the primary damage dealer for their team. Carry heroes are often more vulnerable early in a game, making them a target of the other team’s support heroes, and restricting their progress can be the difference between winning and losing. Carry players tend to be the most exciting to watch, making the riskiest, most dynamic plays — their skill can often turn the game in their team’s favor.</p>
+<h5 id="2vLP7d">
+<strong>The kill bounty</strong> </h5>
+<p id="CiH4wQ">Generally speaking, the most gold and experience in <em>Dota 2</em> is awarded for killing an enemy hero. But this number, unlike for every other unit in the game, is not static. Instead, heroes are worth more and more gold and experience the higher level they are and more their "net worth" — that is, the higher the overall value of all their items. In addition, as players secure kills, a bounty is added to their head, and the more kills they score without being killed in return, the higher the bounty gets. <strong>Heroes with particularly large killstreaks might be worth thousands of gold if killed.</strong></p>
+<p id="JbyPgc">As with enemy creeps, when killed, heroes give experience to enemy players nearby. But unlike with creeps, killed heroes also give gold to all nearby enemies, and the hero who gets the last hit on an enemy player is awarded the kill and extra gold.</p>
+<p id="r5IJLu">This system introduces one of <em>Dota 2</em>’s comeback mechanics: <strong>If a team is losing badly but can win one or two good fights, or secure just a few high-value kills on their opponent, the "gold/experience swing" — that is, the change in net difference between the two teams, economically and experience-wise — can get the losing side back in the game in a meaningful way.</strong></p>
+<hr class="p-entry-hr" id="d4Goql">
+<h2 id="2EA9cm">Other things to know</h2>
+<h5 id="mWd8Lu">
+<strong>Stacking</strong> </h5>
+<p id="WSX1qQ">Neutral camps around <em>Dota 2</em>’s maps will spawn new creatures if those camps are empty when the in-game clock reaches the :00 mark every minute. If a player can draw a camp’s creatures out at just the right time, this will "stack" the camp, allowing for multiple camps’ worth of neutrals in one camp. Heroes with abilities that allow them to attack multiple enemies at once can often take advantage of this to farm more efficiently.</p>
+<div class="c-float-left c-float-hang">  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_4260_44234" data-cdata='{"asset_id":8976019,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/p557mqX1Lse5-oXCpN4UwwRMSto=/0x0:553x545/320x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 320w, https://cdn.vox-cdn.com/thumbor/PH_ZSQdE9yxslyoG5iAZba8V0W4=/0x0:553x545/520x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 520w, https://cdn.vox-cdn.com/thumbor/LQviFRz3GPbNOrvELgjrapHVSUM=/0x0:553x545/720x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 720w, https://cdn.vox-cdn.com/thumbor/80liKH22hx76NnufWbvz4Ak2RcU=/0x0:553x545/920x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 920w, https://cdn.vox-cdn.com/thumbor/hAy7rmF5Nff2BLGyWxENUzSzM3c=/0x0:553x545/1120x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1120w, https://cdn.vox-cdn.com/thumbor/H5HivAaRYlKisrFRSZccHdKa6ZE=/0x0:553x545/1320x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1320w, https://cdn.vox-cdn.com/thumbor/Fo7OmGPYmcohdOPwJTPIZIQm-P0=/0x0:553x545/1520x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1520w, https://cdn.vox-cdn.com/thumbor/4oe27ya7EtUbUfLTMjo8_7Ai_xI=/0x0:553x545/1720x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1720w, https://cdn.vox-cdn.com/thumbor/f2Blanm7HIP3IN4wWVNP5s3goWI=/0x0:553x545/1920x0/filters:focal(0x0:553x545):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/lnopJWp_FI_H3-4Zsrwht47yYeo=/0x0:553x545/320x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 320w, https://cdn.vox-cdn.com/thumbor/mtCTR5HG3UVOraCUrtOM89HeAlk=/0x0:553x545/520x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 520w, https://cdn.vox-cdn.com/thumbor/9JkhdgqS-LKqpHs2A6fSawmIcRU=/0x0:553x545/720x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 720w, https://cdn.vox-cdn.com/thumbor/s7sqMX6mL8dhPxecJuPsVZFTdc4=/0x0:553x545/920x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 920w, https://cdn.vox-cdn.com/thumbor/8Q7VtqxItyQYDWuBR8HbMOyhcJ4=/0x0:553x545/1120x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1120w, https://cdn.vox-cdn.com/thumbor/qFKIdmomSnVEAYHxZTYZw_kas8g=/0x0:553x545/1320x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1320w, https://cdn.vox-cdn.com/thumbor/EXpcHb1yJjWbWjX71eQY6rVij7Q=/0x0:553x545/1520x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1520w, https://cdn.vox-cdn.com/thumbor/kS9tdC14rOzDIxrNxXhg5jFK2XY=/0x0:553x545/1720x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1720w, https://cdn.vox-cdn.com/thumbor/A11olGusgl38d2Pxi9I2lMxQrlc=/0x0:553x545/1920x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 49%" data-upload-width="553" src="https://cdn.vox-cdn.com/thumbor/rWAw1CGVPKvDznD-TuNCDkO0KNg=/0x0:553x545/1200x0/filters:focal(0x0:553x545):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976019/ancient.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<h5 id="9mLsf7">
+<strong>Ancient Creeps</strong> </h5>
+<p id="FYNfoq">There are special, extra powerful neutral creeps on <em>Dota 2</em>’s map referred to as "ancient creeps." Ancients are much harder to kill, but yield much more gold and experience than other neutral camps. Supports will often stack ancient camps for carry players to farm once they’ve become powerful enough to do so.</p>
+<h5 id="yFJtrn">
+<strong>Roshan</strong> </h5>
+<p id="r4NFDi">Roshan, or "Rosh" for short, is a unique ancient unit powerful enough that teams may have to work in concert to destroy him. Killing Roshan yields a great deal of gold and experience, but the main prize is the Aegis of the Immortal. The hero that picks up the Aegis will, when killed, respawn again a few seconds later with full life and full mana. Roshan lives in a "pit" that has only one entrance, making it risky for the team attempting to kill him. If their opponents interrupt, they will generally have a very strong positional advantage. Many games turn on a single bad engagement in "the Rosh pit."</p>
+<div>  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547146214_5819_44235" data-cdata='{"asset_id":8976029,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/HKFyuIJHyuXMyNYLbnQ-OboglS0=/0x0:1555x1023/320x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 320w, https://cdn.vox-cdn.com/thumbor/bzddtidHRYTeFMqar1fRsNCul1E=/0x0:1555x1023/520x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 520w, https://cdn.vox-cdn.com/thumbor/3YSKSPqwPhBe09kLcJeHGwgO0Ec=/0x0:1555x1023/720x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 720w, https://cdn.vox-cdn.com/thumbor/s8ocMohQdacUPd-DA-aR8F90McE=/0x0:1555x1023/920x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 920w, https://cdn.vox-cdn.com/thumbor/zfWOSLECpSHAyIJKqZVeyeazjQ8=/0x0:1555x1023/1120x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1120w, https://cdn.vox-cdn.com/thumbor/7zSOT_goyvxyrm6orDepc8pAQj0=/0x0:1555x1023/1320x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1320w, https://cdn.vox-cdn.com/thumbor/jly5MfHaf72Fep_DKsZ5CTQXajc=/0x0:1555x1023/1520x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1520w, https://cdn.vox-cdn.com/thumbor/u6PbMddKAAfDhBFtb7cV2w25Rv8=/0x0:1555x1023/1720x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1720w, https://cdn.vox-cdn.com/thumbor/3rD15GpvDjmB3FAhX_8AnyfiUKs=/0x0:1555x1023/1920x0/filters:focal(0x0:1555x1023):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/wc7wE6Y1ROxJNlZXDcjIF9pgVck=/0x0:1555x1023/320x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 320w, https://cdn.vox-cdn.com/thumbor/ctNABen8N9VJstPxjGzIP4NfHWU=/0x0:1555x1023/520x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 520w, https://cdn.vox-cdn.com/thumbor/M2y0PAQghfC624cMk0dlegtWD4U=/0x0:1555x1023/720x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 720w, https://cdn.vox-cdn.com/thumbor/vlyvRpHws0yAUvUJoRebDfK5v08=/0x0:1555x1023/920x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 920w, https://cdn.vox-cdn.com/thumbor/8CSrcNKgWoXyvnlHcnYU9pefrSo=/0x0:1555x1023/1120x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1120w, https://cdn.vox-cdn.com/thumbor/F-Qz-wszVkc0rYELvdihjjLnoVc=/0x0:1555x1023/1320x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1320w, https://cdn.vox-cdn.com/thumbor/6c_ioRSbkYmS8cBAoDSAgcd33Uk=/0x0:1555x1023/1520x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1520w, https://cdn.vox-cdn.com/thumbor/MEeclF4tlbtVvNrMT6IPzxx7Rlc=/0x0:1555x1023/1720x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1720w, https://cdn.vox-cdn.com/thumbor/W-WDJOkdf_otEFfUaBHDiWQu1AY=/0x0:1555x1023/1920x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 49%" data-upload-width="1555" src="https://cdn.vox-cdn.com/thumbor/La_OaICoe-nc74u_h4b6sy4ohhg=/0x0:1555x1023/1200x0/filters:focal(0x0:1555x1023):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/8976029/roshan.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+</div>
+<h5 id="8j3v3n"><strong>High ground</strong></h5>
+<p id="SVeutt">There are varying degrees of elevation on <em>Dota 2</em>’s map, referred to as high ground and low ground. High ground provides an absolute tactical advantage — heroes on low ground need an allied unit (or ward) on the high ground to see enemy units and to attack them, and attacks uphill have a chance to miss. The entrances to each base are elevated, making it difficult for the opposing team to attack. Many teams have difficulty taking high ground, and the fights they lose doing so can swing the game in their opponents’ favor, thanks to <em>Dota 2</em>’s comeback mechanics.</p>
+<p id="qLJqwc"><strong>At this year’s International, high ground is going to be an even more difficult problem to solve for teams because of the addition of shrines to </strong><em><strong>Dota 2</strong></em>. Shrines provide a burst of healing and resources to defending teams, and there are three in each base. This forces teams attempting to break high ground to consider whether or not the enemy team has shrines to rely on while they defend, and how many. </p>
+<h5 id="aKhkl2"><strong>Fortification</strong></h5>
+<p id="byOVTt">Each team has the ability to make its structures invulnerable for a limited amount of time. You’ll know it by a golden glow (it’s identical to the effect present on heroes with a BKB active). Fortification takes five minutes to recharge, though the destruction of any of a team’s Tier 1 towers will reset the cooldown on fortification immediately.</p>
+<hr class="p-entry-hr" id="f9VqA4">
+<p class="c-end-para" id="C3dZs0">It all seems like a lot, I know. It <em>is </em>a lot! <em>Dota 2</em> is complicated. but regardless of how much you know about the game, it can be a hell of a lot of fun to watch. So pick up what you can as you’re able, and enjoy some of the best esports you’re likely to see in 2017. </p>
+</div>
+
+
+
+<div class="u-hidden-text" id="formatter-datter" data-cid="site/entry_formatter-1547147728_6783_5516" data-cdata='{"svg_hr_illustration":""}'>
+  
+</div>
+
+
+<section class="c-related-list">
+  <h2 class="c-related-list__head">
+    In this Storystream
+  </h2>
+  <h3 class="c-related-list__subhead"><a href="https://www.polygon.com/2017/8/2/16086162/ti7-2017-international-dota-2-championships-how-to-watch-results">The 2017 International Dota 2 Championships - how to watch, results and more</a></h3>
+  <ul class="c-related-list__stream">
+  
+    <li class="c-related-list__stream-link">
+      <a href="https://www.polygon.com/2017/8/12/16136964/dota-2-ti7-winners-international">Here are the winners of Valve’s $24 million 2017 International Dota 2 Championships</a>
+    </li>
+  
+    <li class="c-related-list__stream-link">
+      <a href="https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition">The Normal Person’s Guide to Watching Competitive Dota 2 (2017 Edition)</a>
+    </li>
+  
+    <li class="c-related-list__stream-link">
+      <a href="https://www.polygon.com/2017/7/29/16062508/dota-2-the-international-2017-new-players">Dota 2 makes newbie-friendly changes in advance of The International</a>
+    </li>
+  
+  </ul>
+  <a class="p-counter-link" href="https://www.polygon.com/2017/8/2/16086162/ti7-2017-international-dota-2-championships-how-to-watch-results">
+    View all <span class="p-counter-link__count">8</span> stories
+  </a>
+</section>
+
+
+
+
+
+
+  </div>
+  <div class="l-segment ad__athena_internal">
+  </div>
+</div>
+
+<div class="l-wrapper">
+  <div class="l-sidebar-fixed l-segment">
+    <div class="l-col__main">
+      
+        <svg width="0" height="0" style="position:absolute;display:none;"><symbol viewbox="236.9 122.4 318.2 367.2" id="icon-bold" xmlns="http://www.w3.org/2000/svg"><path d="M236.9 422.3h39.8V189.7h-39.8v-67.3h171.4c27.5 0 45.9 0 67.3 9.2 39.8 12.2 64.3 45.9 64.3 88.7 0 30.6-15.3 61.2-42.8 79.6 42.8 12.2 58.1 49 58.1 85.7 0 55.1-39.8 91.8-82.6 104H236.9v-67.3zm177.5-159.1c21.4 0 33.7-15.3 33.7-36.7 0-12.2-6.1-27.5-18.4-30.6-6.1-3.1-12.2-3.1-21.4-3.1h-36.7v70.4h42.8zm9.1 156c6.1 0 12.2 0 18.4-3.1 15.3-6.1 21.4-24.5 21.4-39.8 0-21.4-12.2-36.7-39.8-36.7h-52v82.6h52v-3z"></path></symbol><symbol viewbox="0 0 95.46 95.46" id="icon-comment-flair" xmlns="http://www.w3.org/2000/svg"><path d="M81.48 33.75V14H61.71l-14-14-14 14H14v19.75l-14 14 14 14v19.73h19.75l14 14 14-14h19.73V61.71l14-14zM49.16 58l-7.24 7.24L34.68 58l-9-9 7.24-7.24 9 9 20.63-20.59 7.24 7.24z"></path></symbol><symbol viewbox="191 101 410.1 410.1" id="icon-emoji" xmlns="http://www.w3.org/2000/svg"><path d="M396 101c-113.2 0-205 91.9-205 205s91.9 205 205 205 205-91.9 205-205c0-112.6-91.8-205-205-205zm0 361.8c-86.2 0-156.8-70-156.8-156.8 0-86.2 70-156.8 156.8-156.8 86.2 0 156.8 70 156.8 156.8-.5 86.8-70.5 156.8-156.8 156.8z"></path><ellipse cx="346.3" cy="249.7" rx="28.9" ry="39.1"></ellipse><path d="M445.7 288.3c15.8 0 28.9-17.2 28.9-39.1 0-21.3-12.7-39.1-28.9-39.1-15.8 0-28.9 17.2-28.9 39.1s12.7 39.1 28.9 39.1zm39.1 50.2c-11.1-7.1-25.9-3.5-32.5 7.6 0 .5-17.2 25.9-56.3 25.9-38.6 0-55.3-24.3-56.3-25.9-7.1-11.1-21.3-14.7-32.5-7.6-11.1 6.6-14.7 21.3-8.1 32.5 1 2.1 29.9 48.2 96.9 48.2 66 0 95.4-46.2 96.9-48.2 6.6-11.2 3.1-25.9-8.1-32.5z"></path></symbol><symbol viewbox="0 0 450 324" id="icon-fold" xmlns="http://www.w3.org/2000/svg"><path fill="#231F20" d="M227.3 134.7L95.5 2.9 0 98.4l227.3 222.7L450 98.4 354.5 2.9z"></path></symbol><symbol viewbox="151.2 122.4 489.6 367.2" id="icon-image" xmlns="http://www.w3.org/2000/svg"><path d="M640.8 153v306c0 18.4-12.2 30.6-30.6 30.6H181.8c-18.4 0-30.6-12.2-30.6-30.6V153c0-18.4 12.2-30.6 30.6-30.6h428.4c18.4 0 30.6 12.2 30.6 30.6zM243 244.8c0 33.7 27.5 61.2 61.2 61.2s61.2-27.5 61.2-61.2-27.5-61.2-61.2-61.2-61.2 27.5-61.2 61.2zm214.2 0L344 388.6l-70.4-52-61.2 91.8h367.2L457.2 244.8z"></path></symbol><symbol viewbox="334.8 122.4 122.4 367.2" id="icon-italic" xmlns="http://www.w3.org/2000/svg"><path d="M347 416.2l30.6-149.9h-42.8l9.2-39.8h94.9l-36.7 186.7c0 6.1-3.1 12.2-3.1 15.3 0 18.4 12.2 21.4 24.5 21.4h12.2l-9.2 39.8h-21.4c-24.5 0-58.1-3.1-58.1-49l-.1-24.5zm58.2-293.8h52l-9.2 52h-55.1l12.3-52z"></path></symbol><symbol viewbox="212.4 122.4 367.2 367.2" id="icon-link" xmlns="http://www.w3.org/2000/svg"><path d="M438.8 403.9L380.7 462c-18.4 18.4-42.8 27.5-70.4 27.5s-52-9.2-70.4-27.5c-18.4-21.4-27.5-45.9-27.5-70.4 0-24.5 9.2-52 27.5-70.4l52-52c-3.1 18.4 0 39.8 9.2 58.1l-27.5 24.5c-9.2 9.2-15.3 24.5-15.3 36.7s6.1 27.5 15.3 39.8c9.2 9.2 24.5 15.3 36.7 15.3 15.3 0 27.5-6.1 36.7-15.3l58.1-58.1c9.2-9.2 15.3-24.5 15.3-36.7 0-15.3-6.1-27.5-15.3-36.7-3.1-3.1-6.1-9.2-6.1-15.3s3.1-12.2 6.1-15.3c3.1-3.1 9.2-6.1 15.3-6.1s12.2 3.1 15.3 6.1c18.4 18.4 27.5 42.8 27.5 70.4 6.2 24.5-6 49-24.4 67.3zM549 293.8l-52 52c3.1-18.4 0-39.8-9.2-58.1l30.6-27.5c9.2-9.2 15.3-24.5 15.3-36.7 0-15.3-6.1-27.5-15.3-36.7-9.2-9.2-24.5-15.3-36.7-15.3-15.3 0-27.5 6.1-36.7 15.3l-61.2 55.1c-9.2 9.2-15.3 21.4-15.3 36.7 0 15.3 6.1 27.5 15.3 39.8 3.1 3.1 6.1 9.2 6.1 15.3s-3.1 12.2-6.1 15.3c-3.1 3.1-9.2 6.1-15.3 6.1s-12.2-3.1-15.3-6.1c-18.4-18.4-30.6-42.8-30.6-70.4s9.2-52 27.5-70.4l58.1-55.1c18.4-18.4 42.8-30.6 70.4-30.6s52 9.2 70.4 30.6c18.4 18.4 30.6 42.8 30.6 70.4 0 24.4-9.2 48.8-30.6 70.3z"></path></symbol><symbol viewbox="212.4 153 397.8 306" id="icon-list" xmlns="http://www.w3.org/2000/svg"><path d="M365.4 397.8h244.8v30.6H365.4v-30.6zm0-214.2h244.8v30.6H365.4v-30.6zm-88.7 61.2H243c-18.4 0-30.6-15.3-30.6-30.6v-30.6c0-18.4 12.2-30.6 30.6-30.6h33.7c18.4 0 30.6 12.2 30.6 30.6v30.6c0 15.3-15.3 30.6-30.6 30.6zm0 214.2H243c-18.4 0-30.6-12.2-30.6-30.6v-27.5c0-18.4 12.2-30.6 30.6-30.6h33.7c18.4 0 30.6 12.2 30.6 30.6v27.5c0 18.4-15.3 30.6-30.6 30.6z"></path></symbol><symbol viewbox="212.4 122.4 397.8 367.2" id="icon-orderedlist" xmlns="http://www.w3.org/2000/svg"><path d="M365.4 183.6h244.8v30.6H365.4v-30.6zm0 214.2h244.8v30.6H365.4v-30.6zM215.5 254h36.7v-97.9l-6.1 6.1-18.4 18.4-15.3-18.4 39.8-39.8h24.5V254h36.7v21.4h-97.9V254zM285.8 382.5c0-12.2-9.2-21.4-24.5-21.4-18.4 0-30.6 15.3-30.6 15.3l-15.3-15.3s15.3-24.5 49-24.5c30.6 0 49 18.4 49 42.8 0 49-70.4 52-73.4 88.7h55v-18.4h21.4v39.8h-104v-12.2c0-55 73.4-61.1 73.4-94.8z"></path></symbol><symbol viewbox="181.8 122.4 431.5 370.3" id="icon-quote" xmlns="http://www.w3.org/2000/svg"><path d="M356.2 122.4c-52 0-94.9 18.4-125.5 58.1s-49 88.7-49 153v131.6c0 6.1 3.1 12.2 9.2 18.4 3.1 3.1 9.2 6.1 18.4 6.1h131.6c6.1 0 12.2-3.1 18.4-9.2 3.1-3.1 6.1-9.2 6.1-18.4V358c0-6.1-3.1-12.2-9.2-18.4-6.1-6.1-12.2-9.2-18.4-9.2h-52c0-33.7 6.1-61.2 18.4-82.6 12.2-18.4 30.6-30.6 52-30.6 6.1 0 9.2-3.1 9.2-6.1v-79.6c0-3.1 0-6.1-3.1-6.1 0-3-3-3-6.1-3zM601 220.3c6.1-3.1 9.2-6.1 9.2-9.2v-79.6c0-3.1 0-6.1-3.1-6.1 0-3.1-3.1-3.1-6.1-3.1-52 0-94.9 18.4-125.5 58.1s-49 88.7-49 153V465c0 6.1 3.1 12.2 9.2 18.4 6.1 6.1 12.2 9.2 18.4 9.2h131.6c6.1 0 12.2-3.1 18.4-9.2 6.1-6.1 9.2-12.2 9.2-18.4V361c0-6.1-3.1-12.2-9.2-18.4-6.1-6.1-12.2-9.2-18.4-9.2h-52c0-33.7 6.1-61.2 18.4-82.6 9.1-18.2 27.5-30.5 48.9-30.5z"></path></symbol><symbol viewbox="142.3 -19 787.2 792" id="icon-spoiler" xmlns="http://www.w3.org/2000/svg"><path d="M142.3-19h787.2v792H142.3V-19z"></path></symbol><symbol viewbox="212.4 122.4 367.2 367.2" id="icon-strikeout" xmlns="http://www.w3.org/2000/svg"><path d="M579.6 306H212.4v30.6h208.1c24.5 12.2 42.8 27.5 42.8 55.1 0 36.7-30.6 55.1-70.4 55.1-36.7 0-70.4-15.3-70.4-42.8v-27.5h-49v36.7c0 52 61.2 76.5 116.3 76.5 67.3 0 122.4-36.7 122.4-104 0-21.4-6.1-36.7-15.3-49h82.6V306zm-186.7-30.6c-33.7-12.2-61.2-27.5-61.2-61.2s27.5-49 61.2-49c30.6 0 61.2 12.2 61.2 30.6v24.5H500v-39.8c3.1-36.7-52-58.1-104-58.1-61.2 0-116.3 27.5-116.3 94.9 0 24.5 9.2 42.8 21.4 58.1h91.8z"></path></symbol></svg>
+<section id="comments" class="c-comments" data-cid="apps/comment_forum-1547147728_9333_5517" data-cdata='{"entry_id":15837629}'>
+  <div class="c-comments__header">
+    <h4 class="c-comments__message">Loading comments...</h4>
+  </div>
+</section>
+
+
+
+    </div>
+    <div class="l-col__sidebar" id="comments-sidebar" data-analytics-placement="sidebar">
+      
+    </div>
+  </div>
+</div>
+
+
+    <footer class="c-footer" role="contentinfo">
+  <div class="l-wrapper c-footer__wrapper">
+    <div class="c-footer__section c-footer__section-logo">
+      <a rel="nofollow" href="/" class="c-footer__logo-link">
+        
+          
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+
+
+        
+        <span class="u-hidden-text">Chorus</span>
+      </a>
+    </div>
+
+    <div class="c-footer__section c-footer__section-links">
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/terms-of-use">Terms of Use</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/privacy-policy">Privacy Policy</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/cookie-policy">Cookie Policy</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/gdpr-commitment">GDPR Commitment</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/communications-preferences">Communications Preferences</a></li>
+        
+      </ul>
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="/contact">Contact</a></li>
+        
+          <li><a rel="nofollow" href="/contact#tip">Send Us a Tip</a></li>
+        
+          <li><a rel="nofollow" href="/pages/community-guidelines">Community Guidelines</a></li>
+        
+          <li><a rel="nofollow" href="/masthead">Masthead</a></li>
+        
+          <li><a rel="nofollow" href="https://www.polygon.com/pages/ethics-statement">Editorial Ethics and Guidelines</a></li>
+        
+      </ul>
+
+      
+
+      <div class="c-footer__status">
+        <span id="status_io" class="m-footer__bottom__status">
+  All Systems Operational
+  <a href="http://status.voxmedia.com" rel="nofollow" target="_blank">Check out our status page for more details.</a>
+</span>
+
+      </div>
+    </div>
+
+    <div class="c-footer__section c-footer__section-vox">
+      <a rel="nofollow" class="u-block" href="http://www.voxmedia.com"><span class="u-hidden-text">Vox Media</span><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewbox="-147 464.2 484 79.5" class="c-footer__vox-logo"><g><path fill="#4E4E50" class="vox-media-logo-text" d="M-133.2 498l9.9 29 6.4-19.2c1.1-3.3 2.1-6.6 3-9.4h13.3l-13.2 32.4c-2.1 5.3-3.4 8.4-4.6 12l-10 .6-13.2-32c-1.6-4-3.6-9-5.4-12.9l13.8-.5zm38.8 23.6c0-14 9.3-24.4 23.2-24.4 13.3 0 22.1 9.8 22.1 22.1 0 14-9.4 24.4-23.2 24.4-13.4.1-22.1-9.8-22.1-22.1zm33-.9c0-8.4-4.3-13.6-10.3-13.6-6.4 0-10.5 6-10.5 13.2 0 8.4 4.3 13.6 10.3 13.6 6.4 0 10.5-6 10.5-13.2zm19.2 21.9l15.3-22.7-6-8.8-8.6-12.7 13.9-.5 9.1 14.2 3.1-5.3c1.6-2.6 3.8-6.1 5.4-8.6H3.7l-14.6 21.9 5.4 7.9c2.5 3.8 6.8 10.3 9.6 14.4l-14 .5-9.3-15.1-2.9 4.7c-1.4 2.3-4.4 7.2-6.1 9.8h-14v.3zm79.4-15.2l1.9-13.9c.6-4 1.6-12 1.8-15.3l9.6-.4c1.1 2.5 2.7 6.1 4 8.9l8.2 18.2 8-18.5c1.2-2.7 2.6-6 3.7-8.5h9.3c.4 3.7 1.4 11.5 2 15.6l2 13.9c.6 4.1 1.8 11.9 2.5 15.2l-12.4.5c-.1-1.8-.7-7.1-1.1-9.6l-1.8-14c-3.1 7.7-8.6 21.4-9.4 23.6l-6.6.3-9.5-23.3-1.5 13.5c-.3 2.5-.8 7.3-.8 9.1H34.7c.7-3.3 1.9-11.2 2.5-15.3zm96.1 15.5c-4.2-.3-9.3-.3-14.2-.3-5.5 0-11.5.1-16.2.3.3-3 .4-11.3.4-15.4v-14c0-4-.1-12.5-.4-15.6 4.6.2 9.6.3 15.3.3 5.2 0 10-.1 14.3-.3-.3 3.1-.5 6.2-.5 10-3.2-.1-6.4-.1-10.3-.1-1.9 0-4 0-5.8.1-.1.9-.1 2.2-.1 2.8v4.9l13.7-.1c-.1 2.6-.2 5.5-.2 8.8h-13.5v5.7c0 .7 0 2 .1 2.9 1.8 0 3.9.1 5.8.1 4.5 0 8.3-.1 12-.2-.2 3.2-.4 6.2-.4 10.1zm30-.3h-16.6c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12-.4-15.1 2.3 0 7.9-.4 14.9-.4 16.7 0 26 8 26 21.5 0 14.2-9.5 23.1-24.3 23.1zm-.2-35c-1.3 0-2.1.1-3.1.2-.1.8-.1 2.1-.1 2.8v19.6c0 .8 0 1.7.1 2.6 1 .1 1.8.2 3.3.2 8.4 0 12-5.5 12-13-.1-7.9-4.7-12.4-12.2-12.4zm37.2 35c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12.2-.4-15.2 2.5 0 11.3-.1 13.4-.3-.2 1.8-.3 6.9-.3 9.3v26.2c0 2.4.1 7.3.3 9.1h-13.4zm38.1-32.2c2.2-5.2 3.7-8.5 4.9-12l10.1-.6 13.8 32c1.6 3.9 4 9 5.8 12.9l-13.4.5-3.4-8.4h-15.4c-.8 2.1-2.6 7.1-3 7.9h-13.1l13.7-32.3zm4.9 16.5h10.1l-5.1-13.7-5 13.7z"></path><path fill="#F6A01A" d="M337 464.2V498l-30-16.9 30-16.9z"></path><path fill="#FBE346" d="M276.9 464.2V498l30.1-16.9-30.1-16.9z"></path><path fill="#F47B20" d="M307 481.1V515l30-17-30-16.9z"></path><path fill="#F8CC15" d="M307 481.1V515l-30.1-17 30.1-16.9z"></path></g></svg></a>
+      
+        <a rel="nofollow" class="u-block c-footer__corporate-link" href="https://www.voxmedia.com/vox-advertising">Advertise with us</a>
+      
+        <a rel="nofollow" class="u-block c-footer__corporate-link" href="https://jobs.voxmedia.com">Jobs @ Vox Media</a>
+      
+      &copy; 2019 <a rel="nofollow" href="http://www.voxmedia.com">Vox Media</a>, Inc. All Rights Reserved
+      
+      
+    </div>
+  </div>
+</footer>
+
+    <div class="c-tab-bar " data-cid="site/tab_bar/index-1547147728_8852_5519" data-cdata="{}">
+  <a href="/" class="c-tab-bar__logo">
+    
+      
+  <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 378.205 136.914" enable-background="new 0 0 378.205 136.914" xml:space="preserve">
+<g>
+	<polygon fill="#FFFFFF" points="0,78.405 39.202,117.607 39.202,78.405 20.491,77.347 	"></polygon>
+	<polygon fill="#D3D2D2" points="0,78.405 39.202,78.405 20.111,58.253 0,39.203 	"></polygon>
+	<polygon fill="#A8A5A6" points="0,39.203 39.202,78.405 40.261,57.478 39.202,39.203 22.476,38.143 	"></polygon>
+	<polygon fill="#7C7A7A" points="39.202,78.404 39.202,39.203 55.905,38.143 78.403,39.203 	"></polygon>
+	<polygon fill="#231F20" points="39.202,0 0,39.203 39.202,39.203 40.26,21.334 	"></polygon>
+	<polygon fill="#504D4E" points="39.202,0 39.202,39.203 78.403,39.203 	"></polygon>
+	<path fill="#EE1E59" d="M39.2,117.606v-0.002L0,78.404L39.2,117.606z M39.2,0L0,39.203L39.203,0H39.2z"></path>
+	<polygon fill="#FF0055" points="0,78.405 39.2,117.605 39.2,78.405 	"></polygon>
+	<polygon fill="#D30046" points="0,78.405 39.2,78.405 0,39.203 	"></polygon>
+	<polygon fill="#A70037" points="0,39.203 39.202,78.405 39.202,78.402 39.202,39.203 	"></polygon>
+	<polygon fill="#7B0028" points="78.402,39.203 39.202,39.203 39.202,78.403 	"></polygon>
+	<path fill="#28000B" d="M0,39.203h39.202V0.002l-0.001-0.001L0,39.203z M39.2,0L39.2,0h0.002H39.2z"></path>
+	<polygon fill="#4F001A" points="39.202,39.203 78.402,39.203 39.202,0.002 	"></polygon>
+</g>
+<g>
+	<path fill="#FFFFFF" d="M115.601,63.076c-3.167-2.611-7.207-4.272-18.045-4.272H78.403v58.562h14.955V99.011h5.858
+		c9.103,0,13.056-1.665,17.095-5.073c3.718-3.161,6.174-9.415,6.174-15.351C122.485,72.65,120.19,66.875,115.601,63.076z
+		 M104.599,85.002c-1.976,0.865-4.355,0.865-5.778,0.865h-5.462V71.942h4.909c1.661,0,4.117,0,6.171,0.869
+		c2.056,0.866,3.72,2.531,3.72,6.013C108.158,82.309,106.575,84.13,104.599,85.002z"></path>
+	<path fill="#FFFFFF" d="M146.623,72.021c-15.987,0-23.661,12.581-23.661,23.266v0.077c0,10.764,7.674,23.352,23.661,23.352
+		c15.989,0,23.665-12.588,23.665-23.352C170.288,84.602,162.612,72.021,146.623,72.021z M146.623,106.371
+		c-5.697,0-10.525-4.67-10.525-11.008v-0.077c0-6.405,4.828-11.079,10.525-11.079c5.701,0,10.529,4.674,10.529,11.079
+		C157.152,101.701,152.324,106.371,146.623,106.371z"></path>
+	<rect x="174.56" y="58.804" fill="#FFFFFF" width="13.142" height="58.564"></rect>
+	<polygon fill="#FFFFFF" points="222.288,73.445 213.9,98.927 204.954,73.445 190.949,73.445 207.253,115.153 200.288,132.01
+		214.211,132.01 236.217,73.445 	"></polygon>
+	<path fill="#FFFFFF" d="M270.249,77.561c-2.53-3.799-7.361-5.54-12.267-5.54c-11.395,0-22.159,8.627-22.159,23.664
+		c0,14.083,10.211,23.108,22.159,23.108c6.885,0,10.686-3.721,12.189-6.251v2.612c0,7.591-5.697,10.682-10.684,10.682
+		c-0.396,0-1.898,0-3.485-0.551c-1.504-0.56-3.245-1.666-4.194-3.804h-15.196c0.875,6.25,6.65,15.433,21.926,15.433
+		c10.841,0,18.834-4.827,22.236-10.363c2.138-3.725,2.614-7.917,2.614-14.485V73.446h-13.14V77.561z M267.165,103.518
+		c-1.902,1.9-4.433,3.009-7.677,3.009c-5.462,0-10.525-4.274-10.525-11.24v-0.077c0-6.412,4.982-10.919,10.603-10.919
+		c3.483,0,6.173,1.265,7.916,3.401c1.821,2.055,2.768,4.98,2.768,8.231C270.092,99.011,268.984,101.618,267.165,103.518z"></path>
+	<path fill="#FFFFFF" d="M311.166,72.021c-15.984,0-23.658,12.581-23.658,23.266v0.077c0,10.764,7.674,23.352,23.658,23.352
+		c15.991,0,23.665-12.588,23.665-23.352C334.831,84.602,327.157,72.021,311.166,72.021z M311.166,106.371
+		c-5.694,0-10.522-4.67-10.522-11.008v-0.077c0-6.405,4.828-11.079,10.522-11.079c5.704,0,10.532,4.674,10.532,11.079
+		C321.698,101.701,316.87,106.371,311.166,106.371z"></path>
+	<path fill="#FFFFFF" d="M361.899,71.942c-7.836,0-10.601,4.033-12.106,6.17v-4.667h-12.268v43.922h13.14v-23.9
+		c0-4.509,1.029-9.176,7.516-9.176c5.861,0,6.889,4.271,6.889,9.093v23.983h13.136V89.903
+		C378.205,83.969,376.699,71.942,361.899,71.942z"></path>
+</g>
+</svg>
+
+
+    
+    
+  </a>
+  <div class="c-social-buttons" data-analytics-placement="sticky" data-cid="site/social_buttons_list-1547147728_3664_5518" data-cdata='{"entry_id":15837629,"services":["twitter","facebook"],"base_url":"https://www.polygon.com/2017/8/2/16073588/the-normal-persons-guide-to-watching-competitive-dota-2-2017-edition"}'>
+  
+    
+      <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;url=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition&amp;via=Polygon" data-analytics-social="twitter">
+        <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+        <span class="c-social-buttons__text">
+          tweet
+        </span>
+      </a>
+    
+      <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=The+Normal+Person%E2%80%99s+Guide+to+Watching+Competitive+Dota+2+%282017+Edition%29&amp;u=https%3A%2F%2Fwww.polygon.com%2F2017%2F8%2F2%2F16073588%2Fthe-normal-persons-guide-to-watching-competitive-dota-2-2017-edition" data-analytics-social="facebook">
+        <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+        <span class="c-social-buttons__text">
+          share
+        </span>
+      </a>
+    
+  
+</div>
+
+  <span class="c-tab-bar__sponsorship"></span>
+  
+</div>
+
+  </div>
+
+      <script src="https://cdn.vox-cdn.com/packs/chorus-71206ea2edb9d34320ca.js" async integrity="sha256-9GZhoWQ1yM+HDvgYwxX9igA+69CbxHp+MWGCoJA0YWs= sha384-WnsP27VLv4rRcKyJXYWl9fPflc+1/q8B5xaacEhQUNUXJep70wV4vSnBXzcFdcaA" crossorigin="anonymous"></script>
+  
+
+      <!-- Phonograph -->
+
+    <script src="https://phonograph2.voxmedia.com/pickup.js?v=1529075019264" id="phonograph-pickup" async="async" defer="defer"></script>
+
+    <script>
+      var phonographEvents = phonographEvents || [];
+      (function() {
+        var continent = document.cookie.match(/_chorus_geoip_continent=([^;]+)/i) || [];
+        var data = { 'Page Title':document.title, 'GA Track Prefix':'t1.', 'geoip_continent': continent[1] };
+        var dataLayer = window.dataLayer || [];
+        dataLayer
+          .filter(function(m) { return !!m['Network'] })
+          .forEach(function(m) {
+            Object.keys(m).forEach(function(k) { data[k] = m[k] });
+          });
+
+        var userid = data['Logged in Status'];
+        data['User ID'] = (typeof userid === 'number') ? userid : null;
+        phonographEvents.push(['pageload', data]);
+      })();
+    </script>
+  <!-- End Phonograph -->
+
+    
+</body></html>
+

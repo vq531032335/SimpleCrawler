@@ -1,0 +1,1236 @@
+
+
+
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Flying Courier’s newcomer guide to watching Dota 2 - The Flying Courier</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="apple-mobile-web-app-title" content="The Flying Courier" />
+    
+    <script type="text/javascript" src="https://optimize-stats.voxmedia.com/loader.min.js?key=6e06b9766c08ed8f"></script>
+      <meta property="author" content="Victoria Rose" />
+  <meta property="article:published_time" content="2018-08-21T21:03:23-04:00" />
+  <meta property="article:modified_time" content="2018-08-21T21:03:23-04:00" />
+  <meta property="fb:pages" content="340327135979921,1121292284586403,353942168328519,231096643968522" />
+
+    
+
+  
+
+  
+
+  
+
+  
+
+  
+    <link rel="preload" href="https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2" as="font" type="font/woff2" crossorigin>
+  
+
+
+<meta id="chorus-fonts" data-cid="site/font_loader-1547147729_2485_5391" data-cdata='{"version":"40719e3c4493f1c79468ca39365344cd","fonts_catalog":[{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"400","style":"italic","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"400","style":"normal","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"700","style":"normal","woff2_url":"","woff_url":""},{"slug":"polygon-gotham","family":"Gotham SSm A","weight":"700","style":"normal","woff2_url":"","woff_url":""},{"slug":"unison-nitti","family":"nitti-grotesk","weight":"400","style":"normal","woff2_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff2","woff_url":"https://cdn.vox-cdn.com/shared_fonts/unison/unison_base/nittigrotesk/nittigrotesk-normal.woff"}],"font_stylesheets":["https://cloud.typography.com/706184/753582/css/fonts.css","https://fonts.voxmedia.com/unison/stylesheets/polygon.210270e8252b06bd9e4410de8aec9063.css"],"font_tracker_stylesheets":[],"typekit_ids":[],"headline_balance_div_classes":"","headline_balance_fraction":1.0}'>
+
+    <script>var chorusInitQueue=[],volume_embed_host="https://volume.vox-cdn.com";var Chorus=Chorus||{};Chorus.windowLoaded=!1,Chorus.AddScript=function(t,e){var o=document.createElement("script");o.async=!0,o.type="text/javascript",o.src=t,"function"==typeof e&&(o.onload=e);var a=document.getElementsByTagName("script")[0];return a.parentNode.insertBefore(o,a),o},Chorus.ready=function(t){"loading"!=document.readyState?t():document.addEventListener?document.addEventListener("DOMContentLoaded",t):document.attachEvent("onreadystatechange",function(){"loading"!=document.readyState&&t()})},Chorus.OnLoad=function(t){if(Chorus.windowLoaded=!0)return void t();var e=window.onload;"function"!=typeof window.onload?window.onload=t:window.onload=function(){e(),t()}},Chorus.OnLoad(function(){Chorus.windowLoaded=!0});var dataLayer=dataLayer||[];Chorus.OnLoad(function(){var t;void 0!==navigator.doNotTrack?t=navigator.doNotTrack:void 0!==window.doNotTrack?t=window.doNotTrack:void 0!==navigator.msDoNotTrack&&(t=navigator.msDoNotTrack),t=void 0!==t?/1|yes|true/.test(String(t).toLowerCase())?"true":"false":"undefined";var e={DNT:t};dataLayer.push(e)});var VoxMediaFontLoader=function(t){function e(t,e){var o=window.performance;if(o&&o.mark&&o.measure){var a=t.toLocaleLowerCase().replace(/\W+/g,"_")+(e?"_"+e:"");o.mark(a),o.measure(a+"_time","navigationStart",a)}}function o(){s.classList.add(c),e("fonts_success")}function a(){s.classList.add(c),e("fonts_fail")}function n(t){var o=[t.family,t.style,t.weight,"loaded"].join(" ");e(o)}function r(t){var e=u.font_stylesheets||[];t&&(e=e.filter(function(e){return!e.match(t)})),e.forEach(i)}function i(e){var o=t.createElement("link");o.href=e,o.rel="stylesheet",o.media="all",f.parentNode.insertBefore(o,f)}function d(e){var o,a=t,n=a.documentElement,r=setTimeout(function(){n.className=n.className.replace(/\bwf-loading\b/g,"")+" wf-inactive"},e.scriptTimeout),i=a.createElement("script"),d=!1,c=a.getElementsByTagName("script")[0];n.className+=" wf-loading",i.src="https://use.typekit.net/"+e.kitId+".js",i.async=!0,i.onload=i.onreadystatechange=function(){if(o=this.readyState,!(d||o&&"complete"!=o&&"loaded"!=o)){d=!0,clearTimeout(r);try{Typekit.load(e)}catch(t){}}},c.parentNode.insertBefore(i,c)}var c="fonts-loaded",s=t.documentElement,f=t.getElementById("chorus-fonts");if(f){var u=JSON.parse(f.getAttribute("data-cdata"));t.fonts?(r("voxmedia.com"),u.fonts_catalog.forEach(function(e){if(e.woff2_url||e.woff_url){var o=[e.woff2_url,e.woff_url].filter(function(t){return t}).map(function(t){return"url("+t+")"}).join(", "),a=new FontFace(e.family,o,{weight:e.weight,style:e.style});t.fonts.add(a),a.load().then(n)}}),t.fonts.ready.then(o,a)):r(),u.typekit_ids.forEach(function(t){d({kitId:t,scriptTimeout:3e3,async:!0})}),u.font_tracker_stylesheets.forEach(i)}};VoxMediaFontLoader(document);</script>
+  <script class="kxint" type="text/javascript">
+    window.Krux||((Krux=function(){Krux.q.push(arguments);}).q=[]);
+    (function(){
+      function retrieve(e){var r,o="kxvoxmedia_"+e;return window.localStorage?window.localStorage[o]||"":navigator.cookieEnabled?(r=document.cookie.match(o+"=([^;]*)"),r&&unescape(r[1])||""):""}Krux.user=retrieve("user"),Krux.segments=retrieve("segs")&&retrieve("segs").split(",")||[];
+    })();
+  </script>
+
+    <script>
+  dataLayer = [{"Network":"polygon","Community":"theflyingcourier","GA Primary ID":"UA-29192711-1","GA Secondary ID":"UA-100361382-1","GA CrossDomains":"heroesneverdie.com,polygon.com,theflyingcourier.com,riftherald.com","Content ID":"17487431","Story Word Count":3355,"Super Groups":"esports","Entry Groups":"front-page:dota-2-gameplay","Author":"Victoria Rose","Last Time Updated":"2018-08-22 10:59","Hour of Update":"10","Publish Date":"2018-08-21 21:03","Hour of Publish":"21","Demand Post":"no","All Chorus Categories":"polygon:theflyingcourier:esports:front-page:dota-2-gameplay","Content Type":"article","chartbeat_domain":"theflyingcourier.com","chartbeat_zone":"172968584/polygon/theflyingcourier.com/esports","chartbeat_authors":"Victoria Rose","Logged in Status":"Logged Out"}];
+</script>
+
+
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-W8JKW6');</script>
+<!-- End Google Tag Manager -->
+    <script>
+  var concertAdsQueue = concertAdsQueue || [];
+
+  CONCERT_ADS_CONFIG = {"production":true,"slug":"/172968584/polygon/theflyingcourier.com/esports","dfpVariables":{"network":["polygon"],"affiliation":["general"],"unison":[true],"entry_id":[17487431],"entry_type":["article"],"entry_slug":["2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time"],"entry_author":["Victoria Rose"],"entry_group":["front-page","dota-2-gameplay","esports"],"hub_page":["esports"],"page_type":["interior_page"],"keywords":"flying courier s newcomer guide to watching dota the flying courier"},"isUnison":true,"is_unison":true,"prebid":{"enabled":false,"timeout":1000,"defaultConfig":{"openx":{"delDomain":"sbnationbidder-d.openx.net"},"rubicon":{"accountId":7470,"position":"btf"},"rubiconLite":{"accountId":18288,"siteId":193902,"sizes":[213,270,271,272],"position":"btf"},"consumable":{"networkId":9969,"siteId":1039096}},"prelude":{"trustx":{"uid":2663}},"reskin":{"trustx":{"uid":2664}},"desktop_leaderboard_variable":{"trustx":{"uid":2665}},"medium_rectangle_variable":{"trustx":{"uid":2666}},"btf_medium_rectangle_variable":{"trustx":{"uid":2668}},"desktop_article_medrec_dynamic":{"trustx":{"uid":2669}},"btf_leaderboard_variable":{"trustx":{"uid":2670}},"native_ad_latest":{"trustx":{"uid":2671}},"native_ad_ymal_link":{"trustx":{"uid":2672}},"mobile_leaderboard":{"trustx":{"uid":2673}},"mobile_article_body":{"trustx":{"uid":2674}},"native_ad_mobile":{"trustx":{"uid":2675}},"mobile_article_body_med_rec_dynamic":{"trustx":{"uid":2676}},"mobile_footer":{"trustx":{"uid":2677}},"tablet_leaderboard":{"trustx":{"uid":2678}},"tablet_medium_rectangle":{"trustx":{"uid":2679}},"tablet_btf_leaderboard":{"trustx":{"uid":2680}},"native_ad_content_link":{"trustx":{"uid":2681}},"hub_river_leaderboard":{"trustx":{"uid":2682}},"hub_river_med_rec":{"trustx":{"uid":2684}},"mobile_med_rec_athena":{"trustx":{"uid":2685}}},"slots":[{"name":"editorially_placed_athena_mobile","className":"m-ad__editorially_placed_athena","prebidName":"editorially_placed_athena","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],[325,508],[325,203],[325,236],[325,204]],"holdSize":[300,500],"filters":{"viewportWidth":{"max":727}}},{"name":"editorially_placed_athena_desktop","className":"m-ad__editorially_placed_athena","prebidName":"editorially_placed_athena","selector":".m-ad.m-ad__editorial-athena-placement","sizes":[[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,295],"filters":{"viewportWidth":{"min":728}}},{"name":"editorially_placed_leaderboard","selector":".m-ad.m-ad__editorial-leaderboard-placement","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":728}}},{"name":"native_quicklistings","selector":".l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(2), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(3), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(4), .l-hub-page .river-segment-0 .c-compact-river__entry:nth-child(5)","sizes":["fluid"],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"native_quicklistings_article","selector":".l-segment .l-segment .c-compact-river__entry","sizes":["fluid"],"maxSlots":1,"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"insertion":"after","filters":{"matchDomain":{"domains":"curbed.com, atlanta.curbed.com, austin.curbed.com, boston.curbed.com, chicago.curbed.com, detroit.curbed.com, hamptons.curbed.com, la.curbed.com, miami.curbed.com, nola.curbed.com, ny.curbed.com, philly.curbed.com, sf.curbed.com, seattle.curbed.com, dc.curbed.com"}}},{"name":"prelude","selector":".l-root","sizes":[[1400,600]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"allowSiblings":true,"filters":{"viewportWidth":{"min":881},"deviceType":"desktop"}},{"name":"reskin","selector":".l-root","sizes":[[2,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":1280},"hideIfPresent":{"selector":".l-feature, .c-maps-hub"}}},{"name":"desktop_leaderboard_variable","selector":".l-header","sizes":[[728,90],[970,250],[970,90],[1020,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-feature"}}},{"name":"tablet_leaderboard","selector":".l-header","sizes":[[728,90]],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729,"max":880}}},{"name":"mobile_leaderboard_hub","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-hub-page .l-header","sizes":[[320,50],[300,250]],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"mobile_leaderboard_group","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-group-page .l-header","sizes":[[320,50]],"holdSize":[320,50],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"package_cover_ad","selector":".c-package-subnav","sizes":[[728,90],[970,250],[970,90],[1020,90],[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,90],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"package_cover_ad_mobile","selector":".c-package-subnav","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204],[1020,90]],"holdSize":[320,50],"insertion":"after","filters":{"viewportWidth":{"max":729}}},{"name":"btf_leaderboard_variable","selector":".c-footer","sizes":[[728,90],[1020,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":881}}},{"name":"tablet_btf_leaderboard","selector":".c-footer","sizes":[[728,90]],"holdSize":[728,90],"filters":{"viewportWidth":{"min":729,"max":888}}},{"name":"mobile_footer","selector":"body:not(.entry_layout_unison_package_landing) .c-footer","sizes":[[320,50],[300,250],[325,203],[325,236],[325,204]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"package_mobile_footer","selector":".entry_layout_unison_package_landing .c-footer","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"holdSize":[300,250],"filters":{"viewportWidth":{"min":0,"max":728}}},{"name":"mobile_feature_body","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[300,250],[325,508],[325,203],[325,236],[325,204],[320,50],[1030,590]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"spacing":{"before":150},"viewportWidth":{"max":779}}},{"name":"desktop_feature_body","selector":".l-feature .c-entry-content \u003e p + p + p","sizes":[[728,90],[1030,590]],"previewHoldSize":[728,90],"maxSlots":1,"insertion":"after","filters":{"avoidFloats":true,"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"desktop_feature_body_dynamic","className":"m-ad__desktop_feature_body","prebidName":"desktop_feature_body","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[728,90],[300,250],[1030,590]],"previewHoldSize":[728,90],"maxSlots":3,"filters":{"avoidFloats":true,"spacing":{"before":1500},"paragraphHeight":{"above":200},"viewportWidth":{"min":780},"hideIfPresent":{"selector":".c-buying-guide"}}},{"name":"athena_features_mobile","className":"m-ad__athena_features","prebidName":"athena_features","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_dynamic_mobile","className":"m-ad__athena_features_dynamic","prebidName":"athena_features_dynamic","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":2,"filters":{"avoidFloats":true,"paragraphHeight":{"above":200},"viewportWidth":{"max":779},"spacing":{"before":1500}}},{"name":"athena_features_desktop","className":"m-ad__athena_features","prebidName":"athena_features","selector":".l-feature .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415]],"previewHoldSize":[726,415],"maxSlots":3,"filters":{"paragraphHeight":{"above":200},"avoidFloats":true,"viewportWidth":{"min":779},"spacing":{"before":2000}}},{"name":"mobile_leaderboard","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[320,50],[300,250]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"desktop_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[1030,590],[620,366],[620,371],[620,415],{"size":[728,90],"filters":{"containerWidth":{"min":700}}}],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"avoidFloats":true,"spacing":{"before":750,"after":450},"containerWidth":{"min":620}}},{"name":"mobile_article_body","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"native_ad_mobile","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[1030,590],[325,508],[300,250],[300,265],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728},"spacing":{"before":600}}},{"name":"mobile_article_body_med_rec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p","sizes":[[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"filters":{"viewportWidth":{"max":728},"spacing":{"before":900}}},{"name":"desktop_article_medrec_dynamic","selector":".l-segment:not(.l-feature) .c-entry-content \u003e p + p, .l-article .c-entry-content \u003e p + p","sizes":[[300,250]],"holdSize":[300,250],"filters":{"paragraphHeight":{"above":150,"below":250},"viewportWidth":{"min":729},"avoidFloats":true,"spacing":{"before":1500,"after":750}}},{"name":"medium_rectangle_variable","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250],[300,600]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","min":2001}}},{"name":"medium_rectangle_short","selector":".l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:first-of-type, .l-article-sidebar \u003e *:first-child","sizes":[[300,250]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"},"elementHeight":{"selector":".l-article-body-segment .l-col__main, .l-main-content \u003e .l-col__main","max":2000}}},{"name":"btf_medium_rectangle_variable_article","className":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":"body[data-entry-id] .l-col__sidebar:not(.c-sports-blog-directory__filter) \u003e div:last-of-type","sticky":true,"sizes":[[300,250],{"size":[300,600],"filters":{"viewportHeight":{"min":600}}}],"holdSize":[300,250],"insertion":"after","maxSlots":1,"filters":{"viewportWidth":{"min":881}}},{"name":"btf_medium_rectangle_variable_hub","className":"m-ad__btf_medium_rectangle_variable","prebidName":"btf_medium_rectangle_variable","selector":".l-hub-page .river-segment-1 .l-col__sidebar \u003e div:last-of-type, .l-hub-page .river-segment-0 .l-col__sidebar \u003e div:last-of-type, .l-group-page .river-segment-0 .l-col__sidebar \u003e div:last-of-type","sizes":[[300,250]],"holdSize":[300,250],"insertion":"after","maxSlots":2,"filters":{"viewportWidth":{"min":881},"hideIfPresent":{"selector":".l-full-archives"}}},{"name":"in_map_legacy","className":"m-ad__in_map","prebidName":"in_map","selector":".c-mapstack__ad","sizes":[[300,250]],"previewHoldSize":[300,250]},{"name":"in_map","selector":".c-mapstack__card--ad","sizes":[[300,250],[1030,590],[620,366],[620,371],[620,415]],"previewHoldSize":[300,250],"insertion":"after"},{"name":"mapstack_sponsorship","className":"m-ad__mapstack_sponsorship","selector":".c-mapstack__content","insertion":"before","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"athena_hub","className":"m-ad__athena","prebidName":"athena","selector":".l-hub-page .river-segment-0, .l-group-page .river-segment-0","sizes":[[1030,590],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[1060,619],"filters":{"containerWidth":{"min":1060}}},{"size":[1060,694],"filters":{"containerWidth":{"min":1060}}}],"holdSize":[728,295],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728}}},{"name":"athena_article","className":"m-ad__athena","prebidName":"athena","selector":".l-article-body-segment","sizes":[[1030,590],[728,90],{"size":[1060,610],"filters":{"containerWidth":{"min":1060}}},{"size":[620,366],"filters":{"containerWidth":{"max":1059}}},{"size":[970,250],"filters":{"viewportWidth":{"min":970}}},{"size":[620,371],"filters":{"containerWidth":{"max":1059}}},{"size":[620,415],"filters":{"containerWidth":{"max":1059}}}],"holdSize":[728,295],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"min":728}}},{"name":"hub_river_leaderboard","selector":".l-hub-page .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[728,90],[1030,590],[620,366]],"holdSize":[728,90],"filters":{"spacing":{"before":700,"after":500,"exceptSlot":"native_quicklistings"},"containerWidth":{"min":728}}},{"name":"mobile_med_rec_athena","selector":".l-hub-page .river-segment-0","sizes":[[300,250],[1030,590],[325,508],[300,265],[325,203],[325,236],[325,204]],"holdSize":[300,250],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"hub_river_med_rec","selector":".l-hub-wrapper .c-compact-river__entry, .l-group-page .c-compact-river__entry","sizes":[[300,250],[1030,590]],"customSizes":[{"placement":1,"sizes":[[1030,590]]}],"holdSize":[300,250],"filters":{"spacing":{"before":600,"after":400},"viewportWidth":{"max":728}}},{"name":"gift_guide_leaderboard_variable_desktop","className":"m-ad__desktop_article_body","prebidName":"desktop_article_body","selector":".l-feature .c-buying-guide","sizes":[[1030,590],[620,366],[728,90],[620,371],[620,415]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"viewportWidth":{"min":728}}},{"name":"gift_guide_leaderboard_mobile","className":"m-ad__mobile_leaderboard","prebidName":"mobile_leaderboard","selector":".l-feature .c-buying-guide","sizes":[[320,50],[300,250],[1030,590]],"holdSize":[300,250],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_top_leaderboard_desktop","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[728,90]],"holdSize":[728,90],"maxSlots":1,"filters":{"viewportWidth":{"min":880}}},{"name":"storystream_bottom_leaderboard_variable_desktop","className":"m-ad__desktop_article_body","prebidName":"desktop_article_body","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"maxSlots":1,"filters":{"avoidFloats":true,"containerWidth":{"min":729}}},{"name":"storystream_river_leaderboard_variable_desktop","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n) .c-entry-box--stream-item","sizes":[[1030,590],[620,366],[620,371],[620,415],[728,90]],"previewHoldSize":[726,415],"insertion":"after","filters":{"viewportWidth":{"min":729}}},{"name":"storystream_top_leaderboard_mobile","className":"m-ad__hub_river_leaderboard","prebidName":"hub_river_leaderboard","selector":".l-main-content \u003e .c-entry-group-labels--stream","sizes":[[320,50]],"holdSize":[320,50],"maxSlots":1,"filters":{"viewportWidth":{"max":728}}},{"name":"storystream_bottom_leaderboard_variable_mobile","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".c-entry-group-labels--stream ~ .c-entry-update-bar","sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]],"previewHoldSize":[300,250],"maxSlots":1,"filters":{"containerWidth":{"max":728}}},{"name":"storystream_river_leaderboard_variable_mobile","className":"m-ad__mobile_article_body_med_rec_dynamic","prebidName":"mobile_article_body_med_rec_dynamic","selector":".c-stream-list .c-stream-list__entry:nth-of-type(6n) .c-entry-box--stream-item","sizes":[[320,50],[300,250]],"customSizes":[{"placement":2,"sizes":[[320,50],[300,250],[1030,590],[325,508],[325,203],[325,236],[325,204]]}],"previewHoldSize":[300,250],"insertion":"after","filters":{"viewportWidth":{"max":728}}},{"name":"site_sponsorship_logo_white","selector":".site_sponsorship_logo.site_sponsorship_logo-white","sizes":[[26,1]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_color","selector":".site_sponsorship_logo:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,2]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"min":601}}},{"name":"site_sponsorship_logo_mobile_white","selector":".site_sponsorship_logo_mobile.site_sponsorship_logo-white","sizes":[[26,3]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"site_sponsorship_logo_mobile_color","selector":".site_sponsorship_logo_mobile:not(.site_sponsorship_logo-white), .c-tab-bar__sponsorship","sizes":[[26,4]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"filters":{"viewportWidth":{"max":600}}},{"name":"native_ad_latest","selector":".dynamic-native-ad-native_ad_latest","sizes":[[300,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_video","selector":".dynamic-native-ad-native_ad_video","sizes":[[200,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_ymal_link","selector":".dynamic-native-ad-native_ad_ymal_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_linkset_link","selector":".dynamic-native-ad-native_ad_linkset_link","sizes":[[1200,100]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_content_link","selector":".dynamic-native-ad-native_ad_content_link","sizes":[[650,150]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"native_ad_module","selector":".c-related-list","sizes":["fluid"],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"branded_content_feedback_form","selector":".branded_content_feedback_form","sizes":[[300,200]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false,"maxSlots":1},{"name":"article_sponsorship","className":"m-ad__article_sponsorship","selector":"body.entry_layout_unison_main .c-entry-hero--feature .c-entry-hero__content .c-byline, body.entry_layout_unison_main div.c-entry-hero:not(.c-entry-hero--feature)","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"hub_sponsorship","className":"m-ad__hub_sponsorship","selector":".c-hub-title__inner","insertion":"after","maxSlots":1,"sizes":[[200,40]],"prebidEligible":false,"refreshEligible":false,"watcherEligible":false},{"name":"failsafe_article_med_rec_athena_mobile","className":"m-ad__mobile_med_rec_athena","prebidName":"mobile_med_rec_athena","selector":"body:not(.entry_template_stream):not(.entry_template_package_landing) .c-entry-content \u003e *:last-child","sizes":[[300,250],[1030,590],[325,508],[300,265],[325,203],[325,236],[325,204]],"holdSize":[300,250],"maxSlots":1,"insertion":"after","filters":{"viewportWidth":{"max":728},"spacing":{"before":600},"hideIfPresent":{"selector":".c-entry-content .m-ad","count":2}}}],"adConfigurationUrl":"https://concertads-configs.vox-cdn.com/sbn/polygon/config.json"};
+</script>
+
+
+      <link href="https://www.polygon.com/style/community/715/6e8baf54284ba16c2198c98467025b3e/chorus.css" data-chorus-theme="chorus" rel="stylesheet" media="all">
+
+    <meta name="style-tools" content="https://www.polygon.com/style/community/715/7ab7ec8fcae8658b7498a46eb85214b6/tools.css">
+    
+      <script class="kxct" data-id="JImcqyW7" data-timing="async" data-version="1.9" type="text/javascript" src="https://cdn.krxd.net/controltag?confid=JImcqyW7" async></script>
+<script src="https://cdn.vox-cdn.com/packs/concert_ads-38fe20caec9bb2f7937e.js" async integrity="sha256-46WRSw0NWU3Ij1JDL0IbqmJUPJp4+1c6kZZjceK6Vhg= sha384-zAqoDyoyjEIAHH9Fqv3HXfuQY7QY6pUdbbdwD2qVYaCmnkv078mHi09yDT8IUrsW" crossorigin="anonymous"></script>
+<script src="https://c.amazon-adsystem.com/aax2/apstag.js" async></script>
+<script src="https://www.googletagservices.com/tag/js/gpt.js" async></script>
+<script src="https://cdn.concert.io/lib/concert-concierge.2.3.5.min.js" async></script>
+
+    <script src="https://sejs.moatads.com/voxprebidheader841653991752/yi.js" async></script><meta name="msvalidate.01" content="D385D0326A3AE144205C298DB34B4E94" />
+    <meta name="description" content="If you’re ready to dive into Dota 2, start here" />
+<link rel="canonical" href="https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time" />
+<meta property="og:description" content="Trying to watch The International? Want to flame your streamer friend? Start here" />
+<meta property="fb:app_id" content="549923288395304" />
+<meta property="og:image" content="https://cdn.vox-cdn.com/thumbor/aaut1XyiJQjgknMIwbDZD4HWqas=/0x0:785x411/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/11669035/terrain_spring.jpg" />
+<meta property="og:image:height" content="630" />
+<meta property="og:image:width" content="1200" />
+<meta property="og:site_name" content="The Flying Courier" />
+<meta property="og:title" content="Newcomer’s guide to watching Dota 2" />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time" />
+
+      <meta name="twitter:card" content="summary_large_image" />
+      <meta name="twitter:url" content="https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time" />
+      <meta name="twitter:title" content="Newcomer’s guide to watching Dota 2" />
+      <meta name="twitter:description" content="Trying to watch The International? Want to flame your streamer friend? Start here" />
+      <meta name="twitter:image" content="https://cdn.vox-cdn.com/thumbor/xmnCO8yrhrvt1KVviOS72UzRO1M=/0x1:820x411/fit-in/1200x600/cdn.vox-cdn.com/uploads/chorus_asset/file/11669035/terrain_spring.jpg" />
+      <meta name="twitter:site" content="flyingcourier" />
+    
+
+      <meta name="sailthru.title" content="The Flying Courier’s newcomer guide to watching Dota 2" />
+      <meta name="sailthru.tags" content="general,the-flying-courier" />
+      <meta name="sailthru.date" content="2018-08-22" />
+      <meta name="sailthru.description" content="If you’re ready to dive into Dota 2, start here" />
+    
+    
+  <link rel="shortcut icon" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8646615/favicon.0.ico">
+
+
+  
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/community_logos/51927/38.png" sizes="32x32">
+  
+
+  
+
+
+  
+    <link rel="icon" type="image/png" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8646617/favicon-196x196.0.png" sizes="192x192">
+  
+
+
+  
+    <link rel="apple-touch-icon" href="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8646617/favicon-196x196.0.png" sizes="180x180">
+  
+
+
+  <meta name="msapplication-TileImage" content="https://cdn.vox-cdn.com/uploads/chorus_asset/file/8646617/favicon-196x196.0.png">
+  <meta name="msapplication-TileColor" content="#e16b36">
+  <meta name="theme-color" content="">
+
+
+    <meta data-chorus-version="c49c8648981d4b6448ed0f3047ccfc625eae2fc7" />
+
+    <link rel="amphtml" href="https://www.theflyingcourier.com/platform/amp/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time">
+
+
+    <link rel="alternate" type="application/rss+xml" title="The Flying Courier" href="/rss/index.xml" />
+    
+      <script type="application/ld+json">
+  {"@context":"http://schema.org","@type":"NewsArticle","mainEntityOfPage":"https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time","headline":"Flying Courier’s newcomer guide to watching Dota 2","description":"If you’re ready to dive into Dota 2, start here","speakable":{"@type":"SpeakableSpecification","xpath":["/html/head/title","/html/head/meta[@name='description']/@content"]},"datePublished":"2018-08-21T21:03:23-04:00","dateModified":"2018-08-21T21:03:23-04:00","author":{"@type":"Person","name":"Victoria Rose"},"publisher":{"@type":"Organization","name":"The Flying Courier","logo":{"@type":"ImageObject","url":"https://www.polygon.com/v/polygon/images/logos/google_amp.png","width":265,"height":60}},"image":[{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/QQz7gATlD8HOl2Ok83xwyQEh8WU=/1400x1400/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11669035/terrain_spring.jpg","width":1400,"height":1400},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/Y2P_7X9iQgTNniEKdVyJRVXTaXk=/1400x1050/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11669035/terrain_spring.jpg","width":1400,"height":1050},{"@type":"ImageObject","url":"https://cdn.vox-cdn.com/thumbor/Nofk-Qq8YhZgqiPIDXizTXDQkOY=/1400x788/filters:format(jpeg)/cdn.vox-cdn.com/uploads/chorus_asset/file/11669035/terrain_spring.jpg","width":1400,"height":788}]}
+</script>
+
+
+    <meta name="outbrainsection" content="dota-2-gameplay"></meta>
+  </head>
+  <!--[if lte IE 9]><body class="ie9"><![endif]-->
+  <!--[if gte IE 10]><body class="ie"><![endif]-->
+  <body class="entry_key_unison_standard entry_layout_unison_main entry_template_standard" data-entry-id="17487431">
+    <!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-W8JKW6" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+    
+      <svg width="0" height="0" style="position:absolute;display:none;"><symbol viewbox="90 0 689 645" id="icon-clock" xmlns="http://www.w3.org/2000/svg"><title>clock</title>
+<path d="M489.1 322.5c0 15-5.4 27.9-16 38.6-10.7 10.7-23.6 16-38.6 16-23.7 0-40.3-10.9-49.9-32.8h-125c-6.4 0-11.6-2.1-15.7-6.1-4-4.1-6.1-9.3-6.1-15.7 0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.4-6.1 15.8-6.1h125c5.9-13.2 15.3-22.5 28-28V125.8c0-6.4 2.1-11.6 6.1-15.7 4.1-4.1 9.3-6.1 15.7-6.1 6.4 0 11.6 2 15.7 6.1s6.1 9.3 6.1 15.7v146.8c21.9 9.5 32.9 26.1 32.8 49.9zm-54.6-306c84.2 0 156.3 29.9 216.2 89.8 59.9 59.9 89.8 131.9 89.8 216.2s-29.9 156.3-89.8 216.2c-59.9 59.9-131.9 89.8-216.2 89.8s-156.3-29.9-216.2-89.8c-59.9-59.9-89.8-131.9-89.8-216.2s29.9-156.3 89.8-216.2c59.9-59.9 132-89.8 216.2-89.8zm0 546.4c66.5 0 123.2-23.4 170.1-70.4 46.9-46.9 70.4-103.6 70.4-170.1s-23.4-123.2-70.4-170.1C557.7 105.5 501 82.1 434.5 82.1s-123.2 23.4-170.1 70.4C217.5 199.4 194 256.1 194 322.6s23.4 123.2 70.4 170.1c46.9 46.8 103.6 70.2 170.1 70.2z"></path></symbol><symbol viewbox="0 0 1000 1000" id="icon-close" xmlns="http://www.w3.org/2000/svg"><path d="M638.6 500l322.7-322.7c38.3-38.3 38.3-100.3 0-138.6S861 .4 822.7 38.7L500 361.4 177.3 38.7C139 .4 77 .4 38.7 38.7S.4 139 38.7 177.3L361.4 500 38.7 822.7C.4 861 .4 923 38.7 961.3 57.9 980.4 82.9 990 108 990s50.1-9.6 69.3-28.7L500 638.6l322.7 322.7c19.1 19.1 44.2 28.7 69.3 28.7 25.1 0 50.1-9.6 69.3-28.7 38.3-38.3 38.3-100.3 0-138.6L638.6 500z"></path></symbol><symbol viewbox="0 0 14 14" id="icon-close-map" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" d="M13.074 12.27L7.698 6.958l5.376-5.312-.896-.896-5.312 5.376L1.554.75l-.896.864 5.376 5.312L.658 12.27l.896.896L6.898 7.79l5.312 5.376z"></path></symbol><symbol viewbox="0 0 18 17" id="icon-comment" xmlns="http://www.w3.org/2000/svg"><path d="M15.667 6.654c0 3.532-3.432 6.397-7.667 6.397-.945 0-1.85-.14-2.686-.4l-4.406 2.1 1.725-3.52c-1.42-1.16-2.3-2.78-2.3-4.56C.333 3.12 3.765.257 8 .257c4.235 0 7.667 2.863 7.667 6.4z"></path></symbol><symbol viewbox="-135.7 744.2 1008.1 429.7" id="icon-down" xmlns="http://www.w3.org/2000/svg"><path d="M872.3 788.5c0 12.1-5.1 25.2-18.2 35.3l-446 335c-12.1 10.1-28.3 15.2-40.4 15.2-15.2 0-28.3-5.1-40.4-15.2l-446.1-335c-18.2-15.2-22.2-40.4-10.1-60.5s40.4-22.2 58.5-10.1l439.1 330.9 435.9-331c18.2-15.2 45.4-10.1 58.5 10.1 7.2 8.1 9.2 15.1 9.2 25.3"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-email" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="afshape-1"></path></symbol><symbol viewbox="0 0 21.406 43.754" id="icon-facebook" xmlns="http://www.w3.org/2000/svg"><path d="M5.43 43.754v-20.53H0V15.83h5.43V9.518C5.43 4.558 8.635 0 16.024 0c2.99 0 5.204.286 5.204.286l-.175 6.903s-2.257-.03-4.72-.03c-2.663 0-3.09 1.23-3.09 3.26v5.4h8.022l-.35 7.39h-7.672v20.53H5.43z"></path></symbol><symbol viewbox="0 0 140 200" id="icon-foursquare" xmlns="http://www.w3.org/2000/svg"><path d="M114.697 27.581l-4.278 22.294c-.511 2.41-3.545 4.945-6.358 4.945h-39.7c-4.467 0-7.664 3.045-7.664 7.508v4.86c0 4.467 3.216 7.632 7.686 7.632h33.681c3.154 0 6.25 3.459 5.568 6.826-.685 3.373-3.886 20.08-4.271 21.924-.387 1.846-2.5 5-6.25 5H65.618c-5.007 0-6.521.654-9.87 4.818-3.353 4.166-33.477 40.342-33.477 40.342-.305.35-.603.249-.603-.134V27.25c0-2.85 2.478-6.194 6.194-6.194h81.78c3.01 0 5.822 2.829 5.055 6.525m3.59 87.418c1.137-4.602 13.899-69.93 18.16-90.656M120.716 0H18.809C4.745 0 .61 10.575.61 17.235v161.916c0 7.503 4.032 10.285 6.296 11.203 2.267.919 8.519 1.692 12.266-2.632 0 0 48.111-55.826 48.938-56.652 1.25-1.25 1.25-1.25 2.5-1.25h31.127c13.08 0 15.183-9.327 16.549-14.821 1.137-4.602 13.899-69.93 18.16-90.656C139.699 8.526 135.681 0 120.716 0"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-275 387.7c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.5c-.4 0-.7.3-.7.7 0 .4.4.8.6 1l1.4 1.4-3.9 3.9 1.9 1.9 3.9-3.9 1.4 1.4c.3.3.6.6 1 .6s.7-.3.7-.7l-.1-5.6zm-13.1 10.5l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="-295 387 20 20" id="icon-full-screen-exit" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M-293.2 406.9l3.9-4 1.4 1.4c.3.3.6.6 1 .6s.6-.3.6-.6v-5.4c0-.2-.1-.4-.2-.5-.1-.1-.3-.2-.5-.2h-5.4c-.4 0-.6.3-.6.6 0 .4.4.8.6.9l1.4 1.4-4 3.9 1.8 1.9zM-276.91 387.05l-3.9 4-1.4-1.4c-.3-.3-.6-.6-1-.6s-.6.3-.6.6v5.4c0 .2.1.4.2.5.1.1.3.2.5.2h5.4c.4 0 .6-.3.6-.6 0-.4-.4-.8-.6-.9l-1.4-1.4 4-3.9-1.8-1.9z"></path></symbol><symbol viewbox="0 0 39.605 39.633" id="icon-google-plus" xmlns="http://www.w3.org/2000/svg"><path d="M12.488 37.682c-4.69 0-8.08-2.97-8.08-6.537 0-3.496 3.976-6.51 8.667-6.46a10.21 10.21 0 0 1 3.04.488c2.547 1.77 4.6 2.876 5.117 4.894.096.41.15.83.15 1.26 0 3.567-2.3 6.355-8.894 6.355m1.233-21.46c-3.14-.093-6.14-2.982-6.68-7.116-.54-4.136 1.57-7.3 4.72-7.206 3.15.094 5.84 3.486 6.39 7.62.55 4.136-1.27 6.797-4.41 6.703m6.75 6.457c-1.08-.813-3.44-2.478-3.44-3.596 0-1.31.38-1.955 2.35-3.495 2.03-1.58 3.46-3.67 3.46-6.25 0-2.82-1.15-5.37-3.31-6.61h3.06L25.2 0H13.51C7.584 0 2.644 4.37 2.644 9.18c0 4.912 3.246 8.83 8.82 8.83.388 0 .764-.02 1.133-.048-.36.694-.62 1.467-.62 2.277 0 1.36.75 2.14 1.68 3.04-.702 0-1.38.02-2.12.02C4.75 23.3 0 27.97 0 32.46c0 4.412 5.726 7.173 12.513 7.173 7.737 0 12.495-4.39 12.495-8.8 0-3.54-.764-5.32-4.536-8.15M31.52.54v5.388h-5.388v2.695h5.39v5.39h2.694v-5.39h5.39V5.928h-5.39V.538"></path></symbol><symbol viewbox="0 0 105.4 105.7" class="alinline-svg" id="icon-grid" xmlns="http://www.w3.org/2000/svg"><path fill="#ccc" d="M0 0h47.7v47.7H0z" class="alshape-1"></path><path fill="#ccc" d="M57.7 0h47.7v47.7H57.7z" class="alshape-2"></path><path fill="#ccc" d="M0 58h47.7v47.7H0z" class="alshape-3"></path><path fill="#ccc" d="M57.7 58h47.7v47.7H57.7z" class="alshape-4"></path></symbol><symbol viewbox="0 0 64.37 40.34" id="icon-hamburger" xmlns="http://www.w3.org/2000/svg"><path class="amcls-1" d="M0 30h64.37v10.34H0zm0-15h64.37v10.34H0zM0 0h64.37v10.34H0z"></path></symbol><symbol viewbox="0 0 671.78668 671.78668" id="icon-instagram" xmlns="http://www.w3.org/2000/svg"><g transform="matrix(.13333 0 0 -.13333 0 671.787)"><path d="M2519.21 5038.41c-684.18 0-769.97-2.9-1038.67-15.16-268.14-12.23-451.27-54.82-611.513-117.09-165.66-64.38-306.148-150.52-446.203-290.57-140.051-140.05-226.191-280.55-290.57-446.21-62.273-160.24-104.86-343.37-117.098-611.51C2.898 3289.17 0 3203.38 0 2519.2c0-684.17 2.898-769.96 15.156-1038.66 12.239-268.14 54.825-451.27 117.098-611.509 64.379-165.66 150.519-306.152 290.57-446.211 140.055-140.05 280.543-226.191 446.203-290.57C1029.27 69.98 1212.4 27.39 1480.54 15.16 1749.24 2.902 1835.03 0 2519.21 0c684.17 0 769.96 2.902 1038.66 15.16 268.14 12.23 451.27 54.82 611.51 117.09 165.66 64.379 306.15 150.52 446.21 290.57 140.05 140.059 226.19 280.551 290.57 446.211 62.27 160.239 104.86 343.369 117.09 611.509 12.26 268.7 15.16 354.49 15.16 1038.66 0 684.18-2.9 769.97-15.16 1038.67-12.23 268.14-54.82 451.27-117.09 611.51-64.38 165.66-150.52 306.16-290.57 446.21-140.06 140.05-280.55 226.19-446.21 290.57-160.24 62.27-343.37 104.86-611.51 117.09-268.7 12.26-354.49 15.16-1038.66 15.16zm0-453.91c672.65 0 752.33-2.57 1017.97-14.69 245.62-11.2 379.01-52.24 467.78-86.74 117.59-45.7 201.51-100.29 289.66-188.44 88.16-88.16 142.75-172.08 188.45-289.67 34.5-88.77 75.54-222.16 86.74-467.78 12.12-265.64 14.69-345.32 14.69-1017.98 0-672.65-2.57-752.33-14.69-1017.97-11.2-245.62-52.24-379.01-86.74-467.78-45.7-117.591-100.29-201.509-188.45-289.661-88.15-88.16-172.07-142.75-289.66-188.449-88.77-34.5-222.16-75.539-467.78-86.738-265.6-12.122-345.27-14.692-1017.97-14.692-672.71 0-752.37 2.57-1017.98 14.692-245.62 11.199-379.01 52.238-467.78 86.738-117.591 45.699-201.509 100.289-289.661 188.449-88.152 88.152-142.75 172.07-188.449 289.661-34.5 88.77-75.535 222.16-86.742 467.78-12.121 265.64-14.688 345.32-14.688 1017.97 0 672.66 2.567 752.34 14.688 1017.98 11.207 245.62 52.242 379.01 86.742 467.78 45.699 117.59 100.293 201.51 188.445 289.66 88.156 88.16 172.074 142.75 289.665 188.45 88.77 34.5 222.16 75.54 467.78 86.74 265.64 12.12 345.32 14.69 1017.98 14.69"></path><path d="M2519.21 1679.47c-463.78 0-839.74 375.96-839.74 839.73 0 463.78 375.96 839.74 839.74 839.74 463.77 0 839.73-375.96 839.73-839.74 0-463.77-375.96-839.73-839.73-839.73zm0 2133.38c-714.47 0-1293.65-579.18-1293.65-1293.65 0-714.46 579.18-1293.64 1293.65-1293.64 714.46 0 1293.64 579.18 1293.64 1293.64 0 714.47-579.18 1293.65-1293.64 1293.65M4166.27 3863.96c0-166.96-135.35-302.3-302.31-302.3-166.95 0-302.3 135.34-302.3 302.3s135.35 302.31 302.3 302.31c166.96 0 302.31-135.35 302.31-302.31"></path></g></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-left" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M274.8 1246.2c-9.5 0-19.8-4-27.7-14.3l-262.9-350c-7.9-9.5-11.9-22.2-11.9-31.7 0-11.9 4-22.2 11.9-31.7l262.9-350.1c11.9-14.3 31.7-17.4 47.5-7.9 15.8 9.5 17.4 31.7 7.9 45.9L42.8 851l259.8 342.1c11.9 14.3 7.9 35.6-7.9 45.9-6.4 5.6-11.9 7.2-19.9 7.2"></path></symbol><symbol viewbox="0 0 18 18" id="icon-link" xmlns="http://www.w3.org/2000/svg"><g opacity=".4"><path d="M10.546 13.732l.623-.623a.957.957 0 0 0 .121-.137c.263-.273.48-.582.65-.905a4.44 4.44 0 0 0 .46-2.733 3.766 3.766 0 0 0-.158-.692 3.61 3.61 0 0 0-.244-.604 4.355 4.355 0 0 0-.877-1.245 4.35 4.35 0 0 0-1.245-.876l-1.14 1.14c-.08.08-.146.163-.204.256a2.735 2.735 0 0 1 2.07 2.07c.044.21.066.426.06.644a2.601 2.601 0 0 1-.765 1.81l-.69.689-.513.513-.485.485-1.237 1.237c-1.037 1.037-2.737 1.024-3.79-.029-1.052-1.052-1.064-2.753-.028-3.789L4.39 9.706a5.663 5.663 0 0 1-.208-2.338L1.881 9.67c-1.73 1.73-1.709 4.56.048 6.316 1.757 1.757 4.586 1.778 6.316.048l2.302-2.302z"></path><path d="M7.339 7.802a2.54 2.54 0 0 1 .1-.668c.114-.42.339-.814.665-1.14l.693-.694.51-.51.48-.48 1.242-1.241c1.036-1.036 2.736-1.024 3.789.029 1.052 1.052 1.064 2.753.029 3.789l-1.241 1.24c.233.76.302 1.556.211 2.335l2.303-2.303c1.73-1.73 1.708-4.558-.049-6.315C14.314.087 11.485.066 9.756 1.796L7.453 4.098l-.623.623a.934.934 0 0 0-.121.138 3.904 3.904 0 0 0-.645.9 4.39 4.39 0 0 0-.46 2.733c.028.244.08.472.153.696.065.206.142.41.245.604.209.452.503.87.877 1.244.373.374.791.668 1.244.878l1.14-1.141a1.38 1.38 0 0 0 .204-.256 2.68 2.68 0 0 1-1.335-.734 2.685 2.685 0 0 1-.793-1.98z"></path></g></symbol><symbol viewbox="0 0 16 16" id="icon-linkedin" xmlns="http://www.w3.org/2000/svg"><path d="M.2 15.876h3.394V5.222H.2v10.654zM1.997 0C.8 0 0 .836 0 1.88s.8 1.88 1.997 1.88 1.997-.836 1.997-1.88C3.794.836 2.994 0 1.997 0zm9.985 4.804c-1.798 0-2.596 1.045-2.996 1.88V5.222H5.392c.2 1.045 0 10.862 0 10.862h3.395V9.818c0-.21 0-.627.2-.836.2-.626.798-1.253 1.796-1.253 1.2 0 1.798 1.04 1.798 2.5v5.64h3.4V9.82c0-3.342-1.79-5.014-3.99-5.014z"></path></symbol><symbol viewbox="0 0 35.4 51" id="icon-map-marker" xmlns="http://www.w3.org/2000/svg"><path d="M18 51.733c11.8-15.9 17.7-27.1 17.7-33.5 0-9.7-7.9-17.5-17.7-17.5S.3 8.533.3 18.233c0 6.4 5.9 17.6 17.7 33.5z"></path><circle r="8" cy="18" cx="18" fill="#fff"></circle></symbol><symbol viewbox="-375 489.5 37.2 30.3" id="icon-menu" xmlns="http://www.w3.org/2000/svg"><title>menu</title>
+<path d="M-367 489.5h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 12.8h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4zm8 13.7h29.1v3.8H-367zm-8 0h4.4v3.8h-4.4z"></path></symbol><symbol viewbox="0 0 179 96" id="icon-more" xmlns="http://www.w3.org/2000/svg"><title>more-arrow</title>
+<path d="M178.86 47.677L129.776 0v34.313H0v26.625h116.296v.103h13.48v34.31l49.084-47.67"></path></symbol><symbol viewbox="0 0 50.062 37.479" id="icon-newsletter_signup" xmlns="http://www.w3.org/2000/svg"><path d="M25.085 21.866L.082 3.114A3.114 3.114 0 0 1 3.207-.012H46.96a3.113 3.113 0 0 1 3.126 3.126l-25 18.752zm0 5.613L50.087 8.726v25.64a3.113 3.113 0 0 1-3.125 3.125H3.208a3.113 3.113 0 0 1-3.125-3.125V8.727L25.085 27.48z" class="aushape-1"></path></symbol><symbol viewbox="0 0 832 512" id="icon-norgie-down" xmlns="http://www.w3.org/2000/svg"><path d="M15.244 98.497L379.433 495.43c20.249 22.24 53.137 22.23 73.373-.021.51-.608.71-1.47 1.25-2.077L817.152 98.259c20.233-22.224 20.223-58.326-.028-80.54-.202-.1-.531-.202-.735-.404C807.065 6.732 793.993-.005 779.353 0L52.923.208C38.073.212 24.903 7.286 15.43 18.18l-.2-.227c-20.314 22.325-20.304 58.33.023 80.543h-.008z"></path></symbol><symbol viewbox="0 0 512 832.328" id="icon-norgie-right" xmlns="http://www.w3.org/2000/svg"><path d="M98.278 817.088l397.038-364.076c22.245-20.243 22.245-53.13 0-73.373-.608-.51-1.47-.71-2.077-1.25L98.27 15.18c-22.218-20.24-58.32-20.24-80.54.005-.1.202-.202.53-.404.734C6.74 25.24 0 38.31 0 52.95v726.43c0 14.85 7.07 28.022 17.963 37.5l-.228.2c22.32 20.32 58.324 20.32 80.543 0z"></path></symbol><symbol viewbox="0 0 47.3 34.3" id="icon-opentable" xmlns="http://www.w3.org/2000/svg"><path d="M30.1 0C20.7 0 13 7.7 13 17.2s7.7 17.2 17.2 17.2 17.2-7.7 17.2-17.2C47.3 7.7 39.6 0 30.1 0zm0 21.5c-2.4 0-4.3-1.9-4.3-4.3s1.9-4.3 4.3-4.3 4.3 1.9 4.3 4.3c0 2.3-1.9 4.3-4.3 4.3zM0 17.2c0 2.4 1.9 4.3 4.3 4.3s4.3-1.9 4.3-4.3-1.9-4.3-4.3-4.3S0 14.8 0 17.2"></path></symbol><symbol viewbox="0 0 12 12" id="icon-pencil" xmlns="http://www.w3.org/2000/svg"><path d="M1.3 8.4c0 .1 0 .1 0 0L0 11.6c0 .1 0 .2.1.3 0 .1.1.1.1.1h.1l3.1-1.2s.1 0 .1-.1l6.2-6.2-2.2-2.3-6.2 6.2zm10.5-7L10.6.2c-.3-.3-.8-.3-1.1 0L8.2 1.5l2.2 2.2 1.3-1.3c.4-.2.4-.7.1-1z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-pin" xmlns="http://www.w3.org/2000/svg"><path d="M57.2 34.6c0 4.8-1.3 9.3-3.5 13.2L31.8 87.5c-.3.5-.9.8-1.5.8-.7 0-1.2-.4-1.5-.8L6.9 47.7c-2.2-3.8-3.5-8.4-3.5-13.2 0-14.8 12-26.9 26.9-26.9 14.9.1 26.9 12.1 26.9 27zm-16.8 0c0-5.6-4.5-10.1-10.1-10.1S20.2 29 20.2 34.6s4.5 10.1 10.1 10.1 10.1-4.5 10.1-10.1z" xmlns="http://www.w3.org/2000/svg"></path></symbol><symbol viewbox="-285 377 40 40" id="icon-pinterest" xmlns="http://www.w3.org/2000/svg"><path d="M-265 377.1c-10.9 0-19.7 8.9-19.7 19.8 0 8.1 4.9 15 11.8 18.1-.1-1.4 0-3 .3-4.5.4-1.6 2.5-10.8 2.5-10.8s-.6-1.3-.6-3.1c0-2.9 1.7-5.1 3.8-5.1 1.8 0 2.7 1.3 2.7 3 0 1.8-1.2 4.5-1.7 7-.5 2.1 1 3.8 3.1 3.8 3.7 0 6.3-4.8 6.3-10.5 0-4.3-2.9-7.6-8.2-7.6-6 0-9.7 4.5-9.7 9.5 0 1.7.5 2.9 1.3 3.9.4.4.4.6.3 1.1l-.4 1.6c-.1.5-.5.7-1 .5-2.8-1.1-4-4.1-4-7.5 0-5.6 4.7-12.3 14.1-12.3 7.5 0 12.5 5.5 12.5 11.3 0 7.7-4.3 13.5-10.7 13.5-2.1 0-4.1-1.2-4.8-2.5 0 0-1.1 4.5-1.4 5.4-.4 1.5-1.2 3-2 4.2 1.8.5 3.7.8 5.6.8 10.9 0 19.7-8.8 19.7-19.7 0-11-8.9-19.9-19.8-19.9z"></path></symbol><symbol viewbox="-230 372 50 50" id="icon-play" xmlns="http://www.w3.org/2000/svg"><path fill="#999" d="M-214 376l25.6 21.1L-214 418v-42z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-rec" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="0 0 450 386" id="icon-refresh" xmlns="http://www.w3.org/2000/svg"><path d="M352.629 288.14l96-111.9h-64.7c-2.3-27.9-10.5-54-23.5-77.3-27.4-49.2-75.8-85.1-133-95.6-.7-.1-1.5-.3-2.2-.4-.5-.1-.9-.2-1.4-.2-10.1-1.7-20.6-2.6-31.2-2.6h-.4c-90.9.2-167 63.6-186.7 148.6v.1c-.3 1.1-.5 2.2-.7 3.3-.1.5-.2.9-.3 1.4-.1.7-.3 1.4-.4 2.1-.2.9-.3 1.7-.5 2.6-.1.4-.1.7-.2 1.1l-.6 3.6v.2c-1 6.3-1.6 12.7-1.9 19.1v.8c-.1 1.4-.1 2.7-.2 4.1 0 1.6-.1 3.3-.1 5 0 1.7 0 3.3.1 5 0 1.4.1 2.7.2 4.1v.9c.3 6.5 1 12.9 1.9 19.1v.2l.6 3.6c.1.4.1.7.2 1.1.2.9.3 1.8.5 2.6.1.7.3 1.4.4 2.1.1.5.2 1 .3 1.4.2 1.1.5 2.2.7 3.2v.1c19.7 85 96.1 148.4 187.1 148.6 42.9-.1 83.1-14.2 116.9-40.7l7.5-5.9-43.2-46.2-6.2 4.6c-22.1 16.3-47.5 24.2-75 24.2-70.6 0-128-57-128-128s57.4-128 128-128c66.4 0 122.8 46.6 129.5 112h-73.5l104 112z" xmlns:bx="https://boxy-svg.com" bx:origin="0.5 0.5"></path></symbol><symbol viewbox="-27.7 455.1 337.2 791.1" id="icon-right" xmlns="http://www.w3.org/2000/svg"><path fill="inherit" d="M6.9 455.1c9.5 0 19.8 4 27.7 14.3l262.9 350.1c7.9 9.5 11.9 22.2 11.9 31.7 0 11.9-4 22.2-11.9 31.7l-262.8 350c-11.9 14.3-31.7 17.4-47.5 7.9-15.8-9.5-17.4-31.7-7.9-45.9L239 850.3-20.8 508.2c-11.9-14.3-7.9-35.6 7.9-45.9 6.4-5.6 11.9-7.2 19.8-7.2"></path></symbol><symbol viewbox="0 0 1000 1000" preserveaspectratio="xMinYMin meet" id="icon-rss" xmlns="http://www.w3.org/2000/svg"><path d="M0 866q0-55 39-94t94-39 94 39 39 94q0 56-39 94.5T133 999t-94-39-39-94zm0-335V340q179 0 331 88.5T571.5 669t88.5 331H468q0-194-137-331Q193 531 0 531zm0-339V0q203 0 388 79.5T707 293t213.5 319 79.5 388H808q0-164-64-314T571.5 428t-258-172T0 192z"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-search" xmlns="http://www.w3.org/2000/svg"><path d="M754.7 468.7l-22.3-22.3c24.3-33.3 37.5-73.4 37.7-114.7 0-109.5-88.8-198.3-198.3-198.3s-198.3 88.8-198.3 198.3S462.1 530 571.7 530c41.2-.2 81.3-13.4 114.7-37.7l22.3 22.3 152.7 152 45.3-45.3-152-152.6zm-183 0c-75.8 0-137.3-61.5-137.3-137.3S495.8 194 571.7 194 709 255.5 709 331.3c.2 75.7-61 137.1-136.7 137.3-.2.1-.4.1-.6.1z"></path></symbol><symbol viewbox="206 29.9 642.1 681.3" id="icon-settings" xmlns="http://www.w3.org/2000/svg"><path d="M843 467.2c4.8 3.2 6.3 9.5 4 15-13.5 41.2-36.4 79.2-64.2 111.7-4 4.8-9.5 6.3-15 4l-81.6-28.5c-20.6 16.6-43.6 30.1-67.3 39.6l-16.6 84.7c-.8 5.5-5.5 10.3-11.1 11.1-21.4 4-42.8 6.3-64.2 6.3-22.2 0-43.6-2.4-64.2-6.3-5.5-.8-10.3-5.5-11.1-11.1L435.2 609c-24.6-9.5-48.3-23-67.3-39.6l-81.6 28.5c-5.5 2.4-11.1.8-15-4-28.5-32.5-51.5-70.5-64.2-111.7-2.4-5.5-.8-11.9 4-15l64.9-57c-2.4-12.7-3.2-26.1-3.2-39.6s.8-26.9 3.2-39.6l-65-57c-4.8-3.2-6.3-9.5-4-15 13.5-41.2 36.4-79.2 64.2-111.7 4-4.8 9.5-6.3 15-4l81.6 28.5c19.8-16.6 43.6-30.1 67.3-39.6l16.6-84.7c.8-5.5 5.5-10.3 11.1-11.1 42.8-8.7 86.3-8.7 129.1 0 5.5.8 10.3 5.5 11.1 11.1l15 85.5c24.6 9.5 47.5 23 67.3 39.6l81.6-28.5c5.5-2.4 11.1-.8 15 4 28.5 32.5 51.5 70.5 64.2 111.7 2.4 5.5.8 11.9-4 15l-65.7 57c2.4 12.7 3.2 26.1 3.2 39.6s-.8 26.9-3.2 39.6l66.6 56.2zm-190-95.8c0-69.7-57.8-127.5-127.5-127.5-70.5 0-127.5 57-127.5 127.5s57 127.5 127.5 127.5S653 441.9 653 371.4z"></path></symbol><symbol viewbox="0 0 16 16" id="icon-snapchat" xmlns="http://www.w3.org/2000/svg"><path d="M8.155.48c.662 0 2.903.185 3.96 2.552.354.797.27 2.15.2 3.237l-.002.04c-.008.12-.015.23-.02.34.05.03.135.06.268.06.2-.01.44-.08.69-.2.11-.06.23-.07.31-.07.12 0 .24.02.34.06.3.1.49.32.49.56.01.3-.26.56-.81.78-.06.02-.14.05-.23.08-.3.09-.76.24-.89.54-.06.15-.04.35.08.58l.01.01c.04.09 1.02 2.32 3.2 2.68.17.03.29.18.28.34 0 .05-.01.1-.03.15-.16.38-.85.66-2.1.85-.04.06-.08.25-.11.38-.02.12-.05.24-.09.37-.05.18-.18.27-.37.27h-.02c-.09 0-.21-.02-.36-.05-.24-.05-.51-.09-.85-.09-.2 0-.4.01-.61.05-.4.07-.75.31-1.15.59-.57.4-1.22.86-2.2.86-.04 0-.08-.01-.12-.01h-.1c-.98 0-1.62-.45-2.19-.86-.4-.28-.74-.52-1.14-.59-.21-.03-.42-.05-.62-.05-.36 0-.64.06-.85.1-.14.03-.26.05-.36.05-.25 0-.35-.15-.39-.28-.04-.13-.06-.26-.09-.38s-.07-.33-.11-.38C.89 12.9.2 12.62.04 12.23a.413.413 0 0 1-.036-.15.332.332 0 0 1 .28-.34c2.18-.36 3.16-2.59 3.2-2.684l.01-.02c.12-.23.15-.43.08-.58-.13-.29-.59-.44-.89-.54-.08-.02-.16-.05-.23-.08-.74-.29-.84-.62-.8-.85.06-.32.45-.53.78-.53.097 0 .18.02.256.05.28.13.527.2.737.2a.63.63 0 0 0 .31-.07l-.03-.38c-.065-1.086-.15-2.438.205-3.23C4.94.67 7.175.49 7.835.49l.28-.01h.04z"></path></symbol><symbol viewbox="0 0 17 17" id="icon-star" xmlns="http://www.w3.org/2000/svg"><path d="M7.544.405l2.305 4.64 5.15.743L11.27 9.4l.88 5.1-4.61-2.407-4.6 2.407.88-5.1L.087 5.79l5.153-.744L7.545.404z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-down" xmlns="http://www.w3.org/2000/svg"><title>no</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="19.3 54.3 26.9 33.7" id="icon-thumb-up" xmlns="http://www.w3.org/2000/svg"><title>yes</title>
+<path d="M19.3 84.4c0-4.8 0-9.4.1-14 0-.4 1-1 1.6-1.2 4.2-1.1 7.7-3.2 9.6-7.3.7-1.6.9-3.4 1.5-5 .4-.9 1.2-1.7 1.8-2.5.7.8 2 1.6 2.1 2.5.2 2.2 0 4.5-.2 6.8-.1.9-.4 1.8-.6 3h5.1c1.2 0 2.4 0 3.5.2 1.9.3 2.4 1.3 2.2 3.2-.1 1.2.1 2.4.1 3.6 0 1 0 1.9-.1 2.9-.1 1.1 0 2.2-.3 3.1-1 2.6-2.1 5.2-3.4 7.6-.3.6-1.8.7-2.7.7-2.4.1-4.8.2-7.2 0-1.4-.1-2.9-.5-4-1.3-2.2-1.7-4.4-2.3-7.1-2.1-.6-.1-1.2-.2-2-.2z"></path></symbol><symbol viewbox="0 0 60.7 93.3" id="icon-topics" xmlns="http://www.w3.org/2000/svg"><g xmlns="http://www.w3.org/2000/svg"><path d="M2.5 21.5h55.2v11.8H2.5zM2.5 42.1h55.2v11.8H2.5zM2.5 64.3h55.2v11.8H2.5z"></path></g></symbol><symbol viewbox="0 0 87 60" id="icon-trending" xmlns="http://www.w3.org/2000/svg"><path d="M1.906 46.826c2.213 1.787 5.466 1.46 7.262-.743v-.006l5.26-6.45 8.378 11.286a5.171 5.171 0 0 0 4.827 2.035 5.128 5.128 0 0 0 4.124-3.215l7.96-20.208L51.26 56.577a5.155 5.155 0 0 0 4.754 3.13c.097 0 .19 0 .286-.007a5.172 5.172 0 0 0 4.66-3.667l10.98-36.787 4.854 9.902c1.234 2.552 4.33 3.613 6.89 2.37 2.56-1.234 3.636-4.314 2.386-6.86L75.42 2.888a5.15 5.15 0 0 0-5.067-2.87 5.135 5.135 0 0 0-4.52 3.653L55.146 39.42 44.28 13.93a5.142 5.142 0 0 0-4.827-3.127 5.157 5.157 0 0 0-4.73 3.263L25.56 37.343l-6.79-9.148a5.197 5.197 0 0 0-4.033-2.08 5.139 5.139 0 0 0-4.124 1.897L1.153 39.6a5.125 5.125 0 0 0 .753 7.226" fill-rule="evenodd"></path></symbol><symbol viewbox="0 0 23.62 41.098" id="icon-tumblr" xmlns="http://www.w3.org/2000/svg"><path d="M21.643 32.826c-.764.364-2.226.682-3.316.71-3.29.088-3.927-2.31-3.955-4.052V16.69h8.252v-6.22h-8.222V0h-6.02c-.1 0-.272.087-.296.307C7.734 3.512 6.234 9.135 0 11.382v5.31h4.16V30.12c0 4.595 3.39 11.126 12.343 10.974 3.02-.053 6.375-1.318 7.117-2.408l-1.977-5.86z"></path></symbol><symbol viewbox="0 0 44.71 36.327" id="icon-twitter" xmlns="http://www.w3.org/2000/svg"><path d="M44.71 4.295c-1.656.724-3.415 1.242-5.278 1.45A9.146 9.146 0 0 0 43.468.673a18.75 18.75 0 0 1-5.796 2.225C35.965 1.138 33.584 0 30.945 0a9.145 9.145 0 0 0-9.16 9.16c0 .724.052 1.448.208 2.12-7.607-.413-14.335-3.88-18.888-9.417-.777 1.345-1.242 2.742-1.242 4.45 0 3.157 1.604 5.95 4.088 7.607a9.376 9.376 0 0 1-4.14-1.138v.103c0 4.45 3.16 8.176 7.35 9.004-.77.2-1.6.31-2.43.31-.57 0-1.14-.06-1.71-.16 1.14 3.62 4.56 6.31 8.54 6.36-3.1 2.48-7.09 4.34-11.38 4.34-.72 0-1.45-.05-2.17-.16 4.04 2.59 8.9 3.72 14.08 3.72 16.87 0 26.08-13.97 26.08-26.08V9.05c1.76-1.294 3.32-2.9 4.56-4.76"></path></symbol><symbol viewbox="-235.8 423.2 35.7 21.3" id="icon-up" xmlns="http://www.w3.org/2000/svg"><path fill="none" d="M-200.5 444.2L-218 424l-17.5 20.2"></path></symbol><symbol viewbox="373.3 133.3 533.3 533.3" id="icon-user" xmlns="http://www.w3.org/2000/svg"><path d="M640 400c73.6 0 133.3-59.7 133.3-133.3S713.6 133.3 640 133.3 506.7 193 506.7 266.7 566.4 400 640 400zm0 66.7c-89 0-266.7 44.7-266.7 133.3v66.7h533.3V600c.1-88.7-177.6-133.3-266.6-133.3z"></path></symbol><symbol viewbox="0 0 1146 1000" id="icon-vimeo" xmlns="http://www.w3.org/2000/svg"><path d="M0 272q55-65 110-116t95.5-77.5 72.5-43T326 14l17-4q12-2 24-2 19 0 35 6 26 10 42.5 34.5t29 55 21.5 72 15 77.5 13.5 79.5T538 403q32 125 51.5 177.5T631 633q24 0 66.5-55.5T791 426q26-48 26-91 0-13-2-23-9-52-51-65-11-4-24-4-35 0-83 26 22-130 134-209Q876 0 965 0q12 0 24 1 102 8 139 90 18 38 18 88 0 29-6 61-18 102-69.5 208t-113 187.5-132.5 155-123.5 117T611 976q-42 24-78.5 24T463 979t-56-48-38-57q-18-38-97.5-298.5T175 295q-1-2-4-4t-13.5-4.5-24 0-36.5 14T47 333z"></path></symbol><symbol viewbox="0 0 86.965 87.642" id="icon-whatsapp" xmlns="http://www.w3.org/2000/svg"><path fill-rule="evenodd" clip-rule="evenodd" d="M44.038 13.007c-16.58 0-30.02 13.44-30.02 30.02a29.883 29.883 0 0 0 4.307 15.503l-5.418 16.106 16.62-5.32a29.915 29.915 0 0 0 14.512 3.733c16.58 0 30.02-13.45 30.02-30.03C74.06 26.44 60.61 13 44.03 13zm0 55.013a24.85 24.85 0 0 1-13.75-4.132l-9.604 3.074 3.122-9.28a24.858 24.858 0 0 1-4.76-14.653c0-13.79 11.212-25 24.993-25 13.78 0 24.99 11.21 24.99 24.99 0 13.78-11.22 24.99-25 24.99zm14.075-18.17c-.753-.412-4.45-2.407-5.143-2.69-.693-.28-1.2-.427-1.74.32s-2.072 2.418-2.538 2.913c-.467.495-.916.54-1.668.128-.752-.41-3.19-1.31-6.02-4.03-2.202-2.11-3.646-4.68-4.065-5.46-.42-.78-.01-1.18.39-1.55.35-.33.8-.86 1.2-1.3.4-.43.54-.74.81-1.25.27-.5.16-.95-.02-1.34s-1.57-4.22-2.15-5.77c-.58-1.56-1.23-1.32-1.68-1.34-.45-.01-.96-.1-1.47-.12-.51-.02-1.35.14-2.08.89-.73.74-2.78 2.52-2.92 6.29-.14 3.77 2.47 7.52 2.83 8.04.36.53 4.98 8.7 12.66 12.06 7.67 3.36 7.71 2.34 9.12 2.26 1.41-.07 4.6-1.68 5.31-3.45.7-1.76.76-3.3.58-3.62-.18-.32-.68-.54-1.43-.95z"></path></symbol><symbol viewbox="130.35156 177.43359 300 300" overflow="visible" id="icon-yahoo" xmlns="http://www.w3.org/2000/svg"><path d="M420.926 272.27c-5.2.514-26.85 5.365-34.13 6.925-7.79 2.073-78.983 57.075-83.66 70.58-1.036 4.674-1.556 11.866-1.556 18.624l-.52 10.91c-.002 7.79 2.162 20.35 3.198 27.1 4.68 1.04 38.555.13 44.79 1.17l-.768 13.97c-6.09-.45-49.106-.34-73.68-.34-12.475 0-52.576 1.37-64.897 1l2.33-13.29c6.755-.53 34.728 1.2 40.878-5.29 3.06-3.22 2.09-6.67 2.09-25.38v-8.83c0-4.16 0-11.96-1.04-19.24-2.59-7.8-65.3-86.09-81.41-98.56-4.68-1.56-33.99-4.49-41.26-6.05l-.36-11.97c3.63-1.82 36.22.44 67.85-.73 20.79-.77 68.22 0 74.07.7l-1.5 10.55c-6.23 1.56-36.26 2.14-44.06 4.21 20.27 30.14 52.31 68.94 62.71 84.01 5.72-8.31 55.96-42.87 57.51-54.82-7.79-1.57-33.6-5.28-37.76-5.28l-2.47-13.61c7.08-1.11 44.28 0 62.78 0 15.96 0 50.07 0 59.76.79l-8.86 12.81"></path></symbol><symbol viewbox="0 0 462 325" id="icon-youtube" xmlns="http://www.w3.org/2000/svg"><path d="M234.28 1.691c-53.492 0-132.53 3.24-156.188 4.031C52.396 8.02 42.884 9.366 28.811 21.41 7.368 40.48 2.28 77.954 2.28 135.285v54.562c0 65.439 8.69 98.684 23 110.844 16.517 14.17 27.407 15.302 38.406 17 4.27.646 34.49 6 168.594 6 83.626 0 155.507-3.95 162.937-4.906 11.945-1.508 29.104-3.696 42.063-18.094 19.183-21.803 23-57.999 23-110.437V126.69c0-33.943-1.891-81.916-23-102-15.991-13.536-21.848-17.367-54.938-19.031-9.358-.462-91.02-3.969-148.062-3.969zm-49.5 97l123.5 63.75-123.5 64.25v-128z"></path></symbol></svg>
+
+      <div class="l-root l-reskin">
+    <div class="l-header">
+      
+<div class="chorus-emc__content" data-emc-slug="UnisonCustomNavCell" data-emc-bucket="715::">
+    
+<header class="c-global-header " data-cid="site/global_header" role="banner" data-analytics-placement="navigation" >
+  <div class="l-wrapper">
+    <div class="c-global-header__logo ">
+      <a href="/" tabindex="1" id="chorus-brand" data-analytics-link="home">
+        
+          <span class="c-global-header__logo-large">
+            
+  <svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 226 61"><style>.st0{fill:#E46B2C;} .st1{fill:#BF662B;} .st2{fill:#525626;} .st3{fill:#2D5125;} .st4{fill:#9B6129;} .st5{fill:#765B28;} .st6{fill:#FFFFFF;}</style><g id="XMLID_45_"><g id="XMLID_46_"><path id="XMLID_52_" class="st0" d="M52 30.5l9.7 26.4H45.6v-.1l-9.7-26.3z"/><path id="XMLID_51_" class="st1" d="M45.6 56.8v.1H29.5v-.1l-9.7-26.3h16.1z"/><path id="XMLID_50_" class="st2" d="M19.8 30.5l9.7-26.4h16.1l-9.7 26.4z"/><path id="XMLID_49_" class="st3" d="M3.7 30.5l9.6-26.4h16.2l-9.7 26.4z"/><path id="XMLID_48_" class="st4" d="M29.5 56.8v.1H13.3L3.7 30.5h16.1z"/><path id="XMLID_47_" class="st5" d="M35.9 30.5l9.7-26.4h16.1L52 30.5z"/></g></g><path id="XMLID_44_" class="st3" d="M2.6 30.5c0 .1 0 .3.1.4l9.7 26.4c0 .1.1.2.1.2v.1c.2.3.5.4.9.4h48.3c.3 0 .5-.1.7-.3l.1-.1.1-.1s0-.1.1-.1c0 0 0-.1.1-.1v-.1-.2-.1-.4l-9.5-26 9.5-26c.1-.3.1-.7-.1-1-.3-.3-.7-.5-1-.5H13.3c-.5 0-.9.3-1 .7L2.6 30c0 .1-.1.2-.1.3.1.1.1.1.1.2zM27.9 5.2L21 24H7.2l6.9-18.8h13.8zm16.1 0L37.1 24H23.3l6.9-18.8H44zm-4.5 18.7l6.9-18.8h13.8l-6.9 18.8H39.5zm4.9 26.5l-6.9-18.8h13.7l6.9 18.8H44.4zm-16.1 0l-6.9-18.8h13.8l6.9 18.8H28.3zM5.2 31.6H19l6.9 18.8H12.1L5.2 31.6z"/><path id="XMLID_43_" class="st6" d="M107.9 15h8.1v3.1h-4.5v2.2h4.5v3.2h-4.5v5.3h-3.6V15z"/><path id="XMLID_42_" class="st6" d="M116.7 15h3v13.8h-3V15z"/><path id="XMLID_41_" class="st6" d="M123.6 18.3l2.1 6.1 2.1-6.1h3.1l-5.3 14.2h-3.1l1.5-4.2-3.9-10h3.5z"/><path id="XMLID_40_" class="st6" d="M131.6 15h3v2.4h-3V15zm0 3.3h3v10.5h-3V18.3z"/><path id="XMLID_39_" class="st6" d="M135.4 18.3h3v1c.9-.9 1.8-1.3 2.9-1.3 1.2 0 2.3.5 3 1.5.3.5.5 1.4.5 2.5v6.7h-3v-6.2c0-1-.7-1.7-1.7-1.7-1.1 0-1.7.8-1.7 2v5.9h-3V18.3z"/><path id="XMLID_38_" class="st6" d="M150.9 29c-3 0-5.3-2.3-5.3-5.2 0-3 2.4-5.5 5.2-5.5 1.2 0 2.1.3 2.9 1.1v-1.1h3.1v10.2c0 2.9-2 4.5-5.7 4.5-3.2 0-5-1.3-5.3-3.6h3.5c.4.8.9 1.1 1.9 1.1 1.6 0 2.6-.8 2.6-2.2v-.7c-.4.9-1.4 1.4-2.9 1.4zm-2.1-5.4c0 1.5 1.1 2.6 2.6 2.6 1.4 0 2.5-1.2 2.5-2.6s-1.1-2.6-2.6-2.6c-1.4 0-2.5 1.2-2.5 2.6z"/><path id="XMLID_37_" class="st6" d="M172.7 27.2c-1.3 1.2-2.9 1.8-4.7 1.8-4 0-7.1-3.1-7.1-7.1s3.1-7.2 7-7.2c2 0 3.8.8 5.1 2.1.8.9 1.2 1.7 1.6 3.3H171c-.7-1.4-1.6-2-3.1-2-2 0-3.6 1.6-3.6 3.7s1.6 3.7 3.7 3.7c1.4 0 2.2-.5 3-1.9h3.6c-.4 1.7-.8 2.6-1.9 3.6z"/><path id="XMLID_36_" class="st6" d="M185.7 23.5c0 3.1-2.4 5.6-5.4 5.6s-5.4-2.4-5.4-5.5c0-3 2.4-5.5 5.4-5.5 2.9-.1 5.4 2.3 5.4 5.4zm-7.8 0c0 1.4 1.1 2.5 2.4 2.5 1.4 0 2.4-1.1 2.4-2.5s-1.1-2.5-2.5-2.5c-1.3.1-2.3 1.1-2.3 2.5z"/><path id="XMLID_35_" class="st6" d="M192.9 27.6c-.9 1-1.7 1.3-2.9 1.3-2.3 0-3.7-1.5-3.7-4.1v-6.5h3V24c0 1.5.5 2.2 1.7 2.2 1.1 0 1.7-.8 1.7-2.2v-5.7h3v10.5h-2.8v-1.2z"/><path id="XMLID_34_" class="st6" d="M196.7 18.3h2.8v1.3c.7-1.4 1.2-1.7 2.8-1.7v3.3c-1.4.1-1.8.2-2.3.7-.3.3-.4.6-.4 1.4v5.5h-3l.1-10.5z"/><path id="XMLID_33_" class="st6" d="M202.9 15h3v2.4h-3V15zm0 3.3h3v10.5h-3V18.3z"/><path id="XMLID_32_" class="st6" d="M211.9 29c-3.1 0-5.5-2.3-5.5-5.5 0-3.1 2.3-5.5 5.4-5.5 1.8 0 3.4.9 4.4 2.4.6 1 .8 2 .9 4.1h-7.8c.3 1.3 1.1 1.9 2.5 1.9.8 0 1.3-.2 1.9-.8h3.1c-.6 2.1-2.4 3.4-4.9 3.4zm2.3-6.7c-.5-1.1-1.2-1.6-2.3-1.6s-2 .6-2.3 1.6h4.6z"/><path id="XMLID_31_" class="st6" d="M217.9 18.3h2.8v1.3c.7-1.4 1.2-1.7 2.8-1.7v3.3c-1.4.1-1.8.2-2.3.7-.3.3-.4.6-.4 1.4v5.5h-3l.1-10.5z"/><g id="XMLID_27_"><path id="XMLID_30_" class="st6" d="M73.9 18.1h2.7v10.7H80V18.1h2.7V15h-8.8z"/><path id="XMLID_29_" class="st6" d="M88.8 18.1c-1.1 0-1.7.3-2.6 1V15h-3v13.8h3V23c0-1.3.7-2.1 1.7-2.1 1.1 0 1.7.7 1.7 1.9v5.9h3v-5.9c.1-3-1.3-4.7-3.8-4.7z"/><path id="XMLID_28_" class="st6" d="M98.8 26.4c-1.4 0-2.2-.6-2.5-1.9h7.8c0-2.1-.2-3.2-.9-4.1-1-1.5-2.6-2.4-4.4-2.4-3 0-5.4 2.4-5.4 5.5 0 3.2 2.3 5.5 5.5 5.5 2.3 0 4.2-1.3 4.9-3.5h-3.1c-.6.7-1.1.9-1.9.9zm0-5.6c1.1 0 1.8.5 2.3 1.6h-4.6c.3-1 1.2-1.6 2.3-1.6z"/></g><g><path class="st6" d="M75.5 46.7h-1.3l3.1-7.6h1l3 7.6H80l-.7-1.8H76l-.5 1.8zm2.2-6.2L76.4 44h2.5l-1.2-3.5zM84.6 39.2h2.3c1 0 2.3.1 3.1 1.2.6.7.8 1.6.8 2.5 0 2.2-1.2 3.7-3.8 3.7h-2.4v-7.4zm1.2 6.5h1.3c1.8 0 2.6-1.1 2.6-2.6 0-.7-.2-1.4-.6-1.9s-1-.8-1.9-.8h-1.3v5.4h-.1zM91.4 43.9c0-1.4 1.1-2.9 3-2.9s3 1.4 3 2.9c0 1.4-1.1 2.9-3 2.9-1.9.1-3-1.3-3-2.9zm1 0c0 1.1.8 1.9 1.9 1.9s1.9-.8 1.9-1.9c0-1.1-.8-1.9-1.9-1.9-1.1 0-1.9.8-1.9 1.9zM98.5 42h-1v-.8h1v-1.9h1.1v2h1.1v.8h-1.1v4.7h-1.1V42zM106.5 46.7h-1.1v-1c-.4.7-1.2 1.1-2 1.1-1.8 0-2.9-1.4-2.9-2.9 0-1.7 1.2-2.9 2.9-2.9 1.1 0 1.8.6 2 1.1v-1h1.1v5.6zm-4.9-2.7c0 .8.6 1.9 1.9 1.9.8 0 1.4-.5 1.7-1.1.1-.2.2-.5.2-.8 0-.2 0-.6-.1-.8-.2-.6-.8-1.1-1.8-1.1-1.2-.1-1.9.8-1.9 1.9zM110.3 45.8c.8-.7 1.6-1.4 2.3-2.2.7-.7 1.4-1.2 1.4-2.2 0-.8-.6-1.3-1.3-1.3-.8 0-1.3.7-1.3 1.7h-1.2c0-.7.1-1.3.6-1.8.5-.7 1.4-.8 1.9-.8 1.4 0 2.4 1.1 2.4 2.3 0 .8-.4 1.4-1.2 2.3-.7.7-1.4 1.4-2.2 2h3.4v1h-4.9v-1h.1zM126.1 44.4c-.5 1.3-1.9 2.4-3.6 2.4-2.3 0-4-1.8-4-4 0-2 1.6-3.8 4-3.8 2 0 3.2 1.4 3.6 2.5h-1.3c-.2-.5-1-1.4-2.3-1.4-1.6 0-2.8 1.3-2.8 2.9s1.1 2.9 2.8 2.9c1.4 0 2.2-1.1 2.3-1.3h1.3v-.2zM126.6 43.9c0-1.4 1.1-2.9 3-2.9s3 1.4 3 2.9c0 1.4-1.1 2.9-3 2.9-1.9.1-3-1.3-3-2.9zm1.1 0c0 1.1.8 1.9 1.9 1.9s1.9-.8 1.9-1.9c0-1.1-.8-1.9-1.9-1.9-1.1 0-1.9.8-1.9 1.9zM133.3 41.1h1v.9c.2-.5.8-1 1.7-1 .5 0 1.1.1 1.4.6.1.1.2.5.4.5.1-.1.2-.4.4-.6.4-.4.8-.6 1.4-.6.5 0 1.1.1 1.4.6.5.5.6 1.1.6 2v3h-1v-3c0-.5-.1-1-.4-1.2-.2-.2-.5-.5-1-.5s-.8.2-1.1.5c-.2.4-.2.6-.2 1.1v3h-1.1v-3c0-.5 0-.8-.2-1.1-.2-.4-.5-.5-1.1-.6-.5 0-.8.2-1.1.5-.2.2-.2.7-.2 1.1v3h-1.1v-5.2h.2zM142.8 41.1h1v.9c.2-.5.8-1 1.7-1 .5 0 1.1.1 1.4.6.1.1.2.5.4.5.1-.1.2-.4.4-.6.4-.4.8-.6 1.4-.6.5 0 1.1.1 1.4.6.5.5.6 1.1.6 2v3H150v-3c0-.5-.1-1-.4-1.2-.2-.2-.5-.5-1-.5s-.8.2-1.1.5c-.2.4-.2.6-.2 1.1v3h-1.1v-3c0-.5 0-.8-.2-1.1-.2-.4-.5-.5-1.1-.6-.5 0-.8.2-1.1.5-.2.2-.2.7-.2 1.1v3h-1.1v-5.2h.3zM157.2 46.7h-1v-.8c-.2.6-.8 1.1-1.9 1-1.8 0-2.3-1.3-2.3-2.4v-3.2h1.1v3c0 1 .4 1.7 1.4 1.7 1.1 0 1.6-.7 1.6-1.6v-3.1h1.1v5.4zM158.4 41.1h1v.9c.2-.6.8-1.1 1.9-1 1.8 0 2.3 1.3 2.3 2.4v3.2h-1.1v-3c0-1-.4-1.7-1.4-1.7s-1.6.7-1.6 1.6v3.1h-1.1v-5.5zM164.6 39.2h1.1v1.1h-1.1v-1.1zm0 1.9h1.1v5.5h-1.1v-5.5zM167.2 42h-1v-.8h1v-1.9h1.1v2h1.1v.8h-1.1v4.7h-1.1V42z"/><path class="st6" d="M171.4 46.5l-2.2-5.4h1.1l1.6 4.1 1.6-4.1h1.1l-3 7.6h-1.1l.9-2.2z"/></g></svg>
+
+
+          </span>
+        
+        
+          <span class="c-global-header__logo-small c-global-header__logo-lockup">
+            <img src="https://cdn.vox-cdn.com/uploads/hub/sbnu_logo_minimal/715/flyingcourier.126.png" class="" />
+
+            <span class="c-global-header__logo-network ">
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+              <span class="c-global-header__logo-community">
+                The Flying Courier
+              </span>
+            </span>
+          </span>
+        
+        
+        
+      </a>
+      
+    </div>
+    
+      <ul class="c-global-header__social">
+      
+        <li><a href="https://twitter.com/flyingcourier" class="twitter">
+          <svg class="p-svg-icon"><use xlink:href="#icon-twitter"></use></svg>
+          
+        </a></li>
+      
+        <li><a href="https://www.facebook.com/flyingcourier" class="facebook">
+          <svg class="p-svg-icon"><use xlink:href="#icon-facebook"></use></svg>
+          
+        </a></li>
+      
+      </ul>
+    
+    
+      <div class="c-global-header__actions">
+    
+    
+      <div class="c-global-header__login">
+        <a class="c-global-header__login-icon" href="https://auth.voxmedia.com/login?return_to=https%3A%2F%2Fwww.theflyingcourier.com%2F" data-ui="icon" tabindex="2"><svg class="c-global-header__login-svg"><use xlink:href="#icon-user"></use></svg>
+          <span class="u-hidden-text">Log In or Sign Up</span>
+        </a>
+        <ul class="c-global-header__login-menu" data-ui="menu">
+          <li class="c-global-header__login-menu-item">
+            <a href="https://auth.voxmedia.com/login?return_to=https%3A%2F%2Fwww.theflyingcourier.com%2F" data-ui-signin="login" tabindex="3" data-analytics-link="login">Log In</a>
+          </li>
+          <li class="c-global-header__login-menu-item">
+            <a href="https://auth.voxmedia.com/signup?return_to=https%3A%2F%2Fwww.theflyingcourier.com%2F" data-ui-signin="signup" tabindex="4" data-analytics-link="signup">Sign Up</a>
+          </li>
+        </ul>
+      </div>
+    
+    
+      <div class="c-global-header__search">
+        <button type="submit" class="c-global-header__search-trigger" tabindex="5">
+          <svg class="c-global-header__login-svg"><use xlink:href="#icon-search"></use></svg>
+        </button>
+      </div>
+    
+    
+      </div>
+    
+    
+    
+    <nav class="c-global-header__links">
+      <ul>
+        
+          
+          
+            <li class="c-global-header__link " data-nav-item-id='news' >
+              
+              <a
+              
+                href="/dota-2-news"
+              
+              
+                tabindex="6">
+              News
+              
+              </a>
+              
+              
+            </li>
+          
+            <li class="c-global-header__link " data-nav-item-id='esports' >
+              
+              <a
+              
+                href="/dota-2-esports"
+              
+              
+                tabindex="7">
+              Esports
+              
+              </a>
+              
+              
+            </li>
+          
+            <li class="c-global-header__link hidden" data-nav-item-id='patches' >
+              
+              <a
+              
+                href="/dota-2-patch-notes"
+              
+              
+                tabindex="8">
+              Patches
+              
+              </a>
+              
+              
+            </li>
+          
+            <li class="c-global-header__link hidden" data-nav-item-id='gameplay' >
+              
+              <a
+              
+                href="/dota-2-gameplay"
+              
+              
+                tabindex="9">
+              Gameplay
+              
+              </a>
+              
+              
+            </li>
+          
+        
+        <li class="c-global-header__link-more " data-nav-list-trigger="more">
+          <a class="c-global-header__label">
+            More
+            <span class="c-global-header__link-arrow"><svg><use xlink:href="#icon-norgie-down"></use></svg></span>
+            <span class="c-global-header__link-hamburger"><svg><use xlink:href="#icon-hamburger"></use></svg></span>
+          </a>
+        </li>
+      </ul>
+    </nav>
+    
+      <div class="c-global-header__primary-community ">
+        <a href="https://www.polygon.com">
+          
+          <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+        </a>
+      </div>
+    
+    
+      <div class="p-input-header c-global-header__search-menu" data-analytics-class="search">
+  <form action="/search" method="GET" data-analytics-class="search">
+    
+    <input class="p-input-header__input" name="q" placeholder="Search">
+    <input type="submit" class="p-input-header__link p-button" value="Search">
+  </form>
+</div>
+
+    
+    
+  </div>
+</header>
+<section class="c-nav-list" data-cid="site/nav_list-1547147729_1823_5387" data-cdata='{"tab_id":"more"}'>
+  <div class="c-nav-list__inner">
+  
+    <ul class="c-nav-list__main" data-nav-list-id="more">
+      
+        <li data-nav-item-id="news">
+        
+          <a class="c-nav-list__label" href="/dota-2-news">
+            News
+            
+          </a>
+          
+        
+
+         
+        </li>
+      
+        <li data-nav-item-id="esports">
+        
+          <a class="c-nav-list__label" href="/dota-2-esports">
+            Esports
+            
+          </a>
+          
+        
+
+         
+        </li>
+      
+        <li data-nav-item-id="patches">
+        
+          <a class="c-nav-list__label" href="/dota-2-patch-notes">
+            Patches
+            
+          </a>
+          
+        
+
+         
+        </li>
+      
+        <li data-nav-item-id="gameplay">
+        
+          <a class="c-nav-list__label" href="/dota-2-gameplay">
+            Gameplay
+            
+          </a>
+          
+        
+
+         
+        </li>
+      
+      <button data-ui="close-nav" type="button" class="c-nav-list__close">✕</button>
+    </ul>
+  
+  </div>
+</section>
+
+
+</div>
+
+
+      <div class="c-ad-whitelist" data-ui="ad-whitelist" data-cid="site/ad_whitelist-1547147729_7611_5388" data-cdata='{"adblocker_whitelist_prompt_enabled":true,"messaging_urls":["https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v0.html","https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v1.html","https://hymnal-prod.vox-cdn.com/ad-whitelist-html/polygon_adblock_v2.html"],"selector":".l-header","display_per_page":33,"display_one_third_pageviews":33,"display_once_per_session":34}'></div>
+
+      
+    </div>
+    <style id="custom-entry-styles" type="text/css">
+  
+</style>
+
+<section class="l-wrapper">
+  <section class="l-segment l-main-content">
+    <span data-content-admin-id="17487431"></span>
+    <div class="l-segment">
+  
+  <div class="c-entry-hero c-entry-hero--default">
+  
+  <div class="c-entry-group-labels c-entry-group-labels--article">
+  
+  
+    
+
+      <ul>
+        
+          <li class="c-entry-group-labels__item">
+            <a href="https://www.polygon.com/esports">
+              <span>Esports</span>
+            </a>
+          </li>
+        
+          <li class="c-entry-group-labels__item">
+            <a href="https://www.theflyingcourier.com/dota-2-gameplay">
+              <span>Gameplay</span>
+            </a>
+          </li>
+        
+      </ul>
+      
+    
+  
+</div>
+
+  <div class="c-entry-hero__header-wrap">
+    <h1 class="c-page-title">The Flying Courier’s newcomer guide to watching Dota 2</h1>
+
+    
+  </div>
+  <h2 class="c-entry-summary p-dek">If you’re ready to dive into <em>Dota 2</em>, start here</h2>
+
+  
+    <div class="c-byline">
+  
+    By
+    <span class="c-byline__item">
+      
+        
+        <a href="https://www.polygon.com/users/Victoria%20Rose">Victoria Rose</a><span class="c-byline__item"><a href="https://www.twitter.com/riningear" class="c-byline__twitter-handle">@riningear</a></span>
+      
+    </span>
+    
+    <span class="c-byline__item">
+      
+      <time class="c-byline__item" data-ui="timestamp" datetime="2018-08-22T01:03:23+00:00">
+        Aug 21, 2018,  9:03pm EDT
+      </time></span>
+    
+    
+    
+    
+  
+  
+  
+  <a data-entry-admin="17487431" data-cid="tools/entry_admin_button-1547147729_8635_5377" data-cdata='{"id":17487431}'></a>
+
+</div>
+
+  
+  
+</div>
+
+
+  <div class="c-social-buttons c-social-buttons--popover main-social" data-cid="site/social_buttons_list/popover-1547147729_8092_5378" data-cdata='{"entry_id":17487431,"services":["twitter","facebook","reddit","pocket","flipboard","email"],"base_url":"https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time"}'>
+  
+    <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;u=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="facebook">
+      <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+      <span class="c-social-buttons--label">Share</span>
+    </a>
+  
+  
+    <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;via=flyingcourier" data-analytics-social="twitter">
+      <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+      <span class="c-social-buttons--label">Tweet</span>
+    </a>
+  
+  
+  
+    <a class="c-social-buttons__item c-social-buttons__more" href="#" data-ui="more">
+      <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 21 20" class="p-svg-icon c-social-buttons__svg">
+<path d="M18.4,12.9c-0.3,0-0.6,0.3-0.6,0.6V17c0,1-0.8,1.8-1.8,1.8H3c-1,0-1.8-0.8-1.8-1.8V4C1.2,3,2,2.2,3,2.2h8.4
+  c0.3,0,0.6-0.3,0.6-0.6S11.7,1,11.3,1H3C1.3,1,0,2.3,0,4V17c0,1.6,1.3,3,3,3H16c1.6,0,3-1.3,3-3v-3.5C19,13.2,18.7,12.9,18.4,12.9z"></path>
+<path d="M20.9,5.3C20.9,5.3,20.9,5.3,20.9,5.3c0-0.1,0-0.1,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0
+  c0,0,0,0,0,0c0,0,0,0,0,0l-4.6-4.6c-0.2-0.2-0.6-0.2-0.8,0s-0.2,0.6,0,0.8l3.3,3.3c-2.1-0.3-5.5-0.3-8.5,1.5
+  C7.6,7.5,5.9,10,5.2,13.5c-0.1,0.3,0.1,0.6,0.5,0.7c0,0,0.1,0,0.1,0c0.3,0,0.5-0.2,0.6-0.5c0.6-3.1,2.1-5.4,4.3-6.8
+  c3-1.8,6.7-1.5,8.5-1.2l-3.8,3.9c-0.2,0.2-0.2,0.6,0,0.8c0.1,0.1,0.3,0.2,0.4,0.2s0.3-0.1,0.4-0.2l4.6-4.6c0,0,0,0,0,0
+  c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0-0.1c0,0,0,0,0-0.1c0,0,0,0,0,0c0,0,0,0,0,0c0,0,0,0,0-0.1C20.9,5.4,20.9,5.4,20.9,5.3
+  C20.9,5.4,20.9,5.4,20.9,5.3z"></path>
+</svg>
+      <span class="c-social-buttons--label">Share</span>
+    </a>
+  
+  
+    <div class="c-social-buttons__popover" data-ui="popover">
+      <div class="c-social-buttons__popover-header">
+        <strong>Share</strong>
+        <span>The Flying Courier’s newcomer guide to watching Dota 2</span>
+      </div>
+      <div class="c-social-buttons__popover-body">
+        
+          <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;via=flyingcourier" data-analytics-social="twitter">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+            <span class="c-social-buttons__text">tweet</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;u=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="facebook">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+            <span class="c-social-buttons__text">share</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__reddit" href="https://reddit.com/submit?title=The+Flying+Courier%E2%80%99s+newcomer+guide+to+watching+Dota+2&amp;url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="reddit">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 17 17" class="p-svg-icon c-social-buttons__svg">
+<path d="M8.5,0C3.8,0,0,3.8,0,8.5S3.8,17,8.5,17S17,13.2,17,8.5S13.2,0,8.5,0z M14,10.2c0,0.1,0,0.3,0,0.4c0,2.2-2.5,3.9-5.6,3.9
+  s-5.6-1.8-5.6-3.9c0-0.2,0-0.3,0-0.5C2.5,9.9,2.2,9.4,2.2,8.9c0-0.8,0.6-1.5,1.4-1.5c0.4,0,0.7,0.2,0.9,0.4C5.2,7.3,6,6.9,7,6.8
+  c0.3-0.1,0.3-0.1,0.7-0.1l0.7-3.1C8.6,2.9,8.8,2.9,9.3,3C11.1,3.5,12,3.7,12,3.7c0.2-0.3,0.5-0.3,0.8-0.3c0.6,0,1.1,0.5,1.1,1.2
+  s-0.5,1.2-1.1,1.2c-0.5,0-1-0.5-1.1-1c0,0-0.7-0.2-2.2-0.6C9.1,5.9,8.9,6.7,8.9,6.7c1.3,0.1,2.6,0.5,3.5,1.1c0.3-0.3,0.6-0.4,1-0.4
+  c0.8,0,1.4,0.7,1.4,1.5C14.8,9.4,14.5,9.9,14,10.2z"></path>
+<path d="M10.2,12.2c-0.3,0.4-0.9,0.5-1.7,0.5l0,0l0,0c-0.8,0-1.4-0.2-1.7-0.5c-0.1-0.1-0.2-0.1-0.3,0c-0.1,0.1-0.1,0.2,0,0.3
+  c0.4,0.4,1.1,0.7,2,0.7l0,0l0,0c0.9,0,1.6-0.2,2-0.7c0.1-0.1,0.1-0.2,0-0.3C10.4,12.1,10.3,12.1,10.2,12.2z"></path>
+<ellipse cx="6.6" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+<ellipse cx="10.4" cy="9.9" rx="0.8" ry="0.9"></ellipse>
+</svg>
+            <span class="c-social-buttons__text">Reddit</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__pocket" href="https://getpocket.com/save?url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="pocket">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 14" class="p-svg-icon c-social-buttons__svg">
+<path d="M14.4,0.1H2c-0.6,0-1.1,0.5-1.1,1.1v4.6c0,4,3.3,7.3,7.3,7.3c4,0,7.3-3.3,7.3-7.3V1.2C15.5,0.6,15,0.1,14.4,0.1
+  z M12.5,5.4L8.9,9C8.7,9.2,8.4,9.3,8.2,9.3C8,9.3,7.7,9.2,7.5,9L3.9,5.4C3.5,5,3.5,4.4,3.9,4c0.4-0.4,1-0.4,1.3,0l3,3l3-3
+  c0.4-0.4,1-0.4,1.3,0C12.9,4.4,12.9,5,12.5,5.4z"></path>
+</svg>
+            <span class="c-social-buttons__text">Pocket</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__flipboard" href="https://share.flipboard.com/bookmarklet/popout?title=The+Flying+Courier%E2%80%99s+newcomer+guide+to+watching+Dota+2&amp;url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;v=2" data-analytics-social="flipboard">
+            <svg xmlns="http://www.w3.org/2000/svg" viewbox="0 0 16 16" class="p-svg-icon c-social-buttons__svg">
+  <path d="M0,0v16h16V0H0z M12.9,6.4H9.6v3.2H6.5v3.2H3.2V3.2h9.7V6.4z"></path>
+  <polygon opacity="0.13" points="6.5,3.2 6.5,6.4 9.8,6.4 12.9,6.4 12.9,3.2 "></polygon>
+  <polygon opacity="0.23" points="6.5,9.7 9.7,9.7 9.7,6.4 6.5,6.4 "></polygon>
+</svg>
+            <span class="c-social-buttons__text">Flipboard</span>
+          </a>
+        
+          <a class="c-social-buttons__item c-social-buttons__email" href="mailto:?subject=The%20Flying%20Courier%E2%80%99s%20newcomer%20guide%20to%20watching%20Dota%202&amp;body=If%20you%E2%80%99re%20ready%20to%20dive%20into%20Dota%202%2C%20start%20here%0A%0Ahttps%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="email">
+            <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-email"></use></svg>
+            <span class="c-social-buttons__text">Email</span>
+          </a>
+        
+      </div>
+      <span class="c-social-buttons__popover-caret" data-ui="caret"></span>
+    </div>
+  
+</div>
+
+  
+  
+  
+</div>
+<div class="l-sidebar-fixed l-segment l-article-body-segment">
+  <div class="l-col__main">
+    <figure class="e-image e-image--hero">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_2445_5379" data-cdata='{"image_id":60974851,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/tFJYu7_tjTVH7Pxho0jv_dT_LzM=/0x0:820x411/320x213/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/ZS2TMrOnEe5NeH8JGEku2TDq8nQ=/0x0:820x411/620x413/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/Li6wYzT16hg5wwEhSJVJygQwOBk=/0x0:820x411/920x613/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 920w, https://cdn.vox-cdn.com/thumbor/mCCoUDjx2co6cDdoa3Mmg45gaV0=/0x0:820x411/1220x813/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1220w, https://cdn.vox-cdn.com/thumbor/pst8HT0-p-cOgyS5mSCIpTsvUsQ=/0x0:820x411/1520x1013/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1520w, https://cdn.vox-cdn.com/thumbor/m9aN16koOaWcw8dsH3Nd7kmSzO8=/0x0:820x411/1820x1213/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/9MwRDdpTnUiSJtYcBwHBywxAcHU=/0x0:820x411/2120x1413/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 2120w, https://cdn.vox-cdn.com/thumbor/uapEBdpo1cjSwF4D86Jb8udfUBE=/0x0:820x411/2420x1613/filters:focal(231x142:361x272):format(webp)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 2420w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/1zYOtqybbd1sbyzVaK1HBF4DAmM=/0x0:820x411/320x213/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 320w, https://cdn.vox-cdn.com/thumbor/ZhL4CbaMWIL7n8zsc8ezC3CIpvw=/0x0:820x411/620x413/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 620w, https://cdn.vox-cdn.com/thumbor/DYyNHzgSdtmxPTJlpCawLt4XIOQ=/0x0:820x411/920x613/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 920w, https://cdn.vox-cdn.com/thumbor/TTj4M-rXk1n9r5HHj7Jg-b4vpUs=/0x0:820x411/1220x813/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1220w, https://cdn.vox-cdn.com/thumbor/IsIzJlP47ynJFb_LxVYnBrd1ut4=/0x0:820x411/1520x1013/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1520w, https://cdn.vox-cdn.com/thumbor/0e0587MxeVuP1XM1v39vRLemmRw=/0x0:820x411/1820x1213/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 1820w, https://cdn.vox-cdn.com/thumbor/Vn0Wa6CJQMZ7eqOSFd5ghK3jUUs=/0x0:820x411/2120x1413/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 2120w, https://cdn.vox-cdn.com/thumbor/qJylmquerxgRtjPfEZ-C_ln8wII=/0x0:820x411/2420x1613/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg 2420w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 36% 50%" data-upload-width="820" src="https://cdn.vox-cdn.com/thumbor/0mmvzGlo-g1SlfoBNhQyXO0J1FA=/0x0:820x411/1200x800/filters:focal(231x142:361x272)/cdn.vox-cdn.com/uploads/chorus_image/image/60974851/terrain_spring.0.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+      
+        <cite><a class="ql-link" href="https://www.dota2.com/plus" target="_blank">Valve</a></cite>
+      
+    </span>
+  
+</figure>
+
+    
+
+
+
+
+
+<div class="c-entry-content">
+  <p id="RtGK6s">Many forms of competitive video gaming have taken place throughout the year, from the arcade to today’s massive, sold-out stadium events. Few, if any, games have the combined international history, prestige and respect of <em>Dota 2</em>. </p>
+<p id="JynZDu">Formerly a fan-made and fan-maintained custom game, the community hit turned into an international craze, with players across the world taking part. But it’s a complicated game, to be honest. With 115 pickable characters, dozens of items and an in-game map full of little quirks and secrets, even dedicated viewers are constantly learning — and surprised — about what professional players can manage. </p>
+<p id="LiuzMV">With recurring events like The International, it brings in a lot of curious visitors but it’s absolutely a difficult game to penetrate. We know the struggle, and so, present you with a primer on how to watch <em>Dota 2</em> on the most basic level. </p>
+<p id="FL4LFx">It’s a lot to take in, still, so don’t be ashamed if you don’t get it all the first time. And if you want to <em>play</em> it... well, that’s for another time. </p>
+<h2 id="y6iUK4">How do you play <em>Dota 2?</em>  </h2>
+<p id="yT9xVq"><em>Dota 2</em> is a real-time, multiplayer, five-versus-five battle for control of the other team’s side of the map. </p>
+<p id="ZCdBxI">It’s like king of the hill, only you’re trying to take their territory instead of “neutral” turf. You’ll march down with five unique characters, called “heroes” in this game, per team, with the teams’ picks completely unique as well. </p>
+<aside id="p32vlc"><div class="c-read-more">
+  <p class="c-read-more__intro">
+    Related
+  </p>
+
+  
+    <h4><a href="https://www.theflyingcourier.com/2018/8/20/17752034/what-is-dota-2-international">A quick guide to The International 8, the largest official Dota 2 tournament</a></h4>
+  
+</div>
+</aside><p id="RNgjpg">The winner is whoever reaches the other side and <strong>destroys the other team’s Ancient,</strong> a giant, well-guarded structure... hence, “Defense of the Ancients,” the original name “Dota” derived from. (Everyone just says “Dota” nowadays, but don’t be ashamed either way.) </p>
+<p id="qdKggH">Of course, you also need to fight through a series of obstacles: damage-dealing towers, small armies of non-hero computer characters, a giant dragon-thing and, of course, the other team. But with time and good gameplay, you’ll get buff and loot the dead along the way, earning items, strengths and abilities. You want to get more ripped and rich than the other team to win. </p>
+<p id="cL9xoz">To understand how that plays out, it’s good to look at the game’s general map, more recognized as the game’s “mini-map” within the game, first: </p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_246_5380" data-cdata='{"asset_id":12207275,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/gtDwCKzfPmWurX6WH8n9NITcUoE=/0x0:1024x1024/320x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 320w, https://cdn.vox-cdn.com/thumbor/TOcXAExiNCO8mKvwQN_LccqrK7c=/0x0:1024x1024/520x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 520w, https://cdn.vox-cdn.com/thumbor/BS5enF63GSBEgytg6zvD9uX5ntM=/0x0:1024x1024/720x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 720w, https://cdn.vox-cdn.com/thumbor/zF0crT9o0Z05Z3cqPqaG8A4uHJo=/0x0:1024x1024/920x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 920w, https://cdn.vox-cdn.com/thumbor/BM5CmxwaG2czaghGRtx5ROdDxdA=/0x0:1024x1024/1120x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1120w, https://cdn.vox-cdn.com/thumbor/Yw4EciQU5ImZXbYOZU5xx7ElmII=/0x0:1024x1024/1320x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1320w, https://cdn.vox-cdn.com/thumbor/vtoSrzOdPhSGnQc4bPToRW30DAg=/0x0:1024x1024/1520x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1520w, https://cdn.vox-cdn.com/thumbor/iRRPsBKzimCq9ToPxkHsbWsbZcw=/0x0:1024x1024/1720x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1720w, https://cdn.vox-cdn.com/thumbor/WUlk5rixPSg7SagNf7SJXV_6ZRI=/0x0:1024x1024/1920x0/filters:focal(0x0:1024x1024):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/83LWU-4hiyc5VgIIz_LZlzRZDzs=/0x0:1024x1024/320x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 320w, https://cdn.vox-cdn.com/thumbor/ixo8VdZ-7mYAyoBvJZXrD7lQb4s=/0x0:1024x1024/520x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 520w, https://cdn.vox-cdn.com/thumbor/RhlXNN8a4PyQ8TmXSu9aoHpJMWc=/0x0:1024x1024/720x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 720w, https://cdn.vox-cdn.com/thumbor/YKrFoglf0viaqyoLprv2jSrjYGs=/0x0:1024x1024/920x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 920w, https://cdn.vox-cdn.com/thumbor/hG13ZsPPS5Pr1bbdATTcdXsZsyY=/0x0:1024x1024/1120x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1120w, https://cdn.vox-cdn.com/thumbor/9gsw4o9EHs6Yyqvlv67g683hmes=/0x0:1024x1024/1320x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1320w, https://cdn.vox-cdn.com/thumbor/wVwdBXScqWpDBFDWIW6l2gfLyP8=/0x0:1024x1024/1520x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1520w, https://cdn.vox-cdn.com/thumbor/ATCzT6w2S3Vy2FRq7H3d3C-IPG4=/0x0:1024x1024/1720x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1720w, https://cdn.vox-cdn.com/thumbor/abpLSFbf5KGMHMYBWY9w-MXx3Ro=/0x0:1024x1024/1920x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 50%" data-upload-width="1024" src="https://cdn.vox-cdn.com/thumbor/Kvju6FgJj_-FDpLj9xZS6381aZ0=/0x0:1024x1024/1200x0/filters:focal(0x0:1024x1024):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/12207275/Minimap_707.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<p id="VjI8CZ">Teams start out on their own side, then must move around the map to earn gold, which provide a wide array of items, and experience, which allows players to learn abilities and make their character stronger. They also, of course, need to <strong>“push” into the other team, meaning destroy their structures to reach the Ancient. </strong></p>
+<p id="14k6QJ">When the horn sounds, players settle into the <strong>three major paths called “lanes,” or between lanes in spaces called “jungles”</strong> (which are actually <em>technically</em> forests but whatever). </p>
+<p id="cfNHWe">Computer-controlled characters populate the map for a number of purposes. For now, just remember that <strong>lane creeps march down each lane every 30 seconds and are used for basic gold and experience, plus attacking the enemy base. </strong></p>
+<p id="8otAL0">The last thing that’s good to know for the basics is how heroes work, of course!<strong> Heroes have a few fundamental basics: Health, mana, attributes (don’t worry about this) and abilities. </strong>Health is their “lifespan,” indicating how much they can get hit, and mana is a “cost” for abilities. No health is bad. No mana is also bad, but not the end of the world. </p>
+<p id="QQhJt1">Abilities are unique skills that allow a variety of skills with a number of effects. You can stun, damage and heal players and creeps. Some even allow you to prevent others from using skills! The most important for most is the “Ultimate,” which is far more powerful, but often has drawbacks in usage time or mana or something. </p>
+<h2 id="rZ5est">Oh my gosh, that’s a doozy. Can you sum it up quickly? </h2>
+<p id="WOCfFp">Oh, okay! </p>
+<ul>
+<li id="W6D0Uy">Five versus five. Everyone’s a different wizard. </li>
+<li id="3ZtP7W">Goal is to defend your Ancient. When an Ancient gets beat up, or a team surrenders knowing loss is inevitable, it’s game over. </li>
+<li id="6i7VIB">You repeatedly beat down on the other team (and random computer characters) to get buff and steal Gold for cool upgrade items. </li>
+<li id="LmJhYF">When you’re buff enough, you try beat up their base too. Hopefully their Ancient. </li>
+</ul>
+<p id="L6wh9O">It’s really just a succession of turf war fights with giant, shiny spells by weird-looking wizards. It’s a great time, I promise, just shout when people start fighting. </p>
+<h2 id="kWOBJw">Why is it <em>Dota 2?</em> Where’s the “2” from? </h2>
+<p id="BCmVob"><em>Dota 2</em> began technically as a remastered version of <em>DotA: All-Stars</em>, a custom, fanmade game in <em>Warcraft 3.</em> (Yes, that’s a capital “A;” it stands for “Defense of the Ancients.”) </p>
+<p id="NGpY3l"><em>DotA: All-Stars </em>relied a lot on community input in order to make the game better, and while it had a paywall, the custom game itself was free. It’s been around for over fourteen years; the actual date of the <em>Defense of the Ancients</em>’s first games aren’t too clear. </p>
+<p id="6KJoXQ">About a decade ago, Valve picked up developer “Icefrog,” then immediately trademarked the word “Dota.” (Since then, they and Blizzard, the developer of <em>WC3</em>, have been in a constant legal battle about the whole situation.) Valve soon announced <em>Dota 2</em>, which would remain free-to-play.<em> </em>For a while, Icefrog even updated the original <em>Dota: All-Stars.</em></p>
+<p id="qv01AX">So no... you don’t need to <a href="https://www.reddit.com/r/DotA2/comments/70qhxy/should_i_play_dota_1_first/">know “Dota 1.”</a> But still, a few rogue WC3 players will pick up a WC3 edition of the game.</p>
+<h2 id="hR5pIC">I’ve heard there are so many characters! How do they get picked?</h2>
+<p id="XhmYXj">You’re right — there are 115 pickable characters in the game right now. Sometimes, there are characters being fixed for usability that are banned, but that’s not the case this year. </p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_2311_5381" data-cdata='{"asset_id":11537515,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/ilTkgRPNOxARQRV4P7S620E2XLA=/0x0:2501x1017/320x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 320w, https://cdn.vox-cdn.com/thumbor/NHdmn-RXPvQJRjXeT541jQNe1mo=/0x0:2501x1017/520x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 520w, https://cdn.vox-cdn.com/thumbor/16rO8RkvJLiDabtJVGZHSd6mb2Y=/0x0:2501x1017/720x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 720w, https://cdn.vox-cdn.com/thumbor/P8bvuiqMEiCqMrODdo1E4AHsoWo=/0x0:2501x1017/920x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 920w, https://cdn.vox-cdn.com/thumbor/hxAaEQGmgRMplOkbrHGIrSupEMc=/0x0:2501x1017/1120x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1120w, https://cdn.vox-cdn.com/thumbor/h-f-aK1NGzZJuul59GTpOQimzgU=/0x0:2501x1017/1320x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1320w, https://cdn.vox-cdn.com/thumbor/RtHuND9PwPiIu_E7sMvM9oFbCDM=/0x0:2501x1017/1520x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1520w, https://cdn.vox-cdn.com/thumbor/ESu4sMS8diwodul7AcR3oHn9zxc=/0x0:2501x1017/1720x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1720w, https://cdn.vox-cdn.com/thumbor/e0TLbMBpuEbBWFFkuFVuloqARnY=/0x0:2501x1017/1920x0/filters:focal(0x0:2501x1017):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/bfUCBjScwtSUkmAspcvQl6sra3s=/0x0:2501x1017/320x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 320w, https://cdn.vox-cdn.com/thumbor/7GTnfHESlMSIC-_wKnw7dg78AKk=/0x0:2501x1017/520x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 520w, https://cdn.vox-cdn.com/thumbor/i0iXzmzGgz8eIbthRBzwajON-NU=/0x0:2501x1017/720x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 720w, https://cdn.vox-cdn.com/thumbor/LIJM0rH7aiJ7xytG2HQHUfqEcUQ=/0x0:2501x1017/920x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 920w, https://cdn.vox-cdn.com/thumbor/1tMNIVrNFQ7Uz2-B1w1SPH_mHUI=/0x0:2501x1017/1120x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1120w, https://cdn.vox-cdn.com/thumbor/u_QA0kd0s63L9Mqjn5x329k6OVg=/0x0:2501x1017/1320x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1320w, https://cdn.vox-cdn.com/thumbor/vJNgM6xTjJ7H3Hn7Ski9BRW-VXY=/0x0:2501x1017/1520x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1520w, https://cdn.vox-cdn.com/thumbor/HckSNvBAl8XXntAJOd6mpqljhCM=/0x0:2501x1017/1720x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1720w, https://cdn.vox-cdn.com/thumbor/YaeUuzZdxhRVPMnAv8uuxIfrJ1I=/0x0:2501x1017/1920x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 49%" data-upload-width="2501" src="https://cdn.vox-cdn.com/thumbor/OwembJZza9jeP6hPGHD7fHQBn6w=/0x0:2501x1017/1200x0/filters:focal(0x0:2501x1017):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11537515/meepo_large.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+      
+        <cite><em>Dota 2</em> | Valve</cite>
+      
+    </span>
+  
+</figure>
+
+<p id="t7EW8e">Of course, these pro players can only pick five, and so can the other team, <em>and</em> you can’t pick the same heroes. And it’d be a doozy if it were a free-for-all picking session — what if a character is just way too good? <strong>So in each individual game of professional </strong><em><strong>Dota 2</strong></em><strong>, there’s a drafting phase. </strong></p>
+<p id="j91GCH">Each team begins by picking three heroes they respectively do <em>not</em> want to see on the field. It can be for any reason, whether because it’s too powerful or the other team has a player specializing in it. In some cases, it’s because the hero is strong against one a team wants to play. </p>
+<p id="JX6i0P">Then the picking begins, along with a few more bans along the way. The teams go back and forth, trying to figure out what sort of strategy is being formed based on what’s being picked or banned. </p>
+<p id="Ogq95q">In terms of strategy, teams are choosing five heroes that not only synergize with each other (or counter the other team well enough), but also that fill<strong> five “farming priority” roles, the “one to five system.”</strong> It’s pretty straightforward — it has to do with how much gold each player requires in the long run, called “farming priority.” </p>
+<ul>
+<li id="s0eVuM">
+<strong>Roles 1 and 2 are “cores” or “carries,” </strong>meaning they require the most gold in the long run. They’ll take all the lane creeps in the mid and safe lanes. Note: The mid lane hero is often left alone to get as much gold and experience as possible, and is chosen for their ability to deal with the opponent’s mid hero as well. </li>
+<li id="rUyxpN">
+<strong>Role 3 is “offlane,”</strong> also a core but... different. Like the mid lane, typically they play alone in the offlane because it gets them more experience, but they can fend for themselves a little better. So, many “offlane heroes” are playmakers that use abilities to get ahead or just stay safe. </li>
+<li id="SBGWrn">
+<strong>Finally, 4 and 5 are “supports,”</strong> meaning they don’t need gold <em>as much</em>, often because their abilities require less items, but they’ll pick up some helpful stuff like healing items or vision wards. </li>
+</ul>
+<p id="dwXZWe">Once all five have been chosen, the players appear on the field, and the game begins. </p>
+<h2 id="cwlhf1">What’s the deal with<em> Dota 2 </em>being such a long game? </h2>
+<p id="adV4AL"><em>Dota 2</em> is a game about gradual gains in gold and experience. These gains are actually a fundamental part of how the game flows, even in regards to time. In fact, it shapes the “phases” that you’ll keep hearing about. </p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_7378_5382" data-cdata='{"asset_id":10712393,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/0yUkQnKz_3cZjokViEUqcLIHeRg=/0x0:810x620/320x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 320w, https://cdn.vox-cdn.com/thumbor/R9Uypqm6LM0803sp26GeaFP7I88=/0x0:810x620/520x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 520w, https://cdn.vox-cdn.com/thumbor/147NiAbX66XkO0UKoK6w78jUXNI=/0x0:810x620/720x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 720w, https://cdn.vox-cdn.com/thumbor/k28JH88YByHA1JvXwSC-g0_DClY=/0x0:810x620/920x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 920w, https://cdn.vox-cdn.com/thumbor/veIE7bOmR4I-3jfPpDO40ylLdPo=/0x0:810x620/1120x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1120w, https://cdn.vox-cdn.com/thumbor/VsZSDl4S9upFs4SD-qoh2e1XvOE=/0x0:810x620/1320x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1320w, https://cdn.vox-cdn.com/thumbor/Xb9tK1FMekKiyi8e4R8zE0cpNOk=/0x0:810x620/1520x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1520w, https://cdn.vox-cdn.com/thumbor/lRUu3phef89nh9Pvep-PogQGFmM=/0x0:810x620/1720x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1720w, https://cdn.vox-cdn.com/thumbor/UmH7W1K-iNM12BmgySPpuF7T2jM=/0x0:810x620/1920x0/filters:focal(0x0:810x620):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/nao4Q2ZTAOo6XOIEV5hudXolSdM=/0x0:810x620/320x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 320w, https://cdn.vox-cdn.com/thumbor/SH9IsyIzcf5AEAeVCWLrnuXVb9k=/0x0:810x620/520x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 520w, https://cdn.vox-cdn.com/thumbor/-DtfZuZdcoTHqKR9q02k47mHjSs=/0x0:810x620/720x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 720w, https://cdn.vox-cdn.com/thumbor/2r1roy2RrWo0J7oeYFft5_cA_VI=/0x0:810x620/920x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 920w, https://cdn.vox-cdn.com/thumbor/Kw-bkQhMWfmLkVAItgdDDfdwS8w=/0x0:810x620/1120x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1120w, https://cdn.vox-cdn.com/thumbor/fqRRLFaZQea03h8FlFsPKOe0Zoc=/0x0:810x620/1320x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1320w, https://cdn.vox-cdn.com/thumbor/aP2YDZXN6b0oBU0yXY6kEgMMwDw=/0x0:810x620/1520x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1520w, https://cdn.vox-cdn.com/thumbor/W56-w_-POzsge08CIMvv8X9zkjo=/0x0:810x620/1720x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1720w, https://cdn.vox-cdn.com/thumbor/fS6g7CkeMmBWY-nIrivNA8LdpXY=/0x0:810x620/1920x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 50%" data-upload-width="810" src="https://cdn.vox-cdn.com/thumbor/UikKtl2xS56Jd2_UUzAtQ0pTumI=/0x0:810x620/1200x0/filters:focal(0x0:810x620):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10712393/the_last_castle.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+      
+        <cite><em>Dota 2</em> | Valve</cite>
+      
+    </span>
+  
+</figure>
+
+<p id="MmqU3O"><em>Dota 2</em> has phases that typically revolve around how well their core/carry is doing: </p>
+<ul>
+<li id="Qo78hu">The <strong>“laning phase,” or “early game,”</strong> during which the core farms mostly off lane creeps; </li>
+<li id="vi8rXb">the “<strong>mid game,”</strong> when the teams leave lanes for a myriad of objectives to benefit everyone and push closer to the enemy; and </li>
+<li id="NdtBUI">
+<strong>“late game,”</strong> when the core is actually strong and rich, or “fat,” enough to take the other team on in their own base. </li>
+</ul>
+<p id="3SnxmP"><strong>For the most part, it takes about 30 minutes to reach the first hints of late game, so an average game will take about 35 to 40 minutes.</strong> On the shorter end, more powerful and tactical teams can take down teams with little struggle, bringing down the game time to a mere 15 to 20 minutes. However, some teams may pick “heavier carries,” or heroes which require more time because they’re weak on their own, so some times will try to drag it out longer. </p>
+<p id="JnlgFn">Some games are just long because both teams drafted heroes similarly, play similarly or are just really damn good. These rare games can last as long as an hour and a half. </p>
+<h2 id="lUQms8">How do I know which side is winning? </h2>
+<p id="U0NA1K">You won’t know exactly who will come out on top for sure because, much like a real sport, anything can happen. However, also much like a real sport, there are a few surefire indicators: </p>
+<ul>
+<li id="Qwcos7">
+<strong>Gold lead </strong>— Shown as yellow text on top of the screen, his is your most helpful indicator, indicating how much gold one team has over the other. The gold lead is always shown to spectators, and it usually tells a story of who’s done the best in the mix of objectives: creeps, kills, towers and more. Over 3k is good early game, 7k mid-game and 14k late game. But a “swing” can always happen, closing that deficit. </li>
+<li id="fEyE8Q">
+<strong>Kill count</strong> — Those are the big white numbers on top, one for each team. Kills do help get experience and gold, but they’re not the end-all by any means. </li>
+<li id="sJEnaJ">
+<strong>Tower deficit </strong>— Who has more towers? Typically, that team is doing better. But that’s not always the case, as a team or powerful player can hide away, quietly build up gold and re-emerge without warning. But objectives do tend to be a good indicator. </li>
+</ul>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_6743_5383" data-cdata='{"asset_id":10408567,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/RF7Dk3XSDTOEGwPfqGnLR-jKG5U=/0x0:641x572/320x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 320w, https://cdn.vox-cdn.com/thumbor/P7lD2vSpsO9zfm7ECXybz1BzM8g=/0x0:641x572/520x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 520w, https://cdn.vox-cdn.com/thumbor/OdBxJM5hvxLvB0E37HWOVROu_E0=/0x0:641x572/720x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 720w, https://cdn.vox-cdn.com/thumbor/5fB7IRnV1alxUaXtRzUtjwi9fvI=/0x0:641x572/920x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 920w, https://cdn.vox-cdn.com/thumbor/f4IWVzu7caUg9WFBNFk71FIv5OY=/0x0:641x572/1120x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1120w, https://cdn.vox-cdn.com/thumbor/vKNYCyI7c6MExzyS7amL58YoStI=/0x0:641x572/1320x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1320w, https://cdn.vox-cdn.com/thumbor/6RNz1knEDj7PGlOHpMRYUwv8yAA=/0x0:641x572/1520x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1520w, https://cdn.vox-cdn.com/thumbor/am0pb1RzjuYYtfqnlNqLh2grK-M=/0x0:641x572/1720x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1720w, https://cdn.vox-cdn.com/thumbor/rhHcKN1evHuXgAPiPKJeRa0eCkY=/0x0:641x572/1920x0/filters:focal(0x0:641x572):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/oPUXqFTveDA_IS0vNns-OY7VP8U=/0x0:641x572/320x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 320w, https://cdn.vox-cdn.com/thumbor/3IBF-o8FRZhwfgTFGC4ODY7GCqU=/0x0:641x572/520x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 520w, https://cdn.vox-cdn.com/thumbor/pRBpu5cbrkTPYpH3sW4xyDbwt0A=/0x0:641x572/720x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 720w, https://cdn.vox-cdn.com/thumbor/Uy4Lk7wDJ4bUP3ggZVIix-oPgvM=/0x0:641x572/920x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 920w, https://cdn.vox-cdn.com/thumbor/thnqjw8rROFhw-pq0MSTjT18LXE=/0x0:641x572/1120x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1120w, https://cdn.vox-cdn.com/thumbor/lBXr-MFplOodB35SqwIXTbrQXNY=/0x0:641x572/1320x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1320w, https://cdn.vox-cdn.com/thumbor/BOED20b7qrm43oT39hoeQsM6F0E=/0x0:641x572/1520x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1520w, https://cdn.vox-cdn.com/thumbor/vg56uUXrHwE62Q9pspgnObH_D6Y=/0x0:641x572/1720x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1720w, https://cdn.vox-cdn.com/thumbor/VEkPOv_9MKdW9OdZdqFh3GeptNQ=/0x0:641x572/1920x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 50%" data-upload-width="641" src="https://cdn.vox-cdn.com/thumbor/JDkZKlEztgl-SOFFQu5cL3BkCpY=/0x0:641x572/1200x0/filters:focal(0x0:641x572):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/10408567/plus_analytics.PNG">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+</figure>
+
+<h2 id="qxFMcE">What’s a Roshan and why is it important?</h2>
+<p id="fCQC4m"><em>Roshan? I’ve heard of ‘im. Big guy. Creep without a team. Middle of the map. Stuns. Hurts. But he’s also loaded with perks like you’ve never seen.  </em></p>
+<p id="j0TNC8">The team responsible for getting the last hit on Roshan gets a sum of gold for the entire team. </p>
+<p id="eegDJE">Just as importantly, he drops the <strong>Aegis of the Immortal, which allows you to near-instantly revive on the spot.</strong> That’s a blessing or a curse, because you just died and there are enemies around still maybe? But teams that utilize it well bring it in for big teamfights and pushes, giving it to someone who may die easily but can get plenty of damage in before then, as it’s effectively a second chance. It expires after a bit of time, so teams need to use it or lose it. </p>
+<p id="X5PO5W">After the second time, he drops <strong>Cheese, which is pretty much an instant regeneration of the player’s health and mana.  </strong></p>
+<p id="q8id8A">The third death and beyond, he drops a one-time <strong>Refresher Orb, which allows a one-time reset on every ability the player has on cooldown — even the big-time Ultimates.</strong> Yes, that means you may see two mega-stun Black Holes in a row or four giant Golems marching down the lane. We’re just as excited as you are.  </p>
+<p id="Hn5nC1">Teams will fight each other for control over the area in which Roshan resides, which can cause the game to sway one way or the other. And by the way — the other team can steal any of the non-gold items. It makes for some <em>fantastic</em> plays.</p>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_1235_5384" data-cdata='{"asset_id":11662695,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/ATmas1kVSaW95ZVzFFSyhfHWkwU=/0x0:1920x1080/320x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 320w, https://cdn.vox-cdn.com/thumbor/ZOxt_KWGEYPJ4bIdAyrRSPcSTN8=/0x0:1920x1080/520x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 520w, https://cdn.vox-cdn.com/thumbor/FYGeeo7hOFX3hc8MvLPIatopan0=/0x0:1920x1080/720x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 720w, https://cdn.vox-cdn.com/thumbor/itfC2g2pGQKE9IYcmGXbkNMFJLI=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 920w, https://cdn.vox-cdn.com/thumbor/wH6tij61zLwagA8an4HcVEyUM18=/0x0:1920x1080/1120x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1120w, https://cdn.vox-cdn.com/thumbor/54A6kSLe3z0tCWLTwL1TITDlOUo=/0x0:1920x1080/1320x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1320w, https://cdn.vox-cdn.com/thumbor/cEGD_xbgVfxdunM6Bgy337xlqLg=/0x0:1920x1080/1520x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1520w, https://cdn.vox-cdn.com/thumbor/nx8iaR3zc-EcZz4EQCvAAb1VFAQ=/0x0:1920x1080/1720x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1720w, https://cdn.vox-cdn.com/thumbor/MLP6AfNeEZD7hkT8My5kCq9Jc2E=/0x0:1920x1080/1920x0/filters:focal(0x0:1920x1080):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/Do4K_D4XKEBATWWv3XTdx16gTy8=/0x0:1920x1080/320x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 320w, https://cdn.vox-cdn.com/thumbor/Yfa3Ap93YoxbxFuzBzyNNsMe_io=/0x0:1920x1080/520x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 520w, https://cdn.vox-cdn.com/thumbor/goCawjjAByCDBS-0dNP90Nvt6l4=/0x0:1920x1080/720x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 720w, https://cdn.vox-cdn.com/thumbor/AAv1vCPuuNjJljsir7c-TiiEz-Y=/0x0:1920x1080/920x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 920w, https://cdn.vox-cdn.com/thumbor/iLn8WnNkSVH2VccKV-x1veYZATM=/0x0:1920x1080/1120x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1120w, https://cdn.vox-cdn.com/thumbor/oy9Ka4ORQw9o9BN0xK1GPSJ4I28=/0x0:1920x1080/1320x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1320w, https://cdn.vox-cdn.com/thumbor/ORHfeiU9ZkrGhj2kGvj4Hy88eww=/0x0:1920x1080/1520x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1520w, https://cdn.vox-cdn.com/thumbor/wN2Wx45L1Ajb998ylHvlioL1bCg=/0x0:1920x1080/1720x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1720w, https://cdn.vox-cdn.com/thumbor/7w5JO278RegE9PRllNd_0fd8A9s=/0x0:1920x1080/1920x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 50% 50%" data-upload-width="1920" src="https://cdn.vox-cdn.com/thumbor/odsPYRt49H_I-aPd_IHnm_3NtHQ=/0x0:1920x1080/1200x0/filters:focal(0x0:1920x1080):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11662695/20180628112024_1.jpg">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+        <figcaption>Roshan, Axe and Sniper in the splash art for the official custom game mode <em>The Underhollow.</em>
+</figcaption>
+      
+      
+        <cite>Valve</cite>
+      
+    </span>
+  
+</figure>
+
+<h2 id="h8mhfD">What’s the jargon I <em>NEED</em> to know? </h2>
+<p id="PxMOaN">Even if you’ve tried to read <em>all of the above</em>, it’s a lot to take in. If you just want to jump in and listen, there are things you’ll be hearing pretty much every game. Here’s a quick list: </p>
+<h4 id="hNgEOa">Talking about players </h4>
+<ul>
+<li id="waE3e3">
+<strong>Core, or carry</strong> — The player(s) who need(s) the gold and experience the most, and will dish out the most damage later </li>
+<li id="RLQOtV">
+<strong>Support </strong>— Player who needs gold less and provides cheaper items </li>
+<li id="oP2mqQ">
+<strong>Farming</strong> — Killing non-player units to get gold and experience </li>
+<li id="bpdCsa">
+<strong>Fat</strong> — Extremely, <em>extremely</em> well-farmed </li>
+<li id="6c6FrS">
+<strong>Gank(ing) </strong>— Going out of one’s way to kill an enemy player </li>
+<li id="rI6kgm">
+<strong>Active vs passive </strong>— Abilities that you press a button to use, versus abilities that work or activate without prompt; both can be part of a hero, player-controlled unit or item  </li>
+<li id="LkuKLP">
+<strong>Ultimate, or ult</strong> — The “Ultimate ability” of a hero. It’s usually more impactful, or it activates a key feature of the hero. Teams will center their entire strategies around synergizing these </li>
+<li id="vGFpcQ">
+<strong>Talent</strong> — Beginning at level 10, every five levels, players can choose between two quirks that can upgrade abilities, strengths, gold etc. </li>
+</ul>
+<h4 id="vWtO0O">Buildings </h4>
+<ul>
+<li id="9JlEnq">
+<strong>Shop (fountain, secret, side) </strong>— You must be in one of these areas to buy items. The secret shop provides items that only exist there, and are typically more powerful or useful </li>
+<li id="xOtS3r">
+<strong>“Tier ___” tower</strong> — Dishes damage if an enemy gets near, and provides small defense bonuses to its own team. “Tiers” are named in the order in which you’ll encounter them; one must be destroyed before the next tier is able to be attacked </li>
+<li id="e9Vb1M">
+<strong>Shrine</strong> — Two wells providing a powerful (but not perfect) heal to their team </li>
+<li id="AZ3RMS">
+<strong>Barracks, or “racks;” super and mega creeps</strong> — While it’s not necessary to take the barracks down, all teams do so because it allows their lane creeps to be more powerful. Super creeps spawn in the respective lane when one or two enemy lanes’ barracks are down; mega creeps spawn when all three are down </li>
+<li id="N7RrPq">
+<strong>Ancient </strong>— The point of the game. If this dies, it’s game over. Can’t be attacked until both tier four towers are down, and it slowly regenerates health </li>
+<li id="WRtB1n">
+<strong>Glyph, or fortify/fortification</strong> — Makes towers immune for five seconds. Has a five-minute cooldown in most cases, but will reset when a tier-one tower falls  </li>
+</ul>
+<h4 id="FcYoGs">Items </h4>
+<ul>
+<li id="7lWq93">
+<strong>Runes </strong>— Small gems littered across the map that give payer perks, which spawn every few minutes. Bounty runes are important as they give the whole team a gold boost, but there are runes that give speed, invisibility and more  </li>
+<li id="bSalvG">
+<strong>Courier</strong> — Player-owned unit that brings items to players across the map (and what this site is named after!). Killing one deactivates it for three minutes, but the killer’s whole team gets gold </li>
+<li id="LA4Lzf">
+<strong>Teleport scroll, or TP</strong> — Item that allows players to near-instantly move to any building owned by that team </li>
+<li id="K1YDE0">
+<strong>Wards/Sentries</strong> — Some casters will conflate the two types, but wards are invisible units that allow you to see in certain ways. Observer wards provide raw vision, and Sentry wards unveil most invisible units </li>
+<li id="evkggg">
+<strong>Smoke </strong>— Shields all players in a small radius from being seen by anything; used to gank </li>
+<li id="H9csio">
+<strong>Divine Rapier </strong>— The most powerful damage item in the game. Gives 300 damage, but will drop on the ground immediately if the player that owns it dies. It’s a Hail Mary type of item, and it means the stakes are higher — but the buying player is confident it will help them win </li>
+</ul>
+<h4 id="maNmUv">Advanced player control </h4>
+<ul>
+<li id="xVIOq4">
+<strong>Buyback</strong> — After death, you can buy to respawn instantly. However, the price increases with time and level, and it always has an eight-minute cooldown. It’s a near-mandatory ability, but teams must use it wisely, as initiating that eight-minute cooldown can make or break a game </li>
+<li id="O6POCX">
+<strong>Micro(ing) </strong>— Controlling player-owned units beyond the hero </li>
+<li id="AeyfqG">
+<strong>Illusion</strong> — Replica/clone of a player character, usually player-controlled, that takes more damage, deals less damage and gives a small amount of gold </li>
+<li id="B4OIEW">
+<strong>Roshan, or Aegis of the Immortal </strong>— An important computer unit and its resulting item. Its perks are too long for this section; see the above question</li>
+<li id="uu4Ygh">
+<strong>Map control </strong>— A team has such good ward vision, awareness of their enemy and sheer power that the other team risks dying just by moving around normally </li>
+<li id="KknQzx">
+<strong>Ratting </strong>— Ratting is when a team hyper-focuses on the tower-killing gold</li>
+<li id="Sihj5w">
+<strong>Base race</strong> — Both teams are throwing each other’s players at the final row of towers and the Ancient; strap in, friends </li>
+</ul>
+  <figure class="e-image">
+  <span class="e-image__inner">
+    <span class="e-image__image " data-original="https://cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png">
+      
+        <picture class="c-picture" data-cid="site/picture_element-1547147729_4269_5385" data-cdata='{"asset_id":11482291,"ratio":"*"}'>
+  
+
+
+  <source srcset="https://cdn.vox-cdn.com/thumbor/tomfl87uUNUKCaT8hwCc8U5I0lw=/0x0:1599x880/320x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 320w, https://cdn.vox-cdn.com/thumbor/qS8FW8If5vYkgAU_03X86tQQj30=/0x0:1599x880/520x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 520w, https://cdn.vox-cdn.com/thumbor/n_HdWKcQxcMn32w_4Cjba1kvT6I=/0x0:1599x880/720x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 720w, https://cdn.vox-cdn.com/thumbor/bq_sKTA6SUSpKm-_EAR0eUvyTBw=/0x0:1599x880/920x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 920w, https://cdn.vox-cdn.com/thumbor/ztWfZR24entxTB5TZJdh4tZ9DDM=/0x0:1599x880/1120x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1120w, https://cdn.vox-cdn.com/thumbor/bNXQca3o1mGNHlRg2coiNxWnO4Y=/0x0:1599x880/1320x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1320w, https://cdn.vox-cdn.com/thumbor/yFlqm5lgYC03EBkF07CV4LPyLSY=/0x0:1599x880/1520x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1520w, https://cdn.vox-cdn.com/thumbor/ahO32ygNdJ_-JOF5S92Df9qgS_U=/0x0:1599x880/1720x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1720w, https://cdn.vox-cdn.com/thumbor/MsGkks4WmkpFamKCJqqa_l1FMGk=/0x0:1599x880/1920x0/filters:focal(0x0:1599x880):format(webp):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" type="image/webp">
+
+
+<img srcset="https://cdn.vox-cdn.com/thumbor/VRoCzF3liSzDz7Q8mN0N8y_Adqg=/0x0:1599x880/320x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 320w, https://cdn.vox-cdn.com/thumbor/Xw3U3BcEqSm0H0QX5faM7tgAInc=/0x0:1599x880/520x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 520w, https://cdn.vox-cdn.com/thumbor/F-0IIaOQvfkxZ7VOi8tlsWC6VCc=/0x0:1599x880/720x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 720w, https://cdn.vox-cdn.com/thumbor/0ophqlMMThzXcjoTI6A3tidSHEs=/0x0:1599x880/920x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 920w, https://cdn.vox-cdn.com/thumbor/J4bzjMbEBT64-_b4Pdp0ncb5fy8=/0x0:1599x880/1120x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1120w, https://cdn.vox-cdn.com/thumbor/NZ3TncmeQp7mEOlkqWj0SBZOJXs=/0x0:1599x880/1320x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1320w, https://cdn.vox-cdn.com/thumbor/cVa6BFGk_QPlCBeKVW7veRV3fHw=/0x0:1599x880/1520x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1520w, https://cdn.vox-cdn.com/thumbor/6q4fe42qRKFXZQE97Xa_kkvGV90=/0x0:1599x880/1720x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1720w, https://cdn.vox-cdn.com/thumbor/ry9HOQtKzfjH-lGtAx81i5CKYZs=/0x0:1599x880/1920x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png 1920w" sizes="(min-width: 1221px) 846px, (min-width: 880px) calc(100vw - 334px), 100vw" alt="" style="object-position: 49% 50%" data-upload-width="1599" src="https://cdn.vox-cdn.com/thumbor/3Qdng4GwVo9hZdtl7N109A2sBlg=/0x0:1599x880/1200x0/filters:focal(0x0:1599x880):no_upscale()/cdn.vox-cdn.com/uploads/chorus_asset/file/11482291/bg_22.png">
+
+</source></picture>
+
+      
+    </span>
+    
+  </span>
+  
+    <span class="e-image__meta">
+      
+      
+        <cite>Valve</cite>
+      
+    </span>
+  
+</figure>
+
+<h2 id="4ARP6M">I play [other MOBA/game], what are the big differences? </h2>
+<p id="eKeB0R">Every character is considered to be absolutely broken in some manner. </p>
+<p id="662ZJz">Jungle creeps are not a necessary objective. They’re actually quite risky, as they do a lot of damage, and farming them leaves players vulnerable. They’re typically done if a player feels safe and powerful enough with map control to do so. </p>
+<p id="VfGMT5">A common complaint is that movement looks “clunkier.” For one, the map’s pretty big, so it takes a while to get across. As for smaller movements, each hero has a “turn rate” — how long it takes a hero to do a full turn. This essentially nerfs the power of many otherwise-frightening characters, especially carries. </p>
+<p id="LA76zt">Skillshots and important abilities have an<em> extremely long</em> buffer time (relatively speaking), whether from “channeling” or animation delay, or some other perk that makes them difficult to land in a pinch. Usually, if a crowd or commentator freaks out when one hits, that means it’s impressive. </p>
+<p id="jj2eYa">Buyback is also a game-changer, especially this International. </p>
+<h2 id="RjUr1e">What’s all this high-noised pinging? </h2>
+<p id="O5LMkU">Oh, that. So the spectator client shows all the players’ “pinging,” which is an in-game indicator for a number of things. It may mean to start a fight, be careful or “hey this person is here, just so you know.” </p>
+<p id="h0rFXp">No, they’re not getting rid of it, probably. Sorry. </p>
+<h2 id="bsCNjc">Where are these random shouting voices coming from? They don’t sound like the casters.  </h2>
+<p id="6KjhmS">That... too... <em>sorry.</em> </p>
+<p id="5IJasm">It’s a “chat wheel” “voice line,” available for The International’s season. These are actual things <em>Dota 2</em> casters have said on-air during matches. They implement it as usable communication options for either the team or the entire game (all ten players). </p>
+<p id="zupPHk">Players <em>love</em> to spam it. Really, <em>really</em> love it. </p>
+<h2 id="jf83RM">What if I don't get it all at once? </h2>
+<p id="8Ku8Wn">That is extremely okay! Like many video games and even sports, <em>Dota 2</em> is difficult to watch on the first go, and there are a lot of rules, intricacies and idiosyncrasies. Even players that have been around for a few years are still learning. But there’s no better time to start than now, as Valve has been trying to take an active role in making the game viable in the long run. </p>
+<p id="DjemW9"><a href="http://twitch.tv/dota2ti_newcomer">The International’s newcomer stream</a> is usually full of great people willing to answer questions, and the <a href="https://www.reddit.com/r/DotA2/"><em>Dota 2</em> Reddit</a> community can help with deeper concepts (and memes). </p>
+<p id="2OFnI7">You can also download the game client for free and follow along live (also for free), allowing you to review what’s going on, rewind, or read abilities. You won’t have in-game pop-ups or the post-game commentary, but if you want to take your time, that’s a great option. </p>
+<p id="Y4jxKU"><small><em>If it makes you feel better, personally, I only learned how to watch American football just over a year ago. </em></small></p>
+<p id="unGB1K"></p>
+<h1 id="n0Vyuc"></h1>
+</div>
+
+
+
+<div class="u-hidden-text" id="formatter-datter" data-cid="site/entry_formatter-1547147729_4531_5386" data-cdata='{"svg_hr_illustration":""}'>
+  
+</div>
+
+
+
+
+
+
+
+    
+  </div>
+    <div class="l-col__sidebar" data-analytics-placement="sidebar">
+        
+      <div class="u-desktop-only">
+        
+      </div>
+
+
+<div id="sidebar-debugger-data" class="u-hidden-text">
+  This Article has a component height of 109. The sidebar size is long.
+</div>
+
+    </div>
+</div>
+
+<div class="l-segment">
+  <div class="OUTBRAIN" data-src="https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time" data-widget-id="AR_2" data-ob-template="Polygon" ></div>
+
+<script type="text/javascript" charset="utf-8">
+(function(){
+  // load outbrain js
+  function loadOutbrain(){
+    var ref = document.querySelector("div.OUTBRAIN");
+
+    var script = document.createElement('script');
+    script.setAttribute('type','text/javascript');
+    script.setAttribute('src', 'https://widgets.outbrain.com/outbrain.js');
+    script.setAttribute('async', 'async');
+
+    ref.appendChild(script);
+  }
+
+  // Disable on mobile and tablet screens
+  // 880px is the upper bound for the `medium` breakpoint defined in UserAgent JS lib.
+  var shouldDisable = false && screen.width <= 880;
+
+  if (!shouldDisable) {
+    // first, set a timeout to loadOutbrain, in case no ads load in 5s
+    // (i.e., blocked). once an ad has loaded, create a new timeout that
+    // will load outbrain if openmic doesn't get loaded in 2s
+    //
+    var adBlockerTimeoutId = setTimeout(loadOutbrain, 5000);
+    document.body.addEventListener('first_ad_rendered', function(){
+      clearTimeout(adBlockerTimeoutId);
+      var outbrainTimeoutId = setTimeout(loadOutbrain, 2000);
+      document.body.addEventListener('playlistRendered', function(){
+        clearTimeout(outbrainTimeoutId);
+      });
+    });
+  }
+})();
+</script>
+
+</div>
+
+<div class="l-sidebar-fixed l-segment">
+  <div class="l-col__main">
+    
+  <div class="c-compact-river">
+  
+    <h2 class="p-breaker-head ">
+      
+      <span class="p-breaker-head__wrapper">The Latest</span>
+    </h2>
+  
+  
+  <div data-cid="site/entry_sponsorship/native_ad-ssYuEiTGFc1uAofXPiFGRA==">
+  <div class="m-native_ad_unit dynamic-native-ad-native_ad_ymal_link"></div>
+</div>
+
+</div>
+
+
+  </div>
+    <div class="l-col__sidebar" id="comments-sidebar" data-analytics-placement="sidebar">
+      
+    </div>
+</div>
+
+  </section>
+</section>
+
+
+
+    <footer class="c-footer c-footer__community" role="contentinfo">
+  <div class="l-wrapper c-footer__wrapper">
+    <div class="c-footer__section c-footer__section-logo">
+      <a rel="nofollow" href="/" class="c-footer__logo-link">
+        
+          
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 92 92" xml:space="preserve">
+<g>
+	<g id="XMLID_26_">
+		<g id="XMLID_27_">
+			<polygon id="XMLID_33_" fill="#E46B2C" points="74.9,46.1 89.4,85.5 65.3,85.5 65.3,85.4 50.9,46.1 			"/>
+			<polygon id="XMLID_32_" fill="#BF662B" points="65.3,85.4 65.3,85.5 41.2,85.5 41.2,85.4 26.8,46.1 50.9,46.1 			"/>
+			<polygon id="XMLID_31_" fill="#525626" points="26.7,45.9 41.2,6.5 65.3,6.5 50.8,45.9 			"/>
+			<polygon id="XMLID_30_" fill="#2D5125" points="2.6,45.9 17.1,6.5 41.2,6.5 26.7,45.9 			"/>
+			<polygon id="XMLID_29_" fill="#9B6129" points="41.2,85.4 41.2,85.5 17.1,85.5 2.6,46.1 26.8,46.1 			"/>
+			<polygon id="XMLID_28_" fill="#765B28" points="50.8,45.9 65.3,6.5 89.4,6.5 74.9,45.9 			"/>
+		</g>
+	</g>
+	<path id="XMLID_18_" fill="#2D5125" d="M1,46c0,0.2,0,0.4,0.1,0.6l14.5,39.4c0,0.1,0.1,0.2,0.2,0.3c0,0,0,0.1,0,0.1
+		c0.3,0.4,0.8,0.6,1.3,0.6h0h72.3h0c0,0,0,0,0,0c0.4,0,0.8-0.2,1.1-0.4c0,0,0.1-0.1,0.1-0.1c0-0.1,0.1-0.1,0.1-0.2l0,0c0,0,0,0,0,0
+		c0-0.1,0.1-0.1,0.1-0.2c0-0.1,0.1-0.1,0.1-0.2c0,0,0-0.1,0-0.1c0-0.1,0.1-0.2,0.1-0.3c0,0,0-0.1,0-0.1c0-0.1,0-0.2,0-0.3
+		c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2l0,0l0,0l0,0L76.6,46L90.9,7.1C91.1,6.6,91,6,90.7,5.6c-0.3-0.4-0.8-0.7-1.3-0.7H17.1
+		c-0.7,0-1.3,0.4-1.5,1.1L1.1,45.3C1,45.4,1,45.6,1,45.8C1,45.8,1,45.9,1,46z M38.8,8.2l-10.3,28H8l10.3-28L38.8,8.2z M62.9,8.2
+		l-10.3,28H32l10.3-28H62.9z M56.1,36.2l10.3-28H87l-10.3,28H56.1z M63.5,75.8L53.2,47.7h20.6l10.3,28.1H63.5z M39.4,75.8L29.1,47.7
+		h20.6L60,75.8H39.4z M5,47.7l20.6,0l10.3,28.1H15.3L5,47.7z"/>
+</g>
+</svg>
+
+
+
+        
+        <span class="u-hidden-text">Chorus</span>
+      </a>
+    </div>
+
+    <div class="c-footer__section c-footer__section-links">
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="/masthead">Masthead</a></li>
+        
+          <li><a rel="nofollow" href="/pages/community-guidelines">Community Guidelines</a></li>
+        
+          <li><a rel="nofollow" href="https://www.facebook.com/flyingcourier">Facebook</a></li>
+        
+          <li><a rel="nofollow" href="https://twitter.com/flyingcourier">Twitter</a></li>
+        
+          <li><a rel="nofollow" href="https://www.youtube.com/user/polygon">YouTube</a></li>
+        
+      </ul>
+    </div>
+
+    <div class="c-footer__section c-footer__section-network">
+      <span class="c-footer__network-logo ">
+        
+          
+  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 355.3 128"><title>poly-lt-wire-logo</title><path fill="#fff" class="a" d="M92.4,54.8c10.2,0,13.9,1.6,16.9,4a18.79,18.79,0,0,1,6.5,14.5c0,5.6-2.3,11.4-5.8,14.4-3.8,3.2-7.5,4.8-16,4.8H88.5v17.2h-14V54.8Zm-4,25.4h5.1a13.87,13.87,0,0,0,5.4-.8c1.9-.8,3.3-2.5,3.3-5.8s-1.6-4.8-3.5-5.6a15.31,15.31,0,0,0-5.8-.8H88.3v13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M116.2,89c0-10,7.2-21.8,22.2-21.8S160.6,79,160.6,89.1,153.4,111,138.4,111,116.2,99.2,116.2,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C133,78.6,128.5,83,128.5,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M164.5,54.8h12.3v54.9H164.5Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M195.1,107.6,179.9,68.5H193l8.4,23.9,7.9-23.9h13l-20.6,54.9h-13Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M266.5,104.7c0,6.2-.4,10.1-2.4,13.6-3.2,5.2-10.7,9.7-20.8,9.7-14.3,0-19.7-8.6-20.5-14.5H237a7.08,7.08,0,0,0,3.9,3.6,10.57,10.57,0,0,0,3.3.5c4.7,0,10-2.9,10-10v-2.4c-1.4,2.4-5,5.9-11.4,5.9-11.2,0-20.8-8.5-20.8-21.7,0-14.1,10.1-22.2,20.8-22.2,4.6,0,9.1,1.6,11.5,5.2V68.5h12.3v36.2ZM234.2,89c0,6.5,4.7,10.5,9.9,10.5a9.8,9.8,0,0,0,7.2-2.8,11.18,11.18,0,0,0,2.9-7.1,11.56,11.56,0,0,0-2.6-7.7,9.2,9.2,0,0,0-7.4-3.2,10,10,0,0,0-10,10q0,.15,0,.3Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M270.3,89c0-10,7.2-21.8,22.2-21.8S314.7,79,314.7,89.1,307.5,111,292.5,111,270.3,99.2,270.3,89Zm12.3.1a9.91,9.91,0,1,0,9.9-10.5C287.2,78.6,282.6,83,282.6,89.1Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M317.2,68.5h11.5v4.4c1.4-2,4-5.8,11.3-5.8,13.9,0,15.3,11.3,15.3,16.8v25.7H343V87.1c0-4.5-1-8.5-6.5-8.5-6.1,0-7,4.4-7,8.6v22.4H317.2Z" transform="translate(0 0)"/><path fill="#fff" class="a" d="M73.9,37.3a1.09,1.09,0,0,0,.1-.5v-.1c0-.2-.1-.3-.3-.5h0L37.8.3a1.4,1.4,0,0,0-.9-.3h-.1c-.2,0-.3.1-.5.3h0L.4,36.1a.1.1,0,0,1-.1.1.1.1,0,0,1-.1.1l-.1.1a.6.6,0,0,0-.1.4H0V72.9a.55.55,0,0,0,.3.5h0l35.9,35.9a1.14,1.14,0,0,0,.8.3.6.6,0,0,0,.4-.1,1.2,1.2,0,0,0,.7-1V73.1L73.7,37.5C73.8,37.5,73.8,37.4,73.9,37.3ZM36,38V70.2L3.7,38ZM2.2,39.5,34.4,71.7H2.2ZM38.1,38H70.3L38.1,70.2Zm0-2.2V3.6L70.3,35.8Zm-2.1,0H3.7L35.9,3.6V35.8Zm0,70.3L3.8,73.9H36Z" transform="translate(0 0)"/></svg>
+
+
+        
+      </span>
+
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="/contact">Contact</a></li>
+        
+          <li><a rel="nofollow" href="/contact#tip">Send Us a Tip</a></li>
+        
+          <li><a rel="nofollow" href="https://www.polygon.com/pages/ethics-statement">Editorial Ethics and Guidelines</a></li>
+        
+      </ul>
+
+      <a rel="nofollow" class="u-block" href="http://www.voxmedia.com"><span class="u-hidden-text">Vox Media</span><svg id="Layer_1" xmlns="http://www.w3.org/2000/svg" viewbox="-147 464.2 484 79.5" class="c-footer__vox-logo"><g><path fill="#4E4E50" class="vox-media-logo-text" d="M-133.2 498l9.9 29 6.4-19.2c1.1-3.3 2.1-6.6 3-9.4h13.3l-13.2 32.4c-2.1 5.3-3.4 8.4-4.6 12l-10 .6-13.2-32c-1.6-4-3.6-9-5.4-12.9l13.8-.5zm38.8 23.6c0-14 9.3-24.4 23.2-24.4 13.3 0 22.1 9.8 22.1 22.1 0 14-9.4 24.4-23.2 24.4-13.4.1-22.1-9.8-22.1-22.1zm33-.9c0-8.4-4.3-13.6-10.3-13.6-6.4 0-10.5 6-10.5 13.2 0 8.4 4.3 13.6 10.3 13.6 6.4 0 10.5-6 10.5-13.2zm19.2 21.9l15.3-22.7-6-8.8-8.6-12.7 13.9-.5 9.1 14.2 3.1-5.3c1.6-2.6 3.8-6.1 5.4-8.6H3.7l-14.6 21.9 5.4 7.9c2.5 3.8 6.8 10.3 9.6 14.4l-14 .5-9.3-15.1-2.9 4.7c-1.4 2.3-4.4 7.2-6.1 9.8h-14v.3zm79.4-15.2l1.9-13.9c.6-4 1.6-12 1.8-15.3l9.6-.4c1.1 2.5 2.7 6.1 4 8.9l8.2 18.2 8-18.5c1.2-2.7 2.6-6 3.7-8.5h9.3c.4 3.7 1.4 11.5 2 15.6l2 13.9c.6 4.1 1.8 11.9 2.5 15.2l-12.4.5c-.1-1.8-.7-7.1-1.1-9.6l-1.8-14c-3.1 7.7-8.6 21.4-9.4 23.6l-6.6.3-9.5-23.3-1.5 13.5c-.3 2.5-.8 7.3-.8 9.1H34.7c.7-3.3 1.9-11.2 2.5-15.3zm96.1 15.5c-4.2-.3-9.3-.3-14.2-.3-5.5 0-11.5.1-16.2.3.3-3 .4-11.3.4-15.4v-14c0-4-.1-12.5-.4-15.6 4.6.2 9.6.3 15.3.3 5.2 0 10-.1 14.3-.3-.3 3.1-.5 6.2-.5 10-3.2-.1-6.4-.1-10.3-.1-1.9 0-4 0-5.8.1-.1.9-.1 2.2-.1 2.8v4.9l13.7-.1c-.1 2.6-.2 5.5-.2 8.8h-13.5v5.7c0 .7 0 2 .1 2.9 1.8 0 3.9.1 5.8.1 4.5 0 8.3-.1 12-.2-.2 3.2-.4 6.2-.4 10.1zm30-.3h-16.6c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12-.4-15.1 2.3 0 7.9-.4 14.9-.4 16.7 0 26 8 26 21.5 0 14.2-9.5 23.1-24.3 23.1zm-.2-35c-1.3 0-2.1.1-3.1.2-.1.8-.1 2.1-.1 2.8v19.6c0 .8 0 1.7.1 2.6 1 .1 1.8.2 3.3.2 8.4 0 12-5.5 12-13-.1-7.9-4.7-12.4-12.2-12.4zm37.2 35c.3-3 .4-11.1.4-15.2v-13.9c0-4-.1-12.2-.4-15.2 2.5 0 11.3-.1 13.4-.3-.2 1.8-.3 6.9-.3 9.3v26.2c0 2.4.1 7.3.3 9.1h-13.4zm38.1-32.2c2.2-5.2 3.7-8.5 4.9-12l10.1-.6 13.8 32c1.6 3.9 4 9 5.8 12.9l-13.4.5-3.4-8.4h-15.4c-.8 2.1-2.6 7.1-3 7.9h-13.1l13.7-32.3zm4.9 16.5h10.1l-5.1-13.7-5 13.7z"></path><path fill="#F6A01A" d="M337 464.2V498l-30-16.9 30-16.9z"></path><path fill="#FBE346" d="M276.9 464.2V498l30.1-16.9-30.1-16.9z"></path><path fill="#F47B20" d="M307 481.1V515l30-17-30-16.9z"></path><path fill="#F8CC15" d="M307 481.1V515l-30.1-17 30.1-16.9z"></path></g></svg></a>
+
+      <ul class="u-list-dot-sep">
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/terms-of-use">Terms of Use</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/privacy-policy">Privacy Policy</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/cookie-policy">Cookie Policy</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/legal/gdpr-commitment">GDPR Commitment</a></li>
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/communications-preferences">Communications Preferences</a></li>
+        
+        
+          <li><a rel="nofollow" href="https://www.voxmedia.com/vox-advertising">Advertise with us</a></li>
+        
+          <li><a rel="nofollow" href="https://jobs.voxmedia.com">Jobs @ Vox Media</a></li>
+        
+      </ul>
+    </div>
+  </div>
+
+  <div class="l-wrapper c-footer__wrapper">
+    <div class="c-footer__section c-footer__section-status">
+      <div class="c-footer__status">
+        <span id="status_io" class="m-footer__bottom__status">
+  All Systems Operational
+  <a href="http://status.voxmedia.com" rel="nofollow" target="_blank">Check out our status page for more details.</a>
+</span>
+
+      </div>
+    </div>
+    <div class="c-footer__section c-footer__section-copy">
+        &copy; 2019 <a rel="nofollow" href="http://www.voxmedia.com">Vox Media</a>, Inc. All Rights Reserved
+        
+    </div>
+  </div>
+
+</footer>
+
+    <div class="c-tab-bar " data-cid="site/tab_bar/index-1547147729_5240_5390" data-cdata="{}">
+  <a href="/" class="c-tab-bar__logo">
+    
+      
+  <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewbox="0 0 92 92" xml:space="preserve">
+<g>
+	<g id="XMLID_26_">
+		<g id="XMLID_27_">
+			<polygon id="XMLID_33_" fill="#E46B2C" points="74.9,46.1 89.4,85.5 65.3,85.5 65.3,85.4 50.9,46.1 			"></polygon>
+			<polygon id="XMLID_32_" fill="#BF662B" points="65.3,85.4 65.3,85.5 41.2,85.5 41.2,85.4 26.8,46.1 50.9,46.1 			"></polygon>
+			<polygon id="XMLID_31_" fill="#525626" points="26.7,45.9 41.2,6.5 65.3,6.5 50.8,45.9 			"></polygon>
+			<polygon id="XMLID_30_" fill="#2D5125" points="2.6,45.9 17.1,6.5 41.2,6.5 26.7,45.9 			"></polygon>
+			<polygon id="XMLID_29_" fill="#9B6129" points="41.2,85.4 41.2,85.5 17.1,85.5 2.6,46.1 26.8,46.1 			"></polygon>
+			<polygon id="XMLID_28_" fill="#765B28" points="50.8,45.9 65.3,6.5 89.4,6.5 74.9,45.9 			"></polygon>
+		</g>
+	</g>
+	<path id="XMLID_18_" fill="#2D5125" d="M1,46c0,0.2,0,0.4,0.1,0.6l14.5,39.4c0,0.1,0.1,0.2,0.2,0.3c0,0,0,0.1,0,0.1
+		c0.3,0.4,0.8,0.6,1.3,0.6h0h72.3h0c0,0,0,0,0,0c0.4,0,0.8-0.2,1.1-0.4c0,0,0.1-0.1,0.1-0.1c0-0.1,0.1-0.1,0.1-0.2l0,0c0,0,0,0,0,0
+		c0-0.1,0.1-0.1,0.1-0.2c0-0.1,0.1-0.1,0.1-0.2c0,0,0-0.1,0-0.1c0-0.1,0.1-0.2,0.1-0.3c0,0,0-0.1,0-0.1c0-0.1,0-0.2,0-0.3
+		c0-0.1,0-0.1,0-0.2c0-0.1,0-0.1,0-0.2l0,0l0,0l0,0L76.6,46L90.9,7.1C91.1,6.6,91,6,90.7,5.6c-0.3-0.4-0.8-0.7-1.3-0.7H17.1
+		c-0.7,0-1.3,0.4-1.5,1.1L1.1,45.3C1,45.4,1,45.6,1,45.8C1,45.8,1,45.9,1,46z M38.8,8.2l-10.3,28H8l10.3-28L38.8,8.2z M62.9,8.2
+		l-10.3,28H32l10.3-28H62.9z M56.1,36.2l10.3-28H87l-10.3,28H56.1z M63.5,75.8L53.2,47.7h20.6l10.3,28.1H63.5z M39.4,75.8L29.1,47.7
+		h20.6L60,75.8H39.4z M5,47.7l20.6,0l10.3,28.1H15.3L5,47.7z"></path>
+</g>
+</svg>
+
+
+
+    
+    
+  </a>
+  <div class="c-social-buttons" data-analytics-placement="sticky" data-cid="site/social_buttons_list-1547147729_5811_5389" data-cdata='{"entry_id":17487431,"services":["twitter","facebook"],"base_url":"https://www.theflyingcourier.com/2018/8/21/17723390/how-to-watch-dota-2-newbie-first-time"}'>
+  
+    
+      <a class="c-social-buttons__item c-social-buttons__twitter" href="https://twitter.com/intent/tweet?counturl=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;url=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time&amp;via=flyingcourier" data-analytics-social="twitter">
+        <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-twitter"></use></svg>
+        <span class="c-social-buttons__text">
+          tweet
+        </span>
+      </a>
+    
+      <a class="c-social-buttons__item c-social-buttons__facebook" href="https://www.facebook.com/sharer/sharer.php?text=Newcomer%E2%80%99s+guide+to+watching+Dota+2&amp;u=https%3A%2F%2Fwww.theflyingcourier.com%2F2018%2F8%2F21%2F17723390%2Fhow-to-watch-dota-2-newbie-first-time" data-analytics-social="facebook">
+        <svg class="p-svg-icon c-social-buttons__svg"><use xlink:href="#icon-facebook"></use></svg>
+        <span class="c-social-buttons__text">
+          share
+        </span>
+      </a>
+    
+  
+</div>
+
+  <span class="c-tab-bar__sponsorship"></span>
+  
+</div>
+
+  </div>
+
+      <script src="https://cdn.vox-cdn.com/packs/chorus-71206ea2edb9d34320ca.js" async integrity="sha256-9GZhoWQ1yM+HDvgYwxX9igA+69CbxHp+MWGCoJA0YWs= sha384-WnsP27VLv4rRcKyJXYWl9fPflc+1/q8B5xaacEhQUNUXJep70wV4vSnBXzcFdcaA" crossorigin="anonymous"></script>
+  
+
+      <!-- Phonograph -->
+
+    <script src="https://phonograph2.voxmedia.com/pickup.js?v=1529075019264" id="phonograph-pickup" async="async" defer="defer"></script>
+
+    <script>
+      var phonographEvents = phonographEvents || [];
+      (function() {
+        var continent = document.cookie.match(/_chorus_geoip_continent=([^;]+)/i) || [];
+        var data = { 'Page Title':document.title, 'GA Track Prefix':'t1.', 'geoip_continent': continent[1] };
+        var dataLayer = window.dataLayer || [];
+        dataLayer
+          .filter(function(m) { return !!m['Network'] })
+          .forEach(function(m) {
+            Object.keys(m).forEach(function(k) { data[k] = m[k] });
+          });
+
+        var userid = data['Logged in Status'];
+        data['User ID'] = (typeof userid === 'number') ? userid : null;
+        phonographEvents.push(['pageload', data]);
+      })();
+    </script>
+  <!-- End Phonograph -->
+
+    
+</body></html>
+

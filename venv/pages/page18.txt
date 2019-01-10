@@ -1,0 +1,272 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+	<link href="http://www.dota2.com/public/css/global.css?v=b4890656" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/workshop.css?v=NS0aeTtBs-53" rel="stylesheet" type="text/css" >
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+	<title>Dota 2 - Hero Builds</title>
+    <meta property="og:title" content="Dota 2 Hero Build" />
+    <meta property="og:type" content="game" />
+    <meta property="og:url" content="http://www.dota2.com/workshop/builds/overview" />
+    <meta property="og:image" content="" />
+    <meta property="og:site_name" content="Dota2.com" />
+    <meta property="fb:admins" content="726460592" />
+
+			
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+</head>
+<body>
+
+
+
+	<div id="navBarBGRepeat" class="DotaFont">
+		<div id="navBarBG">
+			<div id="navBar">
+								
+												<div id="navLoginAndLanguage">
+
+																												<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds%2Foverview">Login</a>
+										
+					<span id="HeaderAdminSeperator" class="DotaFont">|</span>
+
+					<div id="languageSelector" class="DotaFont">
+						<a href="javascript:void(0)">Language</a> <img style="margin-bottom: 2px;" src="http://cdn.dota2.com/apps/dota2/images/header/small_arrow.png" width="5px" height="3px" border="0" /><br />
+						<div style="display:none;" id="languageList">
+																						<a class="DotaFont languageItem" href="?l=brazilian">Português - Brasil (Portuguese - Brazil)</a>
+																						<a class="DotaFont languageItem" href="?l=bulgarian">Български (Bulgarian)</a>
+																						<a class="DotaFont languageItem" href="?l=czech">Čeština (Czech)</a>
+																						<a class="DotaFont languageItem" href="?l=danish">Dansk (Danish)</a>
+																						<a class="DotaFont languageItem" href="?l=dutch">Nederlands (Dutch)</a>
+																													<a class="DotaFont languageItem" href="?l=finnish">Suomi (Finnish)</a>
+																						<a class="DotaFont languageItem" href="?l=french">Français (French)</a>
+																						<a class="DotaFont languageItem" href="?l=german">Deutsch (German)</a>
+																						<a class="DotaFont languageItem" href="?l=greek">Ελληνικά (Greek)</a>
+																						<a class="DotaFont languageItem" href="?l=hungarian">Magyar (Hungarian)</a>
+																						<a class="DotaFont languageItem" href="?l=italian">Italiano (Italian)</a>
+																						<a class="DotaFont languageItem" href="?l=japanese">日本語 (Japanese)</a>
+																						<a class="DotaFont languageItem" href="?l=koreana">한국어 (Korean)</a>
+																						<a class="DotaFont languageItem" href="?l=norwegian">Norsk (Norwegian)</a>
+																						<a class="DotaFont languageItem" href="?l=polish">Polski (Polish)</a>
+																						<a class="DotaFont languageItem" href="?l=portuguese">Português (Portuguese)</a>
+																						<a class="DotaFont languageItem" href="?l=russian">Русский (Russian)</a>
+																						<a class="DotaFont languageItem" href="?l=romanian">Română (Romanian)</a>
+																						<a class="DotaFont languageItem" href="?l=schinese">简体中文 (Simplified Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=spanish">Español - España (Spanish - Spain)</a>
+																						<a class="DotaFont languageItem" href="?l=swedish">Svenska (Swedish)</a>
+																						<a class="DotaFont languageItem" href="?l=tchinese">繁體中文 (Traditional Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=thai">ไทย (Thai)</a>
+																						<a class="DotaFont languageItem" href="?l=turkish">Türkçe (Turkish)</a>
+																						<a class="DotaFont languageItem" href="?l=ukrainian">Українська (Ukrainian)</a>
+													</div>
+					</div>
+				</div>
+
+
+				<a href="http://store.steampowered.com/app/570/Dota_2/"><div id="PlayForFreeButton">
+					Play for Free
+				</div></a>
+
+									<span class="navItem navItemDotaLogo">
+						<a class="navBarItem DotaFont" href="http://www.dota2.com/play/">
+							<img border="0" class="DotaLogo" src="http://cdn.dota2.com/apps/dota2/images/nav/logo.png"/>
+						</a>
+					</span>
+
+											<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://blog.dota2.com/">News</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://www.dota2.com/store/">Store</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="javascript:void(0)">Heropedia</a>
+								<div style="display:none;" class="menuSubItemList">
+																				<a class="DotaFont" href="http://www.dota2.com/heroes/">Heroes</a>
+																				<a class="DotaFont" href="http://www.dota2.com/items/">Item Explorer</a>
+																				<a class="DotaFont" href="http://www.dota2.com/workshop/builds">Builds</a>
+																				<a class="DotaFont" href="https://steamcommunity.com/app/570/guides" target="_blank">Steam Guides</a>
+																				<a class="DotaFont" href="http://www.dota2.com/quiz">The Shopkeeper's Quiz</a>
+														</div>
+								<img class="dn_arrow" src="http://cdn.dota2.com/apps/dota2/images/nav/arrow.png"/>
+							</span>
+																		</div>
+		</div>
+	</div>
+<script language="javascript">
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function PreloadHeaderImages()
+	{
+		//  Preload header rollover images
+		//MM_preloadImages(
+		//);
+	}
+
+			if ( document.addEventListener ) {
+		document.addEventListener( "DOMContentLoaded", PreloadHeaderImages, false );
+	} else if ( document.attachEvent ) {
+		document.attachEvent( 'onDomContentLoaded', PreloadHeaderImages );
+	}
+
+</script>
+
+
+
+	<script language="javascript">
+		function closeSubMenu( target ) {
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow.png" );
+			$(target).find('.menuSubItemList').hide();
+		}
+
+		function closeAllSubMenus() {
+			$('.navItem').each( function() {
+				closeSubMenu( $(this) );
+			});
+		}
+
+		function openSubMenu( target ) {
+			closeAllSubMenus();
+
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow_over.png" );
+
+			// Show the sub-menu
+			var subItemList = $(target).find('.menuSubItemList');
+			if ( subItemList.length ) {
+				var itemTop = $(target).position().top + $(target).outerHeight() - 16;
+				var itemLeft = $(target).position().left;
+				subItemList
+					.css({
+						"top": itemTop + 'px',
+						"left": itemLeft
+					})
+					.fadeIn( 'fast' );
+			}
+		}
+
+		$(document).ready( function () {
+			// Deal with the nav bars
+			$('.navItem').each( function() {
+				$(this).hover( function () {
+					$(this)
+						.find('a.navBarItem img.top')
+						.animate({
+							"opacity": 1
+						}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						openSubMenu( this );
+					}
+				},
+				function () {
+					$(this)
+					.find('a.navBarItem img.top')
+					.animate({
+						"opacity": 0
+					}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						closeSubMenu(this);
+					}
+				}
+				);
+			});
+
+			// Deal with header drop-downs
+			var strMenus = '#languageSelector';
+			
+			$(strMenus).each( function() {
+				$(this).hover( function () {
+					//show its submenu
+					$( this ).find( 'div' ).fadeIn( 'fast' );
+				},
+				function () {
+					//hide its submenu
+					$( this ).find( 'div' ).hide();
+				}
+				);
+			});
+		});
+
+	</script>
+
+
+
+<div id="GuideContainer_01">
+	<div id="GuideContent_01">
+		<div id="LogInBanner"><a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds">Sign In</a> To Get Started!</div>
+    </div>
+</div>
+<div id="Container_02">
+	<div id="Content_02">
+		<div class="quicklinks">QUICKLINKS:<br />
+		<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds">Log in</a> |
+		<a href="https://steamcommunity.com/guides" target="_community">Learn About Steam Guides</a> |
+		<a href="https://steamcommunity.com/app/570/guides/" target="_community">Browse Steam Guides & Hero Builds</a>
+		</div>
+		
+		<div class="headline"><br />What Does a Hero Truly Need?</div>
+		<div class="bodycopy">
+			So many choices: How can I stay in the fight longer? Which ability will bring my foe to their knees? Do these boots match my Divine Rapier? Even the greatest warrior needs a mentor—let your fellow players help you learn the finer points of strategy with Guides and Hero Builds.<br /><br />
+			By visiting the 'Guides' section in the Steam Community, you can now view in-depth walkthroughs of all your favorite heroes. You can also subscribe to Hero Builds, which can be used in-game to instruct you on what abilities to level up (and when), along with what items will best suit your needs.<br /><br />
+			As for you seasoned heroes out there, create your own Hero Builds right here on Dota2.com, then share them with friends and the Dota 2 community via the Steam Community.<br /><br />
+			<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds">Simply log into Steam and get building!</a><br /><br />
+		</div>
+				
+		<div class="callout" style="height:100%">
+			<div class="question">Helpful links:</div><br/>
+			<div class="answer">
+				<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds">Log In</a> - Start building Hero Builds right now<br/>
+				<a href="https://steamcommunity.com/guides" target="_community">Learn About Steam Guides</a> - Learn more about Guides on the Steam Community<br/>
+				<a href="https://steamcommunity.com/app/570/guides/" target="_community">Steam Community</a> - Browse available Steam Guides and Hero Builds from other players<br/>
+			</div>
+		</div>
+
+			<br /><br />
+			<div class="question">Q: What is a Hero Build?</div>
+			<div class="answer">A Hero Build is a way for players to gain knowledge about a specific hero. Builds provide helpful advice on which abilities to level up and when, and what the best items are for your hero. Builds also contain tooltips on strategies, tactics and any other knowledge the author saw fit to share.</div>
+
+			<div class="question">Q: What's the difference between a Steam Guide and a Hero Build?</div>
+			<div class="answer">Steam Guides are a feature of the Steam Community that let players share in-depth knowledge about all sorts of games on Steam, including Dota 2. Hero Builds are unique to Dota 2 and used during a game to help instruct you on how to best play your hero. Hero Builds can be linked to from a Guide.</div>
+
+			<div class="question">Q: How do I create Hero Builds?</div>
+			<div class="answer"><a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=workshop%2Fbuilds">Log into Dota2.com here.</a>You'll then automatically be taken to your local Hero Build page, where you'll be able to create and edit Hero Builds. All builds are saved directly to your Steam Cloud.</div>
+
+			<div class="question">Q: How do I use Hero Builds?</div>
+			<img style="margin: 8px 0 8px 90px" height="186" width="291" src="http://cdn.dota2.com/apps/dota2/images/workshop/ingameguides.png"/><br/>
+			<div class="answer">To use a Hero Build you've created or subscribed to on the Steam Community, simply join a game and click the &quot;Hero Build Panel&quot; button at the top-left corner of the screen. From here you can see the default build for the hero you're playing, Builds you've made yourself, Builds you've subscribed to on the Steam Community, as well as a selection of top Builds other users have published.</div>
+
+			<div class="question">Q: Can I share my Hero Builds with others?</div>
+			<div class="answer">Please do! Just use the 'Publish to Steam Community' menu option in the Hero Build page on Dota 2.com. You can choose to publish it privately so that only you can see it; publish it to just your Steam Friends; or publish it to the world at large. Once you've published a Hero Build it will show up in the Steam Community, allowing other people to subscribe to it, leave comments, rate it, or even favorite it. What better way to test your knowledge than by letting everyone try it out?</div>
+
+    </div>
+</div>
+<div id="Container_03" style="height: 140px">
+</div>
+
+</body>
+</html>

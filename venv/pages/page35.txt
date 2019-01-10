@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="keywords" content="dota2,dota,官网,英雄,对战,续作,经典,moba,上海特级锦标赛主赛事">
+	<meta name="description" content="DOTA2是由DotA之父Icefrog主创打造的唯一正统续作，其完整继承了原作DotA超过一百位的英雄。DOTA2的玩法和DotA完全相同，通过顶级的系统、美术和功能，呈现出了超越经典且原味十足的体验感觉。拥有顶级品质，竞争力十足的DOTA2已然主宰了时代的脉动，其必将让所有DOTAer的骄傲、荣耀与执着得到承载，延续永恒。为信仰守护，开始新的战斗吧！">
+	<title>The Shanghai Major - Overview - Dota 2</title>
+	<link rel="stylesheet" type="text/css" href="/style/reset.css" />
+	<link rel="stylesheet" type="text/css" href="/theshanghaimajor/shanghaimajor/css/global.css?v=160227" />
+	<link rel="stylesheet" type="text/css" href="/theshanghaimajor/shanghaimajor/css/jquery.pwrd.css" />
+	<link rel="stylesheet" type="text/css" href="/theshanghaimajor/shanghaimajor/css/overview.css?v=160306" />
+	<script src="/js/jquery-1.11.0.min.js" type="text/javascript" charset="utf-8"></script>
+	<script src="//act.dota2.com.cn/countdown?id=11&callback=abcd=" type="text/javascript"></script>
+	<script src="/theshanghaimajor/shanghaimajor/js/index.js" type="text/javascript"></script>
+</head>
+<body class="en">
+	<div class="header">
+		<div class="container">
+						<a href="/theshanghaimajor/chinese/overview" class="lan">显示中文</a>
+			<div class="ovtip">
+				<div class="ttip"></div>
+				<a href="" class="vodlink en">DAILY VODS </a>
+			</div>
+		</div>
+	</div>
+	<div class="main-nav ">
+		<div class="container">
+			<div class="nav-light"></div>
+			<ul class="clearfix">
+				<li><a  class="act" href="/theshanghaimajor/english/overview">OVERVIEW</a></li>
+				<li><a  href="/theshanghaimajor/english/live?tab=1&tablang=2&livesource=1">LIVE</a></li>
+				<li><a  href="/theshanghaimajor/english/schedule">SCHEDULE</a></li>
+				<li><a   href="/theshanghaimajor/english/teams">TEAMS</a></li>
+				<li><a   href="/theshanghaimajor/english/casters">CASTERS</a></li>
+				<li><a   href="/theshanghaimajor/english/media">MEDIA</a></li>
+				<li><a   href="/theshanghaimajor/english/recap">RECAP</a></li>
+			</ul>
+		</div>
+	</div>
+
+	<div class="main02">
+		<div class="container">
+			<div class="date">Champion : Team Secret</div>
+			
+			<a href="/theshanghaimajor/english/schedule" class="buy" target="_blank">RECAP</a>
+			<div class="setit">DURING FEB 25 - MAR 6</div>
+		</div>
+	</div>
+	<div class="main03">
+		<div class="container">
+			<div class="tit upcase">SCHEDULE</div>
+			<div class="setit">JANUARY 3 - 6, 2016</div>
+			<div class="event">Open Qualifiers</div>
+			<div class="setit">JANUARY 7 - 10, 2016</div>
+			<div class="event">Regional Qualifiers</div>
+			<div class="setit">FEBRUARY 25 - 28, 2016</div>
+			<div class="event">Group Stage</div>
+			<div class="setit">MARCH 2 - 6, 2016</div>
+			<div class="event">Main Event</div>
+			<div class="setit">MARCH 6, 2016</div>
+			<div class="event">Dota 2 Concert</div>
+			<div class="tip">All games are viewable live in-game and at Dota2.com.cn</div>
+			<!-- <a href="//www.dota2.com.cn/theshanghaimajor/english/live?tab=1&tablang=2&livesource=1" class="watch">Watch Live</a> -->
+		</div>
+	</div>
+		<div class="main04 long-bg">
+				<div class="container">
+			<div class="tit upcase">PRIZE POOL</div>
+
+			<div class="place">
+				<div class="tp">
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/0d/d8/0dd8dd2d1ec3c4a24a29f09a60b20d191455795896.png"/>						<div class="count">$1,110,000</div>
+						<div class="np">FIRST PLACE</div>
+					</li>
+				</div>
+				<div class="tp02">
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/0d/3a/0d3aa91f2cbdb4333e1c51ce8a7648f91455795538.png"/>						<div class="count">$405,000</div>
+						<div class="np">SECOND PLACE</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/d9/9c/d99c2073ab6171124db7898ebfd25f401455795914.png"/>						<div class="count">$315,000</div>
+						<div class="np">THIRD PLACE</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/d2/d8/d2d82497a7a50cd6d586ed5018d061b11455795523.png"/>						<div class="count">$255,000</div>
+						<div class="np">FOURTH PLACE</div>
+					</li>
+				</div>
+				<div class="tp03">
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/d8/97/d897e2c57e2bae17a7397e6e45ff2e441455795503.png"/>						<div class="count">$202,500</div>
+						<div class="np">5TH-6TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/9a/a4/9aa4a76dd69e6c1099167a223c5ff1481455853068.png"/>						<div class="count">$202,500</div>
+						<div class="np">5TH-6TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/86/1f/861ff7b633b666c5c9173fe516a804221455795493.png"/>						<div class="count">$105,000</div>
+						<div class="np">7TH-8TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/42/3b/423b65be870966aeae2d9e19f856bb6c1455795883.png"/>						<div class="count">$105,000</div>
+						<div class="np">7TH-8TH</div>
+					</li>
+				</div>
+				<div class="tp03">
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/ac/c3/acc35add91365a192ad63b48e84a2e2e1455801418.png"/>						<div class="count">$45,000</div>
+						<div class="np">9TH-12TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/a4/57/a457546f2462db74ec2ebcfea71a12ce1455795519.png"/>						<div class="count">$45,000</div>
+						<div class="np">9TH-12TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/68/f7/68f756cf2a99cdd338cbba2215d067e91455795553.png"/>						<div class="count">$45,000</div>
+						<div class="np">9TH-12TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/ad/5e/ad5e262b29209b320331f06d242c7bd01455795527.png"/>						<div class="count">$45,000</div>
+						<div class="np">9TH-12TH</div>
+					</li>
+				</div>
+				<div class="tp03">
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/85/f7/85f7bbbe4cd19df0945bd3746c7bb8411455795534.png"/>						<div class="count">$30,000</div>
+						<div class="np">13TH-16TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/89/3b/893bbdc5638bd8d68e0c7f6bfa0051ea1455795545.png"/>						<div class="count">$30,000</div>
+						<div class="np">13TH-16TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/5e/f2/5ef2d74fb6d863c50c757c39f8df061d1455795902.png"/>						<div class="count">$30,000</div>
+						<div class="np">13TH-16TH</div>
+					</li>
+					<li>
+						<img class="tlogo" src="https://img.dota2.com.cn/maps/5c/1c/5c1c4ff498fb2512a403dfae57bd1ce71455795499.png"/>						<div class="count">$30,000</div>
+						<div class="np">13TH-16TH</div>
+					</li>
+				</div>
+			</div>
+			<div class="tit second upcase">Event Features</div>
+			<div class="desc">
+				<div class="fr">
+					<div class="sub-tit">CASTERS</div>
+					<div class="sub-desc">The Shanghai Major will feature some of the world’s premiere Dota 2 casting talent. Supporting viewers in Chinese, English, and Russian, our casters will offer in-depth analysis of both in-game plays and the chosen tactics of each team to help ensure you don’t miss any of the action.</div>
+					<a href="/theshanghaimajor/english/casters" target="_blank"  class="sub-link">LEARN MORE > </a>
+				</div>
+				<div class="se">
+					<div class="sub-tit">DOTA 2 CONCERT</div>
+					<div class="sub-desc">In celebration of the Shanghai Major, Perfect World is pleased to announce a Dota 2 orchestral concert to be held live at Mercedes-Benz Arena during the final day of the event. Simultaneously streaming around the globe, fans in all regions will be treated to a stirring performance of their favorite Dota 2 themes.</div>
+					<!-- <a href="//www.dota2.com.cn/article/details/20151231/180051.html" target="_blank" class="sub-link">LEARN MORE > </a> -->
+				</div>
+				<div class="th">
+					<div class="sub-tit upcase">Newcomers Broadcast</div>
+					<div class="sub-desc">New to Dota? Or maybe you play Dota but have never gotten interested in the professional side of the game. Welcome to the Newcomer's Broadcast, an Chinese stream happening alongside the main stream, featuring commentary aimed at easing people into understanding the exciting world of BKBs, tri-lanes, and counter-picks.
+</div>
+					<!-- <a href="" class="sub-link">LEARN MORE > </a> -->
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="main05">
+		<div class="container">
+			<div class="tit upcase">The Winter Battle Pass</div>
+			<div class="desc-one">INTRODUCING THE WINTER 2016</div>
+			<div class="desc-two">INCLUDES THE 2016 SHANGHAI MAJOR COMPENDIUM</div>
+			<a href="//www.dota2.com/winter2016" target="_blank" class="watch">LEARN MORE</a>
+		</div>
+	</div>
+
+	<div class="main07">
+		<div class="container">
+			<div class="part-tit">The Shanghai Major is presented by Perfect World and their partners</div>
+			<div class="part-bg"></div>
+
+		</div>
+	</div>
+	<div id="overlay01"></div>
+	<script src="/theshanghaimajor/shanghaimajor/js/jquery.pwrd.js" type="text/javascript" charset="utf-8"></script>
+	<script src="/js/quajs/libs/dota2_common.js" type="text/javascript" charset="utf-8"></script>
+</body>
+</html>

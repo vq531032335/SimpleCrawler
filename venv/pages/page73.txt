@@ -1,0 +1,685 @@
+<!DOCTYPE html">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr">
+<head>
+	<title>Steam Gifts - Trading and Gifting - Knowledge Base - Steam Support </title>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+	<meta name="generator" content="DeskPRO v3.5.5" />
+	<meta http-equiv="Pragma" content="no-cache" />
+	<meta http-equiv="Expires" content="-1" />
+	<meta http-equiv="Cache-Control" content="no-cache" />
+	<meta name="rating" content="general" />
+	<meta name="description" content="Article &quot;Steam Gifts&quot;" />
+		<meta name="keywords" content="box,gift,gifting,gifts,guest,guestpass,orange,pass,steam,subscription,cadeau,cadeaux,invitation,invitations,offrir,achat,envoi,acheter,envoyer,payGift,knowledgebase, valve, steam, support" />
+		<link rel="alternate" type="application/rss+xml" title="Steam Support RSS Knowledge Base Feed" href="feeds/rss_kb.php" />
+		<script type="text/javascript" src="https://steamcdn-a.akamaihd.net/apps/steamsupport/js/3rdparty/jquery/jquery.c.js?v=3050505"></script>
+		<script type="text/javascript" src="https://steamcdn-a.akamaihd.net/apps/steamsupport/js/3rdparty/jquery/jquery.bgiframe.c.js?v=3050505"></script>
+		<script type="text/javascript" src="https://steamcdn-a.akamaihd.net/apps/steamsupport/js/3rdparty/jquery/jquery.dimensions.c.js?v=3050505"></script>
+		<script type="text/javascript" src="https://steamcdn-a.akamaihd.net/apps/steamsupport/js/3rdparty/jquery/jquery.hovertip.c.js?v=3050505"></script>
+		<script type="text/javascript" src="https://support.steampowered.com/includes/javascript/global.js?v=3050505"></script>
+		
+		<script type="text/javascript" src="https://support.steampowered.com/includes/3rdparty/jquery/jquery.js"></script>
+		<!--[if (gte IE 6)&(lte IE 8)]>
+		<script type="text/javascript" src="https://support.steampowered.com/includes/3rdparty/jquery/selectivizr.js"></script>
+		<noscript><link rel="stylesheet" href="[fallback css]" /></noscript>
+		<![endif]-->
+		<link rel="stylesheet" href="https://support.steampowered.com/css.php?id=4&direction=ltr" type="text/css" />
+		<link href="https://support.steampowered.com/includes/css/motiva_sans.css" rel="stylesheet" type="text/css" >
+		<link href="https://support.steampowered.com/includes/css/main_blue_v1.1.css?v=201611021" rel="stylesheet" type="text/css" >
+		<link href="https://support.steampowered.com/includes/css/steam/buttons.css" rel="stylesheet" type="text/css" >
+		<link rel="stylesheet" type="text/css" href="https://support.steampowered.com/includes/3rdparty/elasticsearch/search_blue.css?v=20150316">
+		
+		
+		<script type="text/javascript">
+			var dplang = new Array();
+			dplang['confirm_logout'] = 'Are you sure you want to log out?';
+			var dpinfo = {
+				imagedir: 'https://support.steampowered.com/images/user/default'
+			};
+			var SESSID = '14d4a417bac19f5025105381f15297ae';
+			$(document).ready(function() {
+				//hovertipInit();
+			});
+		</script>
+		<script type="text/javascript">
+			var _gaq = _gaq || [];
+			_gaq.push(['_setAccount', 'UA-33822635-6']);
+			_gaq.push(['_trackPageview']);
+			(function() {
+				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+				ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+			})();
+		</script>
+		
+		
+		<script type="text/javascript">
+			function recordOutboundLink(link, category, action) {
+				try {
+					var myTracker=_gat._getTrackerByName();
+					_gaq.push(['myTracker._trackEvent', category , action ]);
+					setTimeout('document.location = "' + link.href + '"', 100)
+				}catch(err){}
+			}
+		</script>
+		</head>
+		<body id="top" style="margin: 0px; padding: 0px;">
+		
+		
+		<script type="text/javascript" src="includes/user/user.js?v=1004"></script>
+		<div id="wrapper">
+			
+			<!-- Header -->
+<div id="global_header">
+	<div class="content" syle="font: Arial, Helvetica, sans-serif;">
+		<div class="logo">
+			<span id="logo_holder">
+                            <a href="http://store.steampowered.com/">
+				<img style="border: none;"height="44" width="176" src="https://support.steampowered.com/images/custom/globalheader_logo.png"/>
+                            </a>
+			</span>
+		</div> <!-- end logo_holder div -->
+		<!-- begin global nav -->
+		<ul style="position: absolute; left: 200px; top: 40px;" id="supernav">
+		    <li>
+		    	<a href="http://store.steampowered.com/">STORE</a>
+		    	<div id="storesubmenu" class="supernav_content" >    
+			        <a class="submenuitem" href="http://store.steampowered.com/">FEATURED</a>
+			        <a class="submenuitem" href="http://store.steampowered.com/news/">News</a>
+			        <a class="submenuitem" href="http://store.steampowered.com/recommended/">RECOMMENDED</a>
+			        <a class="submenuitem" href="http://steamcommunity.com/my/wishlist/">WISHLIST</a>
+			        <a class="submenuitem" href="http://store.steampowered.com/stats/">Stats</a>
+			    </div>
+			</li>
+		   	<li>
+				<a href="http://steamcommunity.com/">Community</a>
+				<div id="communitysubmenu" class="supernav_content" >
+			        <a class="submenuitem" href="http://steamcommunity.com/">Home</a>
+			        <a class="submenuitem" href="http://steamcommunity.com/discussions/">DISCUSSIONS</a>
+			        <a class="submenuitem" href="http://steamcommunity.com/workshop/">WORKSHOP</a>
+			        <a class="submenuitem" href="http://steamcommunity.com/greenlight/">GREENLIGHT</a>
+			        <a class="submenuitem" href="http://steamcommunity.com/market/">MARKET</a>
+			    </div>    
+		  	</li>
+		    <li><a class="" href="http://store.steampowered.com/about/">ABOUT</a></li>
+		    <li><a class="" href="https://help.steampowered.com/" >Support</a></li>
+		</ul>
+		<!-- end global nav -->
+		<!-- language select -->
+		<div id="language_select_container">
+			<div id="language_dropdown_button">
+				<span class="pulldown" id="language_dropdown_button_span">language</span>
+			</div>
+			<div id="language_dropdown">
+				<a href="" language="danish">Dansk (Danish)</a>
+				<a href="" language="dutch">Nederlands (Dutch)</a>
+				<a href="" language="english">English (English)</a>
+				<a href="" language="finnish">Suomi (Finnish)</a>
+				<a href="" language="french">Français (French)</a>
+				<a href="" language="german">Deutsch (German)</a>
+				<a href="" language="hungarian">Magyar (Hungarian)</a>
+				<a href="" language="italian">Italiano (Italian)</a>
+				<a href="" language="japanese">日本語 (Japanese)</a>
+				<a href="" language="korean">한국어 (Korean)</a>
+				<a href="" language="polish">Polski (Polish)</a>
+				<a href="" language="portuguese">Português (Portuguese)</a>
+				<a href="" language="brazilian">Português-Brasil (Portuguese-Brazil)</a>
+				<a href="" language="russian">Русский (Russian)</a>
+				<a href="" language="simplified%20chinese">简体中文 (Simplified Chinese)</a>
+				<a href="" language="spanish">Español (Spanish)</a>
+				<a href="" language="swedish">Svenska (Swedish)</a>
+				<a href="" language="thai">ไทย (Thai)</a>
+				<a href="" language="traditional%20chinese">繁體中文 (Traditional Chinese)</a>
+				<a href="" language="turkish">Türkçe (Turkish)</a>
+			</div>	
+		</div>
+	
+		
+		<style>
+			#language_dropdown_button{
+				font-size: 11px;
+				color: #b0aeac;
+			}
+			#language_dropdown_button:hover, #language_dropdown_button:focus{
+				color: #ffffff;
+			}
+			#language_select_container{
+				position: absolute;
+				right: 0;
+				top: 10px;
+			}
+			#language_dropdown{
+				display: none;
+				background-color: #3b3938;
+				background-image: url("https://support.steampowered.com/images/v6/bg_popup.png");
+				background-position: center top;
+				background-repeat: repeat-x;
+				border: 1px solid #82807c;
+				width: 240px;
+				position: absolute;
+				right: 0px;
+				padding-top: 10px;
+				padding-bottom: 10px;
+			
+			}
+			#language_dropdown a{
+				color: #e5e4dc;
+				display: block;
+				font-size: 13px;
+				font-weight: normal;
+				line-height: normal;
+				padding: 5px 12px;
+				text-align: left;
+				text-transform: none;
+			}
+			#language_dropdown a:hover {
+				background-color: #212d3d;
+				text-decoration: none;
+			}
+			.pulldown {
+				background-image: url("https://support.steampowered.com/images/v6/btn_arrow_down_padded.png");
+				background-position: right center;
+				background-repeat: no-repeat;
+				cursor: pointer;
+				padding-left: 5px;
+				padding-right: 18px;
+			}
+			#supernav a{
+				text-transform: uppercase;
+			}
+		</style>
+		<script>
+			
+			// language select
+			$(document).ready(function(){
+				$("#language_dropdown_button").on("click", function(){
+					$("#language_dropdown").fadeIn();
+				});
+				$(document).on("click", function(event){ 
+					if( $(event.target).attr("id") != "language_dropdown_button_span" ){
+						$("#language_dropdown").fadeOut(); 
+					}				
+				});
+			});
+			// set lanugage link url
+			$("#language_dropdown a").each(function(){
+				var url = window.location.href;
+				if( url.indexOf("?") === -1 ){
+					url = url + "?l=" + $(this).attr("language");
+				}
+				else{
+					if( url.indexOf("&l=") !== -1  ){
+						var langVar = url.indexOf("&l=");
+						url = url.substring(0, langVar) + "&l=" + $(this).attr("language");
+					}
+					else if( url.indexOf("?l=") !== -1 ){
+						var langVar = url.indexOf("?l=");
+						url = url.substring(0, langVar) + "?l=" + $(this).attr("language");
+					}
+					else{
+						url = url + "&l=" + $(this).attr("language");
+					}	
+				}
+				$(this).attr("href", url);
+			});
+			
+		</script>
+	</div> <!-- end content class div -->
+</div> <!-- end header div -->
+<!-- End Header -->
+			
+			<div id="content">
+				
+				<div id='contain_nav_search'>
+					<h2 id="welcome_message">Steam Support</h2>
+					<div id = 'login_search'>
+						<div id = 'login_box'>
+							<div class="sidesection">
+								<div></div>
+							</div>
+						</div>
+						<br>
+						<div id ='search_box'>
+							
+							<div class="sidesection">
+								<form method="get" action="kb_search.php?s=14d4a417bac19f5025105381f15297ae" id="quicksearch" name="quicksearch">
+									<input type="text" class="text input" name="searchwords" id="searchwords" value="Search Steam Support" onfocus="toggleSearchText();" onblur="toggleSearchText();" />
+									<img src="https://support.steampowered.com/images/v6/icons/search_icon.png" width="25" height="25" align="top" alt="Search Support" onclick="document.quicksearch.submit();" />
+								</form>
+								<script type="text/javascript">
+									function toggleSearchText() {
+										var el = document.getElementById('searchwords');
+										if (el.value == 'Search Steam Support') {
+											el.value = '';
+										} else if (el.value == '') {
+											el.value = 'Search Steam Support';
+										}
+									}
+								</script>
+							</div> <!-- end class sidesection div -->
+						</div> <!-- end search_box div -->
+					</div> <!-- end login_search div -->
+					<div style='clear:both'></div>
+					<ol class="navigation">
+						
+    <li>
+		<a href="https://help.steampowered.com/">Home</a>
+    </li>
+    <li>
+		<a href="https://support.steampowered.com/kb.php?s=14d4a417bac19f5025105381f15297ae">Knowledge Base</a>
+    </li>
+    <li>
+		<a href="https://support.steampowered.com/kb_cat.php?s=14d4a417bac19f5025105381f15297ae&amp;id=3">Steam</a>
+    </li>
+    <li>
+		<a href="https://support.steampowered.com/kb_cat.php?s=14d4a417bac19f5025105381f15297ae&amp;id=84">Account Issues</a>
+    </li>
+    <li>
+		<a href="https://support.steampowered.com/kb_cat.php?s=14d4a417bac19f5025105381f15297ae&amp;id=13">Trading and Gifting</a>
+    </li>
+    <li>
+		<a href="https://support.steampowered.com/kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=6262-QXCN-0755">Steam Gifts</a>
+    </li>
+					</ol>
+				</div> <!-- close contain_nav_search div -->
+				<div style='clear:both'></div>
+				<p class="xs">Main Menu</p>
+				<!--<div id="menudiv" style="margin-right:200px" class="div_header">
+				</div>-->
+<style>
+img.faqimage{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 90%;
+}
+</style>
+<div class="container" id="newticket">
+    <div class='left_col'>
+     <div class='left_col_inner'>
+	
+	
+	
+	<!-- <h1>Question</h1> -->
+	<div id="question" class="pagetext">
+<h1><span style="vertical-align:middle">Steam Gifts</span></h1>
+<h3><span class="bold">Gifting Questions</span></h3>
+
+<ul>
+	<li><a href="#gifts-whatare" title="What are Steam Gift Purchases?">What is a Steam Gift?</a></li>
+	<li><a href="#gifts-purchase" title="What are Steam Gift Purchases?">How can I purchase Steam Gifts for a different Steam user?</a></li>
+	<li><a href="#gifts-recipient" title="Giving Gifts">Selecting your gift recipient</a></li>
+	<li><a href="#gifts-delayed" title="How can I deliver the gift at a later date?">How can I deliver the gift at a later date?</a></li>
+	<li><a href="#gifts-message" title="Giving Gifts">Including a Special message with your gift </a></li>
+	<li><a href="#gifts-payments" title="Payment Methods">Payment Methods</a></li>
+	<li><a href="#gifts-sent" title="What happens after I send a gift?">What happens after I purchase a gift?</a></li>
+	<li><a href="#gifts-received" title="How will I know whether my friend has received their gift?">How will I know whether my friend has received their gift?</a></li>
+	<li><a href="#gifts-use" title="How do I use a Steam gift given to me by a friend?">How do I activate a Steam gift that I received?</a></li>
+</ul>
+
+<ul>
+	<li><a href="#expire" title="Do gifts expire if they are not redeemed in a certain amount of time?">Do gifts expire if they are not redeemed in a certain amount of time?</a></li>
+	<li><a href="#howgift" title="How can I tell someone else how to give me a gift on Steam?">How can I tell someone else how to give me a gift on Steam?</a></li>
+	<li><a href="#friendssee" title="What will my friends see if I send them a Steam gift?">What will my friends see if I send them a Steam gift?</a></li>
+	<li><a href="#country" title="Can I send gifts to Steam users in other regions?">Can I send gifts to Steam users in other regions?</a></li>
+	<li><a href="https://support.steampowered.com/kb_article.php?ref=1266-QFZC-2141#gifts">A gift I have received is region restricted. What do I do?</a></li>
+	<li><a can="" game="" gift="" href="#giftpacks" i="" title="Can I gift game packs?">Can I gift game packs?</a></li>
+	<li><a href="#own" title="How can I tell if my friend already owns the game(s) I would like to gift?">How can I tell if my friend already owns the game(s) I would like to gift?</a></li>
+	<li><a href="#multiplegifts" title="Can I give multiple gifts at the same time?">Can I give multiple gifts at the same time?</a></li>
+	<li><a href="#giftownedgames" title="Can I gift games I no longer play to my friends?">Can I gift games I no longer play to my friends?</a></li>
+	<li><a href="#revoked" title="Why was my gift revoked?">Why was my gift revoked?</a></li>
+	<li><a href="#sellgifts" title="May I sell gift subscriptions?">May I sell gift subscriptions?</a></li>
+	<li><a href="#sharefourpack" title="How do I share the Four Pack for [L4D, L4D2, Borderlands] with three friends?">How do I share the Four Pack for [L4D, L4D2, Borderlands]&nbsp;with three friends?</a></li>
+	<li><a do="" gift="" href="#gifthistory" i="" my="" view="">How do I view my gift history?</a></li>
+	<li><a href="#giftrefund" title="Can I refund my gift?">Can I refund my gift?</a></li>
+</ul></div>
+	
+	<!-- <h1>Answer</h1> -->
+	<div id="answer" class="pagetext"><p><a name="gifts-whatare"></a></p>
+
+<h3>What is a Steam Gift?</h3>
+
+<p>When you purchase a game on Steam, we offer the option to &ldquo;gift&rdquo; the item to anyone on your Steam friends list. The recipient will receive the gift as an attractive e-mail card with a personal message from you and instructions to redeem the game.</p>
+
+<p>A Steam gift purchase is a one-time transfer&mdash;after the recipient has redeemed and installed the gift, it is now a part of his or her Steam games collection. Also note that you may only gift new purchases&mdash;you may not transfer games you already own. That&rsquo;d be like wrapping up and presenting the toaster you&rsquo;ve used every morning for the past year.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-purchase"></a></p>
+
+<h3><span class="bold">How can I purchase Steam Gifts for a different Steam user?</span></h3>
+
+<p>To give a gift to a friend or family member, locate the game you would like to gift on the Steam Storefront and then click the <span class="bold">&quot;Add to cart&quot;</span> button. Upon checking out, select the&nbsp;<span class="bold">&quot;Purchase as a gift&quot; </span>option to purchase the items in your cart for a friend.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-recipient"></a></p>
+
+<h3><span class="bold">Selecting your gift recipient</span></h3>
+
+<p>When you select the &quot;Purchase as a gift&quot;, you'll be presented with a list of your Steam friends, from there you can select who you'd like to receive your gift.  If you'd like to send it to someone who's not listed, you'll have to add them to your Steam friends list.  This helps ensure your gift is going to make it to the right person.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-delayed"></a></p>
+
+<h3><span class="bold">How can I deliver the gift at a later date?</span></h3>
+
+<p>After you've chosen a friend to receive the gift, you can click the <span class="bold">&quot;Schedule delivery...&quot;</span> button to schedule the gift to be sent automatically on a future date.  When that time comes, we'll automatically send the gift to your friend and also send you an email letting you know your gift has been delivered.</p>
+
+<p>&nbsp;</p>
+
+<table cellpadding="2" cellspacing="2" style="border-bottom: 0px; border-left: 0px; border-top: 0px; border-right: 0px">
+    <tbody>
+    <tr>
+        <td style="padding: 15px;"><a name="gifts-message"></a>
+
+            <h3><span class="bold">Including a Special Message with your gift</span></h3>
+
+            <p>You may take a few moments to add a special message to the gift recipient. When they receive your gift, your special message will be displayed for them in Steam and they will also receive your gift message via e-mail.</p>
+        </td>
+        <td align="center" style="padding:10px;"><img alt="Gift Example" src="/images/faq/6262-QXCN-0755/gift_message_EN2.jpg" width="616" /></td>
+    </tr>
+    </tbody>
+</table>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-payments"></a></p>
+
+<h3><span class="bold">Payment Methods</span></h3>
+
+<p>Steam currently accepts the following <a href="kb_article.php?ref=8360-WEJC-2625#acceptedforms" title="Buying Games through Steam">payment methods</a>. Once your purchase is complete, please print your receipt for your records and store the hard copy in a safe place. You will also receive an e-mail receipt verifying your purchase.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-sent"></a></p>
+
+<h3><span class="bold">What happens after I purchase a gift?</span></h3>
+
+<p>Your friend will receive an e-mail message, including your personalized gift message, notifying them that they have received a gift. Your friend will also receive a gift notification in the Steam client.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-received"></a></p>
+
+<h3><span class="bold">How will I know whether my friend has received their gift?</span></h3>
+
+<p>You can check the status of all your gifts on your <a href="http://steamcommunity.com/my/inventory/#753_1">Steam Inventory</a> page.  You can also access this from the Steam client - Within Steam, click on <span class="bold">&quot;Games&quot;</span> in the main menu, then select <span class="bold">&quot;Manage gifts and guest passes...&quot;</span>.</p>
+
+<p>When your gift is sent to your friend, they'll have the option to accept or decline the gift.  Once they do, we'll send you an email letting you know.  If your friend takes no action on the gift, we'll automatically cancel the gift and issue you a refund after 30 days.</p>
+
+
+<p>&nbsp;</p>
+
+<p><a name="gifts-use"></a></p>
+
+<h3><span class="bold">How do activate a Steam gift that I received?</span></h3>
+
+<p>If you do not already have Steam, download and install Steam <a href="http://store.steampowered.com/about/">here</a>. Once you have Steam installed, you will be prompted to create an account or login to an existing Steam account. If you do not have an account, please create one.</p>
+
+<p>1. You will receive an e-mail containing a link that will open Steam to redeem your gift or in the Steam client you will receive a notification at the top right corner that says you have a new gift as seen below:</p>
+
+<p><img alt="New gift notification" class="faqimage" src="/images/faq/gifting/newgiftnotification.png" width="90%" /></p>
+
+<p>2. Clicking on &quot;1 new gift&quot; will take you to the following screen where you must click either Accept Gift or Decline Gift. Once you click Accept Gift, the game will be added directly to your Library.</p>
+
+<p><img alt="Gift received" class="faqimage" src="/images/faq/gifting/giftreceived.png" width="90%" /></p>
+
+<p>If you click on Decline Gift, we'll issue a refund to the original sender.  You can optionally include a note when you choose to decline the gift; whether you do or not, we'll email the sender to let them know the gift was declined.</p>
+
+<p>3. When you add the game to your Library it will be listed in your <span class="bold">Library &gt; Games</span> list in Steam, highlighting the game and clicking the &quot;Install&quot; will download the game to your computer.</p>
+
+<p>If the game is already in your Library you will receive a notification that it is and you will not be able to add it.</p>
+
+<p>If the game is not in your Library you will receive a pop-up notification confirming your actions, and if you have any duplicate games in a package you will be notified that you will not receive extra copies as seen below:</p>
+
+<p><img alt="Extra copies" class="faqimage" src="/images/faq/gifting/extracopies.png" width="90%" /></p>
+
+<p>If you attempt to add a game to your Library that requires additional games that you don't own you will receive an error message as well:</p>
+
+<p><img alt="No base game" class="faqimage" src="/images/faq/gifting/nobasegame.png" width="90%" /></p>
+
+
+<p>&nbsp;</p>
+
+<h4>Gifting Questions</h4>
+
+<p>&nbsp;</p>
+
+<h3><span class="bold">Do gifts expire if they are not redeemed in a certain amount of time?</span></h3>
+
+<p>After a gift has been delivered to a friend, they have thirty days to accept the gift. Once the gift has been accepted, the game is permanently subscribed to the Steam account that it was redeemed on.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="howgift"></a></p>
+
+<h3><span class="bold">How can I tell someone else how to give me a gift on Steam?</span></h3>
+
+<p>To give a gift on Steam, simply <a href="https://store.steampowered.com/join/" title="Create a Steam Account">create a Steam account</a> online and then purchase your gift from the <a href="http://store.steampowered.com/" title="Steam Storefront">Steam store</a>. For more information about purchasing games on Steam, please see <a href="kb_article.php?ref=8360-WEJC-2625" title="Buying Games through Steam">this guide</a>.</p>
+
+<p>Do not allow someone else to use your Steam account to make a gift purchase.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="friendssee"></a></p>
+
+<h3><span class="bold">What will my friends see if I send them a Steam gift?</span></h3>
+
+<p>When you send a gift to your friend, they will receive an email and a notification at the top of their Steam client that they have received a new gift.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="country"></a></p>
+
+<h3><span class="bold">Can I send gifts to Steam users in other regions?</span></h3>
+
+<p>Territory restrictions are noted on the Steam Store page.</p>
+
+<p>Steam Support cannot make changes to territory or language restrictions.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="giftpacks"></a></p>
+
+<h3><span class="bold">Can I gift game packs?</span></h3>
+
+<p>Yes, you can gift game packs the same way you would gift an individual game. Four packs of games cannot be gifted.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="own"></a></p>
+
+<h3><span class="bold">How can I tell if my friend already owns the game(s) I would like to gift?</span></h3>
+
+<p>If your friends are members of your Steam Friends list, you can learn whether they already own the game you'd like to give. Your Steam Friends who already own this game will automatically be filtered out of the potential list of recipients. You can also visit your friend's Steam Community profile and click the link to &quot;View all games&quot; to view your Friend's list of owned games on Steam before purchasing them a gift.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="multiplegifts"></a></p>
+
+<h3><span class="bold">Can I give multiple gifts at the same time?</span></h3>
+
+<p>You can give as many gifts as you'd like at one time, but only to one friend per transaction.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="giftownedgames"></a></p>
+
+<h3><span class="bold">Can I gift games I no longer play to my friends?</span></h3>
+
+<p>You cannot gift games that were previously purchased on your Steam account to friends.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="revoked"></a></p>
+
+<h3><span class="bold">Why was my gift revoked?</span></h3>
+
+<p>Please see <a href="kb_article.php?ref=5854-QWLN-2621" title="Revoked Gifts">this guide</a>.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="sellgifts"></a></p>
+
+<h3><span class="bold">May I sell gift subscriptions?</span></h3>
+
+<p>Steam Gift Purchases cannot be sold. Attempting to sell a gift subscription is a violation of the <a href="http://store.steampowered.com/subscriber_agreement/">Steam Subscriber Agreement</a> and may result in your account being permanently disabled.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="sharefourpack"></a></p>
+
+<h3><span class="bold">How do I share the Four Pack for [L4D, L4D2, Borderlands] with three friends?</span></h3>
+
+<p>To do this, simply purchase the Four Pack on Steam, and then refer to <a href="kb_article.php?ref=4502-TPJL-2656" title="Extra Copies">this guide</a> to share your Extra Copies using the Steam client.</p>
+
+<p>&nbsp;</p>
+
+<p><a name="gifthistory"></a></p>
+
+<h3><span class="bold">How do I view my gift history?</span></h3>
+
+<p>You can view your gift history by going to your Steam Inventory &gt; Click on Pending Gifts &gt; View Gift History:</p>
+
+<p><img alt="Gift history" class="faqimage" src="/images/faq/gifting/gifthistory.png" width="90%" /></p>
+
+<p><a name="giftrefund"></a></p>
+
+<h3><span class="bold">Can I refund my gift?</span></h3>
+
+<p>A refund may be issued for any gift that was purchased within fourteen days and has been played less than two hours by the gift recipient. More information on how to refund gifts can be found <a href="https://support.steampowered.com/kb_article.php?ref=6643-QEUV-0459#redeemed_gift" title="Purchasing and Refunding Gifts">here</a>.</p></div>
+	
+	
+</div> <!-- end left_col_inner div-->
+</div> <!-- end left_col div-->
+<div id="sticky-anchor"></div>
+<div class="right_col">
+	<div id="sticky" style="display:block;">
+		<div id="contact_support_container">
+			<h3>Problem with Steam?</h3>                  
+		 	<a href="https://help.steampowered.com/">
+		        	<div id="contact_support_button">
+		        		<span>Help Me With My Issue</span>
+		       		</div>
+			</a>
+		</div>
+		<script>
+			var nav_store_breadcrumb = $(".navigation li:nth-child(2)").text().trim();
+			if ( nav_store_breadcrumb == "Valve Store")
+			{
+				$("#contact_support_container a").attr("href", "newticket.php?s=14d4a417bac19f5025105381f15297ae&amp;category=108");
+			}
+		</script>
+		
+		<div id="sidebar_community_help" class="dark_bg">
+			<h3>Community Help</h3>
+			Post or search in Steam Discussions for an answer to your question. <br/><a id="discussions_link" href="http://steamcommunity.com/discussions/">Visit Steam Discussions</a>
+			
+		</div>
+	<div id="sidebar_documentation" class="dark_bg">
+			<a href="https://support.steampowered.com/kb_cat.php?s=14d4a417bac19f5025105381f15297ae&amp;id=83">Documentation</a>
+		</div>
+			<div class="related_article_container">
+				<div id='related_article_header'><div class='related_article_header_padding'>Related Articles</div></div>
+					<div class='related_article_group'>
+						     <div class='related_article_links'>	
+	                                                <a href="https://support.steampowered.com/kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=6262-QXCN-0755"><img src="https://support.steampowered.com/images/v6/icons/icon_documents.png" alt="Steam Gifts" /></a>
+							<a href="kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=4502-TPJL-2656">Extra Copies</a>
+							
+	                                              </div>
+						     <div class='related_article_links'>	
+	                                                <a href="https://support.steampowered.com/kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=6262-QXCN-0755"><img src="https://support.steampowered.com/images/v6/icons/icon_documents.png" alt="Steam Gifts" /></a>
+							<a href="kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=5854-QWLN-2621">Revoked Gifts</a>
+							
+	                                              </div>
+						     <div class='related_article_links'>	
+	                                                <a href="https://support.steampowered.com/kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=6262-QXCN-0755"><img src="https://support.steampowered.com/images/v6/icons/icon_documents.png" alt="Steam Gifts" /></a>
+							<a href="kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=6643-QEUV-0459">Purchasing and Refunding Gifts</a>
+							
+	                                              </div>
+	                                  </div>
+		   </div>
+		<div style="clear:both;"></div>
+		 <div id="backtotop" style="display: block;">
+		     <a href="#top"><span>Back to Top</span></a>
+		  </div>
+	</div> <!-- close sticky div -->
+</div> <!-- close right_col div-->
+
+<hr class="xs" />
+<div style="clear:both;"></div>
+</div>
+<!-- Footer -->
+<div style=\'clear:both\'></div>
+<div id="footer">
+<div class="rule">
+	
+	<p>
+		&copy; 2017 Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+		<a href="https://store.steampowered.com/privacy_agreement/">Privacy Policy</a>. 
+		<a href="https://store.steampowered.com/legal/">Legal</a>. 
+		<a href="http://store.steampowered.com/subscriber_agreement/">Steam Subscriber Agreement</a>.
+	</p>
+        <p><a id="footerLinks" href="http://www.valvesoftware.com/about.html">About Valve</a> | <a id="footerLinks" href="http://www.valvesoftware.com/business/">Business Solutions</a> | <a id="footerLinks"                  href="http://www.valvesoftware.com/jobs.html">Jobs</a> | <a id="footerLinks" href="https://support.steampowered.com/kb_article.php?s=14d4a417bac19f5025105381f15297ae&amp;ref=3303-QWRC-3436">Steam Site License</a>
+        </p>
+         </div>
+</div>
+<!-- End Footer -->
+<br />
+<script>
+// temp localization of language names
+$( document ).ready(function() {	
+var curLang = $('#language select option:selected').val();
+	$('#language select').html('<option value="9" name="danish">Dansk (Danish)</option><option value="17" name="dutch">Nederlands (Dutch)</option><option value="1" name="english">English (English)</option><option value="21" name="finnish">Suomi (Finnish)</option><option value="2" name="french">Français (French)</option><option value="3" name="german">Deutsch (German)</option><option value="18" name="hungarian">Magyar (Hungarian)</option><option value="5" name="italian">Italiano (Italian)</option><option value="16" name="japanese">日本語 (Japanese)</option><option value="12" name="korean">한국어 (Korean)</option><option value="23" name="polish">Polski (Polish)</option><option value="7" name="portuguese">Português (Portuguese)</option><option value="22" name="brazilian">Português-Brasil (Portuguese-Brazil)</option><option value="14" name="russian">Русский (Russian)</option><option value="19" name="schinese">简体中文 (Simplified Chinese)</option>	<option value="4" name="spanish">Español (Spanish)</option><option value="6" name="swedish">Svenska (Swedish)</option><option value="24" name="thai">ไทย (Thai)</option><option value="15" name="tchinese">繁體中文 (Traditional Chinese)</option><option value="20" name="turkish">Türkçe (Turkish)</option>');
+	$('#language select option[value='+curLang+']').attr('selected', 'selected');  
+});
+</script>
+<script>
+// temp localization of language drop down on ticket submission
+$( document ).ready(function() {
+	if($('#userDetailsLang').length>0){
+		var curUserLang = $('#userDetailsLang select option:selected').val();
+		$('#userDetailsLang select').html('<option value="9" name="danish">Dansk (Danish)</option><option value="17" name="dutch">Nederlands (Dutch)</option><option value="1" name="english">English (English)</option><option value="21" name="finnish">Suomi (Finnish)</option><option value="2" name="french">Français (French)</option><option value="3" name="german">Deutsch (German)</option><option value="18" name="hungarian">Magyar (Hungarian)</option><option value="5" name="italian">Italiano (Italian)</option><option value="16" name="japanese">日本語 (Japanese)</option><option value="12" name="korean">한국어 (Korean)</option><option value="23" name="polish">Polski (Polish)</option><option value="7" name="portuguese">Português (Portuguese)</option><option value="22" name="brazilian">Português-Brasil (Portuguese-Brazil)</option><option value="14" name="russian">Русский (Russian)</option><option value="19" name="schinese">简体中文 (Simplified Chinese)</option>	<option value="4" name="spanish">Español (Spanish)</option><option value="6" name="swedish">Svenska (Swedish)</option><option value="24" name="thai">ไทย (Thai)</option><option value="15" name="tchinese">繁體中文 (Traditional Chinese)</option><option value="20" name="turkish">Türkçe (Turkish)</option>');
+		$('#userDetailsLang select option[value='+curUserLang+']').attr('selected', 'selected');  
+	}
+});
+</script>
+</body>
+</html>
+</div>
+<script>$("#menudiv").hide();</script>
+<!-- sticky sidebar -->
+<script>
+function sticky_relocate() {
+  var window_top = $(window).scrollTop();
+  var div_top = $("#sticky-anchor").offset().top;
+  if (window_top > div_top) {
+    $("#sticky").addClass("stick");
+  } else {
+    $("#sticky").removeClass("stick");
+  }
+}
+sticky_relocate();
+ $(window).scroll(sticky_relocate);
+</script>
+<script>
+// back to top
+// hide #back-top first
+$("#backtotop").hide();
+// fade in #back-top
+$(window).scroll(function () {
+	if ($(this).scrollTop() > 100) {
+		$("#backtotop").fadeIn();
+	} else {
+		$("#backtotop").fadeOut();
+	}
+});
+// scroll body to 0px on click
+$("#backtotop a").click(function () {
+	$("body,html").animate({
+		scrollTop: 0
+	}, 800);
+	return false;
+});
+</script>

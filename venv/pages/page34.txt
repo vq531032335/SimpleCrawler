@@ -1,0 +1,429 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta charset="UTF-8">
+	<meta http-equiv="x-ua-compatible" content="IE=edge">
+	<link rel="shortcut icon" href="http://cdn.dota2.com/apps/dota2/images/favicon.ico"/>
+	<link rel="image_src" href="http://cdn.dota2.com/apps/dota2/images/international2018/overview/announcement_image.jpg"/>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-ui.min.js?v=4890656"></script>
+	<link href="http://www.dota2.com/public/css/global.css?v=b4890656" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/overview/overview.css?v=jlu6DzGhpsB6" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/overview/overview.css?v=jlu6DzGhpsB6" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/match_details.css?v=Gz3pEvAa-Fd5" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/jquery.tournamentschedule.css?v=.s4j_hQywh-bm" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/jquery.tournamentvideoplayer.css?v=SwYGaDtnJRSX" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/jquery.tournamentbracket.css?v=.Qi1kkaDS40SB" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/international2018/jquery.tournamentstandings.css?v=.ZKwbmXRzYSHo" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/jquery.tournamentstandings.css?v=.Uy3u1uIhp2a5" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/jquery.tournamentbracket.css?v=.Sd8enAnaAidU" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/jquery.tournamentvideoplayer.css?v=.j9qrNeWCZJ__" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/jquery.tournamentschedule.css?v=.VvMY7khv3Hxs" rel="stylesheet" type="text/css" >
+	<script type="text/javascript">
+		var unSelectedDay =  0;
+		var strBaseURL = 'http://www.dota2.com/international/';
+		var bStandingsSelected = 0;
+		var strUserLanguage = 'english';
+	</script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+<script type="text/javascript" src="http://www.dota2.com/public/javascript/lodash.min.js?v=.gPEL3tFm7qaI" ></script>
+<script type="text/javascript" src="http://www.dota2.com/public/javascript/date.format.js?v=.UmHTufBETtCT" ></script>
+<script type="text/javascript" src="http://www.dota2.com/public/javascript/international2018/overview.js?v=b4890656&amp;l=english" ></script>
+			<meta name="viewport" content="width=1280">
+	
+	<meta name="description"
+	      content="The International Dota 2 Championships - Main Event August 20-25, 2018 - Rogers Arena in Vancouver, BC">
+	<meta property="og:url" content="http://www.dota2.com/international/overview/">
+	<meta property="og:site_name" content="Dota2.com"/>
+	<meta property="og:type" content="website"/>
+	<meta property="og:title" content="Dota 2 - The International"/>
+	<meta property="og:image" content="http://cdn.dota2.com/apps/dota2/images/international/overview/announcement_image.jpg"/>
+	<meta property="og:description" 
+	      content="The International Dota 2 Championships - Main Event August 20-25, 2018 - Rogers Arena in Vancouver, BC"/>
+	<title>Dota 2 - The International</title>
+
+				
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+	</head>
+<body>
+
+
+
+	<div id="navBarBGRepeat" class="DotaFont">
+		<div id="navBarBG">
+			<div id="navBar">
+								
+												<div id="navLoginAndLanguage">
+
+																												<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=international%2Foverview%2F">Login</a>
+										
+					<span id="HeaderAdminSeperator" class="DotaFont">|</span>
+
+					<div id="languageSelector" class="DotaFont">
+						<a href="javascript:void(0)">Language</a> <img style="margin-bottom: 2px;" src="http://cdn.dota2.com/apps/dota2/images/header/small_arrow.png" width="5px" height="3px" border="0" /><br />
+						<div style="display:none;" id="languageList">
+																						<a class="DotaFont languageItem" href="?l=brazilian">Português - Brasil (Portuguese - Brazil)</a>
+																						<a class="DotaFont languageItem" href="?l=bulgarian">Български (Bulgarian)</a>
+																						<a class="DotaFont languageItem" href="?l=czech">Čeština (Czech)</a>
+																						<a class="DotaFont languageItem" href="?l=danish">Dansk (Danish)</a>
+																						<a class="DotaFont languageItem" href="?l=dutch">Nederlands (Dutch)</a>
+																													<a class="DotaFont languageItem" href="?l=finnish">Suomi (Finnish)</a>
+																						<a class="DotaFont languageItem" href="?l=french">Français (French)</a>
+																						<a class="DotaFont languageItem" href="?l=german">Deutsch (German)</a>
+																						<a class="DotaFont languageItem" href="?l=greek">Ελληνικά (Greek)</a>
+																						<a class="DotaFont languageItem" href="?l=hungarian">Magyar (Hungarian)</a>
+																						<a class="DotaFont languageItem" href="?l=italian">Italiano (Italian)</a>
+																						<a class="DotaFont languageItem" href="?l=japanese">日本語 (Japanese)</a>
+																						<a class="DotaFont languageItem" href="?l=koreana">한국어 (Korean)</a>
+																						<a class="DotaFont languageItem" href="?l=norwegian">Norsk (Norwegian)</a>
+																						<a class="DotaFont languageItem" href="?l=polish">Polski (Polish)</a>
+																						<a class="DotaFont languageItem" href="?l=portuguese">Português (Portuguese)</a>
+																						<a class="DotaFont languageItem" href="?l=russian">Русский (Russian)</a>
+																						<a class="DotaFont languageItem" href="?l=romanian">Română (Romanian)</a>
+																						<a class="DotaFont languageItem" href="?l=schinese">简体中文 (Simplified Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=spanish">Español - España (Spanish - Spain)</a>
+																						<a class="DotaFont languageItem" href="?l=swedish">Svenska (Swedish)</a>
+																						<a class="DotaFont languageItem" href="?l=tchinese">繁體中文 (Traditional Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=thai">ไทย (Thai)</a>
+																						<a class="DotaFont languageItem" href="?l=turkish">Türkçe (Turkish)</a>
+																						<a class="DotaFont languageItem" href="?l=ukrainian">Українська (Ukrainian)</a>
+													</div>
+					</div>
+				</div>
+
+
+				<a href="http://store.steampowered.com/app/570/Dota_2/"><div id="PlayForFreeButton">
+					Play for Free
+				</div></a>
+
+									<span class="navItem navItemDotaLogo">
+						<a class="navBarItem DotaFont" href="http://www.dota2.com/play/">
+							<img border="0" class="DotaLogo" src="http://cdn.dota2.com/apps/dota2/images/nav/logo.png"/>
+						</a>
+					</span>
+
+											<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://blog.dota2.com/">News</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://www.dota2.com/store/">Store</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="javascript:void(0)">Heropedia</a>
+								<div style="display:none;" class="menuSubItemList">
+																				<a class="DotaFont" href="http://www.dota2.com/heroes/">Heroes</a>
+																				<a class="DotaFont" href="http://www.dota2.com/items/">Item Explorer</a>
+																				<a class="DotaFont" href="http://www.dota2.com/workshop/builds">Builds</a>
+																				<a class="DotaFont" href="https://steamcommunity.com/app/570/guides" target="_blank">Steam Guides</a>
+																				<a class="DotaFont" href="http://www.dota2.com/quiz">The Shopkeeper's Quiz</a>
+														</div>
+								<img class="dn_arrow" src="http://cdn.dota2.com/apps/dota2/images/nav/arrow.png"/>
+							</span>
+																		</div>
+		</div>
+	</div>
+<script language="javascript">
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function PreloadHeaderImages()
+	{
+		//  Preload header rollover images
+		//MM_preloadImages(
+		//);
+	}
+
+			if ( document.addEventListener ) {
+		document.addEventListener( "DOMContentLoaded", PreloadHeaderImages, false );
+	} else if ( document.attachEvent ) {
+		document.attachEvent( 'onDomContentLoaded', PreloadHeaderImages );
+	}
+
+</script>
+
+
+
+	<script language="javascript">
+		function closeSubMenu( target ) {
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow.png" );
+			$(target).find('.menuSubItemList').hide();
+		}
+
+		function closeAllSubMenus() {
+			$('.navItem').each( function() {
+				closeSubMenu( $(this) );
+			});
+		}
+
+		function openSubMenu( target ) {
+			closeAllSubMenus();
+
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow_over.png" );
+
+			// Show the sub-menu
+			var subItemList = $(target).find('.menuSubItemList');
+			if ( subItemList.length ) {
+				var itemTop = $(target).position().top + $(target).outerHeight() - 16;
+				var itemLeft = $(target).position().left;
+				subItemList
+					.css({
+						"top": itemTop + 'px',
+						"left": itemLeft
+					})
+					.fadeIn( 'fast' );
+			}
+		}
+
+		$(document).ready( function () {
+			// Deal with the nav bars
+			$('.navItem').each( function() {
+				$(this).hover( function () {
+					$(this)
+						.find('a.navBarItem img.top')
+						.animate({
+							"opacity": 1
+						}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						openSubMenu( this );
+					}
+				},
+				function () {
+					$(this)
+					.find('a.navBarItem img.top')
+					.animate({
+						"opacity": 0
+					}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						closeSubMenu(this);
+					}
+				}
+				);
+			});
+
+			// Deal with header drop-downs
+			var strMenus = '#languageSelector';
+			
+			$(strMenus).each( function() {
+				$(this).hover( function () {
+					//show its submenu
+					$( this ).find( 'div' ).fadeIn( 'fast' );
+				},
+				function () {
+					//hide its submenu
+					$( this ).find( 'div' ).hide();
+				}
+				);
+			});
+		});
+
+	</script>
+
+<div id="HeaderBuffer"></div>
+<div id="Header" class="Container">
+		<div id="HeaderContainer">
+	<div id="HeaderContent" class="Content">
+				<video id="HeaderVideo" autoplay loop poster="http://cdn.dota2.com/apps/dota2/images/international2018/overview/bg_overview_header.jpg?v=4890656">
+			<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/international2018/overview/headerloop.webm">
+		</video>
+				<div id="VideoSideFade"></div>
+		<div id="HeaderLogoContainer">
+		<div id="HeaderTILogo"></div>
+			<!--<a href="http://www.dota2.com/international/live/5/5/1/"><div id="NewcomerStreamCallout">New to Dota?<br/>Watch the Newcomer Stream</div></a>-->
+		</div>
+	</div>
+	</div>
+	</div>
+<div id="NavBar" class="Container">
+	<div id="NavBarContent" class="Content">
+		
+									<a href="http://www.dota2.com/international/overview/" class='NavBarSelected'>Overview</a>
+				
+								<span class="NavBarSpacer">|</span>
+				
+									<a href="http://www.dota2.com/international/schedule/?l=english" >Schedule</a>
+				
+								<span class="NavBarSpacer">|</span>
+				
+									<a href="http://www.dota2.com/international/standings/" >Standings</a>
+				
+								<span class="NavBarSpacer">|</span>
+				
+									<a href="http://www.dota2.com/international/media/" >Media</a>
+				
+								<span class="NavBarSpacer">|</span>
+				
+									<a href="http://www.dota2.com/international/teams" >Teams</a>
+				
+							</div>
+</div>
+
+
+<div id="OverviewMainContainer" class="Container">
+	<div id="OverviewMainContent" class="Content">
+		<div class="OverviewHeaderBox BoxLeft">
+			Main Event			<br><div class="BoxLargeText">August 20-25, 2018</div>
+			Rogers Arena in Vancouver, BC			<br/><a href="http://www.dota2.com/international/schedule/">
+				<div class="LinkBox">
+					View Schedule				</div>
+			</a>
+		</div>
+		<div class="OverviewHeaderBox BoxRight">
+			Prize Pool			<br><div class="BoxLargeText">$25,532,177</div>
+			Current Total			<br/><a href="http://www.dota2.com/international/battlepass/">
+				<div class="LinkBox">
+	                Learn More	            </div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<div id="HowToWatchContainer" class="Container">
+	<div class="Content">
+		<h1>
+			How to watch		</h1>
+		<div id="HowToWatchSection">
+			<div class="HowToWatchRow">
+				<div class="HowToWatchCell">
+					<h2>Live Streams</h2>
+					Watch the entire tournament live through Steam Broadcasting or on Twitch. With complete coverage of the event available on stream, you won't have to miss out on any of the action no matter where you are.				</div>
+				<div class="HowToWatchCell">
+					<h2>In Person</h2>
+					If you purchased a ticket to attend The International, visit the <a href='https://www.dota2.com/international2018faq/'>ticketing FAQ</a> to learn how to pick up your badge and link it to your Steam account.				</div>
+				<div class="HowToWatchCell">
+					<h2>Newcomer Stream</h2>
+					Have friends new to Dota? The Newcomer Stream is a special broadcast enhanced with contextual overlays aimed at easing people into understanding the expansive world of Dota during the most exciting event of the competitive year. Available in English and Chinese.				</div>
+			</div>
+			<div class="HowToWatchRow">
+				<div class="HowToWatchCell">
+					<h2>In-Game</h2>
+					Watching in the Dota 2 client lets you control your own camera or even see the pro-player perspective. Battle Pass owners can also make in-game Battle Predictions for a chance at bonus Battle Points.				</div>
+				<div class="HowToWatchCell">
+					<h2>Pubstomps</h2>
+					We know many fans can't make it to Rogers Arena to see The International in person, so we've once again partnered with <a href="https://www.barcraft.com/TI8/">Barcraft United</a> to help users connect at local Pubstomp events around the globe.				</div>
+				<div class="HowToWatchCell">
+					<h2>Multicast</h2>
+					Keep track of all of the action during the Group Stage by tuning into the Multicast stream. This stream will highlight the best parts of matches being played simultaneously. Watch Multicast via Steam Broadcasting or Twitch. Available in English, Chinese, and Russian.				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<div id="PrizePoolContainer" class="Container">
+	<div id="PrizePoolContent" class="Content">
+		<div id="PrizePoolHeader">
+			Prize Pool		</div>
+		<div class="PrizePoolRow">
+			<div class="PrizePoolCell LargePrizeCell">
+				$11,190,158				<div class="PrizePoolPlace">First Place</div>
+			</div>
+		</div>
+		<div class="PrizePoolRow">
+			<div class="PrizePoolCell">
+				$4,069,148				<div class="PrizePoolPlace">Second Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$2,670,379				<div class="PrizePoolPlace">Third Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$1,780,252				<div class="PrizePoolPlace">Fourth Place</div>
+			</div>
+		</div>
+		<div class="PrizePoolRow">
+			<div class="PrizePoolCell">
+				$1,144,448				<div class="PrizePoolPlace">Fifth Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$1,144,448				<div class="PrizePoolPlace">Sixth Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$635,804				<div class="PrizePoolPlace">Seventh Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$635,804				<div class="PrizePoolPlace">Eighth Place</div>
+			</div>
+		</div>
+		<div class="PrizePoolRow">
+			<div class="PrizePoolCell">
+				$381,483				<div class="PrizePoolPlace">Ninth Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$381,483				<div class="PrizePoolPlace">Tenth Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$381,483				<div class="PrizePoolPlace">Eleventh Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$381,483				<div class="PrizePoolPlace">Twelfth Place</div>
+			</div>
+		</div>
+		<div class="PrizePoolRow">
+			<div class="PrizePoolCell">
+				$127,161				<div class="PrizePoolPlace">13th Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$127,161				<div class="PrizePoolPlace">14th Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$127,161				<div class="PrizePoolPlace">15th Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$127,161				<div class="PrizePoolPlace">16th Place</div>
+			</div>
+		</div>
+		<div class="PrizePoolRow BottomRow">
+			<div class="PrizePoolCell">
+				$63,580				<div class="PrizePoolPlace">17th Place</div>
+			</div>
+			<div class="PrizePoolCell">
+				$63,580				<div class="PrizePoolPlace">18th Place</div>
+			</div>
+		</div>
+		<div id="USD">
+			<!--All amounts USD-->
+			Last Updated: 01.10.19 11:12 am PDT
+		</div>
+	</div>
+</div>
+
+<div id="BattlePassContainer" class="Container">
+	<div id="BattlePassContent" class="Content">
+		<div id="BattlePassLogo"></div>
+		<div id="BattlePassProceeds">
+			25% of the proceeds of all Battle Pass sales go directly to The International prize pool.		</div>
+		<a href="http://www.dota2.com/international2018/battlepass/">
+			<div class="LinkBox">
+				Learn More			</div>
+		</a>
+	</div>
+</div>
+<div id="Container07" class="Container">
+	<div id="Content07" class="Content">
+	</div>
+</div>
+</body>
+</html>

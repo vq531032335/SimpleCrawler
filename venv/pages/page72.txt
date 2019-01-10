@@ -1,0 +1,1278 @@
+<!doctype html>
+<html lang="en"
+    class="locale-us"
+
+    data-locale="us"
+>
+<head prefix='og: http://ogp.me/ns# fb: http://www.facebook.com/2008/fbml'>
+<meta name="viewport" content="width=device-width">
+    <title>Dota 2 Review - IGN</title>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<meta name="description" content="It&#039;s an ocean-deep pool of rewarding multiplayer nuance and strategy, but it may drown newcomers." />
+<meta name="robots" content="noodp, noydir" />
+<meta name="copyright" content="IGN Entertainment, Inc." />
+<link rel="canonical" href="https://www.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" href="https://m.ign.com/articles/2013/07/24/dota-2-review" media="only screen and (max-width: 640px)" />
+<link rel="alternate" hreflang="en-au" href="https://au.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" hreflang="en-ca" href="https://ca.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" hreflang="en-ie" href="https://ie.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" hreflang="en-gb" href="https://uk.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" hreflang="en" href="https://www.ign.com/articles/2013/07/24/dota-2-review" />
+<link rel="alternate" hreflang="x-default" href="https://www.ign.com/articles/2013/07/24/dota-2-review" />
+<meta name="live_date" content="2013-07-24" />
+        <meta name="referrer" content="always">
+<meta name="zdid" content="0a55bc6d" />
+<meta name="cpid" content="5856463dec85c6e4140af24fd0ad4388" />
+<meta property="og:title" content="Dota 2 Review - IGN" />
+<meta property="og:type" content="article" />
+<meta property="og:image" content="https://assets2.ignimgs.com/2013/07/24/dota2071913176jpg-e9301e_1280w.jpg" />
+<meta property="og:url" content="https://www.ign.com/articles/2013/07/24/dota-2-review" />
+<meta property="og:description" content="It&#039;s an ocean-deep pool of rewarding multiplayer nuance and strategy, but it may drown newcomers." />
+<meta property="og:site_name" content="IGN" />
+<meta property="fb:app_id" content="115982828429116" />
+<meta property="fb:pages" content="59685491632" />
+
+
+<!--[if lt IE 9]>        <link rel="stylesheet" type="text/css" href="https://oystatic.ignimgs.com/src/core/css/lib/ie.css"/>
+            <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->    <!-- Google GPT Library-->
+    <script type='text/javascript'>
+        var googletag = googletag || {};
+        googletag.cmd = googletag.cmd || [];
+
+        (function() {
+            var gads = document.createElement('script'),
+                node = document.getElementsByTagName('script')[0];
+
+            gads.async = true;
+            gads.type = 'text/javascript';
+            gads.src = 'https://www.googletagservices.com/tag/js/gpt.js';
+            node.parentNode.insertBefore(gads, node);
+        })();
+    </script>
+
+    <!-- Amazon apstag -->
+    <script type='text/javascript'>
+        !function(a9,a,p,s,t,A,g){if(a[a9])return;function q(c,r){a[a9]._Q.push([c,r])}a[a9]={init:function(){q("i",arguments)},fetchBids:function(){q("f",arguments)},setDisplayBids:function(){},_Q:[]};A=p.createElement(s);A.async=!0;A.src=t;g=p.getElementsByTagName(s)[0];g.parentNode.insertBefore( A,g)}("apstag",window,document,"script","//c.amazon-adsystem.com/aax2/apstag.js");
+
+        // initialize apstag and have apstag set bids on the googletag slots when they are returned to the page
+        apstag.init({
+            pubID: '3101',
+            adServer: 'googletag',
+            bidTimeout: 2e3
+        });
+    </script>
+
+    <!-- Publica ad recovery -->
+        <script>(function(){try{var n='\x70\x41'+'\x50\x49',m='\x24\x63'+'\x6d\x64',o='\x72\x65\x61'+'\x64\x79',p='\x24'+'\x65\x76\x72',c=window[n]=function(a,b){c[m].push([a,b])};c[o]=function(f){c[p].push(f)};c[m]=[];c[p]=[]}catch(e){};(function(){var e=e||{};e.scope={};e.ASSUME_ES5=!1;e.ASSUME_NO_NATIVE_MAP=!1;e.ASSUME_NO_NATIVE_SET=!1;e.defineProperty=e.ASSUME_ES5||"function"==typeof Object.defineProperties?Object.defineProperty:function(d,g,k){d!=Array.prototype&&d!=Object.prototype&&(d[g]=k.value)};e.getGlobal=function(d){return"undefined"!=typeof window&&window===d?d:"undefined"!=typeof global&&null!=global?global:d};e.global=e.getGlobal(this);e.SYMBOL_PREFIX="jscomp_symbol_"; e.initSymbol=function(){e.initSymbol=function(){};e.global.Symbol||(e.global.Symbol=e.Symbol)};e.Symbol=function(){var d=0;return function(g){return e.SYMBOL_PREFIX+(g||"")+d++}}();e.initSymbolIterator=function(){e.initSymbol();var d=e.global.Symbol.iterator;d||(d=e.global.Symbol.iterator=e.global.Symbol("iterator"));"function"!=typeof Array.prototype[d]&&e.defineProperty(Array.prototype,d,{configurable:!0,writable:!0,value:function(){return e.arrayIterator(this)}});e.initSymbolIterator=function(){}}; e.arrayIterator=function(d){var g=0;return e.iteratorPrototype(function(){return g<d.length?{done:!1,value:d[g++]}:{done:!0}})};e.iteratorPrototype=function(d){e.initSymbolIterator();d={next:d};d[e.global.Symbol.iterator]=function(){return this};return d};e.makeIterator=function(d){e.initSymbolIterator();var g=d[Symbol.iterator];return g?g.call(d):e.arrayIterator(d)};e.arrayFromIterator=function(d){for(var g,k=[];!(g=d.next()).done;)k.push(g.value);return k}; e.arrayFromIterable=function(d){return d instanceof Array?d:e.arrayFromIterator(e.makeIterator(d))};e.iteratorFromArray=function(d,g){e.initSymbolIterator();d instanceof String&&(d+="");var k=0,l={next:function(){if(k<d.length){var n=k++;return{value:g(n,d[n]),done:!1}}l.next=function(){return{done:!0,value:void 0}};return l.next()}};l[Symbol.iterator]=function(){return l};return l}; e.polyfill=function(d,g){if(g){var k=e.global;d=d.split(".");for(var l=0;l<d.length-1;l++){var n=d[l];n in k||(k[n]={});k=k[n]}d=d[d.length-1];l=k[d];g=g(l);g!=l&&null!=g&&e.defineProperty(k,d,{configurable:!0,writable:!0,value:g})}};e.polyfill("Array.prototype.keys",function(d){return d?d:function(){return e.iteratorFromArray(this,function(d){return d})}},"es6","es3"); (function(){function d(){return~~(100*Math.random())-~~(100*Math.random())}function g(a){var b=btoa(""+(new Date).getTime()).replace(/=/g,"").split("").sort(d).join("");var c=~~(Math.random()*(b.length-4))+2;b=b.substr(0,c)+"\x3d"+b.substr(c+1);return-1===a.indexOf("?")?a+"?"+b:a+"\x26"+b}function k(a,b){0>a&&(a=1);var c=0;return function(f){for(var d=[],h=0;h<arguments.length;++h)d[h-0]=arguments[h];c+=1;c===a&&b&&b.apply(null,e.arrayFromIterable(d))}}function l(a){for(var b="",c=0;c<a;c++)b+="abcdefghijklmnopqrstuvwxyz".charAt(Math.floor(26* Math.random()));return b}function n(a){a.style.cssText="display: inline-block;box-sizing: content-box;height: 1px;max-height: 1px;min-height: 1px;width: 1px;max-width: 1px;min-width: 1px;position: absolute;top: -100px;left: -100px;transform: none".split(";").join(" !important;")}function D(a,b){for(var c=[],f=1;f<arguments.length;++f)c[f-1]=arguments[f];try{a.apply(null,e.arrayFromIterable(c))}catch(q){console.error(q)}}function y(a){return-1<(a||[]).indexOf(document.readyState)}function v(a,b,c){a.addEventListener(b, c,!1);return function(){a.removeEventListener(b,c)}}function z(a){var b=["interactive","complete"];if(y(b))D(a);else{var c=k(1,function(){D(a)});E.push(c);A||(A=v(document,"readystatechange",function(){y(b)&&(E.forEach(function(a){a&&a()}),A())}));O(c)}}function O(a){y(["complete"])?a():(F.push(a),B||(B=v(window,"load",function(){F.forEach(function(a){a&&a()});B()})))}function P(a){var b=a.document.createElement("iframe");n(b);a.document.body.appendChild(b);return b}function w(a,b){return null!== a.document.body.getAttribute("abp")||null===b.offsetParent||0===b.offsetHeight||0===b.offsetLeft||0===b.offsetTop||0===b.offsetWidth||0===b.clientHeight||0===b.clientWidth||void 0!==a.getComputedStyle&&(a=a.getComputedStyle(b))&&("none"===a.getPropertyValue("display")||"hidden"===a.getPropertyValue("visibility"))?!0:!1}function Q(a,b){var c=a.document.body.getBoundingClientRect();if(0===c.height||0===c.width)return b(null,!1);var f=a.document.createElement("div");f.setAttribute("class","pub_300x250 pub_300x250m pub_728x90 text-ad textAd text_ad text_ads text-ads text-ad-links"); a.document.body.appendChild(f);n(f);var d=0,h=setInterval(function(){try{w(a,f)?(clearInterval(h),f.parentElement&&f.parentElement.removeChild(f),b(null,!0)):(d+=1,5<=d&&(clearInterval(h),f.parentElement&&f.parentElement.removeChild(f),b(null,!1)))}catch(R){clearInterval(h),f.parentElement&&f.parentElement.removeChild(f),b(R,!1)}},50)}function S(a,b){var c=a.document.createElement("iframe");c.setAttribute("id","google_ads_iframe_/12345678/mobile_top_300x250_0");a.document.body.appendChild(c);var f= 0,d=setInterval(function(){try{"none"===a.getComputedStyle(c).display?(clearInterval(d),c.parentElement&&c.parentElement.removeChild(c),b(null,!0)):(f+=1,5<=f&&(clearInterval(d),c.parentElement&&c.parentElement.removeChild(c),b(null,!1)))}catch(h){clearInterval(d),c.parentElement&&c.parentElement.removeChild(c),b(h,!1)}},50)}function G(a,b,c,d,q,h){c=void 0===c?0:c;var f=a.document.createElement("script");f.onload=function(){d?navigator.userAgent.match(/Android/i)||navigator.userAgent.match(/webOS/i)|| navigator.userAgent.match(/iP(od|ad|hone)/i)?h(!1):null===navigator.userAgent.match(/Chrom(e|ium)/i)?h(!1):setTimeout(function(){h(!q())},5):h(!1)};f.onerror=function(){2<=c?h(!0):G(a,b,c+1,d,q,h)};f.src=g(b);a.document.body.appendChild(f)}function T(a,b,c){var d={"https://static.doubleclick.net/instream/ad_status.js":function(){return 1===a.google_ad_status},"https://imasdk.googleapis.com/js/sdkloader/ima3.js":function(){return 0<=Object.keys(a).indexOf("ima")}},q=0,h=k(1,c);Object.keys(d).forEach(function(c){try{G(a, c,0,b,d[c],function(a){q+=1;a&&h(null,!0);q===Object.keys(d).length&&h(null,!1)})}catch(fa){q+=1,q===Object.keys(d).length&&h(null,!1)}})}function U(a,b,c){var d=k(1,c);z(function(){function c(a,b){b&&d(null,b);g+=1;3===g&&d(a,b)}var f=P(a),g=0;T(f.contentWindow,b,function(a,b){f.parentElement&&f.parentElement.removeChild(f);c(a,b)});Q(a,c);S(f.contentWindow,c)})}function x(a){a=(a.tagName||"div").toLowerCase();"iframe-network"===a&&(a="iframe");return document.createElement(a)}function u(a,b){for(var c= 0;c<a.length&&!b(a[c],c,a);c+=1);}function V(a,b){var c=document.querySelector(a);if(c){var d=document.createElement(c.tagName);for(a=0;a<c.attributes.length;a++)if(c.attributes[a]&&c.attributes[a].value){var q=document.createAttribute(c.attributes[a].name);q.value=c.attributes[a].value;d.attributes.setNamedItem(q)}"href"in c?(d.rel="stylesheet",d.href=b):"src"in c&&(d.src=b);var h=window.getComputedStyle(c).display||"block";d.style.display="none";d.onload=k(1,function(){r(c);d.style.display=h;u(p.mappings, function(a){if(a.url===b){var c=W.exec(a.selector);c&&2<c.length&&""!==c[1]&&""!==c[2]&&(a.selector=c[1]+"["+c[2]+"\x3d'"+b+"']")}})});d.onerror=k(1,function(){r(c);r(d);t()});c.parentNode&&c.parentNode.insertBefore(d,c)}}function H(a){a.tagName?"iframe"===a.tagName?X(a):"iframe-network"===a.tagName?Y(a):"a"===a.tagName?Z(a):aa(a):a.testFn?I(a):ba(a)}function I(a){if(a.testFn&&!p.isIframeNetworking)try{a.testFn()?a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0):t(a)}catch(b){t(a)}}function r(a){a&& a.parentNode&&a.parentNode.removeChild(a)}function ca(){u(p.mappings,function(a){u(document.querySelectorAll(a.selector),function(a){r(a)})})}function da(a,b){var c=0,d=setInterval(function(){c+=1;10<c&&clearInterval(d);b()&&(clearInterval(d),r(document.querySelector("#"+a)))},10)}function J(a){return a&&a.assert?!!+eval(a.assert):!0}function ba(a){if(a.url){var b=new XMLHttpRequest;b.open("GET",a.url);b.onreadystatechange=function(){4===b.readyState&&(a.hasCompleted||(m.testCompleted++,a.hasCompleted= !0),(0===b.status||399<b.status)&&t(a))};b.send()}}function C(a,b,c,d){var f=0,h=setInterval(function(){c()?clearInterval(h):(f>=b&&(clearInterval(h),d&&d()),f+=1)},a)}function X(a){if(a.tagName){var b=l(5),c=v(window,"message",function(d){d.data&&"Clywywryk7"===d.data&&(c(),a.result&&!a.result[b]&&(a.result[b]=!0))}),d=x(a);a.url&&(d.src=a.url);d.id=b;n(d);document.body.appendChild(d);var g=function(){r(d);c()},h=function(){C(50,5,function(){a.blocked=w(window,d);return a.blocked?(a.result||(a.result= {}),a.result[b]=!1,g(),t(a),!0):!1},g)};if(a&&a.assert&&J(a))var k=window.setInterval(function(){if(m.testCompleted===m.testTotal){window.clearInterval(k);if(!m.iframeTestTimeMS||5E3>m.iframeTestTimeMS)m.iframeTestTimeMS=(new Date).getTime()-m.startTime,5E3>m.iframeTestTimeMS&&(m.iframeTestTimeMS=5E3);window.setTimeout(function(){a.result&&!a.result[b]?(g(),t(a)):h()},m.iframeTestTimeMS)}},100);else h()}}function Y(a){if(a.tagName&&!p.isIframeNetworking){var b=l(5),d=v(window,"message",function(c){if(c.data&& "string"===typeof c.data&&-1<c.data.indexOf(":")&&(c=c.data.split(":"),2===c.length)){var f=c[1];"Clywywryk7"===c[0]&&(d(),"fail"===f?t(a):"remove"===f&&t(),da(b,function(){return"boolean"===typeof a.blocked}))}}),f=x(a);a.url&&(f.src=a.url);f.id=b;n(f);document.body.appendChild(f)}}function Z(a){if(a.tagName){var b=x(a);n(b);a.url&&(b.href=a.url);document.body.appendChild(b);C(100,5,function(){a.blocked=w(window,b);return a.blocked?(t(a),a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0),r(b), !0):!1},function(){a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0);r(b)})}}function aa(a){if(a.tagName){var b=x(a);n(b);a.url&&("href"in b?(b.rel="stylesheet",b.href=a.url):"src"in b&&(b.src=a.url));b.onerror=k(1,function(){a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0);t(a);r(b)});b.onload=b.onloadstart=k(1,function(){var c=!1;a.hasCompleted||J(a)||!b.onerror||(c=!0,b.onerror(new ErrorEvent("assertion did not pass")));c||a.hasCompleted||C(50,5,function(){a.blocked=("img"===a.tagName|| "video"===a.tagName)&&w(window,b);return a.blocked&&b.onerror?(c=!0,t(a),a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0),r(b),!0):!1},function(){a.hasCompleted||(m.testCompleted++,a.hasCompleted=!0);r(b)})});document.body.appendChild(b)}}function K(a,b){a=a.split("");for(var c=b+1;c<a.length;c++)c!==4+b+1&&c!==7+b+1&&c!==24+b+1&&(a[c]=l(1));return a.join("")}function L(){u(p.testings,function(a){return"img"===a.tagName?(p.testings.push({s:a.s,tagName:"a",url:a.url}),!0):!1});u(p.mappings,function(a){a.url&& 0<a.s&&(a.url=K(a.url,a.s),a.url="https://"+l(8)+"."+a.url)});u(p.testings,function(a){a.url&&a.s&&0<a.s&&(a.url=K(a.url,a.s),a.url="https://"+l(8)+"."+a.url)})}function M(){u(p.mappings,function(a){a.url&&V(a.selector,a.url)});m.startTime=(new Date).getTime();u([ea].concat(p.testings),function(a){a.failCount=0;a.runCount=0;a.hasCompleted=!1;a.result={};a.testFn?(m.testTotal++,I(a)):a.url&&("iframe"!==a.tagName&&"iframe-network"!==a.tagName&&m.testTotal++,H(a))})}function t(a){if(p.isIframeNetworking){if(!N){N= !0;try{window.parent.postMessage("Clywywryk7:"+(a&&a.blocked?"remove":"fail"),"*")}catch(b){}}}else!a||a.failCount&&0<a.failCount||a.blocked?ca():("number"===typeof a.failCount&&a.failCount++,"number"===typeof a.runCount&&a.runCount++,"number"===typeof a.runCount&&2>a.runCount&&H(a))}var E=[],A,F=[],B,m={iframeTestTimeMS:0,testCompleted:0,testTotal:0},p={"isIframeNetworking":false,"mappings":[{"selector":"link[href*=\".css\"]","url":"","s":0}],"testings":[{"assert":"","tagName":"img","url":"g01.ign.com/rmnkocmunp5vxrafcfo6mmfjhkz7e930","s":11},{"assert":"window.jsWorked === true","tagName":"script","url":"g01.ign.com/8eza0fqpzguyyg3if4ljf7ahw333h8m6","s":11},{"assert":"","tagName":"video","url":"g01.ign.com/645gibvcosb3dmss7reeqtuby86c37oc","s":11},{"assert":"","tagName":"iframe","url":"g01.ign.com/hi93rip4prl9turm9ovua0s5vu28oy4n","s":11},{"assert":"","tagName":"iframe-network","url":"g01.ign.com/97972zwokbor1qandkqjz9cd7p9gm6ku","s":11},{"assert":"","tagName":"link","url":"g01.ign.com/12iaeifw8kgktcuybfykatq6rgc770jo","s":11},{"assert":"","tagName":"","url":"g01.ign.com/r0t4lgclu4upgpfcyzvwbqdlkh9s0hoa","s":11}]},W=/^([^\]]*)\[(href|src)=(?:\*)?['"]([^"']*)['"]\]$/,N=!1,ea={testFn:function(){if(!window.hasOwnProperty("pAPI"))return!1; try{var a=l(5),b=window.pAPI;b.$cmd.push(a);return b.$cmd.pop()===a}catch(c){return!1}}};(function(){if(!("Proxy"in window)||navigator.userAgent.match(/Android/i)||navigator.userAgent.match(/webOS/i)||navigator.userAgent.match(/iP(od|ad|hone)/i)?0:null!==navigator.userAgent.match(/(Chrome|Firefox)/i))!0!==p.isIframeNetworking&&U(window,!1,function(a,b){!a&&b&&(L(),z(M))}),p.isIframeNetworking&&(L(),z(M))})()})();})();var d=document,a=d.createElement("script");a.src="//kqnpdava.g01.ign.com/a3fe4dcab573febe5e6bff88c566da2b",(d.head||d.body).appendChild(a);})()</script>
+    
+    <!-- ZDConsent, fires Evidon scripts -->
+    <link rel="preload" href="https://zdstatic.ign.com/jst/zdconsent.js" as="script">
+    <script type="text/javascript" src="https://zdstatic.ign.com/jst/zdconsent.js" async="true"></script>
+
+    
+    <link rel="shortcut icon" type="image/x-icon" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon.ico"/>
+<link rel="icon" type="image/png" sizes="16x16" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-16.png"/>
+<link rel="icon" type="image/png" sizes="32x32" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-32.png"/>
+<link rel="icon" type="image/png" sizes="48x48" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-48.png"/>
+<link rel="icon" type="image/png" sizes="64x64" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-64.png"/>
+<link rel="icon" type="image/png" sizes="128x128" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-128.png"/>
+<link rel="icon" type="image/png" sizes="256x256" href="https://oystatic.ignimgs.com/src/core/img/favicon/favicon-256.png"/>
+<link rel="apple-touch-icon" type="image/png" href="https://oystatic.ignimgs.com/src/core/img/favicon/apple-touch-icon-57.png"/>
+<link rel="apple-touch-icon" type="image/png" sizes="72x72" href="https://oystatic.ignimgs.com/src/core/img/favicon/apple-touch-icon-72.png"/>
+<link rel="apple-touch-icon" type="image/png" sizes="114x114" href="https://oystatic.ignimgs.com/src/core/img/favicon/apple-touch-icon-114.png"/>
+<link rel="mask-icon" href="https://oystatic.ignimgs.com/src/core/img/favicon/safari_favicon.svg" color="#bf1313"/>
+
+        <script>
+    var IGN = IGN || {};
+    IGN.pagetype = "article";
+    </script>
+
+    <link href="//oystatic.ignimgs.com/cache/css/51/ad/51ad7df7b0a2deda3f6d42236c899254.css" media="screen" rel="stylesheet" type="text/css" /><script type="text/javascript" src="//oystatic.ignimgs.com/cache/js/a2/f4/a2f4d43eb2ec82905e72245a15ec119b.js"></script><script type="text/javascript" async="async" src="https://zdstatic.ign.com/js/zddmp/1.1/zddmp.min.js"></script><script type="" src="//apps.ign.com/video-player/release/6.4.4/default.1818a8e8.js"></script>
+<script type="" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+<script type="" src="//oystatic.ignimgs.com/cache/js/df/73/df73b605ad9cdd45669992555e8a2131.js"></script><script>
+    var igndrones = igndrones || {};
+    igndrones.async = igndrones.async || [];
+    igndrones.async.unshift(function() {
+        igndrones.init({"buyerbase":[],"chartbeat":{"uid":"21105","domain":"ign.com","authors":"Phill Cameron","sections":"articles"},"comscore":{"c2":"3000068"},"ga":{"uaView":"Desktop","account_number":"UA-23541058-1","_setDomainName":".ign.com","tagList":["dota-2","game","pc","rpg","valve","moba-multiplayer-online-battle-arena"],"objectList":[83236],"custom_vars":[[1,"pagetype","article",3],[2,"object-id","83236",3],[3,"article-id","51f00b1f402d1728f443801e",3],[4,"content-title","Dota 2 Review",3],[5,"author","Phill Cameron",3],[6,"publish-date","2013-07-24",3],[7,"article-type","review",3],[8,"template","article-desktop-10",3],[9,"ads-disabled","no",3],[12,"categories","ign.pc",3],[13,"tags","dota-2.game.pc.rpg.valve.moba-multiplayer-online-battle-arena",3],[15,"action","article",3],[16,"controller","content",3],[17,"module","network",3],[18,"resource","articles",3],[20,"is-community","no",3],[21,"signed-in","no",2],[22,"subscriber","no",1],[30,"object-name","Dota 2",3],[31,"object-type","game",3],[32,"platform-id","20114",3],[33,"platform-name","PC",3],[35,"platform-tags","pc",3],[36,"genre-tags","rpg",3],[38,"gamermetrics-objects","83236",3]]}});
+    igndrones.fireTop();    });
+</script>
+
+<script>
+
+    window.IGN_UA_DataLayer = window.IGN_UA_DataLayer || [];
+            window.IGN_UA_DataLayer.push({"ga":{"page":{"platform":"Desktop Web","pageType":"article","resource":"articles","isCommunity":"no","adTemplate":"article-desktop-10","webView":false,"ZDID":"0a55bc6d","CPID":"5856463dec85c6e4140af24fd0ad4388"},"user":{"signedIn":"no","primeSubscriber":"no","adsDisabled":false,"autoplayPreference":"enabled"},"content":{"contentState":"standard","objectIds":[83236],"contentId":"51f00b1f402d1728f443801e"}}});
+    
+</script>
+
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-54DV8X"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','IGN_UA_DataLayer','GTM-54DV8X');</script>
+<!-- End Google Tag Manager -->
+
+            <script type="text/javascript" src="//static.ziffdavis.com/jst/zdvtools.min.js" async="true"></script>
+    
+    </head>
+
+<body layout="default-html5"
+    data-widget-domain="widgets.ign.com"
+    data-targeting='{"adsDisabled":"false","dfp_network":"5691","dfp_adunit1":"IGN","resource":"articles","pagetype":"article","template":"article-desktop-10","platforms":["pc"],"tags":["dota-2","game","pc","rpg","valve","moba-multiplayer-online-battle-arena"],"article_types":["review"],"year":"2013","genre":["rpg"],"platform_id":20114,"categories":["ign","pc"],"article_id":"51f00b1f402d1728f443801e","object1_id":[83236],"watchread_type":"video_countdown","route":"articles","video_series":"none","zdid":"0a55bc6d","cpid":"5856463dec85c6e4140af24fd0ad4388"}'
+    data-rfr-config="1"><script>ChessKit.init(["queen","knight","pawn12","pawn29","rook","king","pawn33","pawn44"]);</script>
+
+
+    
+    <div class='ign-coraltalk-notification hidden' data-settings='{"talkUrl":"https:\/\/comments.ign.com\/","layout":"desktop","theme":"standard"}'></div>
+
+        <section class="ign-pre-grid ">
+            <div id="king" class="chess"></div>            </section>
+
+    
+<section class="ign-grid clear-fix ">
+    <header id="ign-header">
+        
+    <div id="header-container" class="header-container no-spine hidden-opacity ign-transition-opacity">
+                <!-- Global Navigation Bar -->
+            <nav id="header-nav" class="no-spine content theme-light">
+                            <div class="ign-grid-left-rail browse">
+                    <button id="browse-button" class="ign-button compact">
+                        <svg class="ign-icon icon-menu" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32"><path fill-rule="evenodd" clip-rule="evenodd" fill="currentColor" d="M30 6H2c-.6 0-1 .4-1 1v2c0 .5.4 1 1 1h28c.5 0 1-.4 1-1V7c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1zm0 8H2c-.6 0-1 .4-1 1v2c0 .6.4 1 1 1h28c.6 0 1-.4 1-1v-2c0-.6-.4-1-1-1z"/></svg>
+                        <span>Browse</span>
+                    </button>
+                    <menu id="browse-dropdown" class="ign-menu ign-grid-left-rail">
+                                                    <ul id="browse-gaming" class="browse-category">
+                                                                    <li><a class="browse-link" href="https://www.ign.com/xbox-one">Xbox One</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/xbox-360">Xbox 360</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/ps4">PS4</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/ps3">PS3</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/ps-vita">Vita</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/nintendo">Nintendo</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/pc">PC</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/wireless">Mobile</a></li>
+                                                            </ul>
+                                                    <ul id="browse-entertainment" class="browse-category">
+                                                                    <li><a class="browse-link" href="https://www.ign.com/movies">Movies</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/tv">TV</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/tech">Tech</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/comics">Comics</a></li>
+                                                            </ul>
+                                                    <ul id="browse-more" class="browse-category">
+                                                                    <li><a class="browse-link" href="https://www.ign.com/reviews">Reviews</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/upcoming/games">Upcoming</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/videos">Videos</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/wikis">Wikis + Cheats</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/podcasts">Podcasts</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/boards">Boards</a></li>
+                                                                    <li><a class="browse-link" href="https://www.ign.com/trailers">Trailers</a></li>
+                                                            </ul>
+                                                <div id="browse-social">
+                            <a href="https://www.youtube.com/ign" class="browse-social-youtube" title="IGN on YouTube"><span class="hidden">IGN on YouTube</span></a>
+                            <a href="https://www.facebook.com/ign" class="browse-social-facebook" title="IGN on Facebook"><span class="hidden">IGN on Facebook</span></a>
+                            <a href="https://twitter.com/IGN" class="browse-social-twitter" title="IGN on Twitter"><span class="hidden">IGN on Twitter</span></a>
+                            <a href="https://www.ign.com/wikis/ign-community-central/How_to_Follow_IGN" class="browse-social-more">MORE</a>
+                        </div>
+                    </menu>
+                    <a href="/"><span class="hidden">Browse</span><figure class="ign-logo ign-transition "><svg class="ign-icon icon-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1482.1 464.2"><g fill="currentColor"><path d="M791 271.2v-79.4l213 .1c21.6 0 39.3 17.5 39.3 39.1v94.4c0 48.6-38.8 88.8-88.2 88.8l-136.4.1c-101.1 0-182.8-81.6-182.8-182.4 0-100.7 82.3-182.4 183-182.4H1030v83.8H818.8c-54.4 0-99.1 44.1-99.1 98.6 0 54.4 44 98.5 99 98.5h140.9v-59.2H791zM608.1 49.1h-82.9v326.5c0 21.5 17.5 38.9 39 38.9h43.9V76c.1-.1 0-26.9 0-26.9zM1433.7 49.3h-44.5v281.4c-.1.8-.2 1.6-.7 2.3-1 1.7-2.8 2.8-4.9 2.8-1.8 0-3.4-.8-5.1-3.1L1239.3 88.4c-15.5-26-43.9-43-75.8-43h-1.5c-48.6 0-88.1 39.4-88.1 88.1v242.1c0 21.5 17.5 38.9 38.9 38.9h44.1v-281c0-.9.4-1.8.8-2.6 1-1.7 2.8-2.9 4.9-2.9 1.7 0 3.8.6 4.9 2.8l140.2 245.9c15.5 26 43.3 41.8 75.1 41.8h1.5c48.6 0 88.1-39.4 88.1-88.1V88.2c.2-21.5-17.2-38.9-38.7-38.9zM108.4 152c10.9-16.5 25.1-30.7 41.6-41.6 2.4-21.7 5.6-41.6 9.6-59.1C109.3 71 69 111.2 49.3 161.7c17.6-4 37.4-7.3 59.1-9.7zM310.1 109.9c0 .2 0 .3.1.4 16.6 10.9 30.8 25.1 41.7 41.7 21.7 2.4 41.6 5.6 59.1 9.6-19.8-50.6-60.1-90.9-110.8-110.5 4 17.5 7.3 37.2 9.9 58.8zM150.1 353.8c-16.5-10.9-30.7-25.1-41.7-41.7-.2 0-.3 0-.5-.1-21.9-2.6-41.5-5.9-58.7-9.9 19.7 50.6 59.9 90.9 110.5 110.7-4-17.4-7.3-37.3-9.6-59zM352.3 312.1c-.2 0-.3 0-.5.1-10.9 16.6-25.1 30.8-41.7 41.7 0 .2 0 .3-.1.5-2.5 21.6-5.9 41.3-9.9 58.7 50.7-19.7 91.2-60.1 110.9-110.8-17.2 3.9-36.8 7.2-58.7 9.8zM450.8 196c-34.3-15.9-85.7-21.9-103.2-23.7-3.6-.6-6.9-.9-10.1-.9l-54.3 60.8 54.3 60.7c3.7 0 7.6-.4 11.7-1.1 17.1-2 67.6-8.2 101.5-23.9V196h.1zm-328.1-24.7c-3.1 0-6.4.3-10.1.9-17.5 1.9-68.9 7.9-103.2 23.8v71.7c33.9 15.7 84.5 22 101.6 23.9 4.1.8 8 1.1 11.7 1.1L177 232l-54.3-60.7zm46.7 168.2c0 3.1.3 6.4.9 10.1 1.9 17.5 7.9 68.9 23.8 103.1h71.7c15.7-33.9 22-84.5 24-101.5.8-4.1 1.2-8 1.2-11.7l-60.7-54.3-60.9 54.3zM194 11.4h71.7c15.7 33.9 22 84.5 24 101.5.8 4.1 1.2 7.9 1.2 11.7L230.1 179l-60.7-54.4c0-3.1.3-6.4.9-10.1 1.9-17.4 7.9-68.8 23.7-103.1z"/></g></svg>
+</figure></a>
+                                                        </div>
+                <div class="search-container">
+                    <input id="search-input" type="text" maxlength="60" placeholder="Search" name="query" autocomplete="off" title="Search" />
+                    <svg class="ign-icon icon-search" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 33"><path clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-linecap="round" stroke-miterlimit="10" d="M20 21l6.1 7"/><circle clip-rule="evenodd" fill="none" stroke="currentColor" stroke-width="4" stroke-miterlimit="10" cx="14.5" cy="13.5" r="8.5"/></svg>
+                </div>
+                        <div class="popular-links">
+                		                        <li id="ign-shows" class="ign-shows">
+                        <a class="popular-link ign-shows-label" href="/watch">Shows</a>
+                        <menu class="ign-shows-dropdown ign-menu">
+                            <ul>
+                                 <li class="ign-show first ign-transition">
+                                    <a class="ign-show-art center-parent" href="/watch/daily-fix">
+                                        <div class="ign-show-image-frame">
+                                            <img class="ign-show-image super-position" src= "" data-image="https://assets1.ignimgs.com/2018/09/13/dailyfix-pvp-art-show-landscape-1536879891042_compact.jpg" alt="Daily Fix" />
+                                        </div>
+                                        <div class="ign-show-overlay">
+                                            <img class="ign-show-branding horizontal-center" src="" data-image="https://assets1.ignimgs.com/2016/10/27/daily-fix-tmpng-f9b0a9.png" alt="" />
+                                            <div class="schedule-description vertical-center">Monday through Friday</div>
+                                        </div>
+                                    </a>
+                                    <div class="series-title">Daily Fix</div>
+                                    <a
+                                        class="latest-episode"
+                                        href="/videos/2019/01/09/spider-man-ps4-is-getting-fantastic-dlc-ign-daily-fix"
+                                        data-id="fdae7c995c4a5b77169cc8bc8cd68f2f"
+                                        data-title="Spider-Man PS4 Is Getting "Fantastic" DLC - IGN Daily Fix"
+                                    >
+                                        <div class="episode-title">Spider-Man PS4 Is Getting "Fantastic" DLC</div>
+                                        <div class="play-latest">
+                                            <span>play latest</span>
+                                        </div>
+                                    </a>
+                                </li>
+                                <li class="ign-shows-list-container ign-transition">
+                                                                        <ul class="ign-shows-list show-column-0">
+                                                                                <li><a href="/watch/daily-fix">Daily Fix</a></li>
+                                                                                <li><a href="/watch/prepare-to-try">Prepare To Try</a></li>
+                                                                                <li><a href="/watch/hot-keys">HotKeys</a></li>
+                                                                                <li><a href="/watch/up-at-noon">Up At Noon</a></li>
+                                                                                <li><a href="/watch/game-scoop">Game Scoop!</a></li>
+                                                                                <li><a href="/watch/beyond">Beyond! </a></li>
+                                                                                <li><a href="/watch/nintendo-voice-chat">Nintendo Voice Chat</a></li>
+                                                                                <li><a href="/watch/unlocked">Unlocked</a></li>
+                                                                                <li class="more-shows"><a class="icon-pointy icon-grey" href="#">more shows</a></li>
+                                                                            </ul>
+                                                                        <ul class="ign-shows-list show-column-1">
+                                                                                <li><a href="/watch/fireteam-chat">Fireteam Chat</a></li>
+                                                                                <li><a href="/watch/every-ever">IGN Every Ever</a></li>
+                                                                                <li><a href="/watch/linked-together">Linked Together</a></li>
+                                                                                <li><a href="/watch/ign-spotlight">IGN Spotlight</a></li>
+                                                                                <li><a href="/watch/ign-unfiltered">IGN Unfiltered</a></li>
+                                                                                <li><a href="/watch/ign-access">IGN Access</a></li>
+                                                                                <li><a href="/watch/ign-plays">IGN Plays</a></li>
+                                                                            </ul>
+                                                                    </li>
+                                                                        <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="/watch/game-scoop">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="" data-image="https://assets1.ignimgs.com/2018/10/12/game-scoop-pvp-landscape-1539372045374_compact.jpg" alt="Game Scoop!" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="" data-image="https://assets1.ignimgs.com/2018/10/12/game-scoop-pvp-logo-1539372045376_610w.png" alt="" />
+                                                    <div class="schedule-description vertical-center">Every Friday at 3PM!</div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Game Scoop!</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="/videos/2019/01/09/game-of-the-decade-watch-game-scoop-511-highlight"
+                                                data-id="252b32a5cb4765582da4ac498b39d93d"
+                                                data-title="Game of the Decade Watch - Game Scoop! 511 Highlight"
+                                            >
+                                                <div class="episode-title">Game of the Decade Watch</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                            <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="/watch/prepare-to-try">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="" data-image="https://oyster.ignimgs.com/wordpress/stg.ign.com/2016/07/Prepare-To-Try_Landscape.jpg" alt="Prepare To Try" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="" data-image="https://assets1.ignimgs.com/2017/12/04/preparetotry-logo-white-1512420646515.png" alt="" />
+                                                    <div class="schedule-description vertical-center">New episodes every Saturday.</div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Prepare To Try</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="/videos/2018/12/21/prepare-to-try-the-final-episode"
+                                                data-id="4cfb70da1387c6009a1f322fd2658214"
+                                                data-title="Prepare To Try: The Final Episode"
+                                            >
+                                                <div class="episode-title">The Final Episode</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                            <li class="ign-show ign-transition">
+                                            <a class="ign-show-art center-parent" href="/watch/nintendo-voice-chat">
+                                                <div class="ign-show-image-frame">
+                                                    <img class="ign-show-image super-position" src="" data-image="https://assets1.ignimgs.com/2018/08/09/nvc-landscape-1533838107211_compact.jpg" alt="Nintendo Voice Chat" />
+                                                </div>
+                                                <div class="ign-show-overlay">
+                                                    <img class="ign-show-branding horizontal-center" src="" data-image="https://assets2.ignimgs.com/2016/10/27/nvc-tmpng-f4824a.png" alt="" />
+                                                    <div class="schedule-description vertical-center">Every Friday</div>
+                                                </div>
+                                            </a>
+                                            <div class="series-title">Nintendo Voice Chat</div>
+                                            <a
+                                                class="latest-episode"
+                                                href="/videos/2019/01/04/why-were-excited-for-fire-emblem-on-switch-nvc-highlight"
+                                                data-id="1b02c7b262e0fc4329dc13863a4bb4f0"
+                                                data-title="Why We're Excited for Fire Emblem on Switch - NVC Highlight"
+                                            >
+                                                <div class="episode-title">Why We're Excited for Fire Emblem on Switch</div>
+                                                <div class="play-latest">
+                                                    <span>play latest</span>
+                                                </div>
+                                            </a>
+                                        </li>
+                                                                                                </ul>
+                        </menu>
+                    </li>
+                                                    <li><a class="popular-link" href="/reviews/games">Reviews</a></li>
+                                    <li><a class="popular-link" href="/ps4">PS4</a></li>
+                                    <li><a class="popular-link" href="/xbox-one">Xbox</a></li>
+                                    <li><a class="popular-link" href="/pc">PC</a></li>
+                                    <li><a class="popular-link" href="/nintendo">Nintendo</a></li>
+                                    <li><a class="popular-link" href="/movies">Movies</a></li>
+                                    <li><a class="popular-link" href="/tv">TV</a></li>
+                                    <li><a class="popular-link" href="/tech">Tech</a></li>
+                                    <li><a class="popular-link" href="/events/esports">Esports</a></li>
+                            </div>
+            <div id="user-tools-container"></div>
+        </nav>
+    </div>
+    
+<script type="text/javascript">
+  var GlobalHeaderOptions = {
+    renderDomain : "widgets.ign.com",
+    enable_ssl : true  };
+</script>
+
+
+    </header>
+
+    <aside class="ign-grid-left-rail no-stripe ">
+            <div class="social-share-container ign-modal hidden" data-shares='{"counts":[],"url":"https:\/\/www.ign.com\/articles\/2013\/07\/24\/dota-2-review","modalEnabled":"true","shareHooks":"page-share-count","openModalHooks":"page-share-button,article-share-count-container"}'>
+        <div class="button-close">&#215;</div>
+        <div class="social-buttons-container">
+            <div class="social-caption">You've Come This Far...</div>
+            <div class="social-button facebook">
+                <span class="icon icon-sharrow"></span>
+                <span class="social-count"></span>
+            </div>
+            <div class="social-button twitter">
+                <span class="icon icon-sharrow"></span>
+                <span class="social-count"></span>
+            </div>
+            <div class="social-button reddit">
+                <span class="icon icon-sharrow"></span>
+                <span class="social-count"></span>
+            </div>
+            <div class="social-button google-plus">
+                <span class="icon icon-sharrow"></span>
+                <span class="social-count"></span>
+            </div>
+        </div>
+    </div>
+
+        <div id="locale-selector-container" class="locale-selector-container">
+    <div class="locale-dropdown-bg ign-modal hidden">
+        <div class="button-close">&#215;</div><!-- multiplication symbol (×) -->
+        <div class="locale-dropdown-container">
+            <ul class="locale-dropdown"></ul>
+        </div>
+    </div>
+</div>
+
+
+        <div id="spine-container" class="clear-fix vertical ">
+    <div class='cover-card has-image'>
+                        <img src="https://assets1.ignimgs.com/2019/01/10/alphathumb-1547062365620-1547142145998_315h.jpg" class="image covercard" alt="" />
+                <div class="content">
+            <div class="logo-locale">
+                <a href="http://www.ign.com" class="logo-link">
+                    <span class="hidden">IGN</span>
+                    <svg class="ign-icon icon-logo" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1482.1 464.2"><g fill="currentColor"><path d="M791 271.2v-79.4l213 .1c21.6 0 39.3 17.5 39.3 39.1v94.4c0 48.6-38.8 88.8-88.2 88.8l-136.4.1c-101.1 0-182.8-81.6-182.8-182.4 0-100.7 82.3-182.4 183-182.4H1030v83.8H818.8c-54.4 0-99.1 44.1-99.1 98.6 0 54.4 44 98.5 99 98.5h140.9v-59.2H791zM608.1 49.1h-82.9v326.5c0 21.5 17.5 38.9 39 38.9h43.9V76c.1-.1 0-26.9 0-26.9zM1433.7 49.3h-44.5v281.4c-.1.8-.2 1.6-.7 2.3-1 1.7-2.8 2.8-4.9 2.8-1.8 0-3.4-.8-5.1-3.1L1239.3 88.4c-15.5-26-43.9-43-75.8-43h-1.5c-48.6 0-88.1 39.4-88.1 88.1v242.1c0 21.5 17.5 38.9 38.9 38.9h44.1v-281c0-.9.4-1.8.8-2.6 1-1.7 2.8-2.9 4.9-2.9 1.7 0 3.8.6 4.9 2.8l140.2 245.9c15.5 26 43.3 41.8 75.1 41.8h1.5c48.6 0 88.1-39.4 88.1-88.1V88.2c.2-21.5-17.2-38.9-38.7-38.9zM108.4 152c10.9-16.5 25.1-30.7 41.6-41.6 2.4-21.7 5.6-41.6 9.6-59.1C109.3 71 69 111.2 49.3 161.7c17.6-4 37.4-7.3 59.1-9.7zM310.1 109.9c0 .2 0 .3.1.4 16.6 10.9 30.8 25.1 41.7 41.7 21.7 2.4 41.6 5.6 59.1 9.6-19.8-50.6-60.1-90.9-110.8-110.5 4 17.5 7.3 37.2 9.9 58.8zM150.1 353.8c-16.5-10.9-30.7-25.1-41.7-41.7-.2 0-.3 0-.5-.1-21.9-2.6-41.5-5.9-58.7-9.9 19.7 50.6 59.9 90.9 110.5 110.7-4-17.4-7.3-37.3-9.6-59zM352.3 312.1c-.2 0-.3 0-.5.1-10.9 16.6-25.1 30.8-41.7 41.7 0 .2 0 .3-.1.5-2.5 21.6-5.9 41.3-9.9 58.7 50.7-19.7 91.2-60.1 110.9-110.8-17.2 3.9-36.8 7.2-58.7 9.8zM450.8 196c-34.3-15.9-85.7-21.9-103.2-23.7-3.6-.6-6.9-.9-10.1-.9l-54.3 60.8 54.3 60.7c3.7 0 7.6-.4 11.7-1.1 17.1-2 67.6-8.2 101.5-23.9V196h.1zm-328.1-24.7c-3.1 0-6.4.3-10.1.9-17.5 1.9-68.9 7.9-103.2 23.8v71.7c33.9 15.7 84.5 22 101.6 23.9 4.1.8 8 1.1 11.7 1.1L177 232l-54.3-60.7zm46.7 168.2c0 3.1.3 6.4.9 10.1 1.9 17.5 7.9 68.9 23.8 103.1h71.7c15.7-33.9 22-84.5 24-101.5.8-4.1 1.2-8 1.2-11.7l-60.7-54.3-60.9 54.3zM194 11.4h71.7c15.7 33.9 22 84.5 24 101.5.8 4.1 1.2 7.9 1.2 11.7L230.1 179l-60.7-54.4c0-3.1.3-6.4.9-10.1 1.9-17.4 7.9-68.8 23.7-103.1z"/></g></svg>
+                </a>
+                <div class="locale-shortcode icon-dropdown" data-hover-text="">us</div>
+            </div>
+            <a href="/articles/2019/01/10/the-walking-dead-teaser-trailer-meet-the-whisperers-leaders-alpha-and-beta" class="headline spine-padding-left">
+                <div class="label">Big Story</div>
+                <div class="title">The Walking Dead Whisperers Teaser Trailer</div>
+            </a>
+        </div>
+    </div>
+    <div class="queue-container">
+    <div class="floating-media">
+
+<a class="queue-item  trending-top  has-label " href="/articles/2019/01/09/new-super-mario-bros-u-deluxe-review">
+            <div class="queue-item-image-container">
+            <img class="queue-item-image" src="https://assets1.ignimgs.com/2019/01/09/nsmbudeluxe-blogroll-1547011351113_400w.jpg" />
+            <span class="play-button"></span>
+        </div>
+        <div class="queue-item-content">
+                    <div class="label">Reviews</div>
+                <div class="title">New Super Mario Bros. U Deluxe Review</div>
+    </div>
+</a>
+<a class="queue-item  trending-top  now-reading " href="/articles/2013/07/24/dota-2-review">
+            <div class="queue-item-image-container">
+            <img class="queue-item-image" src="https://assets2.ignimgs.com/2013/07/24/dota2071913176jpg-e9301e_400w.jpg" />
+            <span class="play-button"></span>
+        </div>
+        <div class="queue-item-content">
+                <div class="title">Dota 2 Review</div>
+    </div>
+</a>            <div class="progress-bar"></div>
+        </div>
+
+    <div class="queue-scroll-container">
+
+<a class="queue-item  trending  has-label  undercover " href="/articles/2019/01/09/new-super-mario-bros-u-deluxe-review">
+        <div class="queue-item-content">
+                    <div class="label">Trending Today</div>
+                <div class="title">New Super Mario Bros. U Deluxe Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/29/last-year-the-nightmare-review">
+        <div class="queue-item-content">
+                <div class="title">Last Year: The Nightmare Review</div>
+    </div>
+</a><a class="queue-item promoted hidden" id="promoted-spine-dfp-container" href=""><span class="hidden">Advertisement</span>
+<div id="pawn33" class="chess"></div></a>
+
+<a class="queue-item  trending " href="/articles/2018/12/27/insurgency-sandstorm-review">
+        <div class="queue-item-content">
+                <div class="title">Insurgency: Sandstorm Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/22/marvels-spider-man-ps4-silver-lining-dlc-review">
+        <div class="queue-item-content">
+                <div class="title">Marvel's Spider-Man (PS4) - Silver Lining DLC Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/21/forza-horizon-4-fortune-island-review">
+        <div class="queue-item-content">
+                <div class="title">Forza Horizon 4: Fortune Island Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/21/ring-of-elysium-early-access-review">
+        <div class="queue-item-content">
+                <div class="title">Ring of Elysium Early Access Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/20/borderlands-2-vr-review">
+        <div class="queue-item-content">
+                <div class="title">Borderlands 2 VR Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/20/below-review">
+        <div class="queue-item-content">
+                <div class="title">Below Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/13/gris-review">
+        <div class="queue-item-content">
+                <div class="title">Gris Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/13/hades-early-access-review">
+        <div class="queue-item-content">
+                <div class="title">Hades Early Access Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/13/artifact-review">
+        <div class="queue-item-content">
+                <div class="title">Artifact Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/12/katamari-damacy-reroll-review">
+        <div class="queue-item-content">
+                <div class="title">Katamari Damacy Reroll Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/12/ashen-review">
+        <div class="queue-item-content">
+                <div class="title">Ashen Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/10/destiny-2-black-armory-review">
+        <div class="queue-item-content">
+                <div class="title">Destiny 2: Black Armory Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/07/earth-defense-force-5-review">
+        <div class="queue-item-content">
+                <div class="title">Earth Defense Force 5 Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/06/super-smash-bros-ultimate-review">
+        <div class="queue-item-content">
+                <div class="title">Super Smash Bros. Ultimate Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/04/mutant-year-zero-road-to-eden-review">
+        <div class="queue-item-content">
+                <div class="title">Mutant Year Zero: Road to Eden Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/04/just-cause-4-review">
+        <div class="queue-item-content">
+                <div class="title">Just Cause 4 Review</div>
+    </div>
+</a>
+<a class="queue-item  trending " href="/articles/2018/12/03/assassins-creed-odyssey-dlc-a-legacy-of-the-first-blade-hunted-review">
+        <div class="queue-item-content">
+                <div class="title">Assassin's Creed Odyssey DLC – Legacy of the First Blade: Hunted Review</div>
+    </div>
+</a>        </div>
+
+        </div>
+
+</div>
+    </aside>
+
+    <section class="ign-content" itemscope itemtype="http://schema.org/Review">
+                <meta itemprop="publisher" content="IGN" />
+        <meta itemprop="image" content="http://assets2.ignimgs.com/2013/07/24/dota2071913176jpg-e9301e_1280w.jpg" />
+                <article id="article-51f00b1f402d1728f443801e" class="review">
+                                                
+<div class="hero-unit-container" data-background="https://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/DOTA2_071913_1600.jpg" data-widget-domain="widgets.ign.com" data-full-domain="www.ign.com">
+        <div class="hero-unit-stage" data-logged-in="false">
+        <div class="hero-poster default hidden"
+             data-slug="dota-2-video-review"
+             data-id="187dedeabc42df496d1cb59fe91d6bd0"
+            >
+            <div class="hero-content">
+                            </div>
+        </div>
+        
+
+<div class="theater-container">
+    <section class="theater-content">
+        <div class="theater-ui">
+            <span class="exit-theater flaticon stroke x-1"><span class="exit-theater-text">Exit Theatre Mode</span></span>
+            <div class="theater-social-ui">
+                <span class="social-drawer flaticon stroke slide-in-left-1"></span>
+            </div>
+        </div>
+        <div class="content-container">
+            <div class="content-player">
+                <div
+                    class="video-embed-content-v6"
+                    data-settings="{&quot;adlytics&quot;:{&quot;adsData&quot;:{&quot;adsDisabled&quot;:&quot;false&quot;,&quot;dfp_network&quot;:&quot;5691&quot;,&quot;dfp_adunit1&quot;:&quot;IGN&quot;,&quot;resource&quot;:&quot;articles&quot;,&quot;pagetype&quot;:&quot;article&quot;,&quot;template&quot;:&quot;article-desktop-10&quot;,&quot;platforms&quot;:[&quot;pc&quot;],&quot;tags&quot;:[&quot;dota-2&quot;,&quot;game&quot;,&quot;pc&quot;,&quot;rpg&quot;,&quot;valve&quot;,&quot;moba-multiplayer-online-battle-arena&quot;],&quot;article_types&quot;:[&quot;review&quot;],&quot;year&quot;:&quot;2013&quot;,&quot;genre&quot;:[&quot;rpg&quot;],&quot;platform_id&quot;:20114,&quot;categories&quot;:[&quot;ign&quot;,&quot;pc&quot;],&quot;article_id&quot;:&quot;51f00b1f402d1728f443801e&quot;,&quot;object1_id&quot;:[83236],&quot;watchread_type&quot;:&quot;video_countdown&quot;,&quot;route&quot;:&quot;articles&quot;,&quot;video_series&quot;:&quot;none&quot;,&quot;zdid&quot;:&quot;0a55bc6d&quot;,&quot;cpid&quot;:&quot;5856463dec85c6e4140af24fd0ad4388&quot;},&quot;analyticsData&quot;:{&quot;url&quot;:&quot;http:\/\/www.ign.com\/articles\/2013\/07\/24\/dota-2-review&quot;,&quot;module&quot;:&quot;network&quot;,&quot;controller&quot;:&quot;content&quot;,&quot;action&quot;:&quot;article&quot;,&quot;adsDisabled&quot;:false,&quot;resource&quot;:&quot;articles&quot;,&quot;pagetype&quot;:&quot;article&quot;,&quot;template&quot;:&quot;article-desktop-10&quot;,&quot;platforms&quot;:[&quot;pc&quot;],&quot;tags&quot;:[&quot;dota-2&quot;,&quot;game&quot;,&quot;pc&quot;,&quot;rpg&quot;,&quot;valve&quot;,&quot;moba-multiplayer-online-battle-arena&quot;],&quot;article_types&quot;:[&quot;review&quot;],&quot;year&quot;:&quot;2013&quot;,&quot;genres&quot;:[&quot;rpg&quot;],&quot;platform_id&quot;:20114,&quot;categories&quot;:[&quot;ign&quot;,&quot;pc&quot;],&quot;article_id&quot;:&quot;51f00b1f402d1728f443801e&quot;,&quot;author&quot;:&quot;Phill Cameron&quot;,&quot;content_title&quot;:&quot;Dota 2 Review&quot;,&quot;content_state&quot;:&quot;standard&quot;,&quot;object1_id&quot;:[83236],&quot;publish_date&quot;:&quot;2013-07-24&quot;,&quot;video_series&quot;:&quot;none&quot;},&quot;special&quot;:null},&quot;analytics&quot;:{&quot;pageType&quot;:&quot;articles&quot;,&quot;playerContext&quot;:&quot;Hero Unit&quot;,&quot;playerTrigger&quot;:&quot;&quot;},&quot;autoplay&quot;:true,&quot;debug&quot;:false,&quot;debugFilter&quot;:&quot;&quot;,&quot;enableSkippablePreroll&quot;:true,&quot;externalPoster&quot;:false,&quot;localeCode&quot;:&quot;us&quot;,&quot;moatPartnerCode&quot;:&quot;ignimajsint947428450867&quot;,&quot;muted&quot;:true,&quot;mux&quot;:{&quot;debug&quot;:false,&quot;data&quot;:{&quot;experiment_name&quot;:&quot;&quot;,&quot;property_key&quot;:&quot;p95JquE9QWzrfJjRxcF6etNS5&quot;}},&quot;player&quot;:{&quot;mode&quot;:&quot;hls&quot;,&quot;preferredRendition&quot;:&quot;auto&quot;},&quot;preRequestAd&quot;:true,&quot;recommendationRule&quot;:&quot;test-rule-1&quot;,&quot;showRecircScreen&quot;:false,&quot;skipInitialAd&quot;:true,&quot;special&quot;:&quot;&quot;,&quot;userInitiated&quot;:true,&quot;user&quot;:{&quot;adsDisabled&quot;:false,&quot;nickname&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;},&quot;video&quot;:{&quot;videoId&quot;:&quot;187dedeabc42df496d1cb59fe91d6bd0&quot;,&quot;commentThread&quot;:&quot;187dedeabc42df496d1cb59fe91d6bd0&quot;,&quot;totalViews&quot;:0,&quot;assetsByHeight&quot;:{&quot;234&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/187dedeabc42df496d1cb59fe91d6bd0-110000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},&quot;360&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/187dedeabc42df496d1cb59fe91d6bd0-1000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},&quot;540&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/187dedeabc42df496d1cb59fe91d6bd0-2500000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},&quot;720&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/187dedeabc42df496d1cb59fe91d6bd0-3000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280},&quot;1080&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1920\/187dedeabc42df496d1cb59fe91d6bd0-5000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:5000000,&quot;height&quot;:1080,&quot;width&quot;:1920}},&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/187dedeabc42df496d1cb59fe91d6bd0-110000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/187dedeabc42df496d1cb59fe91d6bd0-1000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/187dedeabc42df496d1cb59fe91d6bd0-2500000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/187dedeabc42df496d1cb59fe91d6bd0-3000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1920\/187dedeabc42df496d1cb59fe91d6bd0-5000000-1374702809-w.mp4&quot;,&quot;bitrate&quot;:5000000,&quot;height&quot;:1080,&quot;width&quot;:1920}],&quot;thumbnails&quot;:[{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2013\/07\/24\/dota2thumb_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2013\/07\/24\/dota2thumb.jpg&quot;}],&quot;objectRelations&quot;:[{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;89236&quot;,&quot;platform&quot;:&quot;Macintosh&quot;,&quot;objectType&quot;:&quot;games&quot;},{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;83236&quot;,&quot;platform&quot;:&quot;PC&quot;,&quot;objectType&quot;:&quot;games&quot;}],&quot;askmenData&quot;:[],&quot;popularity&quot;:[],&quot;extra&quot;:{&quot;cdn&quot;:&quot;fastly&quot;,&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;active&quot;:true},&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:53569626,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/187dedeabc42df496d1cb59fe91d6bd0-110000,640\/187dedeabc42df496d1cb59fe91d6bd0-1000000,960\/187dedeabc42df496d1cb59fe91d6bd0-2500000,1280\/187dedeabc42df496d1cb59fe91d6bd0-3000000,1920\/187dedeabc42df496d1cb59fe91d6bd0-5000000,-1374702809-w\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/187dedeabc42df496d1cb59fe91d6bd0-110000,640\/187dedeabc42df496d1cb59fe91d6bd0-1000000,960\/187dedeabc42df496d1cb59fe91d6bd0-2500000,1280\/187dedeabc42df496d1cb59fe91d6bd0-3000000,1920\/187dedeabc42df496d1cb59fe91d6bd0-5000000,-1374702809-w\/master.f4m&quot;,&quot;tubemogulId&quot;:5180355,&quot;zencoderYoutubeSyndicationId&quot;:53568508},&quot;category&quot;:[],&quot;system&quot;:{&quot;encodingProfile&quot;:&quot;ign-1080p&quot;,&quot;watermarkProfile&quot;:&quot;default&quot;,&quot;mezzanineUrl&quot;:&quot;http:\/\/o.videoarchive.ign.com\/2013\/7\/24\/1374696044109Dota2_VDR_072413_1080p30_15mbps.mp4&quot;,&quot;createdAt&quot;:&quot;2013-07-24T19:58:37+0000&quot;,&quot;updatedAt&quot;:&quot;2016-10-04T17:01:30+0000&quot;},&quot;talent&quot;:[],&quot;id&quot;:&quot;187dedeabc42df496d1cb59fe91d6bd0&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;Dota 2 Video Review&quot;,&quot;publishDate&quot;:&quot;2013-07-24T19:58:00+0000&quot;,&quot;description&quot;:&quot;Dota 2 is an ocean-deep pool of rewarding nuance and strategy, but it will drown newcomers.&quot;,&quot;title&quot;:&quot;Video Review&quot;,&quot;longTitle&quot;:&quot;Dota 2 Video Review&quot;,&quot;duration&quot;:302,&quot;url&quot;:&quot;https:\/\/www.ign.com\/videos\/2013\/07\/24\/dota-2-video-review&quot;,&quot;locale&quot;:&quot;us&quot;,&quot;slug&quot;:&quot;dota-2-video-review&quot;,&quot;ageGate&quot;:&quot;none&quot;,&quot;classification&quot;:&quot;Review&quot;,&quot;subClassification&quot;:&quot;none&quot;,&quot;networks&quot;:[&quot;ign&quot;],&quot;state&quot;:&quot;published&quot;,&quot;noads&quot;:false,&quot;prime&quot;:false,&quot;subscription&quot;:false,&quot;downloadable&quot;:true,&quot;creator&quot;:&quot;dstapleton@ign.com&quot;,&quot;origin&quot;:&quot;Produced (Complex)&quot;,&quot;genre&quot;:&quot;Gaming&quot;},&quot;promo&quot;:[],&quot;tags&quot;:[{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;f2p&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;f2p&quot;},{&quot;slug&quot;:&quot;review&quot;,&quot;tagType&quot;:&quot;classification&quot;,&quot;displayName&quot;:&quot;Review&quot;},{&quot;slug&quot;:&quot;macintosh&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Macintosh&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;games&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;games&quot;},{&quot;slug&quot;:&quot;pc&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;PC&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;developers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;mac&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Mac&quot;},{&quot;slug&quot;:&quot;moba-(multiplayer-online-battle-arena)&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;MOBA (Multiplayer Online Battle Arena)&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;publishers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;rpg&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;RPG&quot;}],&quot;mediaRelations&quot;:[]},&quot;loop&quot;:{&quot;startPosition&quot;:&quot;&quot;,&quot;endPosition&quot;:&quot;&quot;,&quot;loopMode&quot;:&quot;&quot;,&quot;loopTitle&quot;:&quot;&quot;,&quot;stickerGrid&quot;:&quot;&quot;,&quot;loopCreator&quot;:&quot;&quot;},&quot;mutedPrerollDelay&quot;:null,&quot;enableMutedPreroll&quot;:false}"
+                    data-video-slug="dota-2-video-review"
+                    data-video-id="187dedeabc42df496d1cb59fe91d6bd0"
+                    data-is-singleton=""
+                    data-set-initial-video=""
+                >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="theater-social"></section>
+</div>
+    </div>
+            <div class="herounit-author-container">
+        <a href="https://people.ign.com/phillcameron" class="author-avatar">
+            <img alt="User_image" class="user-image creator-image" src="https://oyster.ignimgs.com/social/avatars/users2/64/5343441-1374697746.jpg">
+        </a>
+        <div class="author-field">
+            <span class="author-text">Review by</span>
+            <span class="author-name"><a href="https://people.ign.com/phillcameron">Phill Cameron</a></span>
+        </div>
+    </div>
+        <div class="hero-unit-sidekick hidden">
+        
+<div id="sidekick" class=""
+     data-video-count="19"
+     data-widget-domain="widgets.ign.com"
+     data-branded-series-canonical=""
+     data-branded-series-title=""
+     data-branded-series-id="">
+        <div class="sidekick-videos">
+                <div class="video hidden" data-type="primary" data-slug="dota-2-video-review" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://oyster.ignimgs.com/wordpress/stg.ign.com/2013/07/DOTA2_071913_1600.jpg" alt="Video Review" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">Video Review</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="embed" data-slug="the-noobs-guide-to-dota-2" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/vid/thumbnails/2013/02/07/90231c69c576428d372cb74b8ce3b384-1360262105/frame_0000_270h.jpg" alt="The Noobs Guide" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">The Noobs Guide</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="embed" data-slug="learning-to-play-dota-2" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/vid/thumbnails/user/2012/10/17/dota_2_270h.jpg" alt="Learning to Play Dota 2" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">Learning to Play Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="embed" data-slug="dota-2-tusk-hero-spotlight" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/vid/thumbnails/2013/02/15/946959b28bca34706d141fb766fac7c9-1360891439/frame_0000_270h.jpg" alt="Dota 2: Mastering Tusk&#039;s Walrus Punch" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">Dota 2: Mastering Tusk's Walrus Punch</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="embed" data-slug="dota-2-diretide-trailer" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/vid/thumbnails/user/2012/10/31/dota2_reveal_270h.jpg" alt="A New Mode in Valve&#039;s Dota 2" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">A New Mode in Valve's Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="is-dota-2-really-harder-than-league-of-legends-esports-mashup-episode-2" data-video-series="">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/10/11/esports11280-1539281726654_270h.jpg" alt="Is Dota 2 Really Harder than League of Legends? - Esports Mashup Episode 2" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="how-to-get-beta-access-to-valves-artifact" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/8/20/082018-artifactignthumb-1534799764791_270h.jpg" alt="How to Get Beta Access to Valve&#039;s Artifact" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Valve</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="elon-musks-ai-aiming-to-compete-in-dota-2-international-tournament-ign-news" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/6/27/dota-1530110764601_270h.jpg" alt="Elon Musk&#039;s AI Aiming to Compete in Dota 2 International Tournament - IGN News" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Elon Musk</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="dota-2-is-getting-a-battle-royale-mode-ign-news" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/5/8/050818-dota2battleroyaleignthumb-1525819988788_270h.jpg" alt="Dota 2 Is Getting a Battle Royale Mode" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="valve-releases-dota-compendium-information-following-penguin-kidnap-meme" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/5/8/050818-dotapenguinignthumb-1525806180139_270h.jpg" alt="Valve Releases Dota Compendium Information Following Penguin Kidnap Meme" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Valve</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="the-netherlands-determines-some-loot-boxes-are-gambling" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/9/6/042018-lootboxesignthumb-1536257331566_270h.jpg" alt="The Netherlands Determines Some Loot Boxes Are Gambling" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From FIFA 18</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="the-top-25-modern-pc-games-spring-2018-update" data-video-series="IGN Top 25 List">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2018/4/10/36190303top25pcgamesblogroll-1523383710263_270h.jpg" alt="The Top 25 Modern PC Games - Spring 2018 Update" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Metal Gear Solid V: The Phantom Pain</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="igns-top-10-most-improved-games-of-2017" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2017/12/21/mostimproved1280-1513922450491_270h.jpg" alt="IGN&#039;s Top 10 Most Improved Games of 2017" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From League of Legends</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="pubg-beats-dota-2-for-top-steam-spot-ign-daily-fix" data-video-series="IGN Daily Fix">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2017/8/28/pubg1080p-1503947490736_270h.jpg" alt="PUBG Beats DOTA 2 For Top Steam Spot - IGN Daily Fix" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Apple</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="dota-2-dueling-fates-official-trailer" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2017/8/11/dota-2-the-dueling-fates00001512still002-1502505234515_270h.jpg" alt="Dota 2 Dueling Fates Official Trailer" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="top-25-pc-games-spring-2017-update" data-video-series="none">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2017/4/11/top25pcgamesspring201712801-1491935333207_270h.jpg" alt="Top 25 PC Games -- Spring 2017 Update" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Total War: Warhammer</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="steam-breaks-huge-record-for-concurrent-players" data-video-series="IGN NEWS">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2017/1/9/steam-1484003149573_270h.jpg" alt="Steam Breaks Huge Record for Concurrent Players" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="the-dota-2-boston-major-watch-party" data-video-series="IGN Plays Live">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2016/12/8/ignlive1280-1481240910051_270h.jpg" alt="The Dota 2 Boston Major Watch Party" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                <div class="video hidden" data-type="related" data-slug="the-5-most-popular-dota-2-heroes" data-video-series="">
+            <div class="video-image-frame">
+                <img class="video-image" src="" data-image="https://assets1.ignimgs.com/thumbs/userUploaded/2016/12/7/mostpopular1280-1481138574327_270h.jpg" alt="The 5 Most Popular Dota 2 Heroes" />
+            </div>
+            <div class="video-info">
+                                <span class="video-title-content">More From Dota 2</span>
+                            </div>
+        </div>
+                        <div class="button" data-url="https://www.ign.com/videos/2016/12/07/the-5-most-popular-dota-2-heroes">Next
+            <svg id="sidekick-next-arrow" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                <path d="M87.391,50L59.009,21.538c-0.428-0.428-0.8-0.784-1.103-1.066c-2.042-1.857-4.643-2.347-6.822-0.364
+        c-2.349,2.138-2.16,5.052-0.094,7.277c0.281,0.309,0.634,0.678,1.066,1.106l16.766,16.766H19.203c-1.527,0-3.214-0.095-4.558,0.752
+        c-1.386,0.874-2.036,2.392-2.036,3.991c0,1.598,0.648,3.124,2.036,3.996c1.346,0.845,3.029,0.751,4.558,0.751h49.613L52.05,71.513
+        c-0.431,0.428-0.784,0.8-1.066,1.106c-1.954,2.126-2.299,4.901-0.141,7.059c2.188,2.188,4.891,1.806,7.056-0.141
+      c0.303-0.281,0.678-0.638,1.103-1.066L87.391,50z"/>
+            </svg>
+        </div>
+            </div>
+</div>
+    </div>
+</div>
+
+                <div id="queen" class="chess article"></div>            
+            <div class="article-label">
+                                                    <a class="hover-link" href="/games/dota-2" data-legacy-id="83236">
+                        Reviewed on PC                    </a> /                                 <span class="article-publish-date">
+                                        <meta itemprop="datePublished" content="2013-07-24T13:41:27-07:00" />
+                                        24 Jul 2013 1:41 PM PDT                </span>
+                            </div>
+
+                        <h1 class="article-headline " itemprop="headline"><span class="title-hover-link" data-legacy-id="83236">Dota 2</span> <strong>Review</strong></h1>
+
+            
+            <div id="article-content" class="article-content" itemprop="reviewBody">
+
+                                <div class="article-subhead">
+                                        <div class="article-share-count-container">
+                        <span class="icon icon-sharrow"></span>
+                        <span class="page-share-count">Share.</span>
+                    </div>
+                    A lifetime to master.                </div>
+                
+                
+                                    <span class="article-byline icon-pointy" itemprop="author" itemscope itemtype="http://schema.org/Person">
+                        <span itemprop="name" content="Phill Cameron">
+                            By <a href="http://people.ign.com/phillcameron">Phill Cameron</a>                        </span>
+                    </span>
+                
+                
+                <p dir="ltr">There’s an adage that the <a class="autolink" title="Dota 2" href="/games/dota-2" data-legacy-id="83236" data-locale="us" data-object-type="game" data-object-relation-ids="83236">Dota 2</a> community often quotes when someone identifies themselves as a new player. “Welcome to Dota 2!” They say, with open arms, before concluding with, “You suck.” They're not wrong: for the first dozen hours or so, you'll be bombarded with too much information and an often unforgiving community of extremely competitive players. But if you persevere, Dota 2 becomes one of the most rewarding and tense team-based multiplayer experiences anywhere in gaming. It's an achievement owed to uncompromising depth, a ridiculously generous free-to-play model, and the great features developer Valve has built up around it.</p> <p dir="ltr"> <p class="aligncenter"><script type="" src="//apps.ign.com/video-player/release/6.4.4/default.1818a8e8.js"></script>
+<script type="" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+<div class="theater-container">
+    <section class="theater-content">
+        <div class="theater-ui">
+            <span class="exit-theater flaticon stroke x-1"><span class="exit-theater-text">Exit Theatre Mode</span></span>
+            <div class="theater-social-ui">
+                <span class="social-drawer flaticon stroke slide-in-left-1"></span>
+            </div>
+        </div>
+        <div class="content-container">
+            <div class="content-player">
+                <div
+                    class="video-embed-content-v6"
+                    data-settings="{&quot;adlytics&quot;:{&quot;adsData&quot;:{&quot;adsDisabled&quot;:&quot;false&quot;,&quot;dfp_network&quot;:&quot;5691&quot;,&quot;dfp_adunit1&quot;:&quot;IGN&quot;,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;analyticsData&quot;:{&quot;url&quot;:&quot;http:\/\/widgets.ign.com\/video\/embed\/content?url=http%3A%2F%2Fwww.ign.com%2Fvideos%2F2013%2F02%2F07%2Fthe-noobs-guide-to-dota-2&amp;width=610&amp;mode=hls&amp;preRequestAd=false&amp;loops=&amp;playerContext=Embed&amp;localeCode=us&amp;autoplay=false&amp;debug=false&amp;debugFilter=&amp;enableSkippablePreroll=true&amp;externalPoster=false&amp;isSingleton=false&amp;moatPartnerCode=ignimajsint947428450867&amp;muted=false&amp;muxExperiment=&amp;muxPropertyKey=p95JquE9QWzrfJjRxcF6etNS5&amp;pageType=embed&amp;playerTrigger=&amp;recommendationRule=test-rule-1&amp;setInitialVideo=true&amp;showRecircScreen=true&amp;skipInitialAd=false&amp;special=&amp;userInitiated=true&amp;videoId=&amp;videoSlug=&amp;startPosition=&amp;endPosition=&amp;loopMode=&amp;loopTitle=&amp;stickerGrid=&amp;loopCreator=&amp;disable_css=true&amp;disable_js=true&amp;use_esi=false&quot;,&quot;module&quot;:&quot;WidgetsIgnCom&quot;,&quot;controller&quot;:&quot;index&quot;,&quot;action&quot;:&quot;index&quot;,&quot;adsDisabled&quot;:false,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;special&quot;:null},&quot;analytics&quot;:{&quot;pageType&quot;:&quot;embed&quot;,&quot;playerContext&quot;:&quot;Embed&quot;,&quot;playerTrigger&quot;:&quot;&quot;},&quot;autoplay&quot;:false,&quot;debug&quot;:false,&quot;debugFilter&quot;:&quot;&quot;,&quot;enableSkippablePreroll&quot;:true,&quot;externalPoster&quot;:false,&quot;localeCode&quot;:&quot;us&quot;,&quot;moatPartnerCode&quot;:&quot;ignimajsint947428450867&quot;,&quot;muted&quot;:false,&quot;mux&quot;:{&quot;debug&quot;:false,&quot;data&quot;:{&quot;experiment_name&quot;:&quot;&quot;,&quot;property_key&quot;:&quot;p95JquE9QWzrfJjRxcF6etNS5&quot;}},&quot;player&quot;:{&quot;mode&quot;:&quot;hls&quot;,&quot;preferredRendition&quot;:&quot;auto&quot;},&quot;preRequestAd&quot;:false,&quot;recommendationRule&quot;:&quot;test-rule-1&quot;,&quot;showRecircScreen&quot;:true,&quot;skipInitialAd&quot;:false,&quot;special&quot;:&quot;&quot;,&quot;userInitiated&quot;:true,&quot;user&quot;:{&quot;adsDisabled&quot;:false,&quot;nickname&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;},&quot;video&quot;:{&quot;videoId&quot;:&quot;90231c69c576428d372cb74b8ce3b384&quot;,&quot;commentThread&quot;:&quot;90231c69c576428d372cb74b8ce3b384&quot;,&quot;totalViews&quot;:68020,&quot;assetsByHeight&quot;:{&quot;234&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/90231c69c576428d372cb74b8ce3b384-110000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},&quot;360&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/90231c69c576428d372cb74b8ce3b384-1000000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},&quot;540&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/90231c69c576428d372cb74b8ce3b384-2500000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},&quot;720&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/90231c69c576428d372cb74b8ce3b384-3000000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}},&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/90231c69c576428d372cb74b8ce3b384-110000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/90231c69c576428d372cb74b8ce3b384-500000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:500000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/90231c69c576428d372cb74b8ce3b384-1000000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/90231c69c576428d372cb74b8ce3b384-2500000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/90231c69c576428d372cb74b8ce3b384-3000000-1360262105-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;thumbnails&quot;:[{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0000_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0000.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0001_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0001.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0002_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0002.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0003_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0003.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0004_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/07\/90231c69c576428d372cb74b8ce3b384-1360262105\/frame_0004.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;objectRelations&quot;:[{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;83236&quot;,&quot;platform&quot;:&quot;PC&quot;,&quot;objectType&quot;:&quot;games&quot;}],&quot;askmenData&quot;:[],&quot;popularity&quot;:{&quot;total&quot;:68020,&quot;sevenDays&quot;:120},&quot;extra&quot;:{&quot;cdn&quot;:&quot;fastly&quot;,&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;active&quot;:true},&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:37984326,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/90231c69c576428d372cb74b8ce3b384-110000,640\/90231c69c576428d372cb74b8ce3b384-500000,640\/90231c69c576428d372cb74b8ce3b384-1000000,960\/90231c69c576428d372cb74b8ce3b384-2500000,1280\/90231c69c576428d372cb74b8ce3b384-3000000,-1360262105-w\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/90231c69c576428d372cb74b8ce3b384-110000,640\/90231c69c576428d372cb74b8ce3b384-500000,640\/90231c69c576428d372cb74b8ce3b384-1000000,960\/90231c69c576428d372cb74b8ce3b384-2500000,1280\/90231c69c576428d372cb74b8ce3b384-3000000,-1360262105-w\/master.f4m&quot;,&quot;tubemogulId&quot;:4988873},&quot;category&quot;:[],&quot;system&quot;:{&quot;encodingProfile&quot;:&quot;ign-default&quot;,&quot;watermarkProfile&quot;:&quot;default&quot;,&quot;mezzanineUrl&quot;:&quot;http:\/\/o.videoarchive.ign.com\/2013\/2\/7\/1360261894679dota2intro.mov&quot;,&quot;createdAt&quot;:&quot;2013-02-07T18:23:17+0000&quot;,&quot;updatedAt&quot;:&quot;2016-09-02T03:17:53+0000&quot;},&quot;talent&quot;:[],&quot;id&quot;:&quot;90231c69c576428d372cb74b8ce3b384&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;The Noobs Guide to Dota 2&quot;,&quot;publishDate&quot;:&quot;2013-02-07T18:23:00+0000&quot;,&quot;description&quot;:&quot;IGN\u0027s most seasoned player teaches a novice the ins and outs of Valve\u0027s Dota 2.&quot;,&quot;title&quot;:&quot;The Noobs Guide&quot;,&quot;longTitle&quot;:&quot;&quot;,&quot;duration&quot;:1120,&quot;url&quot;:&quot;https:\/\/www.ign.com\/videos\/2013\/02\/07\/the-noobs-guide-to-dota-2&quot;,&quot;locale&quot;:&quot;us&quot;,&quot;slug&quot;:&quot;the-noobs-guide-to-dota-2&quot;,&quot;ageGate&quot;:&quot;none&quot;,&quot;classification&quot;:&quot;none&quot;,&quot;subClassification&quot;:&quot;none&quot;,&quot;networks&quot;:[&quot;ign&quot;],&quot;state&quot;:&quot;published&quot;,&quot;noads&quot;:false,&quot;prime&quot;:false,&quot;subscription&quot;:false,&quot;downloadable&quot;:true,&quot;creator&quot;:&quot;agallegos@ign.com&quot;,&quot;origin&quot;:&quot;Produced (Intermediate)&quot;,&quot;genre&quot;:&quot;none&quot;},&quot;promo&quot;:[],&quot;tags&quot;:[{&quot;slug&quot;:&quot;none&quot;,&quot;tagType&quot;:&quot;classification&quot;,&quot;displayName&quot;:&quot;none&quot;},{&quot;slug&quot;:&quot;pc&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;PC&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;games&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;games&quot;},{&quot;slug&quot;:&quot;moba-(multiplayer-online-battle-arena)&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;MOBA (Multiplayer Online Battle Arena)&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;publishers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;rpg&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;RPG&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;developers&quot;,&quot;displayName&quot;:&quot;Valve&quot;}],&quot;mediaRelations&quot;:[]},&quot;loop&quot;:{&quot;startPosition&quot;:&quot;&quot;,&quot;endPosition&quot;:&quot;&quot;,&quot;loopMode&quot;:&quot;&quot;,&quot;loopTitle&quot;:&quot;&quot;,&quot;stickerGrid&quot;:&quot;&quot;,&quot;loopCreator&quot;:&quot;&quot;},&quot;mutedPrerollDelay&quot;:null,&quot;enableMutedPreroll&quot;:false}"
+                    data-video-slug="the-noobs-guide-to-dota-2"
+                    data-video-id="90231c69c576428d372cb74b8ce3b384"
+                    data-is-singleton=""
+                    data-set-initial-video="1"
+                >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="theater-social"></section>
+</div>
+
+</p> </p> <p dir="ltr">Valve's artists deserve praise for a crisp and readable style that, after some practice, makes it possible to tell what's going on even in a massive brawl where both teams of five colorful fantasy characters collide and cast spells at once. However, credit for the intimidatingly complex design of Dota 2 belongs to the original Defense of the Ancients mod (known as DOTA) for Warcraft III, which kicked off the MOBA genre. Valve (after hiring on DOTA's key developers) has copied that formula almost to the letter, and as a result Dota 2 has become notorious even among its MOBA peers for its difficulty – and that’s totally justified. It’s a double-edged sword that leads to both a terrifying introduction and a world-class competitive game at the highest levels.</p> <p dir="ltr">As such, you should not expect to have fun your first day playing... or even your first week. That sounds like a cardinal sin of gaming, but there’s method to this madness. In short, Dota 2 is a deeply layered construct of systems, and to survive you need to understand every single one and how they interact with one another. Everything from learning to work as a member of a coordinated team to the counter-intuitive practice of killing your own AI units to deny the enemy experience points and gold they’d get from doing it themselves, and understanding  the effects  of hundreds of complex abilities like Bloodseeker’s Rupture (which deals huge damage with every step you take) is a big barrier to entry. Even figuring out which of the 102 heroes (and counting) fits you best is a time-consuming challenge.</p> <p dir="ltr">Initially, you’re thrown into the deep end to flounder, trying out any hero that makes the slightest bit of sense. The selection is bewildering: playing as Riki with his permanent invisibility from level 6 on is an obvious choice, as it's hard to kill what you can't see. Drow Ranger, perhaps, with her obscene damage the instant she unlocks her "ultimate" ability at level 6, and her slowing Ice Arrows that enable both escapes and setting up a kill. On the more complex end of the spectrum you have choices like the armour-manipulating Templar Assassin, or the incredibly mobile Storm Spirit, who can dart around the battlefield and avoid damage by simply not being in the wrong place at the wrong time. On top of that there are well over 100 items to choose from within each game, each with their own ways of manipulating and enhancing your stats and suite of active abilities.</p> <p dir="ltr">Your learning has just begun when you've settled on what roles, heroes, and builds suit you best – you also have to adapt based on what other players choose. If the other team plays a Riki, you need to compensate with an emphasis on detection. Go up against Bloodseeker and his hideously powerful Rupture will force you to carry around a Town Portal Scroll to get home in a hurry.</p> <p dir="ltr">To grasp the subtleties of how heroes interact and fight you have to do more homework on the different kinds of damage and how they’re mitigated; how to prevent one type of spell from affecting you, and when you use that countermeasure; how the different kinds of aggro work, and when you need to manipulate them; the timers (which aren't made visible), and how to optimise your play around them.</p> <p dir="ltr"> <p class="aligncenter"><script type="" src="//apps.ign.com/video-player/release/6.4.4/default.1818a8e8.js"></script>
+<script type="" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+<div class="theater-container">
+    <section class="theater-content">
+        <div class="theater-ui">
+            <span class="exit-theater flaticon stroke x-1"><span class="exit-theater-text">Exit Theatre Mode</span></span>
+            <div class="theater-social-ui">
+                <span class="social-drawer flaticon stroke slide-in-left-1"></span>
+            </div>
+        </div>
+        <div class="content-container">
+            <div class="content-player">
+                <div
+                    class="video-embed-content-v6"
+                    data-settings="{&quot;adlytics&quot;:{&quot;adsData&quot;:{&quot;adsDisabled&quot;:&quot;false&quot;,&quot;dfp_network&quot;:&quot;5691&quot;,&quot;dfp_adunit1&quot;:&quot;IGN&quot;,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;analyticsData&quot;:{&quot;url&quot;:&quot;http:\/\/widgets.ign.com\/video\/embed\/content?url=http%3A%2F%2Fwww.ign.com%2Fvideos%2F2012%2F10%2F17%2Flearning-to-play-dota-2&amp;width=610&amp;mode=hls&amp;preRequestAd=false&amp;loops=&amp;playerContext=Embed&amp;localeCode=us&amp;autoplay=false&amp;debug=false&amp;debugFilter=&amp;enableSkippablePreroll=true&amp;externalPoster=false&amp;isSingleton=false&amp;moatPartnerCode=ignimajsint947428450867&amp;muted=false&amp;muxExperiment=&amp;muxPropertyKey=p95JquE9QWzrfJjRxcF6etNS5&amp;pageType=embed&amp;playerTrigger=&amp;recommendationRule=test-rule-1&amp;setInitialVideo=true&amp;showRecircScreen=true&amp;skipInitialAd=false&amp;special=&amp;userInitiated=true&amp;videoId=&amp;videoSlug=&amp;startPosition=&amp;endPosition=&amp;loopMode=&amp;loopTitle=&amp;stickerGrid=&amp;loopCreator=&amp;disable_css=true&amp;disable_js=true&amp;use_esi=false&quot;,&quot;module&quot;:&quot;WidgetsIgnCom&quot;,&quot;controller&quot;:&quot;index&quot;,&quot;action&quot;:&quot;index&quot;,&quot;adsDisabled&quot;:false,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;special&quot;:null},&quot;analytics&quot;:{&quot;pageType&quot;:&quot;embed&quot;,&quot;playerContext&quot;:&quot;Embed&quot;,&quot;playerTrigger&quot;:&quot;&quot;},&quot;autoplay&quot;:false,&quot;debug&quot;:false,&quot;debugFilter&quot;:&quot;&quot;,&quot;enableSkippablePreroll&quot;:true,&quot;externalPoster&quot;:false,&quot;localeCode&quot;:&quot;us&quot;,&quot;moatPartnerCode&quot;:&quot;ignimajsint947428450867&quot;,&quot;muted&quot;:false,&quot;mux&quot;:{&quot;debug&quot;:false,&quot;data&quot;:{&quot;experiment_name&quot;:&quot;&quot;,&quot;property_key&quot;:&quot;p95JquE9QWzrfJjRxcF6etNS5&quot;}},&quot;player&quot;:{&quot;mode&quot;:&quot;hls&quot;,&quot;preferredRendition&quot;:&quot;auto&quot;},&quot;preRequestAd&quot;:false,&quot;recommendationRule&quot;:&quot;test-rule-1&quot;,&quot;showRecircScreen&quot;:true,&quot;skipInitialAd&quot;:false,&quot;special&quot;:&quot;&quot;,&quot;userInitiated&quot;:true,&quot;user&quot;:{&quot;adsDisabled&quot;:false,&quot;nickname&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;},&quot;video&quot;:{&quot;videoId&quot;:&quot;c36fffe05a47c348d32bdfb353932aea&quot;,&quot;commentThread&quot;:&quot;c36fffe05a47c348d32bdfb353932aea&quot;,&quot;totalViews&quot;:70211,&quot;assetsByHeight&quot;:{&quot;234&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/c36fffe05a47c348d32bdfb353932aea-110000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},&quot;360&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/c36fffe05a47c348d32bdfb353932aea-1000000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},&quot;540&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/c36fffe05a47c348d32bdfb353932aea-2500000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},&quot;720&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/c36fffe05a47c348d32bdfb353932aea-3000000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}},&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/c36fffe05a47c348d32bdfb353932aea-110000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/c36fffe05a47c348d32bdfb353932aea-500000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:500000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/c36fffe05a47c348d32bdfb353932aea-1000000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/c36fffe05a47c348d32bdfb353932aea-2500000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/c36fffe05a47c348d32bdfb353932aea-3000000-1350508856-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;thumbnails&quot;:[{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2012\/10\/17\/dota_2_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2012\/10\/17\/dota_2.jpg&quot;}],&quot;objectRelations&quot;:[{&quot;objectTypeId&quot;:11,&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;83236&quot;,&quot;platform&quot;:&quot;PC&quot;,&quot;objectType&quot;:&quot;games&quot;},{&quot;objectTypeId&quot;:11,&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;89236&quot;,&quot;platform&quot;:&quot;Macintosh&quot;,&quot;objectType&quot;:&quot;games&quot;}],&quot;askmenData&quot;:[],&quot;popularity&quot;:{&quot;total&quot;:70211,&quot;sevenDays&quot;:24},&quot;extra&quot;:{&quot;cdn&quot;:&quot;fastly&quot;,&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;active&quot;:true},&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:29886175,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/c36fffe05a47c348d32bdfb353932aea-110000,640\/c36fffe05a47c348d32bdfb353932aea-500000,640\/c36fffe05a47c348d32bdfb353932aea-1000000,960\/c36fffe05a47c348d32bdfb353932aea-2500000,1280\/c36fffe05a47c348d32bdfb353932aea-3000000,-1350508856-w\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/c36fffe05a47c348d32bdfb353932aea-110000,640\/c36fffe05a47c348d32bdfb353932aea-500000,640\/c36fffe05a47c348d32bdfb353932aea-1000000,960\/c36fffe05a47c348d32bdfb353932aea-2500000,1280\/c36fffe05a47c348d32bdfb353932aea-3000000,-1350508856-w\/master.f4m&quot;,&quot;tubemogulId&quot;:4732625},&quot;category&quot;:[&quot;ign_all&quot;,&quot;pc_all&quot;],&quot;system&quot;:{&quot;encodingProfile&quot;:&quot;ign-default&quot;,&quot;watermarkProfile&quot;:&quot;default&quot;,&quot;mezzanineUrl&quot;:&quot;http:\/\/o.videoarchive.ign.com\/2012\/10\/17\/1350497830410dota2_commentary_1017.mp4&quot;,&quot;createdAt&quot;:&quot;2012-10-17T18:01:24+0000&quot;,&quot;updatedAt&quot;:&quot;2016-08-31T20:39:49+0000&quot;},&quot;talent&quot;:[],&quot;id&quot;:&quot;c36fffe05a47c348d32bdfb353932aea&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;Learning to Play Dota 2&quot;,&quot;publishDate&quot;:&quot;2012-10-17T18:01:00+0000&quot;,&quot;description&quot;:&quot;Join Anthony Gallegos and our resident seasoned player, J Kartje, as they discuss some of the basics of playing Dota, as well as some strategies for Bat Rider.&quot;,&quot;title&quot;:&quot;Learning to Play Dota 2&quot;,&quot;longTitle&quot;:&quot;&quot;,&quot;duration&quot;:2762,&quot;url&quot;:&quot;https:\/\/www.ign.com\/videos\/2012\/10\/17\/learning-to-play-dota-2&quot;,&quot;locale&quot;:&quot;us&quot;,&quot;slug&quot;:&quot;learning-to-play-dota-2&quot;,&quot;ageGate&quot;:&quot;18&quot;,&quot;classification&quot;:&quot;Gameplay&quot;,&quot;subClassification&quot;:&quot;none&quot;,&quot;networks&quot;:[&quot;ign&quot;],&quot;state&quot;:&quot;published&quot;,&quot;noads&quot;:false,&quot;prime&quot;:false,&quot;subscription&quot;:false,&quot;downloadable&quot;:true,&quot;creator&quot;:&quot;ntodd.1987@gmail.com&quot;,&quot;origin&quot;:&quot;Provided&quot;,&quot;genre&quot;:&quot;&quot;},&quot;promo&quot;:{&quot;videoUrl&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;title&quot;:&quot;Learning to Play Dota 2&quot;,&quot;summary&quot;:&quot;Join Anthony Gallegos and our resident seasoned player, J Kartje, as they discuss some of the basics of playing Dota, as well as some strategies for Bat Rider.&quot;,&quot;image&quot;:&quot;&quot;,&quot;promoImages&quot;:[]},&quot;tags&quot;:[{&quot;slug&quot;:&quot;gameplay&quot;,&quot;tagType&quot;:&quot;classification&quot;,&quot;displayName&quot;:&quot;Gameplay&quot;},{&quot;slug&quot;:&quot;pc&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;PC&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;games&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;games&quot;},{&quot;slug&quot;:&quot;macintosh&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Macintosh&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;games&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;games&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;developers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;mac&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Mac&quot;},{&quot;slug&quot;:&quot;moba-(multiplayer-online-battle-arena)&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;MOBA (Multiplayer Online Battle Arena)&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;publishers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;rpg&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;RPG&quot;}],&quot;mediaRelations&quot;:[]},&quot;loop&quot;:{&quot;startPosition&quot;:&quot;&quot;,&quot;endPosition&quot;:&quot;&quot;,&quot;loopMode&quot;:&quot;&quot;,&quot;loopTitle&quot;:&quot;&quot;,&quot;stickerGrid&quot;:&quot;&quot;,&quot;loopCreator&quot;:&quot;&quot;},&quot;mutedPrerollDelay&quot;:null,&quot;enableMutedPreroll&quot;:false}"
+                    data-video-slug="learning-to-play-dota-2"
+                    data-video-id="c36fffe05a47c348d32bdfb353932aea"
+                    data-is-singleton=""
+                    data-set-initial-video="1"
+                >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="theater-social"></section>
+</div>
+
+</p> </p> <p dir="ltr">Even after all that, to avoid being caught at a disadvantage you must be taught the nuanced techniques that can make or break games, which Dota 2 seems to almost belligerently hide from new players. Tricks like pulling a group of neutral monsters out of their home so that a new group can spawn to effectively double the rewards are never hinted at. This forced me to read and educate my outside of Dota 2, which had the positive effect of introducing me to the player community and making me feel like a part of it. It's almost like an oral tradition that binds together a tribe.</p> <p dir="ltr">This is a balancing system that could only exist in a game where everybody has access to all heroes, and Valve wisely obliges. All of Dota 2, including its growing cast of 102 characters, is available from the moment you complete the all-too-brief tutorial. And that delicate system can only survive if the items for sale have zero effect on gameplay.</p> <p dir="ltr">Again, Valve has come through. Only cosmetic enhancements, almost all of which are created by the community and held to a very high standard, and tournament goodies (such as tickets for viewing live events) are for sale. There’s not a single paid advantage that could have the slightest impact on the in-game balance, and that’s an amazing situation unrivalled among Dota 2’s closest competition.</p> <p dir="ltr">Pretty much everything I've praised Dota 2 for, outside of being totally free, is taken directly from the outstanding original mod. Where Valve has taken initiative to make Dota 2 a significantly better experience is in everything surrounding it, including improving the pre-game matchmaking interface, supporting the community of professional and avid players, and even allowing artists to create and sell cosmetic items on the Dota 2 store.</p> <p dir="ltr"> <p class="aligncenter"><script type="" src="//apps.ign.com/video-player/release/6.4.4/default.1818a8e8.js"></script>
+<script type="" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+<div class="theater-container">
+    <section class="theater-content">
+        <div class="theater-ui">
+            <span class="exit-theater flaticon stroke x-1"><span class="exit-theater-text">Exit Theatre Mode</span></span>
+            <div class="theater-social-ui">
+                <span class="social-drawer flaticon stroke slide-in-left-1"></span>
+            </div>
+        </div>
+        <div class="content-container">
+            <div class="content-player">
+                <div
+                    class="video-embed-content-v6"
+                    data-settings="{&quot;adlytics&quot;:{&quot;adsData&quot;:{&quot;adsDisabled&quot;:&quot;false&quot;,&quot;dfp_network&quot;:&quot;5691&quot;,&quot;dfp_adunit1&quot;:&quot;IGN&quot;,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;analyticsData&quot;:{&quot;url&quot;:&quot;http:\/\/widgets.ign.com\/video\/embed\/content?url=http%3A%2F%2Fwww.ign.com%2Fvideos%2F2013%2F02%2F14%2Fdota-2-tusk-hero-spotlight&amp;width=610&amp;mode=hls&amp;preRequestAd=false&amp;loops=&amp;playerContext=Embed&amp;localeCode=us&amp;autoplay=false&amp;debug=false&amp;debugFilter=&amp;enableSkippablePreroll=true&amp;externalPoster=false&amp;isSingleton=false&amp;moatPartnerCode=ignimajsint947428450867&amp;muted=false&amp;muxExperiment=&amp;muxPropertyKey=p95JquE9QWzrfJjRxcF6etNS5&amp;pageType=embed&amp;playerTrigger=&amp;recommendationRule=test-rule-1&amp;setInitialVideo=true&amp;showRecircScreen=true&amp;skipInitialAd=false&amp;special=&amp;userInitiated=true&amp;videoId=&amp;videoSlug=&amp;startPosition=&amp;endPosition=&amp;loopMode=&amp;loopTitle=&amp;stickerGrid=&amp;loopCreator=&amp;disable_css=true&amp;disable_js=true&amp;use_esi=false&quot;,&quot;module&quot;:&quot;WidgetsIgnCom&quot;,&quot;controller&quot;:&quot;index&quot;,&quot;action&quot;:&quot;index&quot;,&quot;adsDisabled&quot;:false,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;special&quot;:null},&quot;analytics&quot;:{&quot;pageType&quot;:&quot;embed&quot;,&quot;playerContext&quot;:&quot;Embed&quot;,&quot;playerTrigger&quot;:&quot;&quot;},&quot;autoplay&quot;:false,&quot;debug&quot;:false,&quot;debugFilter&quot;:&quot;&quot;,&quot;enableSkippablePreroll&quot;:true,&quot;externalPoster&quot;:false,&quot;localeCode&quot;:&quot;us&quot;,&quot;moatPartnerCode&quot;:&quot;ignimajsint947428450867&quot;,&quot;muted&quot;:false,&quot;mux&quot;:{&quot;debug&quot;:false,&quot;data&quot;:{&quot;experiment_name&quot;:&quot;&quot;,&quot;property_key&quot;:&quot;p95JquE9QWzrfJjRxcF6etNS5&quot;}},&quot;player&quot;:{&quot;mode&quot;:&quot;hls&quot;,&quot;preferredRendition&quot;:&quot;auto&quot;},&quot;preRequestAd&quot;:false,&quot;recommendationRule&quot;:&quot;test-rule-1&quot;,&quot;showRecircScreen&quot;:true,&quot;skipInitialAd&quot;:false,&quot;special&quot;:&quot;&quot;,&quot;userInitiated&quot;:true,&quot;user&quot;:{&quot;adsDisabled&quot;:false,&quot;nickname&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;},&quot;video&quot;:{&quot;videoId&quot;:&quot;946959b28bca34706d141fb766fac7c9&quot;,&quot;commentThread&quot;:&quot;946959b28bca34706d141fb766fac7c9&quot;,&quot;totalViews&quot;:0,&quot;assetsByHeight&quot;:{&quot;234&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/946959b28bca34706d141fb766fac7c9-110000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},&quot;360&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/946959b28bca34706d141fb766fac7c9-1000000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},&quot;540&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/946959b28bca34706d141fb766fac7c9-2500000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},&quot;720&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/946959b28bca34706d141fb766fac7c9-3000000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}},&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/946959b28bca34706d141fb766fac7c9-110000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/946959b28bca34706d141fb766fac7c9-500000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:500000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/946959b28bca34706d141fb766fac7c9-1000000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/946959b28bca34706d141fb766fac7c9-2500000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/946959b28bca34706d141fb766fac7c9-3000000-1360891439-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;thumbnails&quot;:[{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0000_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0000.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0001_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0001.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0002_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0002.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0003_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0003.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0004_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/2013\/02\/15\/946959b28bca34706d141fb766fac7c9-1360891439\/frame_0004.jpg&quot;,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;objectRelations&quot;:[{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;83236&quot;,&quot;platform&quot;:&quot;PC&quot;,&quot;objectType&quot;:&quot;games&quot;}],&quot;askmenData&quot;:[],&quot;popularity&quot;:[],&quot;extra&quot;:{&quot;cdn&quot;:&quot;fastly&quot;,&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;fixedKeyFrameInterval&quot;:true,&quot;active&quot;:true},&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:176411383,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/946959b28bca34706d141fb766fac7c9-110000,640\/946959b28bca34706d141fb766fac7c9-500000,640\/946959b28bca34706d141fb766fac7c9-1000000,960\/946959b28bca34706d141fb766fac7c9-2500000,1280\/946959b28bca34706d141fb766fac7c9-3000000,-1360891439-w\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/946959b28bca34706d141fb766fac7c9-110000,640\/946959b28bca34706d141fb766fac7c9-500000,640\/946959b28bca34706d141fb766fac7c9-1000000,960\/946959b28bca34706d141fb766fac7c9-2500000,1280\/946959b28bca34706d141fb766fac7c9-3000000,-1360891439-w\/master.f4m&quot;,&quot;tubemogulId&quot;:4996429},&quot;category&quot;:[&quot;ign_all&quot;,&quot;pc_all&quot;],&quot;system&quot;:{&quot;encodingProfile&quot;:&quot;ign-default&quot;,&quot;watermarkProfile&quot;:&quot;default&quot;,&quot;mezzanineUrl&quot;:&quot;http:\/\/o.videoarchive.ign.com\/2013\/2\/14\/1360890038544Dota2_TuskCommentary.mov&quot;,&quot;createdAt&quot;:&quot;2013-02-15T00:57:51+0000&quot;,&quot;updatedAt&quot;:&quot;2016-10-03T11:19:02+0000&quot;,&quot;processingProperties&quot;:{&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/416\/946959b28bca34706d141fb766fac7c9-110000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/640\/946959b28bca34706d141fb766fac7c9-500000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:500000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/853\/946959b28bca34706d141fb766fac7c9-1000000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:480,&quot;width&quot;:853},{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/960\/946959b28bca34706d141fb766fac7c9-1500000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:1500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/1280\/946959b28bca34706d141fb766fac7c9-2500000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:720,&quot;width&quot;:1280},{&quot;url&quot;:&quot;https:\/\/assets3.ign.com\/videos\/zencoder\/2015\/7\/31\/1920\/946959b28bca34706d141fb766fac7c9-5000000-1438354053-w.mp4&quot;,&quot;bitrate&quot;:5000000,&quot;height&quot;:1080,&quot;width&quot;:1920}],&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:176411383,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/ignhdvod3-vh.akamaihd.net\/i\/assets3.ign.com\/videos\/zencoder\/,2015\/7\/31\/416\/946959b28bca34706d141fb766fac7c9-110000,2015\/7\/31\/640\/946959b28bca34706d141fb766fac7c9-500000,2015\/7\/31\/853\/946959b28bca34706d141fb766fac7c9-1000000,2015\/7\/31\/960\/946959b28bca34706d141fb766fac7c9-1500000,2015\/7\/31\/1280\/946959b28bca34706d141fb766fac7c9-2500000,2015\/7\/31\/1920\/946959b28bca34706d141fb766fac7c9-5000000,-1438354053-w.mp4.csmil\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/ignhdvod3-vh.akamaihd.net\/z\/assets3.ign.com\/videos\/zencoder\/,2015\/7\/31\/416\/946959b28bca34706d141fb766fac7c9-110000,2015\/7\/31\/640\/946959b28bca34706d141fb766fac7c9-500000,2015\/7\/31\/853\/946959b28bca34706d141fb766fac7c9-1000000,2015\/7\/31\/960\/946959b28bca34706d141fb766fac7c9-1500000,2015\/7\/31\/1280\/946959b28bca34706d141fb766fac7c9-2500000,2015\/7\/31\/1920\/946959b28bca34706d141fb766fac7c9-5000000,-1438354053-w.mp4.csmil\/manifest.f4m?hdcore&quot;,&quot;tubemogulId&quot;:4996429},&quot;extra&quot;:{&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;fixedKeyFrameInterval&quot;:true,&quot;active&quot;:true}}},&quot;talent&quot;:[],&quot;id&quot;:&quot;946959b28bca34706d141fb766fac7c9&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;Dota 2: Tusk Hero Spotlight&quot;,&quot;publishDate&quot;:&quot;2013-02-15T00:57:00+0000&quot;,&quot;description&quot;:&quot;Rolling around as a deadly snowball in Valve\u0027s online competitive game.&quot;,&quot;title&quot;:&quot;Dota 2: Tusk Hero Spotlight&quot;,&quot;longTitle&quot;:&quot;&quot;,&quot;duration&quot;:484,&quot;url&quot;:&quot;https:\/\/www.ign.com\/videos\/2013\/02\/14\/dota-2-tusk-hero-spotlight&quot;,&quot;locale&quot;:&quot;us&quot;,&quot;slug&quot;:&quot;dota-2-tusk-hero-spotlight&quot;,&quot;ageGate&quot;:&quot;none&quot;,&quot;classification&quot;:&quot;none&quot;,&quot;subClassification&quot;:&quot;none&quot;,&quot;networks&quot;:[&quot;ign&quot;],&quot;state&quot;:&quot;published&quot;,&quot;noads&quot;:false,&quot;prime&quot;:false,&quot;subscription&quot;:false,&quot;downloadable&quot;:true,&quot;creator&quot;:&quot;charles@ign.com&quot;,&quot;origin&quot;:&quot;Produced (Intermediate)&quot;,&quot;genre&quot;:&quot;Gaming&quot;},&quot;promo&quot;:{&quot;videoUrl&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;title&quot;:&quot;Dota 2: Mastering Tusk\u0027s Walrus Punch&quot;,&quot;summary&quot;:&quot;Rolling around as a deadly snowball in Valve\u0027s online competitive game.&quot;,&quot;image&quot;:&quot;&quot;,&quot;promoImages&quot;:[]},&quot;tags&quot;:[{&quot;slug&quot;:&quot;none&quot;,&quot;tagType&quot;:&quot;classification&quot;,&quot;displayName&quot;:&quot;none&quot;},{&quot;slug&quot;:&quot;pc&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;PC&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;games&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;games&quot;},{&quot;slug&quot;:&quot;moba-(multiplayer-online-battle-arena)&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;MOBA (Multiplayer Online Battle Arena)&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;publishers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;rpg&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;RPG&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;developers&quot;,&quot;displayName&quot;:&quot;Valve&quot;}],&quot;mediaRelations&quot;:[]},&quot;loop&quot;:{&quot;startPosition&quot;:&quot;&quot;,&quot;endPosition&quot;:&quot;&quot;,&quot;loopMode&quot;:&quot;&quot;,&quot;loopTitle&quot;:&quot;&quot;,&quot;stickerGrid&quot;:&quot;&quot;,&quot;loopCreator&quot;:&quot;&quot;},&quot;mutedPrerollDelay&quot;:null,&quot;enableMutedPreroll&quot;:false}"
+                    data-video-slug="dota-2-tusk-hero-spotlight"
+                    data-video-id="946959b28bca34706d141fb766fac7c9"
+                    data-is-singleton=""
+                    data-set-initial-video="1"
+                >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="theater-social"></section>
+</div>
+
+</p> </p> <p dir="ltr">Perhaps most important are the steps Valve has taken toward taming the hyper-competitive community. Besides matchmaking, guilds, and a wide variety of different game modes, the things that Valve hasn’t done are just as noticeable than the things it has. For example, there’s no concede button to throw in the towel on a losing match, and though you earn a matchmaking rank to ensure you're placed competitively, it's not visible to other players. If withholding those features seems like a bad idea on the surface, their sacrifice was not in vain – it prevents irritable players from dropping out of a match at the first sign of defeat, or when they're teamed up with people whose stats don't meet their exacting standards – a real frustration in other MOBAs.</p> <p dir="ltr">LIkewise, Valve recognized that less is more when it comes to unlockables. There’s no progression outside of the game that will have the slightest mechanical effect inside of it. Without artificial goals to aim for, the matches are left with a strong and refreshing sense of fairness and purity, where everything that can influence success or failure is right there on the battlefield and in your head.</p> <p dir="ltr">In my personal experience, Valve’s ideas work. I've played for over 1,000 hours, and my encounters with people unwilling to act decently towards their fellow players have become increasingly rare over the course of Dota 2’s development. It has never been more friendly than it is now – though that’s a relative comparison. Even with these enhancements, the best way to play Dota 2 will always be with a team of four friends.</p> <p dir="ltr"> <p class="aligncenter"><script type="" src="//apps.ign.com/video-player/release/6.4.4/default.1818a8e8.js"></script>
+<script type="" src="//imasdk.googleapis.com/js/sdkloader/ima3.js"></script>
+
+<div class="theater-container">
+    <section class="theater-content">
+        <div class="theater-ui">
+            <span class="exit-theater flaticon stroke x-1"><span class="exit-theater-text">Exit Theatre Mode</span></span>
+            <div class="theater-social-ui">
+                <span class="social-drawer flaticon stroke slide-in-left-1"></span>
+            </div>
+        </div>
+        <div class="content-container">
+            <div class="content-player">
+                <div
+                    class="video-embed-content-v6"
+                    data-settings="{&quot;adlytics&quot;:{&quot;adsData&quot;:{&quot;adsDisabled&quot;:&quot;false&quot;,&quot;dfp_network&quot;:&quot;5691&quot;,&quot;dfp_adunit1&quot;:&quot;IGN&quot;,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;analyticsData&quot;:{&quot;url&quot;:&quot;http:\/\/widgets.ign.com\/video\/embed\/content?url=http%3A%2F%2Fwww.ign.com%2Fvideos%2F2012%2F10%2F31%2Fdota-2-diretide-trailer&amp;width=610&amp;mode=hls&amp;preRequestAd=false&amp;loops=&amp;playerContext=Embed&amp;localeCode=us&amp;autoplay=false&amp;debug=false&amp;debugFilter=&amp;enableSkippablePreroll=true&amp;externalPoster=false&amp;isSingleton=false&amp;moatPartnerCode=ignimajsint947428450867&amp;muted=false&amp;muxExperiment=&amp;muxPropertyKey=p95JquE9QWzrfJjRxcF6etNS5&amp;pageType=embed&amp;playerTrigger=&amp;recommendationRule=test-rule-1&amp;setInitialVideo=true&amp;showRecircScreen=true&amp;skipInitialAd=false&amp;special=&amp;userInitiated=true&amp;videoId=&amp;videoSlug=&amp;startPosition=&amp;endPosition=&amp;loopMode=&amp;loopTitle=&amp;stickerGrid=&amp;loopCreator=&amp;disable_css=true&amp;disable_js=true&amp;use_esi=false&quot;,&quot;module&quot;:&quot;WidgetsIgnCom&quot;,&quot;controller&quot;:&quot;index&quot;,&quot;action&quot;:&quot;index&quot;,&quot;adsDisabled&quot;:false,&quot;resource&quot;:&quot;video&quot;,&quot;pagetype&quot;:&quot;unmatched&quot;,&quot;template&quot;:&quot;undefined-desktop-01&quot;},&quot;special&quot;:null},&quot;analytics&quot;:{&quot;pageType&quot;:&quot;embed&quot;,&quot;playerContext&quot;:&quot;Embed&quot;,&quot;playerTrigger&quot;:&quot;&quot;},&quot;autoplay&quot;:false,&quot;debug&quot;:false,&quot;debugFilter&quot;:&quot;&quot;,&quot;enableSkippablePreroll&quot;:true,&quot;externalPoster&quot;:false,&quot;localeCode&quot;:&quot;us&quot;,&quot;moatPartnerCode&quot;:&quot;ignimajsint947428450867&quot;,&quot;muted&quot;:false,&quot;mux&quot;:{&quot;debug&quot;:false,&quot;data&quot;:{&quot;experiment_name&quot;:&quot;&quot;,&quot;property_key&quot;:&quot;p95JquE9QWzrfJjRxcF6etNS5&quot;}},&quot;player&quot;:{&quot;mode&quot;:&quot;hls&quot;,&quot;preferredRendition&quot;:&quot;auto&quot;},&quot;preRequestAd&quot;:false,&quot;recommendationRule&quot;:&quot;test-rule-1&quot;,&quot;showRecircScreen&quot;:true,&quot;skipInitialAd&quot;:false,&quot;special&quot;:&quot;&quot;,&quot;userInitiated&quot;:true,&quot;user&quot;:{&quot;adsDisabled&quot;:false,&quot;nickname&quot;:&quot;&quot;,&quot;id&quot;:&quot;&quot;},&quot;video&quot;:{&quot;videoId&quot;:&quot;9ada1a50005f378d5d38b0eb8ed7ddde&quot;,&quot;commentThread&quot;:&quot;9ada1a50005f378d5d38b0eb8ed7ddde&quot;,&quot;totalViews&quot;:22054,&quot;assetsByHeight&quot;:{&quot;234&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/9ada1a50005f378d5d38b0eb8ed7ddde-110000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},&quot;360&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/9ada1a50005f378d5d38b0eb8ed7ddde-1000000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},&quot;540&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/9ada1a50005f378d5d38b0eb8ed7ddde-2500000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},&quot;720&quot;:{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/9ada1a50005f378d5d38b0eb8ed7ddde-3000000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}},&quot;assets&quot;:[{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/416\/9ada1a50005f378d5d38b0eb8ed7ddde-110000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:110000,&quot;height&quot;:234,&quot;width&quot;:416},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/9ada1a50005f378d5d38b0eb8ed7ddde-500000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:500000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/640\/9ada1a50005f378d5d38b0eb8ed7ddde-1000000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:1000000,&quot;height&quot;:360,&quot;width&quot;:640},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/960\/9ada1a50005f378d5d38b0eb8ed7ddde-2500000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:2500000,&quot;height&quot;:540,&quot;width&quot;:960},{&quot;url&quot;:&quot;https:\/\/assets14.ign.com\/videos\/zencoder\/1280\/9ada1a50005f378d5d38b0eb8ed7ddde-3000000-1351721813-w.mp4&quot;,&quot;bitrate&quot;:3000000,&quot;height&quot;:720,&quot;width&quot;:1280}],&quot;thumbnails&quot;:[{&quot;styleUrl&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2012\/10\/31\/dota2_reveal_{size}.jpg&quot;,&quot;url&quot;:&quot;https:\/\/assets1.ignimgs.com\/vid\/thumbnails\/user\/2012\/10\/31\/dota2_reveal.jpg&quot;}],&quot;objectRelations&quot;:[{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;83236&quot;,&quot;platform&quot;:&quot;PC&quot;,&quot;objectType&quot;:&quot;game&quot;},{&quot;objectName&quot;:&quot;Dota 2&quot;,&quot;legacyId&quot;:&quot;89236&quot;,&quot;platform&quot;:&quot;Macintosh&quot;,&quot;objectType&quot;:&quot;game&quot;}],&quot;askmenData&quot;:[],&quot;popularity&quot;:{&quot;total&quot;:22054,&quot;sevenDays&quot;:27},&quot;extra&quot;:{&quot;cdn&quot;:&quot;fastly&quot;,&quot;videoSeries&quot;:&quot;none&quot;,&quot;live&quot;:false,&quot;regions&quot;:[&quot;all&quot;],&quot;active&quot;:true},&quot;refs&quot;:{&quot;youtubeChannelIds&quot;:[&quot;none&quot;],&quot;zencoderId&quot;:30762516,&quot;sponsorShipId&quot;:&quot;none&quot;,&quot;m3uUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/9ada1a50005f378d5d38b0eb8ed7ddde-110000,640\/9ada1a50005f378d5d38b0eb8ed7ddde-500000,640\/9ada1a50005f378d5d38b0eb8ed7ddde-1000000,960\/9ada1a50005f378d5d38b0eb8ed7ddde-2500000,1280\/9ada1a50005f378d5d38b0eb8ed7ddde-3000000,-1351721813-w\/master.m3u8&quot;,&quot;f4mUrl&quot;:&quot;https:\/\/assets7.ign.com\/master\/videos\/zencoder\/,416\/9ada1a50005f378d5d38b0eb8ed7ddde-110000,640\/9ada1a50005f378d5d38b0eb8ed7ddde-500000,640\/9ada1a50005f378d5d38b0eb8ed7ddde-1000000,960\/9ada1a50005f378d5d38b0eb8ed7ddde-2500000,1280\/9ada1a50005f378d5d38b0eb8ed7ddde-3000000,-1351721813-w\/master.f4m&quot;,&quot;tubemogulId&quot;:4763051},&quot;category&quot;:[&quot;ign_all&quot;,&quot;pc_all&quot;],&quot;system&quot;:{&quot;encodingProfile&quot;:&quot;ign-default&quot;,&quot;watermarkProfile&quot;:&quot;default&quot;,&quot;mezzanineUrl&quot;:&quot;http:\/\/o.videoarchive.ign.com\/2012\/10\/31\/1351721562032Dota 2 - Diretide.mp4&quot;,&quot;createdAt&quot;:&quot;2012-10-31T22:12:00+0000&quot;,&quot;updatedAt&quot;:&quot;2016-09-01T03:19:33+0000&quot;},&quot;talent&quot;:[],&quot;id&quot;:&quot;9ada1a50005f378d5d38b0eb8ed7ddde&quot;,&quot;metadata&quot;:{&quot;name&quot;:&quot;Dota 2 Diretide Trailer&quot;,&quot;publishDate&quot;:&quot;2012-10-31T22:12:00+0000&quot;,&quot;description&quot;:&quot;A teaser for a new Halloween-themed mode of play available now in Valve\u0027s Dota 2.&quot;,&quot;title&quot;:&quot;Diretide Trailer&quot;,&quot;longTitle&quot;:&quot;&quot;,&quot;duration&quot;:63,&quot;url&quot;:&quot;https:\/\/www.ign.com\/videos\/2012\/10\/31\/dota-2-diretide-trailer&quot;,&quot;locale&quot;:&quot;us&quot;,&quot;slug&quot;:&quot;dota-2-diretide-trailer&quot;,&quot;ageGate&quot;:&quot;none&quot;,&quot;classification&quot;:&quot;Trailer&quot;,&quot;subClassification&quot;:&quot;none&quot;,&quot;networks&quot;:[&quot;ign&quot;],&quot;state&quot;:&quot;published&quot;,&quot;noads&quot;:false,&quot;prime&quot;:false,&quot;subscription&quot;:false,&quot;downloadable&quot;:true,&quot;creator&quot;:&quot;ntodd.1987@gmail.com&quot;,&quot;origin&quot;:&quot;Provided&quot;,&quot;genre&quot;:&quot;Gaming&quot;},&quot;promo&quot;:{&quot;videoUrl&quot;:&quot;&quot;,&quot;url&quot;:&quot;&quot;,&quot;title&quot;:&quot;A New Mode in Valve\u0027s Dota 2&quot;,&quot;summary&quot;:&quot;A teaser for a Halloween-themed mode of play available now in Valve\u0027s Dota 2.&quot;,&quot;image&quot;:&quot;&quot;,&quot;promoImages&quot;:[]},&quot;tags&quot;:[{&quot;slug&quot;:&quot;dota&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;Dota&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;gabe-newell&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;Gabe Newell&quot;},{&quot;slug&quot;:&quot;halloween&quot;,&quot;tagType&quot;:&quot;freeForm&quot;,&quot;displayName&quot;:&quot;Halloween&quot;},{&quot;slug&quot;:&quot;trailer&quot;,&quot;tagType&quot;:&quot;classification&quot;,&quot;displayName&quot;:&quot;Trailer&quot;},{&quot;slug&quot;:&quot;pc&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;PC&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;game&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;game&quot;},{&quot;slug&quot;:&quot;macintosh&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Macintosh&quot;},{&quot;slug&quot;:&quot;dota-2&quot;,&quot;tagType&quot;:&quot;objectName&quot;,&quot;displayName&quot;:&quot;Dota 2&quot;},{&quot;slug&quot;:&quot;game&quot;,&quot;tagType&quot;:&quot;objectType&quot;,&quot;displayName&quot;:&quot;game&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;developers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;mac&quot;,&quot;tagType&quot;:&quot;platform&quot;,&quot;displayName&quot;:&quot;Mac&quot;},{&quot;slug&quot;:&quot;moba-(multiplayer-online-battle-arena)&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;MOBA (Multiplayer Online Battle Arena)&quot;},{&quot;slug&quot;:&quot;valve&quot;,&quot;tagType&quot;:&quot;publishers&quot;,&quot;displayName&quot;:&quot;Valve&quot;},{&quot;slug&quot;:&quot;rpg&quot;,&quot;tagType&quot;:&quot;genre&quot;,&quot;displayName&quot;:&quot;RPG&quot;}],&quot;mediaRelations&quot;:[]},&quot;loop&quot;:{&quot;startPosition&quot;:&quot;&quot;,&quot;endPosition&quot;:&quot;&quot;,&quot;loopMode&quot;:&quot;&quot;,&quot;loopTitle&quot;:&quot;&quot;,&quot;stickerGrid&quot;:&quot;&quot;,&quot;loopCreator&quot;:&quot;&quot;},&quot;mutedPrerollDelay&quot;:null,&quot;enableMutedPreroll&quot;:false}"
+                    data-video-slug="dota-2-diretide-trailer"
+                    data-video-id="9ada1a50005f378d5d38b0eb8ed7ddde"
+                    data-is-singleton=""
+                    data-set-initial-video="1"
+                >
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="theater-social"></section>
+</div>
+
+</p> </p> <p dir="ltr">Valve’s dogged desire to preserve DOTA's design perfectly is a double-edged sword in some ways. There are a few design choices that feel needlessly archaic and slavish to the original, such as the way Blink Dagger will arbitrarily shave 200 units of movement from your blink if you overestimate the distance, or how the towers will occasionally refuse to acknowledge your attempts to turn aggro away from yourself during a siege. They feel like relics of previous era, traditions carried on for the sake of tradition.</p> <p>As for its future prospects, things look bright for Dota 2. Each year of its long beta period is defined by huge balance patches that make widespread changes to keep things fresh and interesting. Given Valve’s excellent ongoing support of Team Fortress 2, its other free-to-play game, it’s a safe bet that there will always be something to learn and something new to master for the foreseeable future. Patches are released on a weekly basis, and on any given day there are multiple professional games to watch. Even the cosmetics are constantly changing, with community chests and themed events occurring regularly throughout the year. Dota 2 isn’t static in any sense of the word, from the wild variety of each game to the overarching sense that it will never be finished being made.</p> 
+                                    <div class="review-bottom">
+                        <div class="verdict-container">
+                            <!-- poilib start -->
+<h2 class="articleSubHeader icon-pointy">The Verdict</h2><!-- poilib end -->
+<p><a class="autolink" title="Dota 2" href="/games/dota-2" data-legacy-id="83236" data-locale="us" data-object-type="game" data-object-relation-ids="83236">Dota 2</a> deserves its intimidating reputation, and it probably won’t suit you if you’re looking to play casually. There’s a huge time investment before you can even enjoy a game, let alone feel competent at it. But once you start to learn its secrets, there’s a wild and exciting variety of play here that’s unmatched, even by its peers. It’s a challenge of knowledge as well as reflexes, and success is a rush. The fact that it’s completely and totally free to play in the way we wish all free-to-play games could be isn’t just one of the most generous propositions anywhere in gaming, it creates a level playing field where skill and cooperation is paramount. May the best team win.</p> <script type="text/template" class="template" id="hover-card-object-template">
+    <%
+        var display = 'both'
+        if( data.theme ){
+            if(data.theme == 'autolink'){
+                display = 'autolink';
+            } else if(data.theme == 'hovercard'){
+                display = 'hovercard';
+            }
+        }
+    %>
+
+    <% if (display == 'both' || display == 'autolink') { %>
+    <div id="zd-commerce-commerce-autolink" class="zd-commerce-autolink" data-object-id="<%= data.objectLegacyId %>" data-object-type="<%= data.objectType %>">
+        <div class="autocommerce-widget<% if (data.objectBoxArt == '') { %> autocommerce-widget-no-boxart<% } %>" data-commerce-link="http://www.ign.com">
+            <span class="autocommerce-widget-icon"></span>
+            <% if (data.objectBoxArt !== '') { %>
+            <div class="autocommerce-widget-boxart"><img src="<%= data.objectBoxArt %>"></div>
+            <% } %>
+            <div class="autocommerce-widget-body zdcse-details" data-affiliate-ign="<%= data.objectLegacyId %>">
+                <p class="autocommerce-widget-title"><%= data.objectName %></p>
+                <span class="autocommerce-widget-price">
+                    <a href="#" class="zdcse product-link" data-affiliate-ign="<%= data.objectLegacyId %>" title="Buy %productName% at %seller%" style="display:none;">
+                        <span class="displayPrice">%displayPrice%</span> <span class="autocommerce-widget-merchant">on <span class="seller">%seller%</span></span>
+                    </a>
+                </span>
+                <span class="autocommerce-widget-platform"><% if (data.primaryPlatform) { %><%= data.primaryPlatform %><% } %></span>
+            </div>
+            <div class="autocommerce-widget-no-details"></div>
+        </div>
+    </div>
+    <% } %>
+    <% if (display == 'both' || display == 'hovercard') { %>
+    <div class="widget-objectcard-hover">
+        <div class="objectcard-object-media">
+            <div class="objectcard-image <%= data.objectType !== 'game' ? 'large' : '' %>" style="background-image: url(<%= data.objectBoxArt %>);" />
+
+            <div class="objectcard-sections <%= data.objectType !== 'game' ? 'large' : '' %>">
+                <ul>
+                <% _.each( data.objectSections, function( url, section ){ %>
+                    <li><a href="<%= url %>"><%= section %></a></li>
+                <% }); %>
+                </ul>
+            </div>
+
+            <% if (data.objectEditorsChoice === true) { %>
+            <div class="objectcard-editors-choice">
+                Editors&#39; Choice
+            </div>
+            <% } %>
+
+            <% if (data.objectType === 'game') { %>
+            <div class="objectcard-object-follow-container">
+                <div class="objectcard-object-follow" data-legacy-id="<%= data.objectLegacyId %>">
+                    <span class="follow-text">Follow</span><span class="plus">+</span>
+                </div>
+            </div>
+            <% } %>
+            <div class="objectcard-object-hover-platforms">
+                <ul class="objectcard-object-hover-platforms-list">
+                    <% _.each( data.objectMediaTypes, function( mediaType ){ %>
+                    <li><a href="<%= mediaType.url %>"><%= mediaType.media %></a></li>
+                    <% }); %>
+                </ul>
+            </div>
+        </div>
+        <div class="objectcard-object-details <%= data.objectType !== 'game' ? 'entertainment' : '' %>">
+            <div class="objectcard-object-hover-name">
+                <%= data.objectName %>
+            </div>
+            <div class="objectcard-object-hover-release">
+                <%= data.objectReleaseText + ' ' + data.objectDate %>
+            </div>
+            <div class="objectcard-object-description">
+                <span class="objectcard-object-provider"><%= data.objectProvider %> &#8594;</span><%= data.objectDescription %>
+            </div>
+            <div class="objectcard-read-more"><a href="<%= data.objectUrl %>">Read More...</a></div>
+            <% if (data.objectRating !== false) { %>
+            <div class="objectcard-rating">
+                <img src="<%= data.objectRating.ratingIcon %>" />
+                <span class="objectcard-rating-text<% if (!data.objectRating.ratingSubText || (data.objectRating.ratingSubText === '')) { %> no-sub-text<% } %>">
+                <%= data.objectRating.ratingText %>
+                </span>
+                <% if (data.objectRating.ratingSubText && (data.objectRating.ratingSubText !== '')) { %>
+                <span class="objectcard-rating-sub-text">
+                <%= data.objectRating.ratingSubText %>
+                </span>
+                <% } %>
+            </div>
+            <% } %>
+            <div class="objectcard-commerce-wrapper">
+                <a class="zdcse objectcard-display-button" data-affiliate-ign="<%= data.objectLegacyId %>" style="display:none"><span class="cta"><%= data.objectCommerceText %></span></a>
+                <a class="zdcse" data-affiliate-ign="<%= data.objectLegacyId %>" style="display:none">
+                    <span class="objectcard-display-price">%displayPrice%</span>
+                </a>
+            </div>
+        </div>
+        <% if (data.objectReviewScore !== 0) { %>
+        <div class="objectcard-review-score">
+            <span class="objectcard-review-score-hex"></span>
+            <span class="review-score"><%= data.objectReviewScore %></div>
+        </div>
+        <% } %>
+    </div>
+    <% } %>
+</script>
+
+<div class="widget-objectcard" data-mobile="0">
+    <div class="objectcard-object-wrapper">
+        <div class="objectcard-object-details">
+            <div class="in-this-article icon-pointy-before">IN THIS ARTICLE</div>
+            <a class="hover-link" data-legacy-id="83236" data-locale="US" href="/games/dota-2">
+                <span class="objectcard-object-name">
+                    Dota 2                </span>
+                <span class="objectcard-object-release">
+                    Released Jul. 9th, 2013                </span>
+            </a>
+        </div>
+
+        <div class="objectcard-object-platforms">
+                    <div class="objectcard-object-platforms-first">
+                    <a href="/games/dota-2">Mac</a>
+                                <a href="/games/dota-2">PC</a>
+                        </div>
+                            </div>
+    </div>
+</div>
+
+                        </div>
+                        <div id="knight" class="chess article"></div>                    </div>
+                                            </div>
+
+            <div class="article_pager">
+                
+            </div>
+
+                            </article>
+        
+<figure class="breakdown-box  editors-choice " style="background-image: url(https://assets2.ignimgs.com/2013/07/24/dota2071913176jpg-e9301e_960w.jpg);" >
+            <meta itemprop="award" content="Editors' Choice" />
+        <div class="content-container">
+        <div class="blurb-container">
+            <div class="score-text">
+                Amazing            </div>
+            <div class="blurb" itemprop="itemReviewed" itemscope itemtype="http://schema.org/Product">
+                                <meta itemprop="name" content="Dota 2" />
+                                <svg class="blurb-arrow" viewBox="0 0 100 100" preserveAspectRatio="xMidYMid">
+                    <path d="M87.391,50L59.009,21.538c-0.428-0.428-0.8-0.784-1.103-1.066c-2.042-1.857-4.643-2.347-6.822-0.364
+                            c-2.349,2.138-2.16,5.052-0.094,7.277c0.281,0.309,0.634,0.678,1.066,1.106l16.766,16.766H19.203c-1.527,0-3.214-0.095-4.558,0.752
+                            c-1.386,0.874-2.036,2.392-2.036,3.991c0,1.598,0.648,3.124,2.036,3.996c1.346,0.845,3.029,0.751,4.558,0.751h49.613L52.05,71.513
+                            c-0.431,0.428-0.784,0.8-1.066,1.106c-1.954,2.126-2.299,4.901-0.141,7.059c2.188,2.188,4.891,1.806,7.056-0.141
+                            c0.303-0.281,0.678-0.638,1.103-1.066L87.391,50z"/>
+                </svg>
+                Dota 2 is an ocean-deep pool of rewarding nuance and strategy, but it will drown newcomers.            </div>
+            <div class="byline">
+                <span class="publish-date">24 Jul 2013</span>
+                            </div>
+        </div>
+                    <div class="pros-cons-container">
+                            <ul class="pros-cons-list">
+                                            <li class="pros-item">Deeply rewarding</li>
+                                            <li class="pros-item">Incredible longevity</li>
+                                            <li class="pros-item">Hugely varied</li>
+                                            <li class="pros-item">Completely free</li>
+                                    </ul>
+                            <ul class="pros-cons-list">
+                                            <li class="cons-item">Tough to learn</li>
+                                    </ul>
+                        </div>
+            </div>
+    <div class="score-wrapper">
+        <span class="score-hex-bg hexagon-wrapper">
+            <span class="hexagon"></span>
+        </span>
+        <span class="score-hex hexagon-wrapper">
+            <span class="hexagon"></span>
+        </span>
+        <span class="score" itemprop="reviewRating" itemscope itemtype="http://schema.org/Rating">
+            <span itemprop="ratingValue">
+            9.4            </span>
+                        <meta itemprop="bestRating" content="10" />
+            <meta itemprop="worstRating" content="0" />
+                    </span>
+        <a class="review-standards" itemprop="publishingPrinciples" href="/wikis/ign/Reviews">i
+            <span class="tool-tip">Read our review standards</span>
+        </a>
+    </div>
+    </figure>
+<div class="zd-commerce-review-box clear-fix" data-objectid="83236">
+    <div class="zd-commerce-review-box-raw">
+        <script async defer type="text/javascript" src="https://static.ziffprod.com/buyitnow/2.0.0/buyitnow.min.js?ignId=83236&count=3&currency=USD&lowPrice=true&freeShipping=true&logo=none&referrer=www.ign.com&onload=IGN.ReviewBoxCommerce.init"></script>
+    </div>
+    <div class="zd-commerce-review-box-proper">
+        <div class="zd-commerce-review-box-title">Buying Guide <span>Powered by IGN Deals</span></div>
+        <div class="zd-commerce-review-box-deals">
+            <div class="meta">            
+                                  <img class="product-image" src="https://wirelessmedia.ign.com/wireless/image/object/083/083236/DOTA-2_PCDLboxart_160w.jpg" alt="Dota 2" />
+                            </div>
+            
+        </div>
+    </div>
+</div>
+        <div id="pawn12" class="chess"></div>
+                <section class="article-tail clear-fix">
+                            <aside class="ign-grid-right-rail">
+                    
+<div id="related-wiki">
+    <a href="https://www.ign.com/wikis/dota-2" class="wiki-guide icon-pointy">Wiki Guide</a>
+            <div class="wiki-section">
+            <a href="https://www.ign.com/wikis/dota-2/Heroes" class="wiki-section-headline">Dota 2 Heroes</a>
+            <div class="wiki-subsections ">
+                                                        <a href="https://www.ign.com/wikis/dota-2/Abaddon" class="wiki-subsection">Abaddon,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Alchemist" class="wiki-subsection">Alchemist,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Ancient_Apparition" class="wiki-subsection">Ancient Apparition,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Anti-Mage" class="wiki-subsection">Anti-Mage,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Arc_Warden" class="wiki-subsection">Arc Warden,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Axe" class="wiki-subsection">Axe,</a>
+                                                </div>
+                    </div>
+            <div class="wiki-section">
+            <a href="https://www.ign.com/wikis/dota-2/Game_Modes" class="wiki-section-headline">Game Modes</a>
+            <div class="wiki-subsections no-subsections">
+                                                                                                                                                                                                                                                    </div>
+                    </div>
+            <div class="wiki-section">
+            <a href="https://www.ign.com/wikis/dota-2/Items" class="wiki-section-headline">Items</a>
+            <div class="wiki-subsections ">
+                                                        <a href="https://www.ign.com/wikis/dota-2/Arcane" class="wiki-subsection">Arcane,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Armaments" class="wiki-subsection">Armaments,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Armor" class="wiki-subsection">Armor,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Artifacts" class="wiki-subsection">Artifacts,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Attributes" class="wiki-subsection">Attributes,</a>
+                                                                            <a href="https://www.ign.com/wikis/dota-2/Caster" class="wiki-subsection">Caster,</a>
+                                                </div>
+                    </div>
+        <a href="https://www.ign.com/wikis/dota-2" class="article-count icon-pointy">
+        265 Pages    </a>
+</div>
+
+                </aside>
+                                        <aside>
+                
+
+                    <div class="atw-container zergnet-container">
+        <div id="zergnet-widget-41293"></div>
+        <script language="javascript" type="text/javascript">
+            window.addEventListener('load', function () {
+                var zergnet = document.createElement('script');
+                zergnet.type = 'text/javascript'; zergnet.async = true;
+                zergnet.src = 'https://www.zergnet.com/zerg.js?id=41293';
+                var znscr = document.getElementsByTagName('script')[0];
+                znscr.parentNode.insertBefore(zergnet, znscr);
+            });
+        </script>
+        <div id="zergnet-widget-41295"></div>
+        <script language="javascript" type="text/javascript">
+            window.addEventListener('load', function () {
+                var zergnet = document.createElement('script');
+                zergnet.type = 'text/javascript'; zergnet.async = true;
+                zergnet.src = 'https://www.zergnet.com/zerg.js?id=41295';
+                var znscr = document.getElementsByTagName('script')[0];
+                znscr.parentNode.insertBefore(zergnet, znscr);
+            });
+        </script>
+    </div>
+
+                </aside>
+
+                            
+            <aside class="ign-grid-right-rail">
+                
+<div id="ign-recommends">
+    <div class="title">IGN Recommends</div>
+    <div class="items">
+                    <a class="item" href="/articles/2019/01/10/terrible-x-men-dark-phoenix-posters-are-not-official">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2018/09/26/copy-1537982043505_180w.jpeg" alt="Terrible X-Men: Dark Phoenix Posters Are Not Official" />
+                                            </div>
+                                <div class="headline">Terrible X-Men: Dark Phoenix Posters Are Not Official</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/10/the-walking-dead-teaser-trailer-meet-the-whisperers-leaders-alpha-and-beta">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/09/screen-shot-2019-01-09-at-25630-pm-1547074630826_180w.png" alt="TWD Teaser Trailer: Meet the Whisperers&#039; Leaders, Alpha and Beta" />
+                                            </div>
+                                <div class="headline">TWD Teaser Trailer: Meet the Whisperers' Leaders, Alpha and Beta</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/09/glass-review">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/09/glass-blogroll-1547066548772_180w.jpg" alt="Glass Review" />
+                                            </div>
+                                <div class="headline">Glass Review</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/10/the-punisher-season-2-official-trailer">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/09/punisherpremiere-blogroll-1547078291113_180w.jpg" alt="The Punisher Season 2 Official Trailer" />
+                                            </div>
+                                <div class="headline">The Punisher Season 2 Official Trailer</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/10/daily-deals-skytech-geforce-gtx-1070-ti-gaming-pc-for-89999">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/10/blogroll-0110-1547143604421_180w.jpg" alt="Daily Deals: GeForce GTX 1070 Ti Gaming PC for $899.99" />
+                                            </div>
+                                <div class="headline">Daily Deals: GeForce GTX 1070 Ti Gaming PC for $899.99</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/10/the-academy-reportedly-wants-avengers-cast-for-hostless-oscars-telecast">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2018/04/05/imax-iw-1522943448040_180w.jpeg" alt="The Academy Reportedly Wants Avengers Cast for Hostless Oscars Telecast" />
+                                            </div>
+                                <div class="headline">The Academy Reportedly Wants Avengers Cast for Hostless Oscars Telecast</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/10/final-fantasy-10-10-2-and-12-arrive-on-switch-and-xbox-one-this-april">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/10/ffxii-1547131725376_180w.jpg" alt="Final Fantasy 10, 10-2, and 12 Arrive on Switch and Xbox One This April" />
+                                            </div>
+                                <div class="headline">Final Fantasy 10, 10-2, and 12 Arrive on Switch and Xbox One This April</div>
+            </a>
+                    <a class="item" href="/articles/2019/01/09/sony-shouldnt-rush-to-release-the-ps5-soon-beyond-episode-573">
+                                    <div class="image-container">
+                        <img class="image" src="" data-original="https://assets1.ignimgs.com/2019/01/09/beyond-ps5-blogroll-1-1547068336627_180w.jpg" alt="Sony Shouldn&#039;t Rush to Release the PS5 Soon" />
+                                            </div>
+                                <div class="headline">Sony Shouldn't Rush to Release the PS5 Soon</div>
+            </a>
+            </div>
+    <div id="pawn44" class="chess"></div></div>
+<div id="pawn29" class="chess"></div>            </aside>
+
+            <div class="article-comments wrap" id="article_comments">
+                
+<script type='text/javascript'>
+    var script = document.createElement('script');
+    script.onload = function() {
+        if (typeof(IGN) !== "undefined" && typeof(IGN.Coraltalk) !== "undefined" && typeof(IGN.Coraltalk.Comment) !== "undefined") {
+            window.dispatchEvent(new Event('coralTalkReady'));}
+        }
+    script.src = 'https://apps.ign.com/comments/release/embed.js';
+    script.async = false;
+    document.head.appendChild(script);
+</script>
+<a name="comments"></a>
+<div id='ign-coraltalk-comment' data-settings='{"talkUrl":"https:\/\/comments.ign.com\/","url":"http:\/\/www.ign.com\/articles\/2013\/07\/24\/dota-2-review","id":"51f00b1f402d1728f443801e","title":"Dota 2 Review","layout":"desktop","theme":"standard","socialDomain":"https:\/\/s.ign.com"}'></div>
+    <!-- <a class='notifications-trigger' href='/notifications'>Notifications<span class='notifications-counter'>&nbsp;</span></a> -->
+            </div>
+        </section>
+
+        <div id="rook" class="chess"></div>            </section>
+
+    <footer id="ign-footer">
+            <div id="footer-container" class="clear-fix">
+        <a href="http://www.ziffdavis.com/" class="copyright-container">
+            <br/>&copy; 1996-2019  Ziff Davis, LLC
+        </a>
+        <div class="links-container">
+            <div class="ign-newsletter-signup-container-footer" onclick="IGN.fetchModal();" data-locale="">
+    <form>
+        <input type="email" id="ign-newsletter-signup-footer-email-footer" name="email" value="" placeholder="E-mail Address" onfocus="$(this).blur();" aria-labelledby="ign-newsletter-signup-btn-footer">
+    </form>
+    <span id="ign-newsletter-signup-btn-footer">Join the IGN Newsletter</span>
+</div>
+            <nav class="links">
+                                    <a class="footer-link" href="https://corp.ign.com/contact" alt="">Contact Us</a>
+                                    <a class="footer-link" href="https://www.j2global.com/careers/job-search" alt="">Careers</a>
+                                    <a class="footer-link" href="https://studios.ign.com" alt="">Advertise</a>
+                                    <a class="footer-link" href="https://corp.ign.com/accessibility" alt="">Accessibility</a>
+                                    <a class="footer-link" href="https://corp.ign.com/frequently-asked-questions" alt="">Support</a>
+                                    <a class="footer-link" href="https://corp.ign.com/user-agreement" alt="">Terms of Use</a>
+                                                <a rel="nofollow" class="SiteFooterNavItem footer-link js-evidon-overlay" target="_blank" href="#">AdChoices <img src="//cdn.ziffstatic.com/adchoices/adchoices.png" alt=""></a>
+            </nav>
+        </div>
+    </div>
+
+
+    </footer>
+
+</section>
+
+
+    <section class="ign-post-grid"></section>
+
+    
+    <div class="privacy-content">
+  <div id="cookie-consent">
+    <div id="consent_blackbar" class="privacy-banner"></div>
+  </div>
+  <div id="cookie-policy" class="privacy-banner hidden">
+    <div class="message">
+      <p class="legal-text">We encourage you to read our updated <strong><a href="https://corp.ign.com/privacy" id="js-privacy-policy-link">PRIVACY POLICY</a></strong> and <strong><a href="https://www.ziffdavis.com/cookie-policy" target="_blank">COOKIE POLICY</a></strong>.</p>
+    </div>
+    <a href="#" class="close close-x">&times;</a>
+  </div>
+</div>
+
+
+    <script async defer type="text/javascript" src="https://static.ziffprod.com/cse/js/5.0.0/zdcse.min.js?referrer=www.ign.com&bf&currency=USD&onload=IGN.Commerce.init"></script>
+    <script>igndrones.async.push(function() {igndrones.fireBottom();});</script>
+</body>
+</html>
+
+<!-- View Generation: 301ms - 57.25MB - 19 - 2019-01-10 11:14:46 PST -->

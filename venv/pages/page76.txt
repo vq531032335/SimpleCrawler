@@ -1,0 +1,374 @@
+<!doctype html>
+<html lang="en">
+<head>
+	<link type="image/x-icon" href="https://partner.steamgames.com/public/favicon.ico" rel="shortcut icon"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Steamworks</title>
+	<link href="https://partner.steamgames.com/public/shared/css/login.css?v=dDUhqzox-7SW" rel="stylesheet" type="text/css" >
+	<link href="https://partner.steamgames.com/public/shared/css/shared_global.css?v=euUUFR9mEhFI" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/shared/css/buttons.css?v=v3Koo70Azigo" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_global.css?v=HB-0n_bpd5VQ" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_admin.css?v=RL2NC4WGp3BQ" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_marketing.css?v=.SQyDRl-tbN4p" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_landing.css?v=NDWHiG8gyN2a" rel="stylesheet" type="text/css" >
+<!--[if lte IE 7]> <style type="text/css"> .iepopupfix{ display: block; } </style> <![endif]-->
+	<link href="https://partner.steamgames.com/public/css/home.css?v=ZzNJKaW4n7ap" rel="stylesheet" type="text/css" >
+	<link href="https://partner.steamgames.com/public/shared/css/motiva_sans.css?v=zEHmjyh4a-Kl" rel="stylesheet" type="text/css" >
+	<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/prototype-1.7.js?v=.aLBsvZV7b2P6" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/scriptaculous/scriptaculous.js?v=.ArlSx2GBW7zZ" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/scriptaculous_addons.js?v=.AWRinUAtXY04" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/marketing.js?v=.bo672NZkvjbJ" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/storeadmin.js?v=fHUP8wLDOlXI&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/admin.js?v=wa0gvYvvwF1y&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/webtoolkit.aim.js?v=.swgSXULr0lBc" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/newsadmin.js?v=Crpt_G8Rzbry&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/jquery-1.8.3.js?v=.AASnphxVxR6A" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/shared/javascript/shared_global.js?v=UR9qRb-0UZlx&amp;l=english" ></script>
+
+<script type="text/javascript">$J = jQuery.noConflict();</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'jsTooltip'} ); 
+		});
+		</script>	<script type="text/javascript" src="https://partner.steamgames.com/public/shared/javascript/login.js?v=sfD6iQlPKyA-&amp;l=english" ></script>
+	<script type="text/javascript">
+		$J( function() {
+			var LoginManger = new CLoginPromptManager( 'https://partner.steamgames.com', {
+				strRedirectURL: "https:\/\/partner.steamgames.com",
+				gidCaptcha: -1,
+				strSessionID: "abff847fe2603ca35ba41702"			} );
+
+			
+			document.forms['logon'].elements['username'].focus();
+		} );
+	</script>
+</head>
+<body>
+<div id="pageContainer">
+	<!-- header -->
+	<script type="text/javascript">
+    	g_sessionID = "abff847fe2603ca35ba41702";
+</script>
+<!-- anyone using landing_header needs to ensure jquery is loaded prior -->
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/jquery.cookie.js?v=.XTf7sGfhs-lh" ></script>
+
+<script type="text/javascript">
+	function GoToEditPage( page, id )
+	{
+		console.log(id);
+		if ( checkNumeric( id ) )
+		{
+			window.location.href = "https://partner.steamgames.com/apps/" + page + "/" + id;
+		}
+	}
+
+	function checkNumeric( value )
+	{
+		var anum=/(^\d+$)|(^\d+\.\d+$)/
+		if (anum.test(value))
+			return true;
+		return false;
+	}
+</script>
+<div id="landingHeader">
+	<img class="logo" src="https://partner.steamgames.com/public/images/logo_steamworks.gif" height="76" width="240" border="0"  alt="Steamworks"/>
+	<div class="divider"></div>
+	<h1 style="font-weight: normal;">Unaffiliated</h1>			<div class="signinBox">
+			<a href="https://partner.steamgames.com" class="btn_darkblue_white_innerfade btn_small_thin">
+				<span>Sign in</span>
+			</a>
+			</div>
+	
+	<div id="global_action_menu">
+
+		
+		<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+		<div class="popup_block_new" id="language_dropdown" style="display: none;">
+			<div class="popup_body popup_menu">
+														<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+														<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+														<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+														<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+														<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+														<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+														<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+														<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+														<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																			<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+														<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+														<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+														<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+														<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+														<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+														<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+														<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+														<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+														<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+														<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+														<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+														<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+														<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+														<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+														<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+														<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+														<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+							</div>
+		</div>
+
+		<!-- notification inbox area -->
+			</div>
+</div>
+
+<div id="landingNav">
+	<a href="https://partner.steamgames.com/home" class="">Home</a>
+
+	
+	
+	
+		
+		
+
+	
+	
+	
+			<a href="https://partner.steamgames.com/doc/home" class="dropdown " data-tooltip-content="
+	   		&lt;a href=&quot;https://partner.steamgames.com/doc/home&quot;&gt;View Documentation&lt;/a&gt;
+	   			   			   		&lt;hr&gt;
+	   			   		&lt;hr&gt;
+	   		&lt;a href=&quot;https://partner.steamgames.com/home/contact_steam&quot;&gt;Contact Developer Support&lt;/a&gt;
+	   		">Documentation & Help <span class="tinyGreyArrow"></span></a>
+	</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$('a.dropdown').v_tooltip({'location':'bottom', 'tooltipClass': 'navContent', 'offsetY':-4,
+			'tooltipParent': '#landingNav', 'parentActiveCSSClass': 'hover', 'fadeSpeed': 0, 'inheritParentMinWidth': true});
+
+		$('.PublisherSelect').v_tooltip({'location':'bottom', 'tooltipClass': 'navContent', 'offsetY':14, 'offsetX': -15,
+			'tooltipParent': '#PublisherSelect', 'parentActiveCSSClass': 'hover', 'fadeSpeed': 0, 'inheritParentMinWidth': true});
+
+
+		input = new CTextInputSuggest(
+			$J( '#appHeaderFindInput' ),
+			function( term, callback ) {
+				$J.get( 'https://partner.steamgames.com/apps/suggestapps?json=1', { 'term': term }, function( data ) {
+					callback( data.matches.map( function( x ) { return x.match } ) );
+				} );
+			}, function( suggestion ) {
+				match = suggestion.match( /\[(\d+)\]$/ );
+				if ( match )
+					GoToEditPage( 'landing', match[1] );
+				else
+					console.log( 'Failed to extract AppID', suggestion );
+			});
+
+		input.SetAlignment( 'right' );
+		input.SetSuggestionsContainerId( 'appHeaderFindSuggestions' );
+	});
+</script>
+
+	<!-- /header -->
+	<br>
+	<br>
+
+	<!-- main content area -->
+	<div class="AdminPageContent">
+
+		<h1>Welcome to Steamworks &amp; Steam Distribution</h1>
+		<p class="welcome">Are you a developer or publisher interested in using Steam and Steamworks? Get started here! Or, if you are an existing Steamworks developer, sign in to access the Steamworks SDK and documentation</p>
+
+		<div class="SignupBlock">
+			<div class="Signup">
+				<h2>Sign Up</h2>
+
+				<h3>Game Developer or Publisher</h3>
+				<p>If you're ready to bring your gaming experience to Steam customers, this is the place to start. Sign in with your Steam account on the right to begin.</p>
+
+				<h3>SteamVR Tracking Licensee</h3>
+				<p>Click <a  href="https://partner.steamgames.com/vrtracking" >here</a> to learn more about building tracked objects for SteamVR Tracking or to enroll as a SteamVR Tracking dev partner.</p>
+
+				<h3>Steam Site License Program</h3>
+				<p>If you represent a cybercafe, hospital, university, or other public site that wishes to offer Steam titles in one or more locations, please sign in to the right to get started. Click <a  href="https://support.steampowered.com/kb_article.php?ref=3303-QWRC-3436" >here</a> to learn more about the Steam Site Licensing Program</p>
+
+			</div>
+
+
+			<div class="Login">
+				<h2>Sign In</h2>
+				<p>Sign in here to proceed to Steamworks.</p>
+				
+				<form name="logon" action="" onsubmit="return false;" id="login_form" style="display: none;">
+					<div id="signInName"><label for="steamAccountName">Steam Username:</label></div>
+					<input tabindex="1" class="textField" type="text" name="username" id="steamAccountName" value="">
+					<div id="signInPass">
+						<label for="steamPassword">Password:</label>
+						<a tabindex="4" href="https://help.steampowered.com/en/wizard/HelpWithLogin?redir=https://partner.steamgames.com">Forgot your password?</a>
+					</div>
+					<input tabindex="2" class="textField" type="password" name="password" id="steamPassword" value="">
+
+					<br />
+					<div id="captcha_entry" style="display: none;">
+						<input type="hidden" id="captchagid" name="captchagid" value="-1" />
+						<div id="CaptchaFormArea">
+							<label id="captchaLabel">These Characters:</label><br>
+							<span id="captchaRefresh"><img src="https://partner.steamgames.com/public/images/blue_refresh_icon.png" id="captchaRefreshImg" border="0">&nbsp;<a href="#" id="captchaRefreshLink" title="Refresh">Refresh</a></span>
+							<img id="captchaImg" src="https://partner.steamgames.com/public/images/trans.gif" border="0"><br>
+							<input class="textField" type="text" name="captcha_text" id="input_captcha" autocomplete="off"><br>
+							<label class="smallLabel" id="captchaExplanation">Please prove you are human by typing the above.</label>
+						</div>
+					</div>
+					<h2 id="error_display" style="display: none;"></h2>
+
+					<br>
+
+					<div class="LoginButtonContainer">
+						<div>
+							<button tabindex="3" type="submit" class="btnv6_lightblue_blue  btn_medium" id="login_btn_signin">
+								<span>Login</span>
+							</button>
+							<div id="login_btn_wait" style="display: none;">
+								<img src="https://partner.steamgames.com/public/shared/images/login/throbber.gif">
+							</div>
+						</div>
+
+						<div class="JoinSteam">
+							Or, <a  tabindex="5" href="https://store.steampowered.com/join/">Join Steam</a> if you don't yet have a Steam Account						</div>
+
+
+					</div>
+				</form>
+				<noscript><p>Javascript must be enabled to use this site</p></noscript>
+				<script>
+					document.getElementById('login_form').style.display = 'block';
+				</script>
+
+
+			</div>
+		</div>
+
+		<!-- End signup block -->
+
+		<h2 class="section_title">More about Steam and Steamworks</h2>
+
+	
+
+		<div class="block_container">
+			<div>
+				<div class="logo"><img src="https://partner.steamgames.com/public/images/home/bluelogo_steam.png"></div>
+				<div class="body">With millions of active daily players worldwide, support for 26 languages, 90+ payment methods, and pricing in 40 currencies, Steam is the place to reach a global audience and connect with customers.
+							<ul>
+							<li>Friends list and chat</li>
+							<li>Community hubs and discussion boards</li>
+							<li>User generated content</li>
+							<li>PC, Mac, Linux, Desktop, Television</li>
+							</ul></div>
+				<div class="learn_more">
+					<a href="https://store.steampowered.com/about/">
+						<img src="https://partner.steamgames.com/public/images/landing/icon_help.png">
+						<span>Learn More</span>
+					</a>
+				</div>
+			</div>
+			<div>
+				<div class="logo"><img src="https://partner.steamgames.com/public/images/home/bluelogo_steamworks.png"></div>
+				<div class="body">Steamworks is a free suite of tools available to any developer to use in their game or software on Steam. Here is a small sampling of the available features:
+							<ul>
+							<li>Matchmaking</li>
+							<li>Steam Inventory Service</li>
+							<li>Anti-cheat technology</li>
+							<li>In-game economy with microtransactions</li>
+							<li>Management of user-generated content</li>
+							<li>Per-User cloud storage</li>
+							</ul></div>
+				<div class="learn_more">
+
+				</div>
+			</div>
+			<div>
+				<div class="logo"><img src="https://partner.steamgames.com/public/images/home/bluelogo_steamdirect.png"></div>
+				<div class="body">With Direct Distribution, the distance to your customers is now even shorter. Just fill out some digital paperwork, pay a recoupable fee, and you'll be all set to upload your game and prepare for release.<br><br>You'll get access to Steamworks features, and your customers will benefit from all the features built into Steam.</div>
+				<div class="learn_more">
+					<a href="https://partner.steamgames.com/steamdirect">
+						<img src="https://partner.steamgames.com/public/images/landing/icon_help.png">
+						<span>Learn More</span>
+					</a>
+				</div>
+			</div>
+			<div>
+				<div class="logo"><h2>SteamVR Tracking</h2></div>
+				<div class="body">Whether you're building a VR golf club or an indoor quad-copter, 3D tracking is the heart of your product. Developed in-house at Valve, SteamVR Tracking is a hardware/software solution that lets your devices know in real time where they are, within a room. Valve is now making SteamVR Tracking fully available to other companies, without licensing fees.</div>
+				<div class="learn_more">
+					<a href="https://partner.steamgames.com/vrtracking">
+						<img src="https://partner.steamgames.com/public/images/landing/icon_help.png">
+						<span>Learn More</span>
+					</a>
+				</div>
+			</div>
+			<div>
+				<div class="logo"><h2>Steam Video</h2></div>
+				<div class="body">Steam is a great place for distributing video content, whether you have stand-alone videos and movies, or companion videos to accompany game releases.<br><br>Plus, with Steam 360 Video you can get your 360 video content in front of customers with SteamVR compatible headsets.</div>
+				<div class="learn_more">
+					<a href="https://partner.steamgames.com/doc/features/streaming_video">
+						<img src="https://partner.steamgames.com/public/images/landing/icon_help.png">
+						<span>Learn More</span>
+					</a>
+				</div>
+			</div>
+			<div>
+				<div class="logo"><h2>Site Licensing Program</h2></div>
+				<div class="body">Signing up for a free site license allows you to operate Steam's content or services in a public setting. There are a couple different options available under the site license for how your patrons can access site license content, so be sure to check out the full details below.</div>
+				<div class="learn_more">
+					<a href="https://support.steampowered.com/kb_article.php?ref=3303-QWRC-3436">
+						<img src="https://partner.steamgames.com/public/images/landing/icon_help.png">
+						<span>Learn More</span>
+					</a>
+				</div>
+			</div>
+
+		</div>
+
+		<h2 class="section_title">Documentation And FAQs</h2>
+
+
+		<div class="documentation_links">
+			<div>
+				<h2>New to Steamworks?</h2>
+				<a href="https://partner.steamgames.com/doc/gettingstarted/faq">New Steamworks Developer FAQ</a>
+				<a href="https://partner.steamgames.com/doc/gettingstarted">Getting Started</a>
+				<a href="https://partner.steamgames.com/doc/sdk">Steamworks Technical Overview</a>
+			</div>
+			<div>
+				<h2>Steamworks Documentation</h2>
+				<a href="https://partner.steamgames.com/doc/sdk/api">API Overview</a>
+				<a href="https://partner.steamgames.com/doc/webapi_overview">Web API Overview</a>
+				<a href="https://partner.steamgames.com/doc/features/auth">Account Management</a>
+				<a href="https://partner.steamgames.com/doc/marketing/bestpractices">Marketing</a>
+				<a href="https://partner.steamgames.com/doc/api">SDK Reference</a>
+<!--				<a href="--><!--/documentation/">--><!--</a>-->
+			</div>
+			<div>
+				<h2>Steamworks Features</h2>
+				<a href="https://partner.steamgames.com/doc/features/achievements">Achievements</a>
+				<a href="https://partner.steamgames.com/doc/features/cloud">Cloud</a>
+				<a href="https://partner.steamgames.com/doc/features/inventory">Inventory Service</a>
+				<a href="https://partner.steamgames.com/doc/features/workshop">Workshop</a>
+				<a href="https://partner.steamgames.com/doc/steamvr">Steam VR</a>
+			</div>
+		</div>
+	</div>
+
+
+<!-- /primary page container -->
+</body>
+</html>

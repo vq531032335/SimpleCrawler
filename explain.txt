@@ -1,0 +1,30 @@
+a crawler by yiqiu wu, yw3101
+#############################
+There are several classes
+
+class MyHTMLParser: 
+	It's inherited from HTMLParser. It can extract valuable urls(stored in self.links) and text from a html file(stored in self.text)
+
+class Website:
+	It's a class storing one website's information. The main purpose to use it is to count limiting pages per site and also bind it with "robots.txt",
+	so that we can put some limitations on the pages we visited.
+
+class Url:
+	It's a class containing the url and its priority information. Every time the url is referenced again, the priority will be recalculated.
+
+class PageResult:
+	It's a class storing the information of a visited page's output and statistic data, which can be used in print() and save_page()
+
+class Crawler:
+	It's the main class we use. As starter. it gets first 10 google search results, and then put them into priority queue or
+	BFS queue. Each time it retrieves one url from the queue(priority is based on average of all the referencing pages' relevance) and
+	check whether we can access this url. It uses htmlParser to get new urls from this page, also store some important data such as
+	term frequency and text size. Loop ends when there is no candidate urls or we meet the max pages limit.
+	Then we do some statistic jobs and save the final result into "venv/result.txt"
+
+There are two functions outside
+save_page():
+	simply save "result.txt", which contains the whole statistic data and all the results of visited pages(failure pages not included, so no error pages)
+
+compute_bm25():
+	Based on existing statistic data, it can compute any page's BM25 score, and can also return the whole harvest rate

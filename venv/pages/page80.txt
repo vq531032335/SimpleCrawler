@@ -1,0 +1,294 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html lang="en">
+<head>
+	<link type="image/x-icon" href="https://partner.steamgames.com/public/favicon.ico" rel="shortcut icon"/>
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<title>Steamworks Partner Program</title>
+	<link href="https://partner.steamgames.com/public/shared/css/shared_global.css?v=euUUFR9mEhFI" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/shared/css/buttons.css?v=v3Koo70Azigo" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_global.css?v=HB-0n_bpd5VQ" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_admin.css?v=RL2NC4WGp3BQ" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_marketing.css?v=.SQyDRl-tbN4p" rel="stylesheet" type="text/css" >
+<link href="https://partner.steamgames.com/public/css/styles_landing.css?v=NDWHiG8gyN2a" rel="stylesheet" type="text/css" >
+<!--[if lte IE 7]> <style type="text/css"> .iepopupfix{ display: block; } </style> <![endif]-->
+	<link href="https://partner.steamgames.com/public/css/styles_newpartner.css?v=VoCDNmbrTfmR" rel="stylesheet" type="text/css" >
+	<link href="https://partner.steamgames.com/public/css/styles_print.css?v=.DimoIqGh8efo" rel="stylesheet" type="text/css" media="print">
+	<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/prototype-1.7.js?v=.aLBsvZV7b2P6" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/scriptaculous/scriptaculous.js?v=.ArlSx2GBW7zZ" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/scriptaculous_addons.js?v=.AWRinUAtXY04" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/marketing.js?v=.bo672NZkvjbJ" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/storeadmin.js?v=fHUP8wLDOlXI&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/admin.js?v=wa0gvYvvwF1y&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/webtoolkit.aim.js?v=.swgSXULr0lBc" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/newsadmin.js?v=Crpt_G8Rzbry&amp;l=english" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/jquery-1.8.3.js?v=.AASnphxVxR6A" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+
+<script type="text/javascript" src="https://partner.steamgames.com/public/shared/javascript/shared_global.js?v=UR9qRb-0UZlx&amp;l=english" ></script>
+
+<script type="text/javascript">$J = jQuery.noConflict();</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'jsTooltip'} ); 
+		});
+		</script>	<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/newpartner.js?v=XN2csPFj0k0V&amp;l=english" ></script>
+</head>
+<body>
+<div id="pageContainer" class="steam_direct_landing">
+	<!-- header -->
+	<script type="text/javascript">
+    	g_sessionID = "d1afc268492ca385ab550060";
+</script>
+<!-- anyone using landing_header needs to ensure jquery is loaded prior -->
+<script type="text/javascript" src="https://partner.steamgames.com/public/javascript/jquery.cookie.js?v=.XTf7sGfhs-lh" ></script>
+
+<script type="text/javascript">
+	function GoToEditPage( page, id )
+	{
+		console.log(id);
+		if ( checkNumeric( id ) )
+		{
+			window.location.href = "https://partner.steamgames.com/apps/" + page + "/" + id;
+		}
+	}
+
+	function checkNumeric( value )
+	{
+		var anum=/(^\d+$)|(^\d+\.\d+$)/
+		if (anum.test(value))
+			return true;
+		return false;
+	}
+</script>
+<div id="landingHeader">
+	<img class="logo" src="https://partner.steamgames.com/public/images/logo_steamworks.gif" height="76" width="240" border="0"  alt="Steamworks"/>
+	<div class="divider"></div>
+	<h1 style="font-weight: normal;">Unaffiliated</h1>			<div class="signinBox">
+			<a href="https://partner.steamgames.com" class="btn_darkblue_white_innerfade btn_small_thin">
+				<span>Sign in</span>
+			</a>
+			</div>
+	
+	<div id="global_action_menu">
+
+		
+		<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+		<div class="popup_block_new" id="language_dropdown" style="display: none;">
+			<div class="popup_body popup_menu">
+														<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+														<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+														<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+														<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+														<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+														<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+														<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+														<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+														<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																			<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+														<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+														<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+														<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+														<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+														<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+														<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+														<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+														<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+														<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+														<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+														<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+														<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+														<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+														<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+														<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+														<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+														<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+							</div>
+		</div>
+
+		<!-- notification inbox area -->
+			</div>
+</div>
+
+<div id="landingNav">
+	<a href="https://partner.steamgames.com/home" class="">Home</a>
+
+	
+	
+	
+		
+		
+
+	
+	
+	
+			<a href="https://partner.steamgames.com/doc/home" class="dropdown " data-tooltip-content="
+	   		&lt;a href=&quot;https://partner.steamgames.com/doc/home&quot;&gt;View Documentation&lt;/a&gt;
+	   			   			   		&lt;hr&gt;
+	   			   		&lt;hr&gt;
+	   		&lt;a href=&quot;https://partner.steamgames.com/home/contact_steam&quot;&gt;Contact Developer Support&lt;/a&gt;
+	   		">Documentation & Help <span class="tinyGreyArrow"></span></a>
+	</div>
+
+<script type="text/javascript">
+	jQuery(document).ready(function($) {
+		$('a.dropdown').v_tooltip({'location':'bottom', 'tooltipClass': 'navContent', 'offsetY':-4,
+			'tooltipParent': '#landingNav', 'parentActiveCSSClass': 'hover', 'fadeSpeed': 0, 'inheritParentMinWidth': true});
+
+		$('.PublisherSelect').v_tooltip({'location':'bottom', 'tooltipClass': 'navContent', 'offsetY':14, 'offsetX': -15,
+			'tooltipParent': '#PublisherSelect', 'parentActiveCSSClass': 'hover', 'fadeSpeed': 0, 'inheritParentMinWidth': true});
+
+
+		input = new CTextInputSuggest(
+			$J( '#appHeaderFindInput' ),
+			function( term, callback ) {
+				$J.get( 'https://partner.steamgames.com/apps/suggestapps?json=1', { 'term': term }, function( data ) {
+					callback( data.matches.map( function( x ) { return x.match } ) );
+				} );
+			}, function( suggestion ) {
+				match = suggestion.match( /\[(\d+)\]$/ );
+				if ( match )
+					GoToEditPage( 'landing', match[1] );
+				else
+					console.log( 'Failed to extract AppID', suggestion );
+			});
+
+		input.SetAlignment( 'right' );
+		input.SetSuggestionsContainerId( 'appHeaderFindSuggestions' );
+	});
+</script>
+
+	<div class="steamworks_direct_header_ctn">
+		<div class="steamworks_direct_header">
+			<span>Steam Direct</span><br>
+			Joining The Steamworks Distribution Program		</div>
+	</div>
+
+	<div class="AdminPageContent">
+
+		<div id="Introduction">
+			<div class="page_desc">
+				Welcome to Steam Direct! This new submission path is designed to provide a streamlined, transparent, and affordable route for new game developers from anywhere in the world to bring games to Steam.<br><br>
+				Below describes the steps necessary for becoming a part of the Steamworks Developer Program to distribute your game, VR experience, or video through Steam. For common questions about this process and more details about releasing on Steam, please see the <a href="https://partner.steamgames.com/doc/gettingstarted">Getting Started documentation</a>.			</div>
+
+			<div class="section_title">What To Expect</div>
+			<div>
+				<div class="list_item_desc">There are a couple of steps along the path to getting your game up and ready for distribution via Steam. Here is a general overview.</div>
+				<div class="list_item_desc">
+					<ol>
+						<li>Sign the digital paperwork. You’ll need the information as detailed below.</li>
+						<li>Pay the app deposit fee with any supported Steam payment method as detailed below.</li>
+						<li>Complete the paperwork with your bank and tax information as well as identity verification so that we know who we’ll be doing business with.</li>
+						<li>Now you have access to Steamworks and can begin preparing your title for release. You’ll need to build your store page, upload your builds, configure any Steamworks features, and enter your desired pricing. We’ve worked hard to streamline our tools and document all the features and functionality available to you. Check out the <a %s>Steamworks documentation</a> for more details.</li>
+						<li>Before your store page or game build can go live, there is a brief review process where we run your game, look at your store page, and check that it is configured correctly and running as expected and not doing anything harmful. This takes between 1-5 days.</li>
+						<li>There are a couple of additional timing requirements before you can release your first few titles on Steam:</li>
+						<ol>
+							<li>A 30-day waiting period between when you paid the app fee and when you can release your game.  This gives us time to review your information and confirm that we know who we're doing business with.</li>
+							<li>You’ll need to prepare your store page and put up a publicly-visible ‘coming soon’ page for at least two weeks. This will help you start building your audience of interested customers that can wishlist your game or participate in discussions. This also gives you the opportunity to practice how you talk about your product so that you can have the best presentation when you hit the ‘release’ button.</li>
+						</ol>
+						<li>Now you’re all set to release. The release controls are now in your hands and you can update whenever you want.</li>
+					</ol>
+					<br>
+				</div>
+			</div>
+			<br>
+
+			<div class="section_title">Information you should have handy:</div>
+			<div>
+				<div class="list_item_title">Payment information</div>
+				<div class="list_item_desc">We'll need accurate bank information, such as routing number, bank account number, and bank address so we know where to send payments from sales of your application.</div>
+				<br>
+				<div class="list_item_desc emphasis">Note that the account holder name on your bank account must match the name of your legal identification described above. If you are signing up as a company and don't yet have a bank account established for your business, you will need to open one before you can proceed.</div>
+				<br>
+
+				<div class="list_item_title">Tax information</div>
+				<div class="list_item_desc">You’ll be directed through a brief tax questionnaire to determine your tax status and withholding rate. The information you need in order to complete the questionnaire will depend on whether you are signing up as an individual or as a company, and where you or your company is located. US citizens and corporations will need information similar to that found on <a href="http://www.irs.gov/pub/irs-pdf/fw9.pdf" target="_blank">form W-9</a>. Citizens and corporations in a <a href="https://www.irs.gov/businesses/international-businesses/united-states-income-tax-treaties-a-to-z" target="_blank">country with US tax treaty status</a> will need information similar to that found on <a href="http://www.irs.gov/pub/irs-pdf/fw8ben.pdf" target="_blank">form W-8BEN</a>.</div>
+				<br>
+				<div class="list_item_desc">All required information is necessary to get you set up in Steamworks. Click <a href="https://partner.steamgames.com/gettingstarted/faq" target="_blank">here</a> for more details on tax withholding.</div>
+				<br>
+
+				<div class="list_item_title">Product Submission Fee</div>
+				<div class="list_item_desc">In order to get fully set up, you will need to pay a $100.00 fee for each product you wish to distribute on Steam. You can pay this fee with any payment method supported by Steam in your region.<br><br>This fee is not refundable, but will be recoupable in the payment made after your product has at least $1,000.00 Adjusted Gross Revenue for Steam Store and in-app purchases. Payment of revenue from sales and repayment of fee may be withheld if deposit payment is charged-back, refunded, or otherwise identified as fraudulent.</div>
+			</div>
+
+			<br>
+			<br>
+			<div class="section_title">Rules and guidelines</div>
+			<div>
+				<div class="list_item_desc">We have a few guidelines about the content that can be distributed via Steam. Please keep these guidelines in mind when choosing whether to proceed with distribution.</div>
+				<br>
+				<div class="list_item_title">What you shouldn’t publish on Steam:</div>
+				<div class="list_item_desc"><ol>
+<li> Adult content that isn’t appropriately labeled and age-gated</li>
+<li> Libelous or defamatory statements</li>
+<li> Content you don’t own or have adequate rights to</li>
+<li> Content that violates the laws of any jurisdiction in which it will be available</li>
+<li> Content that exploits children in any way</li>
+<li> Applications that modify customer’s computers in unexpected or harmful ways, such as malware or viruses</li>
+<li> Applications that fraudulently attempts to gather sensitive information, such as Steam credentials or financial data (e.g. credit card information)</li>
+</ol></div>
+				<br>
+				<div class="list_item_title">Accepted types of content</div>
+				<div class="list_item_desc">We are currently accepting the following types of content: Games and VR Experiences. Non-game software is not currently accepted through Steam Direct. If you have a non-game software that you wish to bring to Steam, please see <a href="https://help.steampowered.com/wizard/HelpWithPublishing?issueid=925">Distributing Non-Game Software</a>.</div>
+				<br>
+				<div class="list_item_desc">In addition to the above items, content you publish on Steam should of course comply with the Steam Distribution Agreement, the <a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>, <a href="http://store.steampowered.com/online_conduct/" target="_blank">Steam Online Conduct</a> guidelines and the <a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Steam Privacy Policy</a>.</div>
+			</div>
+
+			<br>
+			<br>
+							<div class="section_title">Sign in to get started</div>
+				<div>
+					<div class="list_item_desc">Click the button below to sign in with your Steam account and begin the Steam Direct sign-up process.</div>
+				</div>
+
+				<br><br>
+
+				<div class="page_controls">
+					<a href="https://partner.steamgames.com/newpartner/?signup_type=1" class="btnv6_lightblue_blue btn_medium">
+						<span>Sign In</span>
+					</a>
+				</div>
+
+						<div style="clear: right" class="bottom_space">&nbsp;</div>
+		</div>
+
+	</div>
+
+	<script type="text/javascript">
+		var g_szBaseUrl = 'https://partner.steamgames.com';
+			</script>
+	<!-- Footer -->
+<div style="clear: both;"></div>
+<div>&nbsp;</div>
+<div id="landingFooter" class="confidential">
+	<div> <!-- Wrapper -->
+		<div class="landingFooterLinks">
+			<div class="landingFooterLinksSpacing">
+				<a class="" href="https://steamcommunity.com/groups/steamworks/discussions/17" target="_blank">Leave Site Feedback</a>				&nbsp;|&nbsp;
+				<a class="" href="https://steamcommunity.com/groups/steamworks" target="_blank">Visit Steamworks Development Group</a>				&nbsp;|&nbsp;
+				<a href="https://partner.steamgames.com/home/contact_steam">Contact Steam Publishing</a>			</div>
+		</div>
+				<div class="landingFooterConfidential">
+			<h2>Valve Confidential</h2>
+			<p>This restricted access page contains Valve confidential information. You must have a non-disclosure and/or license agreement covering confidential information with Valve to use or access this page.</p>
+		</div>
+			</div>
+</div>
+<script type="text/javascript">
+	</script>
+
+<!-- End Footer --></div>
+<!-- /primary page container -->
+
+<div id="modalBG" style="display: none"></div>
+
+</body>
+</html>

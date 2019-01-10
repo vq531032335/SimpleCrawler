@@ -1,0 +1,1012 @@
+<!DOCTYPE html>
+<html class=" responsive" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+			<meta name="viewport" content="width=device-width,initial-scale=1">
+		<meta name="theme-color" content="#171a21">
+		<title>Dota 2 General Discussions :: Steam Community</title>
+	<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+
+	
+	<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/motiva_sans.css?v=FAK4O46_mOLB" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/buttons.css?v=g4vF5QlH7C0a" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_global.css?v=ZDQlNd7AVFLY" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/globalv2.css?v=tg4OWN6LprQQ" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub.css?v=dunRbO3rtVVd" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/modalContent.css?v=.TP5s6TzX6LLh" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/apphub_home.css?v=5yUvUpa4zMtW" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/forums.css?v=WWosUokrOKDl" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/shared_responsive.css?v=lZjXzgjiAjP-" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/shared/css/apphub_images.css?v=ZPCpP33zAenv" rel="stylesheet" type="text/css" >
+<link href="https://steamcommunity-a.akamaihd.net/public/css/skin_1/header.css?v=Bv4kKK3Pxl5t" rel="stylesheet" type="text/css" >
+			<script>
+				(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+						(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+					m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+				})(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+				ga('create', 'UA-33779068-1', 'auto', {
+					'sampleRate': 0.4				});
+				ga('set', 'dimension1', false );
+				ga('set', 'dimension2', 'External' );
+				ga('set', 'dimension3', 'app' );
+				ga('set', 'dimension4', "app\/discussions" );
+				ga('send', 'pageview');
+
+			</script>
+			<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/prototype-1.7.js?v=.55t44gwuwgvw" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/scriptaculous/_combined.js?v=9XVsa_Ni33oN&amp;l=english&amp;load=effects,controls,slider,dragdrop" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/global.js?v=G_CORwzXPf_B&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/jquery-1.11.1.min.js?v=.isFTSRckeNhC" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/tooltip.js?v=.vG8yiuBTGwkE" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=UR9qRb-0UZlx&amp;l=english" ></script>
+<script type="text/javascript">$J = jQuery.noConflict();
+if ( typeof JSON != 'object' || !JSON.stringify || !JSON.parse ) { document.write( "<scr" + "ipt type=\"text\/javascript\" src=\"https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/json2.js?v=pmScf4470EZP&amp;l=english\" ><\/script>\n" ); };
+</script>
+		<script type="text/javascript">
+			document.addEventListener('DOMContentLoaded', function(event) {  
+				SetupTooltips( { tooltipCSSClass: 'community_tooltip'} ); 
+		});
+		</script><script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalv2.js?v=dfMhuy-Lrpyo&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/modalContent.js?v=b8AL-WL1PHAh&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/apphub.js?v=g1bEStDNJEPK&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/javascript/forums.js?v=hmdxyW8wPHZW&amp;l=english" ></script>
+<script type="text/javascript" src="https://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_responsive_adapter.js?v=TbBMCK37KgCo&amp;l=english" ></script>
+
+						<meta name="twitter:card" content="summary_large_image">
+					<meta name="Description" content="Dota 2 - The most-played game on Steam.Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has truly taken on a life of its own.One Battlefield. Infinite Possibilities.When it comes to diversity of heroes, abilities, and powerful items, Dota boasts an endless array—no two games are the same. Any hero can fill multiple roles, and there's an abundance of items to help meet the needs of each game. Dota doesn't provide limitations on how to play, it empowers you to express your own style.All heroes are free.Competitive balance is Dota's crown jewel, and to ensure everyone is playing on an even field, the core content of the game—like the vast pool of heroes—is available to all players. Fans can collect cosmetics for heroes and fun add-ons for the world they inhabit, but everything you need to play is already included before you join your first match.Bring your friends and party up.Dota is deep, and constantly evolving, but it's never too late to join. Learn the ropes playing co-op vs. bots. Sharpen your skills in the hero demo mode. Jump into the behavior- and skill-based matchmaking system that ensures you'll be matched with the right players each game.">
+			
+	<meta name="twitter:site" content="@steam_games" />
+
+						<meta property="og:title" content="Dota 2 General Discussions :: Steam Community">
+					<meta property="twitter:title" content="Dota 2 General Discussions :: Steam Community">
+					<meta property="fb:app_id" content="105386699540688">
+					<meta property="og:description" content="Dota 2 - The most-played game on Steam.Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has truly taken on a life of its own.One Battlefield. Infinite Possibilities.When it comes to diversity of heroes, abilities, and powerful items, Dota boasts an endless array—no two games are the same. Any hero can fill multiple roles, and there's an abundance of items to help meet the needs of each game. Dota doesn't provide limitations on how to play, it empowers you to express your own style.All heroes are free.Competitive balance is Dota's crown jewel, and to ensure everyone is playing on an even field, the core content of the game—like the vast pool of heroes—is available to all players. Fans can collect cosmetics for heroes and fun add-ons for the world they inhabit, but everything you need to play is already included before you join your first match.Bring your friends and party up.Dota is deep, and constantly evolving, but it's never too late to join. Learn the ropes playing co-op vs. bots. Sharpen your skills in the hero demo mode. Jump into the behavior- and skill-based matchmaking system that ensures you'll be matched with the right players each game.">
+					<meta property="twitter:description" content="Dota 2 - The most-played game on Steam.Every day, millions of players worldwide enter battle as one of over a hundred Dota heroes. And no matter if it's their 10th hour of play or 1,000th, there's always something new to discover. With regular updates that ensure a constant evolution of gameplay, features, and heroes, Dota 2 has truly taken on a life of its own.One Battlefield. Infinite Possibilities.When it comes to diversity of heroes, abilities, and powerful items, Dota boasts an endless array—no two games are the same. Any hero can fill multiple roles, and there's an abundance of items to help meet the needs of each game. Dota doesn't provide limitations on how to play, it empowers you to express your own style.All heroes are free.Competitive balance is Dota's crown jewel, and to ensure everyone is playing on an even field, the core content of the game—like the vast pool of heroes—is available to all players. Fans can collect cosmetics for heroes and fun add-ons for the world they inhabit, but everything you need to play is already included before you join your first match.Bring your friends and party up.Dota is deep, and constantly evolving, but it's never too late to join. Learn the ropes playing co-op vs. bots. Sharpen your skills in the hero demo mode. Jump into the behavior- and skill-based matchmaking system that ensures you'll be matched with the right players each game.">
+			
+	
+			<link rel="image_src" href="https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1543590720">
+		<link rel="image_src" href="https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1543590720">
+		<meta property="og:image" content="https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1543590720">
+		<meta name="twitter:image" content="https://steamcdn-a.akamaihd.net/steam/apps/570/header.jpg?t=1543590720" />
+		
+	
+	
+	
+	</head>
+<body class="flat_page blue responsive_page">
+
+<div class="responsive_page_frame with_header">
+
+						<div class="responsive_page_menu_ctn mainmenu">
+				<div class="responsive_page_menu"  id="responsive_page_menu">
+										<div class="mainmenu_contents">
+						<div class="mainmenu_contents_items">
+															<a class="menuitem" href="https://steamcommunity.com/login/home/?goto=app%2F570%2Fdiscussions%2F">
+									Login								</a>
+								<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		Store	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+			</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		Community	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+	
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		Support	</a>
+
+							<div class="minor_menu_items">
+																<div class="menuitem change_language_action">
+									Change language								</div>
+																									<div class="menuitem" onclick="Responsive_RequestDesktopView();">
+										View desktop website									</div>
+															</div>
+						</div>
+						<div class="mainmenu_footer_spacer"></div>
+						<div class="mainmenu_footer">
+							<div class="mainmenu_footer_logo"><img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/logo_valve_footer.png"></div>
+							© Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.							<span class="mainmenu_valve_links">
+								<a href="https://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+								&nbsp;| &nbsp;<a href="http://www.valvesoftware.com/legal.htm" target="_blank">Legal</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+								&nbsp;| &nbsp;<a href="https://store.steampowered.com/steam_refunds/" target="_blank">Refunds</a>
+							</span>
+						</div>
+					</div>
+									</div>
+			</div>
+		
+		<div class="responsive_local_menu_tab">
+
+		</div>
+
+		<div class="responsive_page_menu_ctn localmenu">
+			<div class="responsive_page_menu"  id="responsive_page_local_menu">
+				<div class="localmenu_content">
+				</div>
+			</div>
+		</div>
+
+
+
+					<div class="responsive_header">
+				<div class="responsive_header_content">
+					<div id="responsive_menu_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_menu_hamburger.png" height="100%">
+											</div>
+					<div class="responsive_header_logo">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/responsive/header_logo.png" height="36" border="0" alt="STEAM">
+					</div>
+				</div>
+			</div>
+		
+		<div class="responsive_page_content_overlay">
+
+		</div>
+
+		<div class="responsive_fixonscroll_ctn nonresponsive_hidden ">
+		</div>
+	
+	<div class="responsive_page_content">
+
+		<div id="global_header">
+	<div class="content">
+		<div class="logo">
+			<span id="logo_holder">
+									<a href="https://store.steampowered.com/">
+						<img src="https://steamcommunity-a.akamaihd.net/public/shared/images/header/globalheader_logo.png?t=962016" width="176" height="44">
+					</a>
+							</span>
+			<!--[if lt IE 7]>
+			<style type="text/css">
+				#logo_holder img { filter:progid:DXImageTransform.Microsoft.Alpha(opacity=0); }
+				#logo_holder { display: inline-block; width: 176px; height: 44px; filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='https://steamcommunity-a.akamaihd.net/public/images/v5/globalheader_logo.png'); }
+			</style>
+			<![endif]-->
+		</div>
+
+			<div class="supernav_container">
+	<a class="menuitem supernav" href="https://store.steampowered.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_store">
+		STORE	</a>
+	<div class="submenu_store" style="display: none;" data-submenuid="store">
+		<a class="submenuitem" href="https://store.steampowered.com/">Featured</a>
+		<a class="submenuitem" href="https://store.steampowered.com/explore/">Explore</a>
+		<a class="submenuitem" href="https://store.steampowered.com/curators/">Curators</a>
+		<a class="submenuitem" href="https://steamcommunity.com/my/wishlist/">Wishlist</a>
+		<a class="submenuitem" href="https://store.steampowered.com/news/">News</a>
+		<a class="submenuitem" href="https://store.steampowered.com/stats/">Stats</a>
+			</div>
+
+
+	<a class="menuitem supernav" style="display: block" href="https://steamcommunity.com/" data-tooltip-type="selector" data-tooltip-content=".submenu_community">
+		COMMUNITY	</a>
+	<div class="submenu_community" style="display: none;" data-submenuid="community">
+		<a class="submenuitem" href="https://steamcommunity.com/">Home</a>
+		<a class="submenuitem" href="https://steamcommunity.com/discussions/">Discussions</a>
+		<a class="submenuitem" href="https://steamcommunity.com/workshop/">Workshop</a>
+		<a class="submenuitem" href="https://steamcommunity.com/market/">Market</a>
+		<a class="submenuitem" href="https://steamcommunity.com/?subsection=broadcasts">Broadcasts</a>
+					</div>
+
+	
+
+	
+						<a class="menuitem" href="https://store.steampowered.com/about/">
+				ABOUT			</a>
+			
+	<a class="menuitem" href="https://help.steampowered.com/en/">
+		SUPPORT	</a>
+	</div>
+	<script type="text/javascript">
+		jQuery(function($) {
+			$('#global_header .supernav').v_tooltip({'location':'bottom', 'destroyWhenDone': false, 'tooltipClass': 'supernav_content', 'offsetY':-4, 'offsetX': 1, 'horizontalSnap': 4, 'tooltipParent': '#global_header .supernav_container', 'correctForScreenSize': false});
+		});
+	</script>
+
+		<div id="global_actions">
+			<div id="global_action_menu">
+									<div class="header_installsteam_btn header_installsteam_btn_green">
+
+						<a class="header_installsteam_btn_content" href="https://store.steampowered.com/about/">
+							Install Steam						</a>
+					</div>
+				
+				
+														<a class="global_action_link" href="https://steamcommunity.com/login/home/?goto=app%2F570%2Fdiscussions%2F">login</a>
+					&nbsp;|&nbsp;
+					<span class="pulldown global_action_link" id="language_pulldown" onclick="ShowMenu( this, 'language_dropdown', 'right' );">language</span>
+					<div class="popup_block_new" id="language_dropdown" style="display: none;">
+						<div class="popup_body popup_menu">
+																																	<a class="popup_menu_item tight" href="?l=schinese" onclick="ChangeLanguage( 'schinese' ); return false;">简体中文 (Simplified Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=tchinese" onclick="ChangeLanguage( 'tchinese' ); return false;">繁體中文 (Traditional Chinese)</a>
+																										<a class="popup_menu_item tight" href="?l=japanese" onclick="ChangeLanguage( 'japanese' ); return false;">日本語 (Japanese)</a>
+																										<a class="popup_menu_item tight" href="?l=koreana" onclick="ChangeLanguage( 'koreana' ); return false;">한국어 (Korean)</a>
+																										<a class="popup_menu_item tight" href="?l=thai" onclick="ChangeLanguage( 'thai' ); return false;">ไทย (Thai)</a>
+																										<a class="popup_menu_item tight" href="?l=bulgarian" onclick="ChangeLanguage( 'bulgarian' ); return false;">Български (Bulgarian)</a>
+																										<a class="popup_menu_item tight" href="?l=czech" onclick="ChangeLanguage( 'czech' ); return false;">Čeština (Czech)</a>
+																										<a class="popup_menu_item tight" href="?l=danish" onclick="ChangeLanguage( 'danish' ); return false;">Dansk (Danish)</a>
+																										<a class="popup_menu_item tight" href="?l=german" onclick="ChangeLanguage( 'german' ); return false;">Deutsch (German)</a>
+																																			<a class="popup_menu_item tight" href="?l=spanish" onclick="ChangeLanguage( 'spanish' ); return false;">Español - España (Spanish - Spain)</a>
+																										<a class="popup_menu_item tight" href="?l=latam" onclick="ChangeLanguage( 'latam' ); return false;">Español - Latinoamérica (Spanish - Latin America)</a>
+																										<a class="popup_menu_item tight" href="?l=greek" onclick="ChangeLanguage( 'greek' ); return false;">Ελληνικά (Greek)</a>
+																										<a class="popup_menu_item tight" href="?l=french" onclick="ChangeLanguage( 'french' ); return false;">Français (French)</a>
+																										<a class="popup_menu_item tight" href="?l=italian" onclick="ChangeLanguage( 'italian' ); return false;">Italiano (Italian)</a>
+																										<a class="popup_menu_item tight" href="?l=hungarian" onclick="ChangeLanguage( 'hungarian' ); return false;">Magyar (Hungarian)</a>
+																										<a class="popup_menu_item tight" href="?l=dutch" onclick="ChangeLanguage( 'dutch' ); return false;">Nederlands (Dutch)</a>
+																										<a class="popup_menu_item tight" href="?l=norwegian" onclick="ChangeLanguage( 'norwegian' ); return false;">Norsk (Norwegian)</a>
+																										<a class="popup_menu_item tight" href="?l=polish" onclick="ChangeLanguage( 'polish' ); return false;">Polski (Polish)</a>
+																										<a class="popup_menu_item tight" href="?l=portuguese" onclick="ChangeLanguage( 'portuguese' ); return false;">Português (Portuguese)</a>
+																										<a class="popup_menu_item tight" href="?l=brazilian" onclick="ChangeLanguage( 'brazilian' ); return false;">Português - Brasil (Portuguese - Brazil)</a>
+																										<a class="popup_menu_item tight" href="?l=romanian" onclick="ChangeLanguage( 'romanian' ); return false;">Română (Romanian)</a>
+																										<a class="popup_menu_item tight" href="?l=russian" onclick="ChangeLanguage( 'russian' ); return false;">Русский (Russian)</a>
+																										<a class="popup_menu_item tight" href="?l=finnish" onclick="ChangeLanguage( 'finnish' ); return false;">Suomi (Finnish)</a>
+																										<a class="popup_menu_item tight" href="?l=swedish" onclick="ChangeLanguage( 'swedish' ); return false;">Svenska (Swedish)</a>
+																										<a class="popup_menu_item tight" href="?l=turkish" onclick="ChangeLanguage( 'turkish' ); return false;">Türkçe (Turkish)</a>
+																										<a class="popup_menu_item tight" href="?l=vietnamese" onclick="ChangeLanguage( 'vietnamese' ); return false;">Tiếng Việt (Vietnamese)</a>
+																										<a class="popup_menu_item tight" href="?l=ukrainian" onclick="ChangeLanguage( 'ukrainian' ); return false;">Українська (Ukrainian)</a>
+																						<a class="popup_menu_item tight" href="http://translation.steampowered.com" target="_blank">Help us translate Steam</a>
+						</div>
+					</div>
+							</div>
+					</div>
+			</div>
+</div>
+<script type="text/javascript">
+	g_sessionID = "4f475cd67ca69916bc8f3b6f";
+	g_steamID = false;
+	g_SNR = '2_9_100006_';
+
+	// We always want to have the timezone cookie set for PHP to use
+	setTimezoneCookies();
+
+	$J( function() {
+
+		InitMiniprofileHovers();
+		InitEmoticonHovers();
+
+
+				ApplyAdultContentPreferences();
+	});
+
+	$J( function() { InitEconomyHovers( "https:\/\/steamcommunity-a.akamaihd.net\/public\/css\/skin_1\/economy.css?v=cDY-ebb-cwN7", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy_common.js?v=tsXdRVB0yEaR&l=english", "https:\/\/steamcommunity-a.akamaihd.net\/public\/javascript\/economy.js?v=2LpiaJiQVjHu&l=english" );});</script>
+
+		<div class="responsive_page_template_content">
+
+			
+<div class="pagecontent">
+
+	<div class="apphub_background" style="background-image: url('https://steamcdn-a.akamaihd.net/steam/apps/570/page_bg_generated_v6b.jpg?t=1543590720');">
+	<div class="apphub_HomeHeader">
+					<script type="text/javascript">
+			try {
+				if ( typeof ga != 'undefined' && ga )
+				{
+					ga( 'create', "UA-33779068-2", 'auto', "app", {
+						anonymizeIp: true
+					} );
+					ga( 'app.require', 'linker' );
+					ga( 'app.linker:autolink', ["store.steampowered.com","steamcommunity.com","help.steampowered.com"] );
+					ga( 'app.send', 'pageview' );
+				}
+			} catch ( e ) { }
+		</script>
+		<div class="apphub_HomeHeaderContent">
+
+
+	
+	
+	<div class="apphub_HeaderTop">
+		<div class="apphub_OtherSiteInfo responsive_hidden">
+										<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/570?snr=2_9_100006__apphubheader" data-appid="570">
+					<span>Store Page</span>
+				</a>
+					</div>
+		<div class="apphub_AppIcon"><img src="https://steamcdn-a.akamaihd.net/steamcommunity/public/images/apps/570/0bbb630d63262dd66d2fdd0f7d37e8661a410075.jpg"><div class="overlay"></div></div>
+		<div class="apphub_AppName ellipsis">Dota 2</div>
+		<div style="clear: both"></div>
+				<div class="apphub_sectionTabs responsive_hidden">
+				
+	<a href="https://steamcommunity.com/app/570" class="apphub_sectionTab  "><span>All</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/discussions/" class="apphub_sectionTab active "><span>Discussions</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/screenshots/" class="apphub_sectionTab  "><span>Screenshots</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/images/" class="apphub_sectionTab  "><span>Artwork</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/broadcasts/" class="apphub_sectionTab  "><span>Broadcasts</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/videos/" class="apphub_sectionTab  "><span>Videos</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/workshop/" class="apphub_sectionTab  "><span>Workshop</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/allnews/" class="apphub_sectionTab  "><span>News</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/guides/" class="apphub_sectionTab  "><span>Guides</span></a>
+		
+	<a href="https://steamcommunity.com/app/570/reviews/" class="apphub_sectionTab  "><span>Reviews</span></a>
+				<div style="clear: left"></div>
+		</div>
+
+		<div class="nonresponsive_hidden responsive_tab_ctn sharedfiles_responsive_tab">
+			<div class="responsive_tab_control">
+				<div class="responsive_tab_control_inner">
+										<select class="responsive_tab_select" id="responsive_tab_select5c379996c3b50">
+													<option value="https://steamcommunity.com/app/570" >
+								All							</option>
+													<option value="https://steamcommunity.com/app/570/discussions/" selected>
+								Discussions							</option>
+													<option value="https://steamcommunity.com/app/570/screenshots/" >
+								Screenshots							</option>
+													<option value="https://steamcommunity.com/app/570/images/" >
+								Artwork							</option>
+													<option value="https://steamcommunity.com/app/570/broadcasts/" >
+								Broadcasts							</option>
+													<option value="https://steamcommunity.com/app/570/videos/" >
+								Videos							</option>
+													<option value="https://steamcommunity.com/app/570/workshop/" >
+								Workshop							</option>
+													<option value="https://steamcommunity.com/app/570/allnews/" >
+								News							</option>
+													<option value="https://steamcommunity.com/app/570/guides/" >
+								Guides							</option>
+													<option value="https://steamcommunity.com/app/570/reviews/" >
+								Reviews							</option>
+											</select>
+				</div>
+			</div>
+		</div>
+	</div>
+	<div class="responsive_tab_baseline nonresponsive_hidden"></div>
+	<div class="apphub_sectionTabsHR responsive_hidden"></div>
+
+
+	<!-- these elements are used to populate the local menu on responsive pages -->
+	<div style="display: none;">
+		<div class="responsive_local_menu apphub_responsive_menu">
+			<h3 class="ellipsis apphub_responsive_menu_title">Dota 2</h3>
+			<div class="apphub_ResponsiveMenuCtn">
+									<a style="position: relative; z-index: 1;" class="btnv6_blue_hoverfade btn_medium" href="https://store.steampowered.com/app/570">
+						<span>Store Page</span>
+					</a>
+											</div>
+								</div>
+	</div>
+	<!-- end responsive menu -->
+
+	
+</div>
+
+	<div class="apphub_HeaderBottomBG_ctn">
+		<div class="apphub_HeaderBottomBG"></div>
+	</div>
+		<div style="clear: both"></div>
+	</div>
+
+	<div id="AppHubContent" class="apphub_Discussion_Content">
+		<div class="leftcol">
+									<div class="nonresponsive_hidden responsive_tab_ctn forumselector ">
+				<div class="responsive_tab_control">
+										<label for="responsive_tab_select5c379996c3bbc">Forum:</label>
+					<div class="formselector_select_ctn">
+						<select class="responsive_tab_select" id="responsive_tab_select5c379996c3bbc">
+															<option value="https://steamcommunity.com/app/570/discussions/0/" selected class="">General Discussions</option>
+															<option value="https://steamcommunity.com/app/570/discussions/1/"  class="">Looking For Players</option>
+															<option value="https://steamcommunity.com/workshop/discussions/18446744073709551615/?appid=570"  class="">Dota 2 Workshop Discussion</option>
+															<option value="https://steamcommunity.com/app/570/tradingforum/"  class="">Trading</option>
+													</select>
+					</div>
+					<div style="clear: left;"></div>
+				</div>
+			</div>
+					<script type="text/javascript">
+$J( function() {
+	InitializeForum( "General_3703047", {"owner":"3703047","type":"General","feature":"0","gidforum":"882957625821971751","forum_display_name":"General Discussions","forum_url":"https:\/\/steamcommunity.com\/app\/570\/discussions\/0\/","forum_search_url":"https:\/\/steamcommunity.com\/app\/570\/discussions\/search\/","is_public":1,"permissions":{"can_view":1,"can_post":1,"can_reply":1,"is_banned":0},"appid":570,"start":0,"total_count":1358,"pagesize":15}, 'https://steamcommunity.com/forum/3703047/General/' );
+	} );
+</script>
+	<div class="nonresponsive_hidden forum_responsive_newtopic_action">
+		<div onclick="Forum_CreateTopic( 'General_3703047' ); $J(this).parent().slideUp( 250 );" class="btn_darkblue_white_innerfade btn_medium ">
+			<span>Start a New Discussion</span>
+		</div>
+	</div>
+<div class="forum_area" id="forum_General_3703047_area">
+	<div id="forum_General_3703047_newtopic_area" style="display: none;">
+		<div class="forum_newtopic_area">
+			<div class="forum_newtopic_header">
+				START A NEW DISCUSSION			</div>
+
+						<div class="forum_newtopic_box">
+									You need to <a href="https://steamcommunity.com/login/home/?goto=app%2F570%2Fdiscussions%2F">sign in</a> or <a href="https://store.steampowered.com/join/">create an account</a> to do that.							</div>
+		</div>
+	</div>
+		<div class="forum_paging forum_paging_header">
+		<div class="forum_paging_controls" id="forum_General_3703047_pagecontrols">
+			<a href="#" rel="prev" id="forum_General_3703047_pagebtn_prev" class="pagebtn">&lt;</a>
+			<span id="forum_General_3703047_pagelinks" class="commentthread_pagelinks"></span>
+			<a href="https://steamcommunity.com/app/570/discussions/?fp=2" rel="next" id="forum_General_3703047_pagebtn_next" class="pagebtn">&gt;</a>
+		</div>
+		<div class="forum_paging_summary ellipsis">
+			Showing <span id="forum_General_3703047_pagestart">1</span>-<span id="forum_General_3703047_pageend">15</span> of <span id="forum_General_3703047_pagetotal">1,358</span> active topics		</div>
+		<div style="clear: both;"></div>
+	</div>
+		<div id="forum_General_3703047_topiccontainer" class="forum_topics_container">
+		<div id="forum_General_3703047_topics" class="forum_topics">
+			
+<div class="forum_topic  unread sticky" id="forum_General_3703047_3374780959395992026"  data-gidforumtopic="3374780959395992026" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				 7.20e 
+
+* Wraith Band: Bonus agility reduced from +8 to +6 (cost reduced by 25)
+* Bracer: Bonus strength reduced from +8 to +6 (cost reduced by 25)
+* Null Talisman: Bonus intelligence reduced from +8 to +6 (cost reduced by 25)
+* Power Treads: Bonu...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Woody&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Nov 19, 2018 @ 10:45am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;🖕Žëńø🖕&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;8:21am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/3374780959395992026/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 2,097			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 8:21:20 am PST" data-timestamp="1547137280">
+				2 hours ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="This thread is pinned.">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/notification_icon_pinned.png">
+					</div>
+		<div class="forum_topic_name ">
+									<span class="forum_topic_label sticky_label">PINNED:</span>
+									7.20-7.20e			</div>
+			<div class="forum_topic_op">
+			Woody		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread locked sticky" id="forum_General_3703047_1697176044369369018"  data-gidforumtopic="1697176044369369018" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				 Starting on January 1 2019, Steam will officially stop supporting the Windows XP and Windows Vista operating systems. This means that after that date the Steam Client will no longer run on those versions of Windows.  In order to continue running ...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Felix&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Jun 12, 2018 @ 3:21pm&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Colt ☶&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Dec 16, 2018 @ 11:51am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1697176044369369018/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 128			</div>
+			<div class="forum_topic_lastpost" title="December 16, 2018 @ 11:51:42 am PST" data-timestamp="1544989902">
+				Dec 16, 2018 @ 11:51am			</div>
+		</div>
+				<div class="forum_topic_icon" title="This thread is locked.">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_locked.png">
+					</div>
+		<div class="forum_topic_name ">
+									<span class="forum_topic_label sticky_label">PINNED:</span>
+										<img class="forum_topic_answer" src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/icon_answer_smaller.png?v=1" title="This topic has been answered" >
+						Windows XP, Vista; macOS 10.7–10.10 Support			</div>
+			<div class="forum_topic_op">
+			Felix		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread locked sticky" id="forum_General_3703047_1696040635904700731"  data-gidforumtopic="1696040635904700731" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				First of all, compliments for checking this thread and being vigilant.
+
+The short answer is: Until proven otherwise, assume the website is indeed a scam.
+
+  
+There are many more scam sites out there than legitimate sites and it's impossible for us...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Felix&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Feb 28, 2018 @ 2:02pm&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;The One They Call Dante&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Oct 12, 2018 @ 11:04am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1696040635904700731/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 137			</div>
+			<div class="forum_topic_lastpost" title="October 12, 2018 @ 11:04:41 am PST" data-timestamp="1539367481">
+				Oct 12, 2018 @ 11:04am			</div>
+		</div>
+				<div class="forum_topic_icon" title="This thread is locked.">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_locked.png">
+					</div>
+		<div class="forum_topic_name ">
+									<span class="forum_topic_label sticky_label">PINNED:</span>
+									HELP! - Q: &quot;Is this site a scam?&quot; A: Probably!			</div>
+			<div class="forum_topic_op">
+			Felix		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread locked sticky" id="forum_General_3703047_1696043806568564569"  data-gidforumtopic="1696043806568564569" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				 Many users on Dota 2 community discussions have misconceptions about how to report a player for breaking the rules. Here you have have a short guide what to do and what not to do to in order to potentially get offenders punished.
+
+
+ How to report:[/h1...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;ん&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Apr 8, 2018 @ 7:24am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;akatsuki.-chikushodo&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Aug 22, 2018 @ 11:41am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1696043806568564569/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 414			</div>
+			<div class="forum_topic_lastpost" title="August 22, 2018 @ 11:41:53 am PST" data-timestamp="1534963313">
+				Aug 22, 2018 @ 11:41am			</div>
+		</div>
+				<div class="forum_topic_icon" title="This thread is locked.">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_locked.png">
+					</div>
+		<div class="forum_topic_name ">
+									<span class="forum_topic_label sticky_label">PINNED:</span>
+									How to report players in Dota2			</div>
+			<div class="forum_topic_op">
+			ん		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread locked sticky" id="forum_General_3703047_1696040635904718987"  data-gidforumtopic="1696040635904718987" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				  It might seem fine, but trading is   not   allowed in this sub-forum.  
+
+  Why isn’t it allowed?  
+
+It's simple.
+
+Firstly, there is a dedicated   Trading Sub Forum[/...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Felix&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;Feb 28, 2018 @ 2:09pm&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1696040635904718987/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="February 28, 2018 @ 2:09:24 pm PST" data-timestamp="1519855764">
+				Feb 28, 2018 @ 2:09pm			</div>
+		</div>
+				<div class="forum_topic_icon" title="This thread is locked.">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_locked.png">
+					</div>
+		<div class="forum_topic_name ">
+									<span class="forum_topic_label sticky_label">PINNED:</span>
+									Trading is NOT allowed in this sub-forum.			</div>
+			<div class="forum_topic_op">
+			Felix		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760479589"  data-gidforumtopic="1744482869760479589" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Statwise he might be the weakest in the game,he is meele but dies 2 hits,kinda slow,takes time to farm items for him and xp,his first skill is ok,but the rest pretty meh besides his ultimate and lv6 I think nyx assasin is the hero with the toughest early ...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Kaze Seven&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;9:25am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;SGT_pawn_TuK&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;11:11am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760479589/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 8			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 11:11:56 am PST" data-timestamp="1547147516">
+				2 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Why is nyx assasin so weak?			</div>
+			<div class="forum_topic_op">
+			Kaze Seven		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869759734175"  data-gidforumtopic="1744482869759734175" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Answer: 2 feeders!!!!! fv ck Volvo and this matchmaking system ez ranks 			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;WhitePrideWorldWide&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;4:42am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Razer&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:52am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869759734175/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 6			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:52:30 am PST" data-timestamp="1547146350">
+				22 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											What's worse then a feeder in team ?			</div>
+			<div class="forum_topic_op">
+			WhitePrideWorldWide		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760637304"  data-gidforumtopic="1744482869760637304" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				https://www.twitch.tv/mahoune			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;1R0KEZZZ.&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:25am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;The One They Call Dante&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:48am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760637304/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 5			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:48:51 am PST" data-timestamp="1547146131">
+				25 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											CAN U BANNED THIS HACKER ??			</div>
+			<div class="forum_topic_op">
+			1R0KEZZZ.		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760406636"  data-gidforumtopic="1744482869760406636" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				what u think about him ?? im feels hes a kinda broken pick in an average hands, hes a booring right clicker, and his gameplay is too easy...
+
+last game we got mid fiend vs huskar, u know how it ends ? obvious feed from the Fiend
+im think dat this hero is ...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Amphilyon&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;8:57am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;MichEUL Jordan &amp;amp; SKADI Pippen&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:46am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760406636/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 18			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:46:57 am PST" data-timestamp="1547146017">
+				27 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Huskar + Armlet = GG			</div>
+			<div class="forum_topic_op">
+			Amphilyon		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869759930179"  data-gidforumtopic="1744482869759930179" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Yaya, pa meta changed and actually not good. still battle fury better.  jug as well play battle fury on him and manta and skadi.  sorry my meta  work research i canceled the work because cannot earn money and emotional exaustion tortured by millions playe...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;LittleChipLittleMunk&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;5:57am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;MichEUL Jordan &amp;amp; SKADI Pippen&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:27am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869759930179/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 5			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:27:20 am PST" data-timestamp="1547144840">
+				47 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											I wanna tell my dota 2 meta is lost teaching. I want u guys revert back everything to first meta being made.			</div>
+			<div class="forum_topic_op">
+			LittleChipLittleMunk		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760620833"  data-gidforumtopic="1744482869760620833" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				Where the heck is Mars at? League releases several new characters a year, yet this game only releases one if that's even possible for the year....			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Spartacus&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:18am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Ser Pounce&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:24am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760620833/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 1			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:24:46 am PST" data-timestamp="1547144686">
+				49 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Mars			</div>
+			<div class="forum_topic_op">
+			Spartacus		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760456150"  data-gidforumtopic="1744482869760456150" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				This has become a trend, every single tiny now just go mid, start throwing people to enemies un til the game is over.
+
+4325668713
+20' or more throwing me literally full time to the enemy... this really needs to stop.
+
+And as allways there is not enough re...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;☀Eternal Flame ♏&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;9:16am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;MichEUL Jordan &amp;amp; SKADI Pippen&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:21am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760456150/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 2			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:21:58 am PST" data-timestamp="1547144518">
+				52 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											Every tiny ruining the game.			</div>
+			<div class="forum_topic_op">
+			☀Eternal Flame ♏		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760278802"  data-gidforumtopic="1744482869760278802" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				4325099924
+arc using cheats weird mouse moves auto casting.....
+wtf ???			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Winner&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;8:09am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;Spartacus&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:15am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760278802/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 6			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:15:01 am PST" data-timestamp="1547144101">
+				59 minutes ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											CHEATERS			</div>
+			<div class="forum_topic_op">
+			Winner		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760572703"  data-gidforumtopic="1744482869760572703" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				i hope my opinion can be hear by valve even by gaben himself,
+
+for valve staff, i hope you can rework control for disconnected player, at least make other player that control disconnected hero only can use their skill but not pick or choosing skill, i rea...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;Herrscher&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;10:00am&lt;/span&gt;			&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760572703/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 0			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 10:00:39 am PST" data-timestamp="1547143239">
+				1 hour ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											limit other player control			</div>
+			<div class="forum_topic_op">
+			Herrscher		</div>
+		<div style="clear: both;"></div>
+</div>
+<div class="forum_topic  unread" id="forum_General_3703047_1744482869760527921"  data-gidforumtopic="1744482869760527921" data-tooltip-forum="			&lt;div class=&quot;topic_hover_text&quot;&gt;
+				баг заключается в чем , 100% когда к твоему персонажу подходят в рендж 300+ игра подвисает на 1-2 секунды , а порой и до 5-7 , я постоянно бялть фижу и...			&lt;/div&gt;
+			&lt;div class=&quot;topic_hover_row&quot;&gt;
+				Posted by: &lt;span class=&quot;topic_hover_data&quot;&gt;сочный поц&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;9:43am&lt;/span&gt;			&lt;/div&gt;
+							&lt;div class=&quot;topic_hover_row&quot;&gt;
+					Last post: &lt;span class=&quot;topic_hover_data&quot;&gt;сочный поц&lt;/span&gt;, &lt;span class=&quot;&quot;&gt;9:46am&lt;/span&gt;				&lt;/div&gt;
+					">
+	<a class="forum_topic_overlay" href="https://steamcommunity.com/app/570/discussions/0/1744482869760527921/">
+
+	</a>
+			<div class="forum_topic_details">
+			<div class="forum_topic_reply_count">
+				<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/comment_quoteicon.png"> 1			</div>
+			<div class="forum_topic_lastpost" title="January 10, 2019 @ 9:46:44 am PST" data-timestamp="1547142404">
+				1 hour ago			</div>
+		</div>
+				<div class="forum_topic_icon" title="There are new replies in this thread.  Click to jump to the first unread reply">
+							<img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/forum_topicicon_unread.png?v=1">
+					</div>
+		<div class="forum_topic_name ">
+											баги в игре 			</div>
+			<div class="forum_topic_op">
+			сочный поц		</div>
+		<div style="clear: both;"></div>
+</div>		</div>
+	</div>
+				<div class="forum_paging forum_paging_footer">
+		<div class="forum_paging_controls" id="forum_General_3703047_footerpagecontrols">
+			<a href="#" rel="prev" id="forum_General_3703047_footerpagebtn_prev" class="pagebtn">&lt;</a>
+			<span id="forum_General_3703047_footerpagelinks" class="commentthread_pagelinks"></span>
+			<a href="https://steamcommunity.com/app/570/discussions/?fp=2" rel="next" id="forum_General_3703047_footerpagebtn_next" class="pagebtn">&gt;</a>
+		</div>
+		<div class="forum_paging_summary ellipsis">
+			Showing <span id="forum_General_3703047_footerpagestart">1</span>-<span id="forum_General_3703047_footerpageend">15</span> of <span id="forum_General_3703047_footerpagetotal">1,358</span> active topics		</div>
+		<div style="clear: both;"></div>
+	</div>
+			<div class="forum_pagesize_options">Per page: 15 <a class="whiteLink" href="javascript:Forum_SetTopicsPerPage( 30 );">30</a> <a class="whiteLink" href="javascript:Forum_SetTopicsPerPage( 50 );">50</a> </div>			<div id="forum_General_3703047_searchformore" class="forum_search_notice" style="display: none">Showing the 1,358 most recently active topics.  Use the search tool to find older topics.</div>
+	</div>		</div>
+		<div class="rightcol responsive_local_menu">
+
+			<form class="" method="GET" name="DiscussionSearchForm" id="DiscussionSearchForm" action="https://steamcommunity.com/app/570/discussions/search/">
+				<div class="discussionSearchTextContainer">
+					<input class="discussionSearchText" class="searchText" type="text" name="q" value="" placeholder="Search discussions">
+					<input type="hidden" name="gidforum" value="882957625821971751">
+											<input type="hidden" name="include_deleted" value="1">
+										<img onclick="$('DiscussionSearchForm').submit()" class="discussionSearchTextSubmitImg" src="https://steamcommunity-a.akamaihd.net/public/images/sharedfiles/searchbox_workshop_submit.gif" width="23" height="18" border="0">
+				</div>
+			</form>
+			<br>
+
+
+							<div class="rightbox_header"></div>
+				<div class="rightbox">
+											<div class="content">
+															<a href="javascript:Forum_CreateTopic( 'General_3703047' );" class="btn_darkblue_white_innerfade btn_medium responsive_OnClickDismissMenu"><span>
+									Start a New Discussion								</span></a>
+													</div>
+																				</div>
+				<div class="rightbox_footer"></div>
+			
+
+							<div class="rightbox_header"></div>
+				<div class="rightbox forum_list">
+					<div class="content">
+						<div class="rightbox_list_header">
+							<div class="forum_list_postcount">
+								THREADS							</div>
+							<div class="forum_list_name">
+								SUB FORUMS							</div>
+						</div>
+												<div class="rightbox_list_option selected ">
+							<div class="rightbox_list_selection_background" ></div>
+							<div class="rightbox_list_option_content">
+								<div class="forum_list_postcount">
+									457,673								</div>
+								<div class="forum_list_name">
+									<a class="whiteLink" href="https://steamcommunity.com/app/570/discussions/0/">
+										General Discussions									</a>
+								</div>
+							</div>
+						</div>
+												<div class="rightbox_list_option ">
+							<div class="rightbox_list_selection_background" ></div>
+							<div class="rightbox_list_option_content">
+								<div class="forum_list_postcount">
+									180								</div>
+								<div class="forum_list_name">
+									<a class="whiteLink" href="https://steamcommunity.com/app/570/discussions/1/">
+										Looking For Players									</a>
+								</div>
+							</div>
+						</div>
+												<div class="rightbox_list_option ">
+							<div class="rightbox_list_selection_background" ></div>
+							<div class="rightbox_list_option_content">
+								<div class="forum_list_postcount">
+									12,245								</div>
+								<div class="forum_list_name">
+									<a class="whiteLink" href="https://steamcommunity.com/workshop/discussions/18446744073709551615/?appid=570">
+										Dota 2 Workshop Discussion									</a>
+								</div>
+							</div>
+						</div>
+												<div class="rightbox_list_option ">
+							<div class="rightbox_list_selection_background" ></div>
+							<div class="rightbox_list_option_content">
+								<div class="forum_list_postcount">
+									33,122								</div>
+								<div class="forum_list_name">
+									<a class="whiteLink" href="https://steamcommunity.com/app/570/tradingforum/">
+										Trading									</a>
+								</div>
+							</div>
+						</div>
+											</div>
+				</div>
+				<div class="rightbox_footer"></div>
+			
+			<div class="rightbox_header"></div>
+			<div class="rightbox rules">
+				<div class="content">
+					<div class="weblink"><a href="https://support.steampowered.com/kb_article.php?ref=4045-USHJ-3810" target="_blank" rel="noreferrer" ><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/iconRules.png"> Discussions Rules and Guidelines</a></div>
+									</div>
+			</div>
+			<div class="rightbox_footer"></div>
+
+			
+					</div>
+		<div style="clear: both;"></div>
+	</div>
+
+	</div>
+</div>
+
+<div id="forum_modal" class="modal_frame" style="display:none;">
+	<div class="modal_top_band">
+		<div class="modal_close"><a href="javascript:hideModal( 'forum_modal' )"><img src="https://steamcommunity-a.akamaihd.net/public/images/x9x9.gif" width="9" height="9" border="0" alt="Close" /></a></div>
+	</div>
+	<div class="modal_box">
+		<div class="modal_box_ctn">
+				</div>
+	</div>
+</div>
+
+<div id="modalBG" style="display: none;"></div>
+
+		</div>	<!-- responsive_page_legacy_content -->
+
+				<script>
+			RecordAppImpression( 570, '2_9_100006_' );
+		</script>
+			<div id="footer_spacer"></div>
+	<div id="footer_responsive_optin_spacer"></div>
+	<div id="footer">
+		<div class="footer_content">
+			<span id="footerLogo"><img src="https://steamcommunity-a.akamaihd.net/public/images/skin_1/footerLogo_valve.png?v=1" width="96" height="26" border="0" alt="Valve Logo" /></span>
+			<span id="footerText">
+				&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.<br/>Some geospatial data on this website is provided by <a href="https://steamcommunity.com/linkfilter/?url=http://www.geonames.org" target="_blank" rel="noreferrer">geonames.org</a>.				<br>
+									<span class="valve_links">
+						<a href="http://store.steampowered.com/privacy_agreement/" target="_blank">Privacy Policy</a>
+						&nbsp; | &nbsp;<a href="https://store.steampowered.com/legal/" target="_blank">Legal</a>
+						&nbsp;| &nbsp;<a href="http://store.steampowered.com/subscriber_agreement/" target="_blank">Steam Subscriber Agreement</a>
+					</span>
+							</span>
+		</div>
+					<div class="responsive_optin_link">
+				<div class="btn_medium btnv6_grey_black" onclick="Responsive_RequestMobileView()">
+					<span>View mobile website</span>
+				</div>
+			</div>
+			</div>
+	
+	</div>	<!-- responsive_page_content -->
+
+</div>	<!-- responsive_page_frame -->
+</body>
+</html>

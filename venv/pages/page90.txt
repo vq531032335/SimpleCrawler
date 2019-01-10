@@ -1,0 +1,303 @@
+<!DOCTYPE html>
+<html class="client-nojs" lang="en" dir="ltr">
+<head>
+<meta charset="UTF-8"/>
+<title>IceFrog - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"IceFrog","wgTitle":"IceFrog","wgCurRevisionId":870598227,"wgRevisionId":870598227,"wgArticleId":32820833,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use mdy dates from January 2018","Articles with hCards","Year of birth missing (living people)","All stub articles","Living people","Valve Corporation people","Video game designers","Video game programmers","Pseudonyms","Video game specialist stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"IceFrog","wgRelevantArticleId":32820833,"wgRequestId":"XC7SoApAAEYAACLatnYAAABY","wgCSPNonce":false,"wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikiEditorEnabledModules":[],"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":true,"wgPopupsShouldSendModuleToUser":true,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgMFExpandAllSectionsUserOption":true,"wgMFEnableFontChanger":true,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgWMESchemaEditAttemptStepOversample":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgWikibaseItemId":"Q3456319","wgScoreNoteLanguages":{"arabic":"العربية","catalan":"català","deutsch":"Deutsch","english":"English","espanol":"español","italiano":"italiano","nederlands":"Nederlands","norsk":"norsk","portugues":"português","suomi":"suomi","svenska":"svenska","vlaams":"West-Vlams"},"wgScoreDefaultNoteLanguage":"nederlands","wgCentralAuthMobileDomain":false,"wgCodeMirrorEnabled":true,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":true});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","ext.3d.styles":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready"});mw.loader.implement("user.tokens@0tffind",function($,jQuery,require,module){/*@nomin*/mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});
+});RLPAGEMODULES=["ext.cite.ux-enhancements","site","mediawiki.page.startup","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.popups","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.compactlinks","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"];mw.loader.load(RLPAGEMODULES);});</script>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.3d.styles%7Cext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta name="ResourceLoaderDynamicStyles" content=""/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector"/>
+<link rel="stylesheet" href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector"/>
+<meta name="generator" content="MediaWiki 1.33.0-wmf.9"/>
+<meta name="referrer" content="origin"/>
+<meta name="referrer" content="origin-when-crossorigin"/>
+<meta name="referrer" content="origin-when-cross-origin"/>
+<link rel="alternate" href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/IceFrog"/>
+<link rel="alternate" type="application/x-wiki" title="Edit this page" href="/w/index.php?title=IceFrog&amp;action=edit"/>
+<link rel="edit" title="Edit this page" href="/w/index.php?title=IceFrog&amp;action=edit"/>
+<link rel="apple-touch-icon" href="/static/apple-touch/wikipedia.png"/>
+<link rel="shortcut icon" href="/static/favicon/wikipedia.ico"/>
+<link rel="search" type="application/opensearchdescription+xml" href="/w/opensearch_desc.php" title="Wikipedia (en)"/>
+<link rel="EditURI" type="application/rsd+xml" href="//en.wikipedia.org/w/api.php?action=rsd"/>
+<link rel="license" href="//creativecommons.org/licenses/by-sa/3.0/"/>
+<link rel="canonical" href="https://en.wikipedia.org/wiki/IceFrog"/>
+<link rel="dns-prefetch" href="//login.wikimedia.org"/>
+<link rel="dns-prefetch" href="//meta.wikimedia.org" />
+<!--[if lt IE 9]><script src="/w/load.php?debug=false&amp;lang=en&amp;modules=html5shiv&amp;only=scripts&amp;skin=vector&amp;sync=1"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject mw-editable page-IceFrog rootpage-IceFrog skin-vector action-view">		<div id="mw-page-base" class="noprint"></div>
+		<div id="mw-head-base" class="noprint"></div>
+		<div id="content" class="mw-body" role="main">
+			<a id="top"></a>
+			<div id="siteNotice" class="mw-body-content"><!-- CentralNotice --></div><div class="mw-indicators mw-body-content">
+</div>
+<h1 id="firstHeading" class="firstHeading" lang="en">IceFrog</h1>			<div id="bodyContent" class="mw-body-content">
+				<div id="siteSub" class="noprint">From Wikipedia, the free encyclopedia</div>				<div id="contentSub"></div>
+				<div id="jump-to-nav"></div>				<a class="mw-jump-link" href="#mw-head">Jump to navigation</a>
+				<a class="mw-jump-link" href="#p-search">Jump to search</a>
+				<div id="mw-content-text" lang="en" dir="ltr" class="mw-content-ltr"><div class="mw-parser-output"><p class="mw-empty-elt">
+</p>
+<div role="note" class="hatnote navigation-not-searchable">This article is about the game designer. For the amphibian, see <a href="/wiki/Ice_frog" title="Ice frog">Ice frog</a>.</div>
+<table class="infobox biography vcard" style="width:22em"><tbody><tr><th colspan="2" style="text-align:center;font-size:125%;font-weight:bold"><div class="fn" style="display:inline">IceFrog</div></th></tr><tr><th scope="row">Born</th><td>1983&#32;or&#32;1984 (age&#160;34–35)</td></tr><tr><th scope="row">Occupation</th><td class="role"><a href="/wiki/Video_game_designer" class="mw-redirect" title="Video game designer">Video game designer</a></td></tr><tr><th scope="row">Employer</th><td class="org"><a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve Corporation</a></td></tr><tr><th scope="row"><div style="white-space:nowrap;">Notable work</div></th><td><i><a href="/wiki/Defense_of_the_Ancients" title="Defense of the Ancients">Defense of the Ancients</a></i><br /><i><a href="/wiki/Dota_2" title="Dota 2">Dota 2</a></i></td></tr></tbody></table>
+<p><b>IceFrog</b> (born 1983&#32;or&#32;1984)<sup id="cite_ref-dotablog2009_1-0" class="reference"><a href="#cite_note-dotablog2009-1">&#91;1&#93;</a></sup> is a <a href="/wiki/Pseudonym" title="Pseudonym">pseudonymous</a> <a href="/wiki/Video_game_designer" class="mw-redirect" title="Video game designer">video game designer</a> known for being the lead designer of <i><a href="/wiki/Defense_of_the_Ancients" title="Defense of the Ancients">Defense of the Ancients</a></i> (DotA), a custom <i><a href="/wiki/Warcraft_III:_Reign_of_Chaos" title="Warcraft III: Reign of Chaos">Warcraft III: Reign of Chaos</a></i> <a href="/wiki/Mod_(video_gaming)" title="Mod (video gaming)">mod</a>, as well as for the stand-alone sequel, <i><a href="/wiki/Dota_2" title="Dota 2">Dota 2</a></i>.<sup id="cite_ref-2" class="reference"><a href="#cite_note-2">&#91;2&#93;</a></sup>
+</p><p>His involvement with <i>Defense of the Ancients</i> originally began in 2005, when he inherited the reins of the dominant variant entitled <i>DotA Allstars</i> from "Neichus", who himself inherited it from Steve "Guinsoo" Feak.<sup id="cite_ref-3" class="reference"><a href="#cite_note-3">&#91;3&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="Identity">Identity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IceFrog&amp;action=edit&amp;section=1" title="Edit section: Identity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>IceFrog is noted for his continued anonymity, having never publicly disclosed his identity.<sup id="cite_ref-4" class="reference"><a href="#cite_note-4">&#91;4&#93;</a></sup><sup id="cite_ref-5" class="reference"><a href="#cite_note-5">&#91;5&#93;</a></sup> In February 2009, IceFrog revealed on his blog that he was 25 years old at the time.<sup id="cite_ref-dotablog2009_1-1" class="reference"><a href="#cite_note-dotablog2009-1">&#91;1&#93;</a></sup> In 2010, an anonymous person who claimed to be a Valve employee wrote a blog post titled "The Truth About IceFrog", in which he claims that IceFrog had previously worked secretly on <i><a href="/wiki/Heroes_of_Newerth" title="Heroes of Newerth">Heroes of Newerth</a></i> for <a href="/wiki/S2_Games" title="S2 Games">S2 Games</a> before joining Valve, as well as stating his identity as Abdul Ismail.<sup id="cite_ref-6" class="reference"><a href="#cite_note-6">&#91;6&#93;</a></sup> An April 2017 court document regarding the ownership of the <i>Dota</i> intellectual property reaffirmed Ismail as the identity of IceFrog, as well as confirming his pre-Valve contributions in <i>Heroes of Newerth</i>.<sup id="cite_ref-7" class="reference"><a href="#cite_note-7">&#91;7&#93;</a></sup>
+</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=IceFrog&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap"><ol class="references">
+<li id="cite_note-dotablog2009-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-dotablog2009_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dotablog2009_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://web.archive.org/web/20111229040348/http://www.playdota.com/forums/blog.php?b=62">"IceFrog.com: Q&amp;A Session #2"</a>. <i>DotA Forums</i>. February  3, 2009. Archived from <a rel="nofollow" class="external text" href="http://www.playdota.com/forums/blog.php?b=62">the original</a> on December 29, 2011.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=DotA+Forums&amp;rft.atitle=IceFrog.com%3A+Q%26A+Session+%232&amp;rft.date=2009-02-03&amp;rft_id=http%3A%2F%2Fwww.playdota.com%2Fforums%2Fblog.php%3Fb%3D62&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><style data-mw-deduplicate="TemplateStyles:r861714446">.mw-parser-output cite.citation{font-style:inherit}.mw-parser-output q{quotes:"\"""\"""'""'"}.mw-parser-output code.cs1-code{color:inherit;background:inherit;border:inherit;padding:inherit}.mw-parser-output .cs1-lock-free a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-limited a,.mw-parser-output .cs1-lock-registration a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Lock-gray-alt-2.svg/9px-Lock-gray-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-lock-subscription a{background:url("//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Lock-red-alt-2.svg/9px-Lock-red-alt-2.svg.png")no-repeat;background-position:right .1em center}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration{color:#555}.mw-parser-output .cs1-subscription span,.mw-parser-output .cs1-registration span{border-bottom:1px dotted;cursor:help}.mw-parser-output .cs1-hidden-error{display:none;font-size:100%}.mw-parser-output .cs1-visible-error{font-size:100%}.mw-parser-output .cs1-subscription,.mw-parser-output .cs1-registration,.mw-parser-output .cs1-format{font-size:95%}.mw-parser-output .cs1-kern-left,.mw-parser-output .cs1-kern-wl-left{padding-left:0.2em}.mw-parser-output .cs1-kern-right,.mw-parser-output .cs1-kern-wl-right{padding-right:0.2em}</style></span>
+</li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Biessener, Adam (October 13, 2010). <a rel="nofollow" class="external text" href="http://gameinformer.com/b/features/archive/2010/10/13/dota-2-announced-details.aspx">"Valve's New Game Announced, Detailed: Dota 2"</a>. <a href="/wiki/Game_Informer" title="Game Informer">Game Informer</a>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Valve%27s+New+Game+Announced%2C+Detailed%3A+Dota+2&amp;rft.pub=Game+Informer&amp;rft.date=2010-10-13&amp;rft.aulast=Biessener&amp;rft.aufirst=Adam&amp;rft_id=http%3A%2F%2Fgameinformer.com%2Fb%2Ffeatures%2Farchive%2F2010%2F10%2F13%2Fdota-2-announced-details.aspx&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Dean, Paul (August 16, 2011). <a rel="nofollow" class="external text" href="http://www.eurogamer.net/articles/2011-08-16-the-story-of-dota-article?page=2">"The Story of DOTA"</a>. Eurogamer.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Story+of+DOTA&amp;rft.pub=Eurogamer&amp;rft.date=2011-08-16&amp;rft.aulast=Dean&amp;rft.aufirst=Paul&amp;rft_id=http%3A%2F%2Fwww.eurogamer.net%2Farticles%2F2011-08-16-the-story-of-dota-article%3Fpage%3D2&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Waldbridge, Michael (May 30, 2008). <a rel="nofollow" class="external text" href="https://web.archive.org/web/20090417003613/http://www.gamesetwatch.com/2008/05/column_the_game_anthropologist_defense_of.php">"The Game Anthropologist: Defense of the Ancients: An Underground Revolution"</a>. GameSetWatch. Archived from <a rel="nofollow" class="external text" href="http://www.gamesetwatch.com/2008/05/column_the_game_anthropologist_defense_of.php">the original</a> on April 17, 2009.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=The+Game+Anthropologist%3A+Defense+of+the+Ancients%3A+An+Underground+Revolution&amp;rft.pub=GameSetWatch&amp;rft.date=2008-05-30&amp;rft.au=Waldbridge%2C+Michael&amp;rft_id=http%3A%2F%2Fwww.gamesetwatch.com%2F2008%2F05%2Fcolumn_the_game_anthropologist_defense_of.php&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Taormina, Anthony. <a rel="nofollow" class="external text" href="https://gamerant.com/dota2-icefrog-valve-faq-allstars-tao-50426/">"<span class="cs1-kern-left">'</span>Defense of the Ancients: Allstars' Developer IceFrog Speaks on Dota 2"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 4,</span> 2016</span>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=%E2%80%98Defense+of+the+Ancients%3A+Allstars%E2%80%99+Developer+IceFrog+Speaks+on+Dota+2&amp;rft.aulast=Taormina&amp;rft.aufirst=Anthony&amp;rft_id=https%3A%2F%2Fgamerant.com%2Fdota2-icefrog-valve-faq-allstars-tao-50426%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Thomson, Karl (October 19, 2010). <a rel="nofollow" class="external text" href="http://www.lazygamer.net/gaming-news/pc-gaming/in-defense-of-icefrog-and-dota-2-a-rebuttal-to-the-valve-employee-blog/">"In Defense of IceFrog And Dota 2: A Rebuttal To The "Valve Employee" Blog"</a>. <i>Lazygamer.net</i>.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.genre=unknown&amp;rft.jtitle=Lazygamer.net&amp;rft.atitle=In+Defense+of+IceFrog+And+Dota+2%3A+A+Rebuttal+To+The+%22Valve+Employee%22+Blog&amp;rft.date=2010-10-19&amp;rft.aulast=Thomson&amp;rft.aufirst=Karl&amp;rft_id=http%3A%2F%2Fwww.lazygamer.net%2Fgaming-news%2Fpc-gaming%2Fin-defense-of-icefrog-and-dota-2-a-rebuttal-to-the-valve-employee-blog%2F&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a rel="nofollow" class="external text" href="https://assets.documentcloud.org/documents/3726401/BlizzardvLilith.pdf#page=8">"Order Denying Motion For Partial Summary Judgement And Denying Motion For Rule 11 Sanctions - Blizzard Entertainment, Inc. &amp; Valve Corp. vs Lilith Games &amp; uCool, Inc"</a> <span class="cs1-format">(PDF)</span>. April 16, 2017.</cite><span title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook&amp;rft.genre=unknown&amp;rft.btitle=Order+Denying+Motion+For+Partial+Summary+Judgement+And+Denying+Motion+For+Rule+11+Sanctions+-+Blizzard+Entertainment%2C+Inc.+%26+Valve+Corp.+vs+Lilith+Games+%26+uCool%2C+Inc.&amp;rft.date=2017-04-16&amp;rft_id=https%3A%2F%2Fassets.documentcloud.org%2Fdocuments%2F3726401%2FBlizzardvLilith.pdf%23page%3D8&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIceFrog" class="Z3988"></span><link rel="mw-deduplicated-inline-style" href="mw-data:TemplateStyles:r861714446"/></span>
+</li>
+</ol></div></div>
+<div role="navigation" class="navbox" aria-labelledby="Valve_Corporation" style="padding:3px"><table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit"><tbody><tr><th scope="col" class="navbox-title" colspan="3"><div class="plainlinks hlist navbar mini"><ul><li class="nv-view"><a href="/wiki/Template:Valve_Corporation" title="Template:Valve Corporation"><abbr title="View this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Valve_Corporation" title="Template talk:Valve Corporation"><abbr title="Discuss this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Valve_Corporation&amp;action=edit"><abbr title="Edit this template" style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none; padding:0;">e</abbr></a></li></ul></div><div id="Valve_Corporation" style="font-size:114%;margin:0 4em"><a href="/wiki/Valve_Corporation" title="Valve Corporation">Valve Corporation</a></div></th></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/List_of_Valve_Corporation_video_games" title="List of Valve Corporation video games">Video games</a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Half-Life_(series)" title="Half-Life (series)"><i>Half-Life</i></a></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Half-Life_(video_game)" title="Half-Life (video game)">Half-Life</a></i>
+<ul><li><i><a href="/wiki/Half-Life:_Opposing_Force" title="Half-Life: Opposing Force">Opposing Force</a></i></li>
+<li><i><a href="/wiki/Half-Life:_Blue_Shift" title="Half-Life: Blue Shift">Blue Shift</a></i></li>
+<li><i><a href="/wiki/Half-Life:_Decay" title="Half-Life: Decay">Decay</a></i></li></ul></li>
+<li><i><a href="/wiki/Half-Life_2" title="Half-Life 2">Half-Life 2</a></i>
+<ul><li><i><a href="/wiki/Half-Life_2:_Episode_One" title="Half-Life 2: Episode One">Episode One</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Episode_Two" title="Half-Life 2: Episode Two">Episode Two</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Deathmatch" title="Half-Life 2: Deathmatch">Deathmatch</a></i></li>
+<li><i><a href="/wiki/Half-Life_2:_Lost_Coast" title="Half-Life 2: Lost Coast">Lost Coast</a></i></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Portal_(series)" title="Portal (series)"><i>Portal</i></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Portal_(video_game)" title="Portal (video game)">Portal</a></i></li>
+<li><i><a href="/wiki/Portal_2" title="Portal 2">Portal 2</a></i></li>
+<li><i><a href="/wiki/The_Lab_(video_game)" title="The Lab (video game)">The Lab</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i><a href="/wiki/Counter-Strike" title="Counter-Strike">Counter-Strike</a></i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Counter-Strike_(video_game)" title="Counter-Strike (video game)">Counter-Strike</a></i></li>
+<li><i><a href="/wiki/Counter-Strike:_Condition_Zero" title="Counter-Strike: Condition Zero">Condition Zero</a></i></li>
+<li><i><a href="/wiki/Counter-Strike:_Source" title="Counter-Strike: Source">Source</a></i></li>
+<li><i><a href="/wiki/Counter-Strike:_Global_Offensive" title="Counter-Strike: Global Offensive">Global Offensive</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Day of Defeat</i></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Day_of_Defeat" title="Day of Defeat">Day of Defeat</a></i></li>
+<li><i><a href="/wiki/Day_of_Defeat:_Source" title="Day of Defeat: Source">Source</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Team Fortress</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Team_Fortress_Classic" title="Team Fortress Classic">Team Fortress Classic</a></i></li>
+<li><i><a href="/wiki/Team_Fortress_2" title="Team Fortress 2">Team Fortress 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><a href="/wiki/Left_4_Dead_(series)" title="Left 4 Dead (series)"><i>Left 4 Dead</i></a></th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Left_4_Dead" title="Left 4 Dead">Left 4 Dead</a></i></li>
+<li><i><a href="/wiki/Left_4_Dead_2" title="Left 4 Dead 2">Left 4 Dead 2</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%"><i>Dota</i></th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/Dota_2" title="Dota 2">Dota 2</a></i></li>
+<li><i><a href="/wiki/Artifact_(video_game)" title="Artifact (video game)">Artifact</a></i></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Other</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><i><a href="/wiki/The_Orange_Box" title="The Orange Box">The Orange Box</a></i></li>
+<li><i><a href="/wiki/Alien_Swarm" title="Alien Swarm">Alien Swarm</a></i></li></ul>
+</div></td></tr></tbody></table><div></div></td><td class="navbox-image" rowspan="3" style="width:1px;padding:0px 0px 0px 2px"><div><a href="/wiki/File:Valve_logo.svg" class="image"><img alt="Valve logo.svg" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/100px-Valve_logo.svg.png" width="100" height="28" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/150px-Valve_logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Valve_logo.svg/200px-Valve_logo.svg.png 2x" data-file-width="512" data-file-height="142" /></a></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Technology</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Hardware</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Steam_Controller" title="Steam Controller">Steam Controller</a></li>
+<li><a href="/wiki/Steam_Machine_(hardware_platform)" title="Steam Machine (hardware platform)">Steam Machine</a></li>
+<li><a href="/wiki/Steam_Link" title="Steam Link">Steam Link</a></li>
+<li><a href="/wiki/HTC_Vive" title="HTC Vive">HTC Vive</a></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Software</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/GoldSrc" title="GoldSrc">GoldSrc</a>
+<ul><li><a href="/wiki/List_of_GoldSrc_mods" title="List of GoldSrc mods">mods</a></li></ul></li>
+<li><a href="/wiki/Source_(game_engine)" title="Source (game engine)">Source</a>
+<ul><li><a href="/wiki/Source_Filmmaker" title="Source Filmmaker">Filmmaker</a></li>
+<li><a href="/wiki/List_of_Source_mods" title="List of Source mods">mods</a></li></ul></li>
+<li><a href="/wiki/Steam_(software)" title="Steam (software)">Steam</a></li>
+<li><a href="/wiki/SteamOS" title="SteamOS">SteamOS</a></li>
+<li><a href="/wiki/Valve_Anti-Cheat" title="Valve Anti-Cheat">Valve Anti-Cheat</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">People</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em"></div><table class="nowraplinks navbox-subgroup" style="border-spacing:0"><tbody><tr><th scope="row" class="navbox-group" style="width:1%">Current</th><td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Mike_Ambinder" title="Mike Ambinder">Mike Ambinder</a></li>
+<li><a class="mw-selflink selflink">IceFrog</a></li>
+<li><a href="/wiki/Sam_Lantinga" title="Sam Lantinga">Sam Lantinga</a></li>
+<li><a href="/wiki/Mike_Morasky" title="Mike Morasky">Mike Morasky</a></li>
+<li><a href="/wiki/Brad_Muir" title="Brad Muir">Brad Muir</a></li>
+<li><a href="/wiki/Gabe_Newell" title="Gabe Newell">Gabe Newell</a></li>
+<li><a href="/wiki/Jay_Pinkerton" title="Jay Pinkerton">Jay Pinkerton</a></li>
+<li><a href="/wiki/Robin_Walker_(game_designer)" title="Robin Walker (game designer)">Robin Walker</a></li>
+<li><a href="/wiki/Erik_Wolpaw" title="Erik Wolpaw">Erik Wolpaw</a></li>
+<li><a href="/wiki/Campo_Santo_(company)" title="Campo Santo (company)">Campo Santo</a>
+<ul><li><a href="/wiki/Jane_Ng" title="Jane Ng">Jane Ng</a></li>
+<li><a href="/wiki/Chris_Remo" title="Chris Remo">Chris Remo</a></li>
+<li><a href="/wiki/Jake_Rodkin" title="Jake Rodkin">Jake Rodkin</a></li>
+<li><a href="/wiki/Sean_Vanaman" title="Sean Vanaman">Sean Vanaman</a></li></ul></li></ul>
+</div></td></tr><tr><th scope="row" class="navbox-group" style="width:1%">Former</th><td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px"><div style="padding:0em 0.25em">
+<ul><li><a href="/wiki/Michael_Abrash" title="Michael Abrash">Michael Abrash</a></li>
+<li><a href="/wiki/Kelly_Bailey_(composer)" title="Kelly Bailey (composer)">Kelly Bailey</a></li>
+<li><a href="/wiki/Doug_Church" title="Doug Church">Doug Church</a></li>
+<li><a href="/wiki/Jess_Cliffe" title="Jess Cliffe">Jess Cliffe</a></li>
+<li><a href="/wiki/Chet_Faliszek" title="Chet Faliszek">Chet Faliszek</a></li>
+<li><a href="/wiki/Mike_Harrington" title="Mike Harrington">Mike Harrington</a></li>
+<li><a href="/wiki/Marc_Laidlaw" title="Marc Laidlaw">Marc Laidlaw</a></li>
+<li><a href="/wiki/Minh_Le" title="Minh Le">Minh Le</a></li>
+<li><a href="/wiki/Bay_Raitt" title="Bay Raitt">Bay Raitt</a></li>
+<li><a href="/wiki/Kim_Swift" title="Kim Swift">Kim Swift</a></li></ul>
+</div></td></tr></tbody></table><div></div></td></tr><tr><td class="navbox-abovebelow" colspan="3"><div>
+<ul><li><b><img alt="Wikipedia book" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" title="Wikipedia book" width="16" height="16" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" data-file-width="180" data-file-height="185" /> <a href="/wiki/Book:Valve_Corporation" title="Book:Valve Corporation">Book</a></b></li>
+<li><b><img alt="Category" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" title="Category" width="16" height="14" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" data-file-width="36" data-file-height="31" /> <a href="/wiki/Category:Valve_Corporation" title="Category:Valve Corporation">Category</a></b></li></ul>
+</div></td></tr></tbody></table></div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent"><tbody><tr><td><a href="/wiki/File:Crystal_personal.svg" class="image"><img alt="Stub icon" src="//upload.wikimedia.org/wikipedia/en/thumb/2/24/Crystal_personal.svg/25px-Crystal_personal.svg.png" width="25" height="25" srcset="//upload.wikimedia.org/wikipedia/en/thumb/2/24/Crystal_personal.svg/38px-Crystal_personal.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/2/24/Crystal_personal.svg/50px-Crystal_personal.svg.png 2x" data-file-width="70" data-file-height="70" /></a></td><td><i>This biographical article relating to a <a href="/wiki/Video_game" title="Video game">video game</a> specialist is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=IceFrog&amp;action=edit">expanding it</a>.</i><div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;"><ul><li class="nv-view"><a href="/wiki/Template:Videogame-bio-stub" title="Template:Videogame-bio-stub"><abbr title="View this template">v</abbr></a></li><li class="nv-talk"><a href="/wiki/Template_talk:Videogame-bio-stub" title="Template talk:Videogame-bio-stub"><abbr title="Discuss this template">t</abbr></a></li><li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Videogame-bio-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li></ul></div></td></tr></tbody></table>
+
+<!-- 
+NewPP limit report
+Parsed by mw1264
+Cached time: 20190104030951
+Cache expiry: 3600
+Dynamic content: true
+CPU time usage: 0.296 seconds
+Real time usage: 0.417 seconds
+Preprocessor visited node count: 1609/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 50280/2097152 bytes
+Template argument size: 635/2097152 bytes
+Highest expansion depth: 21/40
+Expensive parser function count: 1/500
+Unstrip recursion depth: 1/20
+Unstrip post‐expand size: 18604/5000000 bytes
+Number of Wikibase entities loaded: 1/400
+Lua time usage: 0.136/10.000 seconds
+Lua memory usage: 4.62 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  352.712      1 -total
+ 32.06%  113.077      1 Template:Infobox_person
+ 31.45%  110.921      1 Template:Reflist
+ 27.34%   96.427      7 Template:Cite_web
+ 23.33%   82.273      1 Template:Infobox
+ 12.66%   44.668      4 Template:Navbox
+ 10.94%   38.585      5 Template:Br_separated_entries
+ 10.89%   38.406      1 Template:Valve_Corporation
+ 10.09%   35.575      1 Template:Use_mdy_dates
+  9.35%   32.991      1 Template:About
+-->
+
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32820833-0!canonical and timestamp 20190104030951 and revision id 870598227
+ -->
+</div><noscript><img src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" alt="" title="" width="1" height="1" style="border: none; position: absolute;" /></noscript></div>					<div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=IceFrog&amp;oldid=870598227">https://en.wikipedia.org/w/index.php?title=IceFrog&amp;oldid=870598227</a>"					</div>
+				<div id="catlinks" class="catlinks" data-mw="interface"><div id="mw-normal-catlinks" class="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Living_people" title="Category:Living people">Living people</a></li><li><a href="/wiki/Category:Valve_Corporation_people" title="Category:Valve Corporation people">Valve Corporation people</a></li><li><a href="/wiki/Category:Video_game_designers" title="Category:Video game designers">Video game designers</a></li><li><a href="/wiki/Category:Video_game_programmers" title="Category:Video game programmers">Video game programmers</a></li><li><a href="/wiki/Category:Pseudonyms" title="Category:Pseudonyms">Pseudonyms</a></li><li><a href="/wiki/Category:Video_game_specialist_stubs" title="Category:Video game specialist stubs">Video game specialist stubs</a></li></ul></div><div id="mw-hidden-catlinks" class="mw-hidden-catlinks mw-hidden-cats-hidden">Hidden categories: <ul><li><a href="/wiki/Category:Use_mdy_dates_from_January_2018" title="Category:Use mdy dates from January 2018">Use mdy dates from January 2018</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li><li><a href="/wiki/Category:Year_of_birth_missing_(living_people)" title="Category:Year of birth missing (living people)">Year of birth missing (living people)</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div>				<div class="visualClear"></div>
+							</div>
+		</div>
+		<div id="mw-navigation">
+			<h2>Navigation menu</h2>
+			<div id="mw-head">
+									<div id="p-personal" role="navigation" class="" aria-labelledby="p-personal-label">
+						<h3 id="p-personal-label">Personal tools</h3>
+						<ul>
+							<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]" accesskey="n">Talk</a></li><li id="pt-anoncontribs"><a href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]" accesskey="y">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=IceFrog" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a href="/w/index.php?title=Special:UserLogin&amp;returnto=IceFrog" title="You&#039;re encouraged to log in; however, it&#039;s not mandatory. [o]" accesskey="o">Log in</a></li>						</ul>
+					</div>
+									<div id="left-navigation">
+										<div id="p-namespaces" role="navigation" class="vectorTabs" aria-labelledby="p-namespaces-label">
+						<h3 id="p-namespaces-label">Namespaces</h3>
+						<ul>
+							<li id="ca-nstab-main" class="selected"><span><a href="/wiki/IceFrog" title="View the content page [c]" accesskey="c">Article</a></span></li><li id="ca-talk"><span><a href="/wiki/Talk:IceFrog" rel="discussion" title="Discussion about the content page [t]" accesskey="t">Talk</a></span></li>						</ul>
+					</div>
+										<div id="p-variants" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-variants-label">
+												<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-variants-label" />
+						<h3 id="p-variants-label">
+							<span>Variants</span>
+						</h3>
+						<ul class="menu">
+													</ul>
+					</div>
+									</div>
+				<div id="right-navigation">
+										<div id="p-views" role="navigation" class="vectorTabs" aria-labelledby="p-views-label">
+						<h3 id="p-views-label">Views</h3>
+						<ul>
+							<li id="ca-view" class="collapsible selected"><span><a href="/wiki/IceFrog">Read</a></span></li><li id="ca-edit" class="collapsible"><span><a href="/w/index.php?title=IceFrog&amp;action=edit" title="Edit this page [e]" accesskey="e">Edit</a></span></li><li id="ca-history" class="collapsible"><span><a href="/w/index.php?title=IceFrog&amp;action=history" title="Past revisions of this page [h]" accesskey="h">View history</a></span></li>						</ul>
+					</div>
+										<div id="p-cactions" role="navigation" class="vectorMenu emptyPortlet" aria-labelledby="p-cactions-label">
+						<input type="checkbox" class="vectorMenuCheckbox" aria-labelledby="p-cactions-label" />
+						<h3 id="p-cactions-label"><span>More</span></h3>
+						<ul class="menu">
+													</ul>
+					</div>
+										<div id="p-search" role="search">
+						<h3>
+							<label for="searchInput">Search</label>
+						</h3>
+						<form action="/w/index.php" id="searchform">
+							<div id="simpleSearch">
+								<input type="search" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" accesskey="f" id="searchInput"/><input type="hidden" value="Special:Search" name="title"/><input type="submit" name="fulltext" value="Search" title="Search Wikipedia for this text" id="mw-searchButton" class="searchButton mw-fallbackSearchButton"/><input type="submit" name="go" value="Go" title="Go to a page with this exact name if it exists" id="searchButton" class="searchButton"/>							</div>
+						</form>
+					</div>
+									</div>
+			</div>
+			<div id="mw-panel">
+				<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page"  title="Visit the main page"></a></div>
+						<div class="portal" role="navigation" id="p-navigation" aria-labelledby="p-navigation-label">
+			<h3 id="p-navigation-label">Navigation</h3>
+			<div class="body">
+								<ul>
+					<li id="n-mainpage-description"><a href="/wiki/Main_Page" title="Visit the main page [z]" accesskey="z">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a href="/wiki/Special:Random" title="Load a random article [x]" accesskey="x">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-interaction" aria-labelledby="p-interaction-label">
+			<h3 id="p-interaction-label">Interaction</h3>
+			<div class="body">
+								<ul>
+					<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]" accesskey="r">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-tb" aria-labelledby="p-tb-label">
+			<h3 id="p-tb-label">Tools</h3>
+			<div class="body">
+								<ul>
+					<li id="t-whatlinkshere"><a href="/wiki/Special:WhatLinksHere/IceFrog" title="List of all English Wikipedia pages containing links to this page [j]" accesskey="j">What links here</a></li><li id="t-recentchangeslinked"><a href="/wiki/Special:RecentChangesLinked/IceFrog" rel="nofollow" title="Recent changes in pages linked from this page [k]" accesskey="k">Related changes</a></li><li id="t-upload"><a href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]" accesskey="u">Upload file</a></li><li id="t-specialpages"><a href="/wiki/Special:SpecialPages" title="A list of all special pages [q]" accesskey="q">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=IceFrog&amp;oldid=870598227" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=IceFrog&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3456319" title="Link to connected data repository item [g]" accesskey="g">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=IceFrog&amp;id=870598227" title="Information on how to cite this page">Cite this page</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-coll-print_export" aria-labelledby="p-coll-print_export-label">
+			<h3 id="p-coll-print_export-label">Print/export</h3>
+			<div class="body">
+								<ul>
+					<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=IceFrog">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=IceFrog&amp;action=show-download-screen">Download as PDF</a></li><li id="t-print"><a href="/w/index.php?title=IceFrog&amp;printable=yes" title="Printable version of this page [p]" accesskey="p">Printable version</a></li>				</ul>
+							</div>
+		</div>
+			<div class="portal" role="navigation" id="p-lang" aria-labelledby="p-lang-label">
+			<h3 id="p-lang-label">Languages</h3>
+			<div class="body">
+								<ul>
+					<li class="interlanguage-link interwiki-ast"><a href="https://ast.wikipedia.org/wiki/IceFrog" title="IceFrog – Asturian" lang="ast" hreflang="ast" class="interlanguage-link-target">Asturianu</a></li><li class="interlanguage-link interwiki-es"><a href="https://es.wikipedia.org/wiki/IceFrog" title="IceFrog – Spanish" lang="es" hreflang="es" class="interlanguage-link-target">Español</a></li><li class="interlanguage-link interwiki-id"><a href="https://id.wikipedia.org/wiki/Icefrog" title="Icefrog – Indonesian" lang="id" hreflang="id" class="interlanguage-link-target">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-mg"><a href="https://mg.wikipedia.org/wiki/IceFrog" title="IceFrog – Malagasy" lang="mg" hreflang="mg" class="interlanguage-link-target">Malagasy</a></li><li class="interlanguage-link interwiki-my"><a href="https://my.wikipedia.org/wiki/IceFrog" title="IceFrog – Burmese" lang="my" hreflang="my" class="interlanguage-link-target">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-no"><a href="https://no.wikipedia.org/wiki/IceFrog" title="IceFrog – Norwegian" lang="no" hreflang="no" class="interlanguage-link-target">Norsk</a></li><li class="interlanguage-link interwiki-pt"><a href="https://pt.wikipedia.org/wiki/IceFrog" title="IceFrog – Portuguese" lang="pt" hreflang="pt" class="interlanguage-link-target">Português</a></li><li class="interlanguage-link interwiki-ru"><a href="https://ru.wikipedia.org/wiki/IceFrog" title="IceFrog – Russian" lang="ru" hreflang="ru" class="interlanguage-link-target">Русский</a></li><li class="interlanguage-link interwiki-uk"><a href="https://uk.wikipedia.org/wiki/IceFrog" title="IceFrog – Ukrainian" lang="uk" hreflang="uk" class="interlanguage-link-target">Українська</a></li><li class="interlanguage-link interwiki-vi"><a href="https://vi.wikipedia.org/wiki/IceFrog" title="IceFrog – Vietnamese" lang="vi" hreflang="vi" class="interlanguage-link-target">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a href="https://zh.wikipedia.org/wiki/%E5%86%B0%E8%9B%99" title="冰蛙 – Chinese" lang="zh" hreflang="zh" class="interlanguage-link-target">中文</a></li>				</ul>
+				<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a href="https://www.wikidata.org/wiki/Special:EntityPage/Q3456319#sitelinks-wikipedia" title="Edit interlanguage links" class="wbc-editpage">Edit links</a></span></div>			</div>
+		</div>
+				</div>
+		</div>
+				<div id="footer" role="contentinfo">
+						<ul id="footer-info">
+								<li id="footer-info-lastmod"> This page was last edited on 25 November 2018, at 21:40<span class="anonymous-show">&#160;(UTC)</span>.</li>
+								<li id="footer-info-copyright">Text is available under the <a rel="license" href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License">Creative Commons Attribution-ShareAlike License</a><a rel="license" href="//creativecommons.org/licenses/by-sa/3.0/" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//foundation.wikimedia.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//foundation.wikimedia.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+							</ul>
+						<ul id="footer-places">
+								<li id="footer-places-privacy"><a href="https://foundation.wikimedia.org/wiki/Privacy_policy" class="extiw" title="wmf:Privacy policy">Privacy policy</a></li>
+								<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+								<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+								<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+								<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+								<li id="footer-places-cookiestatement"><a href="https://foundation.wikimedia.org/wiki/Cookie_statement">Cookie statement</a></li>
+								<li id="footer-places-mobileview"><a href="//en.m.wikipedia.org/w/index.php?title=IceFrog&amp;mobileaction=toggle_view_mobile" class="noprint stopMobileRedirectToggle">Mobile view</a></li>
+							</ul>
+										<ul id="footer-icons" class="noprint">
+										<li id="footer-copyrightico">
+						<a href="https://wikimediafoundation.org/"><img src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88" height="31" alt="Wikimedia Foundation"/></a>					</li>
+										<li id="footer-poweredbyico">
+						<a href="//www.mediawiki.org/"><img src="/static/images/poweredby_mediawiki_88x31.png" alt="Powered by MediaWiki" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88" height="31"/></a>					</li>
+									</ul>
+						<div style="clear: both;"></div>
+		</div>
+		
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.296","walltime":"0.417","ppvisitednodes":{"value":1609,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":50280,"limit":2097152},"templateargumentsize":{"value":635,"limit":2097152},"expansiondepth":{"value":21,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"unstrip-depth":{"value":1,"limit":20},"unstrip-size":{"value":18604,"limit":5000000},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  352.712      1 -total"," 32.06%  113.077      1 Template:Infobox_person"," 31.45%  110.921      1 Template:Reflist"," 27.34%   96.427      7 Template:Cite_web"," 23.33%   82.273      1 Template:Infobox"," 12.66%   44.668      4 Template:Navbox"," 10.94%   38.585      5 Template:Br_separated_entries"," 10.89%   38.406      1 Template:Valve_Corporation"," 10.09%   35.575      1 Template:Use_mdy_dates","  9.35%   32.991      1 Template:About"]},"scribunto":{"limitreport-timeusage":{"value":"0.136","limit":"10.000"},"limitreport-memusage":{"value":4839444,"limit":52428800}},"cachereport":{"origin":"mw1264","timestamp":"20190104030951","ttl":3600,"transientcontent":true}}});});</script>
+<script type="application/ld+json">{"@context":"https:\/\/schema.org","@type":"Article","name":"IceFrog","url":"https:\/\/en.wikipedia.org\/wiki\/IceFrog","sameAs":"http:\/\/www.wikidata.org\/entity\/Q3456319","mainEntity":"http:\/\/www.wikidata.org\/entity\/Q3456319","author":{"@type":"Organization","name":"Contributors to Wikimedia projects"},"publisher":{"@type":"Organization","name":"Wikimedia Foundation, Inc.","logo":{"@type":"ImageObject","url":"https:\/\/www.wikimedia.org\/static\/images\/wmf-hor-googpub.png"}},"datePublished":"2011-08-21T17:01:54Z","dateModified":"2018-11-25T21:40:20Z","headline":"Game designer of Dota"}</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":152,"wgHostname":"mw1275"});});</script>
+	</body>
+</html>

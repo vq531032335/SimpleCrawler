@@ -1,0 +1,246 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+  <link type="image/x-icon" href="https://translation.steampowered.com/public/favicon.ico" rel="shortcut icon">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+  <title>Steam Translation Server - Welcome</title>
+	<link href="https://translation.steampowered.com/public/css/A.styles_global_new.css.pagespeed.cf.x0apWAvDxi.css" rel="stylesheet" type="text/css"/>
+	<style type="text/css">#pageContainer,#mainbody,body,html{min-height:100%}</style>
+	<script type="text/javascript">var _gaq=_gaq||[];_gaq.push(['_setAccount','UA-25460707-1']);_gaq.push(['_trackPageview']);_gaq.push(['_trackPageLoadTime']);(function(){var ga=document.createElement('script');ga.type='text/javascript';ga.async=true;ga.src=('https:'==document.location.protocol?'https://ssl':'http://www')+'.google-analytics.com/ga.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(ga,s);})();</script>
+  <script type="text/javascript" src="https://translation.steampowered.com/public/javascript/prototype-1.6.0.2.js.pagespeed.jm.snzzmf7i-0.js"></script>
+  <script type="text/javascript" src="https://translation.steampowered.com/public/javascript/scriptaculous/scriptaculous.js"></script>
+  <script type="text/javascript">//<![CDATA[
+Autocompleter.Local.Scroll=Class.create(Autocompleter.Local,{initialize:function(element,update,array,options){this.baseInitialize(element,update,options);this.options.array=array;},markPrevious:function(){if(this.index>0)this.index--
+else this.index=this.entryCount-1;this.getEntry(this.index).parentNode.scrollIntoView(false);},markNext:function(){if(this.index<this.entryCount-1)this.index++
+else this.index=0;this.getEntry(this.index).parentNode.scrollIntoView(false);}});
+//]]></script>
+  <script type="text/javascript">if(document.images){button1=new Image
+button2=new Image
+button3=new Image
+button4=new Image
+button5=new Image
+button6=new Image
+button1.src="https://translation.steampowered.com/public/images/nav_welcome.gif"
+button2.src="https://translation.steampowered.com/public/images/nav_welcome_over.gif"
+button3.src="https://translation.steampowered.com/public/images/translate_not_logged_on.gif"
+button4.src="https://translation.steampowered.com/public/images/translate_not_logged_on_over.gif"
+button5.src="https://translation.steampowered.com/public/images/statistics_not_logged_on.gif"
+button6.src="https://translation.steampowered.com/public/images/statistics_not_logged_on_over.gif"}var count=7200;var counter=setInterval("timer()",1000);function rectime(sec){var hr=Math.floor(sec/3600);var min=Math.floor((sec-(hr*3600))/60);sec-=((hr*3600)+(min*60));sec+='';min+='';while(min.length<2){min='0'+min;}while(sec.length<2){sec='0'+sec;}return hr+':'+min+':'+sec;}function timer(){count=count-1;if(count<=0){clearInterval(counter);document.getElementById("timer").innerHTML=rectime(count);alert("Application period expired. Please send your translation to translationserver@valvesoftware.com for further review.\n\nOr reload this page for a different application text.\n\nThank you!");return;}else{document.getElementById("timer").innerHTML=rectime(count);}}</script>
+  <style type="text/css">A:link{text-decoration:none}A:visited{text-decoration:none}A:active{text-decoration:none}A:hover{text-decoration:none}img.top{vertical-align:text-top}#approved{position:relative;top:-18px;left:64px;width:815px;z-index:2}#approvedstats{position:relative;top:-18px;left:9px;width:815px;z-index:2}.graphtranslated{position:relative;top:-41;left:65px;z-index:1;margin-top:0;background-color:#cf9e5f;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}.graphapproved{position:relative;top:-40;left:65px;z-index:1;background-color:#cf8b37;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}.graphtranslatedstats{position:relative;top:-41;left:10px;z-index:1;margin-top:0;background-color:#cf9e5f;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}.graphapprovedstats{position:relative;top:-40;left:10px;z-index:1;background-color:#cf8b37;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}.graphtranslatedhome1st{position:relative;top:-41;left:65px;z-index:1;margin-top:0;background-color:#cf9e5f;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}.graphapprovedhome1st{position:relative;top:-40;left:65px;z-index:1;background-color:#cf8b37;color:#414141;font-family:Courier\ New,Arial,sans-serif;font-size:10px}#navigation{position:relative;padding:0;top:3px;left:10px}#overall{margin-left:24px;margin-top:10px;padding-top:38px;padding-left:10px;width:823px;border:#414141;border-style:solid;border-width:thin}#leftAreaContainer{position:relative;padding-left:32px;padding-right:32px;background-image:url(https://translation.steampowered.com/public/images/xbg_left_middle.gif.pagespeed.ic.jKle5XCDbN.png);width:885px}div#navitems{margin-top:.3em;margin-left:-37.8em}</style>
+</head>	<body onload="parent.hideSuggestionsBox();">
+		<div id="pageContainer">
+			<div id="header">
+				<img src="data:image/png;base64,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" style="padding-left: 20px;" style="margin-left: 20px;" border="0">
+				<div id="navigation">
+					<center>
+						<table cellpadding="0" cellspacing="0" border="0" style="border-spacing: 0px;">
+							<tr>
+								<td style="padding-bottom: 0px; padding-top: 0px;">
+									<div id="navitems">
+										<a href="index.php?t=1547147650" onmouseover="document.rollover1.src=button2.src" onmouseout="document.rollover1.src=button1.src"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAH8AAAAkCAMAAACXKhUVAAABTVBMVEUBAQE5OTkEBAQfHx8KCgoVFRUWFhYZGRkYGBgbGxvL2tW/zcibpqKapaGcp6NudXNsc3AsLi1ESEdLT060wbxGSkhGSkkhIiJAQ0I9QUAfICCzwLymsq5KTk2EjYo0NjaapaIlJia/zckpKiljaWdITEtITEpqcW+otLCns68kJiUwMDCBioebpqNgZmRUWVd3f30tLS01NTVpcG49QD+DjIkrKytQVVSyv7t2fnteZGKQmpc4OzpSV1WCi4hNUVAtLy9UWVizwLuQmpY+QUBtdHImJiYxNDMnJyckJSVsc3EwMjGFjosgICAqKiouMC83Nzc0NDQxMzIxMTEyMjIyNDRWW1kiIiJ1fXopKSl3f3yOmJQ5PDtXXFpSV1YJCQkDAwMkJCQhISEoKCgvLy8eHh4TExMdHR0HBwclJSU2NjYjIyMCAgIzMzMAAABMNwv4AAACEUlEQVRYw8WU508bQRDFNyHnvZu171zOuJyNC9j4iDEkhpgSSgIJNb33AiwBJ/v/f8ys41wkpCyyhDQ/nXaeZ57mab6YKVoYef7Tc0qYun2NEqaeUd//ixKmzo8pwfuPKMH7zyhh6iVx/s1vlDD1ok8J3k+cf/ydErx/bGQ2YGPsisD805HJQOb0imDqljEpj09lkJapoPK8qclh/uSU5+lpJPJ5VJ+wel5F94fmS/MdA6s+Pi0oO85reOU8gJbr18tOGRvbft114dBxynUfxarjuK2WFoc+eradyGwG87mBe7DAn4OY4HzL5Q3oYGtC1BrQ4G5Y0+NGTQ/5gtjnLnr5PuDPWrD1z8yNMHXHNhEs2skgKew96NiLQRKZh7kmNA9gTo+bBx3Y02I+sGdndQOa+KKMzMb1NlOPYyamRSx8/wQ+Y43FRXzAyjiM4zc0wN8Sj2P900cZmY3rY3i/ZWITpuGjFa6Hy5a1fF93ctlcFrI5WNG6urYGm7q7HlrVKlYc4YsyMhvXW5gvjXwQS1J2BaSkTIl2UaZKJZmGtGyLtCy2RUqWSjjqQk8mEmjXI6llZDaD/39mQw/eYjLo3fLuEgAkioOQYgK16OFsILryQn5kviz/3Y0R2CnMRHqmULggDOb/wdTuF0ow/wclTB0R5z+8TglTZ18pwft/UsJUnzj/EW3+SZ+RcvKG+H5afgOaEkdsGHJuAQAAAABJRU5ErkJggg==" border="0" name="rollover1"></a>
+										<a href="translate.php?branch=STEAM&file=community&lang=&t=1547147650" onmouseover="document.rollover2.src=button4.src" onmouseout="document.rollover2.src=button3.src"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAkAH8DASIAAhEBAxEB/8QAGwABAAMBAAMAAAAAAAAAAAAAAAIDBQYBBAj/xAAxEAABAwEFCAAFBAMAAAAAAAABAAIDEQQFExXREiExUVJUkqMUIzJBsUJhc4FxkfD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A+bzcdwgkGy7xx+a/VMkuDtfa7VQnlGPJU/qP5UMUc0F2SXB2vtdqmSXB2vtdqqcUc0xRzQXZJcHa+12qZJcHa+12qrkcY3bLxsu3GhUcUc0F2SXB2vtdqmSXB2vtdqqcUc0xRzQXZJcHa+12qZJcHa+12qrjJkDywV2G7Tv2H/FRxRzQXZJcHa+12qZJcHa+12qrc4ta1zhRrt7TzUcUc0F2SXB2vtdqmSXB2vtdqqcUc0xRzQXZJcHa+12qhNc1xNiJbZRX+V2qhijmvDpGubRB6dqmItMo5PP5VWOeayrfLS3Wj+V35KoxkG5jnmpMtDmuDgd4NRUVWDjJjIO5tE0nxM8skTXRtsofEXRjZJoyprTfxVNlktEllFoDXPc95qYoA47qfUTuaP6XGmdxABJIHDfwQTuAIBIB470Ha293wzLXJHGxvzY9g7IIoWnePskTy8wzCHbkks5cdho2q7RFQ3gTQLicZBMQaioKDt5S5rJi7c42RxIdHsP+tv1BWxMkxcB8ZdHhkCkIEZOzuo47yarhDOSakkn90M7iACTQcBXgg7VkzpIbv+IaMAktlOwAAQ40BNN32Ubc+lkmM8EzKUDC+NrKGv2pxH+1xmO7Z2amnKqGdxpUk04b0G3jnmmOeaw8ZMZBuY55qTJS5wFSsHGV1hlJtTB/n8INOa67PLK+Rz5QXuLjQim/+lDJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0TJ7N1zeQ0REDJ7N1zeQ0U4Lss8Uoka+UkcyNERB//Z" border="0" name="rollover2"></a>
+										<a href="statistics.php?t=1547147650" onmouseover="document.rollover3.src=button6.src" onmouseout="document.rollover3.src=button5.src"><img src="data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAAkAIADASIAAhEBAxEB/8QAGwABAAMBAQEBAAAAAAAAAAAAAAIDBQYBBAj/xAA0EAABAwEGBgEBBQkAAAAAAAABAAIDEQQFExVR0RIhUlSSozFBYnGxssEiIzIzQmGBofD/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/8QAFBEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEQMRAD8A/NzLkuLgaXWUVIB/mv3XuSXB2vtduq5ZAHAV/ob+AUcUaoLskuDtfa7dMkuDtfa7dU4o1TFGqC7JLg7X2u3TJLg7X2u3VOKNVJzi1rXOBAcKt/uEFmSXB2vtdumSXB2vtduqcUaqbg9peHChj/iBPMIJ5JcHa+126ZJcHa+126pxRqpkPDnNIoWt4iCacv8Aignklwdr7Xbpklwdr7XbqnFGqYo1QXZJcHa+126ZJcHa+126pxRqmKNUF2SXB2vtduovuW4QxxFl5gcv3rt1XijVeGUEEVQfHapS2Wn2W/lCqxzqs29JaW1w+yz8oXy4yDcxzqmOdVh4yYyDuI+J0DQInRx4NSTEHRHl8l45gqOJPaWXfRrDG5pq4xjh4gXcuX3fH1XFY7uHhqaaVTHdw8NTTSqDtZ3StsMsro5MSNzXNxIGtIHOppp8fPJSt73umtzpYxwNDDGS0NBBeOYP1+9cQ6dzjUkk6koZ3GlSTT4qUHb2t0jYZ5MN0Qjo5rZYG8I5iga4fP6pbJJHy2l0jBhiyB0buAAE/sVINOfz/hcQZ3EAEkgfAqhncQASSB8c/hB2k5tAlc2GCM2IR1a9zRwFtPni1/3VTs3G+CJoidGwxVLjCHxHlzJcOY/RcRju4eGpppVMd3Dw1ND9KoNvHOqY51WHjJjINzHOq9bMS4CvyVhYynBKTPGPtD8UGvaLtgnmMr3yAkAciKchTRV5PZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGyZPZuubyGyIgZPZuubyGylHdNnY9rw+WrSCOY2REH/2Q==" border="0" name="rollover3"></a>
+									</div>
+								</td>
+							</tr>
+						</table>
+					</center>
+				</div>
+			</div>
+			<center>
+				<div id="mainbody">
+									<div><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAA7UAAAAMBAMAAABPWocmAAAAJ1BMVEUUFBQpKSkaGho/Pz9AQEBBQUExMTE+Pj41NTU8PDw5OTlCQkIRERGqWnvWAAAAZElEQVRYw+3RIRJAUABF0dcJ+rcKKxAsQNElWVNFUdVkSVeMbFHGmPH38OaeJdyrDqZaTTA1aoOpVQtMzRpgqlcFU6UamKp1wNT+vc1uGDlDfFuQw8sV3+bUMBP+tykxzCTv2wdDCkeuGEWnyAAAAABJRU5ErkJggg==" border="0"></div>
+					<div id="leftAreaContainer"><br><h1>Now you can help translate Steam!</h1><br>
+						<div>
+							<div class="rule"><img src="data:image/gif;base64,R0lGODlhAQABAIAAACI9BAAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" height="1" width="885" border="0">
+							</div>
+																																			<div class="copy"><p>The Steam user community consists of over 125 million people around the world who run Steam in one of 26 languages. We do our best to translate everything for everyone, but we admit it's difficult to keep pace. With your help, Steam can now become fully localized in each of the 26 languages we support.</p>
+							<p>As a participant in Steam translation, you'll have access to all text elements within Steam's Client application, Store, Community, and even Valve's games. You'll have the tools you need to view what items are in need of translation, suggest translations of your own, and submit feedback on other translators' work. To participate, simply link your Steam Account with this site. Once logged in, you'll find all the information you need to get started.  As you gain experience in providing translations and submitting feedback, you may become a language moderator yourself, guiding and approving other translators' contributions.</p>
+							<p>Below you'll find a list of current text elements, or "strings" in need of translation, plus a graph displaying the overall translation status of all language files within Steam. You can see there's much work to be done, and we're glad you're here to help - Your contribution to Steam translation will impact users worldwide. Please also find our <a href="http://translation.steampowered.com/#FAQ" style="color:#2ebceb;" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#2ebceb'">FAQ for Steam Translation</a> at the very end of this page for further information and we would like to thank Jimo for creating <a href="http://steamcommunity.com/discussions/forum/7/864977026171470753/" target="_blank" style="color:#2ebceb;" onmouseover="this.style.color='#FFFFFF'" onmouseout="this.style.color='#2ebceb'">this guide</a> for a brief introduction to Steam Translation.</p>
+							<br><font color="#a4b23c">You can participate by logging on with your usual Steam account credentials via OpenID:</font>							<div style="position: relative"><div style="float:right; position:relative; top:10px; left:10px;"><img src="public/images/xsteam_world.gif.pagespeed.ic.uX5pCCvduE.png">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+							</div><div>
+							<br><br>
+							<br>							<div id="verify-form">
+      <form method="get" action="./third_party/openid/examples/consumer/try_auth.php">
+        <input type="hidden" name="action" value="verify"/>
+        <input type="hidden" name="openid_identifier" value="https://steamcommunity.com/openid"/>
+	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input class="image" type="image" src="public/images/xopenid_button.png.pagespeed.ic.SscVG4-3ue.png" height="69" width="273" border="0" alt="Link my Steamaccount">
+	</form>
+</div>
+
+							</div>
+						</div>
+						<div class="rule"><br><img src="data:image/gif;base64,R0lGODlhAQABAIAAACI9BAAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" height="1" width="885"><br>
+						</div>
+						<table>
+							<tr>
+								<td>
+									<h1>Overall Progress</h1>
+								</td>
+								<td style="valign:middle;">
+									<br>&nbsp;(updated weekly)
+								<td>
+							</tr>
+						</table>
+						<div id="overall">		
+								<div class="progress" style="width:65px;">ENGLISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated0').morph('background:#cf9e5f; width:739;'); $('graphapproved0').morph('background:#cf8b37; width:739;'); return false;"></div> 
+								<div id="graphtranslated0" class="graphtranslated" style="width:111; text-align:right;">translated: 100%&nbsp;</div>								<div id="graphapproved0" class="graphapproved" style="width:111; text-align:right;">approved: 100%&nbsp;</div>										
+								<div class="progress" style="width:65px;">CZECH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated1').morph('background:#cf9e5f; width:731;'); $('graphapproved1').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated1" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved1" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">DANISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated2').morph('background:#cf9e5f; width:657;'); $('graphapproved2').morph('background:#cf8b37; width:650;'); return false;"></div> 
+								<div id="graphtranslated2" class="graphtranslated" style="width:111; text-align:right;">translated: 89%&nbsp;</div>								<div id="graphapproved2" class="graphapproved" style="width:111; text-align:right;">approved: 88%&nbsp;</div>										
+								<div class="progress" style="width:65px;">DUTCH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated3').morph('background:#cf9e5f; width:694;'); $('graphapproved3').morph('background:#cf8b37; width:687;'); return false;"></div> 
+								<div id="graphtranslated3" class="graphtranslated" style="width:111; text-align:right;">translated: 94%&nbsp;</div>								<div id="graphapproved3" class="graphapproved" style="width:111; text-align:right;">approved: 93%&nbsp;</div>										
+								<div class="progress" style="width:65px;">FINNISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated4').morph('background:#cf9e5f; width:724;'); $('graphapproved4').morph('background:#cf8b37; width:724;'); return false;"></div> 
+								<div id="graphtranslated4" class="graphtranslated" style="width:111; text-align:right;">translated: 98%&nbsp;</div>								<div id="graphapproved4" class="graphapproved" style="width:111; text-align:right;">approved: 98%&nbsp;</div>										
+								<div class="progress" style="width:65px;">FRENCH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated5').morph('background:#cf9e5f; width:731;'); $('graphapproved5').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated5" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved5" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">GERMAN								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated6').morph('background:#cf9e5f; width:724;'); $('graphapproved6').morph('background:#cf8b37; width:709;'); return false;"></div> 
+								<div id="graphtranslated6" class="graphtranslated" style="width:111; text-align:right;">translated: 98%&nbsp;</div>								<div id="graphapproved6" class="graphapproved" style="width:111; text-align:right;">approved: 96%&nbsp;</div>										
+								<div class="progress" style="width:65px;">HUNGAR.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated7').morph('background:#cf9e5f; width:731;'); $('graphapproved7').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated7" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved7" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">ITALIAN								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated8').morph('background:#cf9e5f; width:724;'); $('graphapproved8').morph('background:#cf8b37; width:709;'); return false;"></div> 
+								<div id="graphtranslated8" class="graphtranslated" style="width:111; text-align:right;">translated: 98%&nbsp;</div>								<div id="graphapproved8" class="graphapproved" style="width:111; text-align:right;">approved: 96%&nbsp;</div>										
+								<div class="progress" style="width:65px;">JAPAN.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated9').morph('background:#cf9e5f; width:509;'); $('graphapproved9').morph('background:#cf8b37; width:502;'); return false;"></div> 
+								<div id="graphtranslated9" class="graphtranslated" style="width:111; text-align:right;">translated: 69%&nbsp;</div>								<div id="graphapproved9" class="graphapproved" style="width:111; text-align:right;">approved: 68%&nbsp;</div>										
+								<div class="progress" style="width:65px;">KOREAN								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated10').morph('background:#cf9e5f; width:716;'); $('graphapproved10').morph('background:#cf8b37; width:709;'); return false;"></div> 
+								<div id="graphtranslated10" class="graphtranslated" style="width:111; text-align:right;">translated: 97%&nbsp;</div>								<div id="graphapproved10" class="graphapproved" style="width:111; text-align:right;">approved: 96%&nbsp;</div>										
+								<div class="progress" style="width:65px;">NORWEG.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated11').morph('background:#cf9e5f; width:347;'); $('graphapproved11').morph('background:#cf8b37; width:332;'); return false;"></div> 
+								<div id="graphtranslated11" class="graphtranslated" style="width:111; text-align:right;">translated: 47%&nbsp;</div>								<div id="graphapproved11" class="graphapproved" style="width:111; text-align:right;">approved: 45%&nbsp;</div>										
+								<div class="progress" style="width:65px;">PIRATE								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated12').morph('background:#cf9e5f; width:111;'); $('graphapproved12').morph('background:#cf8b37; width:111;'); return false;"></div> 
+								<div id="graphtranslated12" class="graphtranslated" style="width:111; text-align:right;">translated: <15%&nbsp;</div>								<div id="graphapproved12" class="graphapproved" style="width:111; text-align:right;">approved: <15%&nbsp;</div>										
+								<div class="progress" style="width:65px;">POLISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated13').morph('background:#cf9e5f; width:731;'); $('graphapproved13').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated13" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved13" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">PORTUG.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated14').morph('background:#cf9e5f; width:739;'); $('graphapproved14').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated14" class="graphtranslated" style="width:111; text-align:right;">translated: 100%&nbsp;</div>								<div id="graphapproved14" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">ROMAN.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated15').morph('background:#cf9e5f; width:716;'); $('graphapproved15').morph('background:#cf8b37; width:642;'); return false;"></div> 
+								<div id="graphtranslated15" class="graphtranslated" style="width:111; text-align:right;">translated: 97%&nbsp;</div>								<div id="graphapproved15" class="graphapproved" style="width:111; text-align:right;">approved: 87%&nbsp;</div>										
+								<div class="progress" style="width:65px;">RUSSIAN								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated16').morph('background:#cf9e5f; width:731;'); $('graphapproved16').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated16" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved16" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">SPANISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated17').morph('background:#cf9e5f; width:716;'); $('graphapproved17').morph('background:#cf8b37; width:702;'); return false;"></div> 
+								<div id="graphtranslated17" class="graphtranslated" style="width:111; text-align:right;">translated: 97%&nbsp;</div>								<div id="graphapproved17" class="graphapproved" style="width:111; text-align:right;">approved: 95%&nbsp;</div>										
+								<div class="progress" style="width:65px;">SWEDISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated18').morph('background:#cf9e5f; width:716;'); $('graphapproved18').morph('background:#cf8b37; width:716;'); return false;"></div> 
+								<div id="graphtranslated18" class="graphtranslated" style="width:111; text-align:right;">translated: 97%&nbsp;</div>								<div id="graphapproved18" class="graphapproved" style="width:111; text-align:right;">approved: 97%&nbsp;</div>										
+								<div class="progress" style="width:65px;">SIM.CHI.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated19').morph('background:#cf9e5f; width:731;'); $('graphapproved19').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated19" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved19" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">TRA.CHI.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated20').morph('background:#cf9e5f; width:657;'); $('graphapproved20').morph('background:#cf8b37; width:620;'); return false;"></div> 
+								<div id="graphtranslated20" class="graphtranslated" style="width:111; text-align:right;">translated: 89%&nbsp;</div>								<div id="graphapproved20" class="graphapproved" style="width:111; text-align:right;">approved: 84%&nbsp;</div>										
+								<div class="progress" style="width:65px;">THAI								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated21').morph('background:#cf9e5f; width:613;'); $('graphapproved21').morph('background:#cf8b37; width:598;'); return false;"></div> 
+								<div id="graphtranslated21" class="graphtranslated" style="width:111; text-align:right;">translated: 83%&nbsp;</div>								<div id="graphapproved21" class="graphapproved" style="width:111; text-align:right;">approved: 81%&nbsp;</div>										
+								<div class="progress" style="width:65px;">BRAZIL.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated22').morph('background:#cf9e5f; width:731;'); $('graphapproved22').morph('background:#cf8b37; width:716;'); return false;"></div> 
+								<div id="graphtranslated22" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved22" class="graphapproved" style="width:111; text-align:right;">approved: 97%&nbsp;</div>										
+								<div class="progress" style="width:65px;">BULGAR.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated23').morph('background:#cf9e5f; width:739;'); $('graphapproved23').morph('background:#cf8b37; width:739;'); return false;"></div> 
+								<div id="graphtranslated23" class="graphtranslated" style="width:111; text-align:right;">translated: 100%&nbsp;</div>								<div id="graphapproved23" class="graphapproved" style="width:111; text-align:right;">approved: 100%&nbsp;</div>										
+								<div class="progress" style="width:65px;">GREEK								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated24').morph('background:#cf9e5f; width:650;'); $('graphapproved24').morph('background:#cf8b37; width:650;'); return false;"></div> 
+								<div id="graphtranslated24" class="graphtranslated" style="width:111; text-align:right;">translated: 88%&nbsp;</div>								<div id="graphapproved24" class="graphapproved" style="width:111; text-align:right;">approved: 88%&nbsp;</div>										
+								<div class="progress" style="width:65px;">TURKISH								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated25').morph('background:#cf9e5f; width:731;'); $('graphapproved25').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated25" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved25" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">UKRAIN.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated26').morph('background:#cf9e5f; width:731;'); $('graphapproved26').morph('background:#cf8b37; width:731;'); return false;"></div> 
+								<div id="graphtranslated26" class="graphtranslated" style="width:111; text-align:right;">translated: 99%&nbsp;</div>								<div id="graphapproved26" class="graphapproved" style="width:111; text-align:right;">approved: 99%&nbsp;</div>										
+								<div class="progress" style="width:65px;">VIETNA.								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated27').morph('background:#cf9e5f; width:376;'); $('graphapproved27').morph('background:#cf8b37; width:376;'); return false;"></div> 
+								<div id="graphtranslated27" class="graphtranslated" style="width:111; text-align:right;">translated: 51%&nbsp;</div>								<div id="graphapproved27" class="graphapproved" style="width:111; text-align:right;">approved: 51%&nbsp;</div>										
+								<div class="progress" style="width:65px;">LATAM								</div>
+								<div id="approved" class="progress"><img src="public/images/xmeter.gif.pagespeed.ic.DgiOFJwjP5.png" height="15" width="741" border="0" onload="$('graphtranslated28').morph('background:#cf9e5f; width:111;'); $('graphapproved28').morph('background:#cf8b37; width:111;'); return false;"></div> 
+								<div id="graphtranslated28" class="graphtranslated" style="width:111; text-align:right;">translated: <15%&nbsp;</div>								<div id="graphapproved28" class="graphapproved" style="width:111; text-align:right;">approved: <15%&nbsp;</div>															<div class="progress" style="text-align: center">SIM.CHI. = Simplified Chinese TRA.CHI. = Traditional Chinese<br><br><br>
+							</div>
+						</div>
+						<p><br><br>Please submit feedback concerning Steam Translation to: <a href="mailto: translationserver@valvesoftware.com">translationserver@valvesoftware.com</a>.
+						<br>
+						<br><div class="rule"><img src="data:image/gif;base64,R0lGODlhAQABAIAAACI9BAAAACH5BAAAAAAALAAAAAABAAEAAAICRAEAOw==" height="1" width="885" border="0"/></div>
+						<br><a id="FAQ"><h3>FAQ</h3></a><p>Here you can find some answers to the most commonly asked questions about Steam Translation. Additional information can also be found in the <a href="http://steamcommunity.com/groups/STSLounge/discussions" target="_blank">STS Lounge</a>.</p><br>
+						<h3>General</h3>
+						<ul>
+							<li><i>Q: What is Steam Translation?</i><br>The Steam Translation Server (STS) is a project in which Steam and selected games can be translated by volunteers.<br><br>
+							<li><i>Q: What can be translated on Steam Translation?</i><br>Currently all localization files of Steam, Valve games, certain third party games and mods can be translated. Other third party games, as for example GMOD, are not available at the time being.<br><br>
+							<li><i>Q: Who can take part in the translations?</i><br>Anyone with a non-limited account who maintains a good VAC status. It is required to create a Steam Community profile to participate.<br><br>
+							<li><i>Q: How do I stop the little red light under the messages tab from blinking?</i><br>Please click on the messages tab and try to find an 'OK' button next to one of the announcements on that page. Please click that button to stop the blinking. If it does not stop or you have no 'OK' button, then please let us know: <a href="mailto:translationserver@valvesoftware.com">translationserver@valvesoftware.com</a><br><br>
+							<li><i>Q: Does Steam Translation have any confidentiality rules?</i><br>While there are no confidentiality rules or Non-Disclosure Agreements (NDA) for Steam Translation, please be considerate in not spoiling or leaking potentially critical information or strings.<br>If you feel the nagging urge to leak and spoil, we are here to help and can always mediate your nag: <a href="mailto:translationserver@valvesoftware.com">CanILeakThis?@valvesoftware.com</a>.<br><br>
+						</ul>
+						<h3>Registering and participation</h3>
+						<ul>
+							<li><i>Q: Do I have to apply/register to be able to suggest translations?</i><br>Yes, before you can suggest translations you will have to undergo a two-step application procedure after you log on above.<br>Please note: small corrections can also be <a href="mailto:translationserver@valvesoftware.com">mailed</a> or posted on the <a href="http://steamcommunity.com/groups/STSLounge/discussions" target="_blank">STS Lounge</a>.<br><br>
+							<li><i>Q: Can I apply for moderator status?</i><br>No, you cannot directly apply for moderator status. However, in certain third party realms on STS translators of your group can vote for you. If you get enough votes, you will be considered for moderator permissions.<br><br>
+							<li><i>Q: Can I translate for multiple languages?</i><br>You should focus your efforts on one language.<br><br>
+							<li><i>Q: Will you be adding any additional languages to STS?</i><br>We do appreciate your interest in the Steam Translation Server and improving Steam for users in your region. However, we currently aren't looking into adding any further languages to STS.<br><br>
+							<li><i>Q: Can we translate images (e.g. for the Steam community)?</i><br>Not at the moment.<br><br>
+							<li><i>Q: So I joined Steam Translation, but sometimes I don't have the time, or a temporary lack of motivation to participate. Will I be removed, if I don't do anything?</i><br>Once your initial application is accepted, you will always be welcome back to contribute, without the need to apply again. 
+						</ul>
+						<h3>Translating</h3>
+						<ul>
+							<li><i><a name="more_suggestions">Q: Why do I only have 25 (125, 250, 500...) suggestions?</a> I'm out of suggestions?</i><br>Please be patient: Once 25 of your translations are accepted you will get bumped up to 125 suggestions, once you gather 125 you will receive 250 suggestions (and so on 500, 1000...). In the beginning this might be an obstacle, but as you have to get used to Steam Translation, we have to get used to any new applicants, too. In a few days or weeks you surely won't encounter any suggestion limit anymore.<br><br>
+							<li><i>Q: How do I know my suggestion has been approved/declined?</i><br>You can check your own user_activity page (under the Reports tab) and click on your name to retrieve a list in the 'translate' section sorted by the status of your own suggestions.<br><br>
+							<li><i>Q: Is there a penalty if my suggestions get declined?</i><br>No, but if your suggestions consistently are under par your participation on Steam Translation might come to an end.<br><br>
+							<li><i>Q: How can I chat with other translators?</i><br>You can join the Steam Community group for your language and you will find a status of active translators in your group's chat room in the 'translate' section.<br><br>
+							<li><i>Q: I think a suggestion needs to be improved, can I edit it?</i><br>You cannot edit anyone's suggestion, but you can hit the 'EDIT' button and the original suggestion loads into the text field. Once you are done please hit 'SUBMIT' and your fixes will be added as a separate, new suggestion.<br><br>
+							<li><i>Q: How long does it take to get my translation reviewed?</i><br>There is no set schedule and it depends on how active your moderators are.<br><br>
+							<li><i>Q: How do I remove a suggestion?</i><br>You can only remove your own suggestion (use the button offered under your suggestion). Moderators cannot remove a user's suggestion. Admins can, but mostly will only remove a suggestion that has been declined by a moderator.<br><br>
+							<li><i>Q: What to do when I find a text that is not translated and cannot be found on STS?</i><br>Please email us: <a href="mailto:translationserver@valvesoftware.com">translationserver@valvesoftware.com</a> including a screenshot and an exact description of the issue you encountered.<br><br>
+							<li><i>Q: When will my translation be visible online? If I approve a translation, will it be immediately visible?</i><br>There is no set schedule, but usually we try to push updated translations live with any Steam and game update. Once a moderator approves a suggestion an admin still has to apply and export new suggestions before they eventually can be part of an update and go live.<br><br>
+							<li><i>Q: When will you update translation files? Why is this file missing/incomplete?</i><br>Some files are still missing, but eventually will be added to STS. You can be notified when new strings are added by opting-in to email notifications (in your User Activity page) or following @STSUpdate on Twitter.<br><br>
+							<li><i>Q: Who is applying my translations?</i><br>Steam Translation Administrators working at Valve.<br><br>
+							<li><i>Q: Can you send me a translation file for local testing?</i><br>You can export 5 files per day using the "Export Files" section on the "Reports" tab - it includes some options to export only updated/untranslated strings or to export suggestions not yet applied as well.<br><br>
+							<li><i>Q: I saw a suggestion I liked but I'm not a moderator, so I can't approve it directly. What can I do?</i><br>You can click on the +1 vote button to vote for that suggestion. Then a +1 will be shown in the suggestion. You can also click the +X number to see who else voted for that suggestion.
+							<li><i>Q: I'm exporting localization files and am testing them locally, but Steam always overwrites my files. Please help?</i><br>Try launching Steam from the commandline with option -noverifyfiles passed to it or add this parameter to your shortcut for Steam. This should prevent these files to be overwritten.
+						</ul>
+						<a id="Core_Teams"><h3>Core Teams</h3></a>
+						<ul>
+							<li><i>Q: What are Core Teams?</i><br>Core Teams represent the most active translators per month and language and should give you an overview of your overall performance and your progression within your language team.<br><br>
+							<li><i>Q: How are the monthly numbers for the team effort per words and per suggestions calculated?</i><br>These monthly numbers are the sum of past month's top 5 translators per language divided by a divisor per language.<br><br>
+							<li><i>Q: What happens if I meet the monthly team effort numbers?</i><br>If you are in the top 5 of the past month you level up, and you also level up every time you achieve these monthly numbers. If more than 10 translators chime in on this effort, the ranking is ordered by word count.<br><br>
+							<li><i>Q: What about someone else editing my suggestion. Do I lose the word count for my translation?</i><br>Generally the notion of translation ownership is a misconception while contributing on Steam Translation. Translations evolve and change. There is no judgment attached to someone else altering your suggestion.<br>Specifically for the Core Team feature, the word count of !untranslated! English texts is counted and split between two or more translators, if the string is longer than 10 words and the edited suggestion(s) are more than 75% similar to the original suggestion.<br><br>
+							<li><i>Q: Can I achieve a Translator's Badge by leveling up on STS?</i><br>Yes. Translators reaching level 12 on Steam Translation will be granted the Translator's Badge (e.g. staying in your languages top 5 for 6 months). This badge levels up to bronze, silver and gold with each additional 12 levels thereafter (level 12 = basic, 24 = bronze, 36 = silver and 48 = gold).<br><br>
+							<li><i>Q: Is the badge granted automatically?</i><br>No. Please send an email with a link to your Steam profile and the level reached to the following email address: translationserver@valvesoftware.com<br><br>
+							<li><i>Q: Is there any other gain by submitting translations to enter the Core Team of my language? </i><br>While one can get a Translator's Badge by reaching level 12, STS is otherwise entirely voluntary and your main gain should be delivering the best translation you and your team can offer for users of your language.<br><br>
+						</ul>
+						<h3>Future, Rewards & Other</h3>
+						<ul>
+							<li><i>Q: Will there be any rewards for translating?</i><br>Participation on STS is entirely voluntary.<br><br>
+							<li><i>Q: Do you plan to localize Steam Support articles?</i><br>Some FAQs, as well as the Support UI, are already available on STS. More to be added in the future.<br><br>
+							<li><i>Q: Whom should I contact when I find a bug/issue?</i><br>Try to confirm with a moderator that you truly found a bug and email us: <a href="mailto:translationserver@valvesoftware.com">translationserver@valvesoftware.com</a><br><br>
+						</ul>
+					<br>
+							</p><br><br><br><br><br><br><br>
+						</div>
+					<div id="leftAreaBottom"><img src="public/images/949x1xbg_left_bottom.gif.pagespeed.ic.Ud_HBlHBNV.png" height="1" width="949" border="0"></div>
+				</div></div></div>
+			</center>
+		<!-- Footer -->
+<div id="footer" style="vertical-align: bottom;">
+	<div id="footer_logo"><img src="public/images/xfooter_logo.jpg.pagespeed.ic.j4MUmdVnyU.jpg" alt="Valve Software"></div>
+	<div id="footer_text">
+		<div id="footer_bold">&nbsp;</div>
+		&copy; Valve Corporation. All rights reserved. All trademarks are property of their respective owners in the US and other countries.
+	</div>
+</div>
+<!-- End Footer -->
+		</div>
+	</body>
+</html>

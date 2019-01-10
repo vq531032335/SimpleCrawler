@@ -1,0 +1,1900 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<title>Store</title>
+
+	<link rel="shortcut icon" href="http://cdn.dota2.com/apps/dota2/images/favicon.ico" />
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+	<meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE" />
+
+	<link href="http://www.dota2.com/public/css/global.css?v=b4890656" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/storeheader.css?v=aYHwUxYUe2xP" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/store.css?v=AAUevGOOGmqu" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/store_featured.css?v=9XQP2d7eFpKy" rel="stylesheet" type="text/css" >
+	<link href="http://cdn.dota2.com/apps/dota2/css/static/buttons.css?v=4890656" rel="stylesheet" type="text/css">
+	<link href="http://cdn.dota2.com/apps/dota2/css/static/valvefooter.css?v=4890656" rel="stylesheet" type="text/css">
+
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+	<script type="text/javascript" src="http://www.dota2.com/public/javascript/storeconstants.js?v=wwkHisHVjn2q&amp;l=english" ></script>
+	<script type="text/javascript" src="http://www.dota2.com/public/javascript/storecommon.js?v=TNa50uMQ36Lz&amp;l=english" ></script>
+	<script type="text/javascript" src="http://www.dota2.com/public/javascript/store.js?v=bfIxbGAnenzJ&amp;l=english" ></script>
+	<script type="text/javascript" src="http://www.dota2.com/public/javascript/dropdown.js?v=dKHCUwfYlcX9&amp;l=english" ></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/currency.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/sprintf-0.7-beta1.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-utils-0.8.5/jquery.utils.lite.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.ba-bbq.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.tools.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.cycle.all.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.easing.1.3.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.imagesloaded.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/spin.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/utilities.min.js?v=4890656"></script>
+
+	<script src="http://www.dota2.com/store/storedata.js?l=english&appid=570&v=_M1545257238&c=USD"></script>
+	<script src="http://www.dota2.com/store/storesalesdata.js?l=english&appid=570&v=_M1545257238&c=USD"></script>
+
+	<script type="text/javascript">
+
+	g_nAppID = 570;
+	g_bIsAppIdDefaultForUniverse = 1;
+
+	g_strAllClassPortraitURL = 'http://cdn.dota2.com/apps/dota2/images/store/allclass.jpg';
+
+	g_strDotaStoreURL = 'http://www.dota2.com/store/';
+	g_strDotaCartURL = 'http://www.dota2.com/store/cart/';
+
+	g_strLanguage = 'en';
+	g_strCurrency = 'USD';
+
+	g_nMaxDisplayItems = 15;	// Maximum # of items to display per page
+	g_iCurrentPage = 0;
+	g_rgDisplayItemCounts = [[15,75,-1],[20,60,-1]];
+	g_nMaxPages = 0;	// Computed when the page is ready
+	g_nNumItemsInCart = 0;
+	g_nItemsPerRow = 5;
+	g_strRenderItemsBaseURL = 'http://www.dota2.com/store/renderitems/?ajax=1&l=english&c=USD&v=_M1545257238';
+	g_strLocalized = {
+		all: 'All'
+	};
+	g_SessionID = '94517c2c318a4c2f9643836a'
+
+	$(
+		function()
+		{
+			// Display popup dialog?
+			var strPopupTitle = $.cookie( 'PopupTitle' );
+			var strPopupText = $.cookie( 'PopupText' );
+			if ( strPopupTitle && strPopupText && strPopupTitle.length && strPopupText.length )
+			{
+								strPopupTitle = decodeURIComponent( strPopupTitle ).replace( /\+/g, '%20' );
+				strPopupText = decodeURIComponent( strPopupText ).replace( /\+/g, '%20' );
+
+				// Delete cookies
+				jQuery.cookie( 'PopupTitle', null, { path: '/' } );
+				jQuery.cookie( 'PopupText', null, { path: '/' } );
+
+									var rgButtonData = {
+						text: [
+							'View inventory',
+							'OK'
+						],
+
+						callbacks: [
+							function()
+							{
+								DoRedirect( 'https://steamcommunity.com/profiles/0/inventory/' );
+							},
+							null	// Close
+						]
+					};
+					GenericDialog.ShowGenericTwoButtonDialog( decodeURI( strPopupTitle ), decodeURI( strPopupText ), rgButtonData );
+							}
+		}
+	);
+	</script>
+
+			
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>
+</head>
+
+<body class="MainBackgroundImage">
+		<div id="CartConfirmModal" class="ModalBase ModalBg">
+		<div class="BtnClose" onclick="CloseCartConfirmDlg();"></div>
+
+		<div id="CartConfirmModalSuccess">
+			<h2>Item added to cart.</h2>
+			<div class="GreenButton BigButton ModalConfirmButton" onclick="CloseCartConfirmDlg();">
+				Continue Shopping			</div>
+			<p>or</p>
+			<div class="GreenButton BigButton ModalConfirmButton" onclick="RedirectToCart();">
+				Checkout			</div>
+		</div>
+
+		<div id="CartConfirmSpinner">
+		</div>
+	</div>		<div id="GenericModal" class="ModalBase ModalBgBig">
+		<div id="GenericModal_CloseButton" class="BtnClose"></div>
+
+		<div class="ModalTextBox">
+			<h1 id="GenericModalTitle"></h1>
+			<div class="ModalBigText" id="ModalBigText"></div>
+			<div id="GenericModal_Button0" class="GreenButton BigButton ModalBigButton">
+				<span></span>
+			</div>
+			<div id="GenericModal_Button1" class="GreenButton BigButton ModalBigButton">
+				<span></span>
+			</div>
+		</div>
+
+	</div>
+
+	<script type="text/javascript">
+
+		var GenericDialog = {
+			$m_Buttons: null,
+			$m_ButtonText: null,
+			$m_CloseButton: null,
+			m_bInitialized: false,
+			
+			Init: function()
+			{
+				if ( this.m_bInitialized )
+					return;
+
+				$( '#GenericModal' ).overlay(
+					{
+						mask:
+						{
+							color: '#000',
+							loadSpeed: 'fast'
+						},
+						closeOnClick: true,
+						speed: 'fast',
+						top: 'center',
+						close: false
+					}
+				);
+
+				this.$m_CloseButton = $( '#GenericModal_CloseButton' );
+
+				this.$m_Buttons = [
+					$( '#GenericModal_Button0' ),
+					$( '#GenericModal_Button1' )
+				];
+
+				this.$m_ButtonText = [
+					this.$m_Buttons[0].find('span'),
+					this.$m_Buttons[1].find('span')
+				];
+
+				this.m_bInitialized = true;
+			},
+			
+			DoShowDialog: function( strTitle, strMsg )
+			{
+				$( '#GenericModalTitle' ).html( strTitle );
+				$( '#ModalBigText' ).html( strMsg );
+
+				$( '#GenericModal' ).overlay().load();
+			},
+
+			ShowGenericDialog: function( strTitle, strMsg, strButtonText )
+			{
+				this.Init();
+
+				strButtonText = strButtonText || 'OK';
+				this.$m_ButtonText[1].html( strButtonText );
+
+				this.$m_Buttons[0].hide();
+				this.$m_Buttons[1].show();
+
+				this.$m_Buttons[0].removeClass( 'AlignModalButtonLeft' );
+				this.$m_Buttons[1].removeClass( 'AlignModalButtonRight' );
+				this.$m_Buttons[1].addClass( 'AlignModalButtonCenter' );
+
+				this.SetupDefaultButtonBehaviors();
+
+				this.DoShowDialog( strTitle, strMsg );
+			},
+
+			ShowGenericTwoButtonDialog: function( strTitle, strMsg, rgButtonData )
+			{
+				this.Init();
+
+				this.$m_ButtonText[0].html( rgButtonData.text[0] );
+				this.$m_ButtonText[1].html( rgButtonData.text[1] );
+
+				this.$m_Buttons[0].show();
+				this.$m_Buttons[1].show();
+
+				this.$m_Buttons[0].addClass( 'AlignModalButtonLeft' );
+				this.$m_Buttons[1].addClass( 'AlignModalButtonRight' );
+
+				this.SetupDefaultButtonBehaviors();
+
+				this.$m_Buttons[0].on(
+					'click',
+					rgButtonData.callbacks[0]
+				);
+
+				// Only override close behavior if specified
+				if ( rgButtonData.callbacks[1] != null  )
+				{
+					this.$m_Buttons[1].on(
+						'click',
+						rgButtonData.callbacks[1]
+					);
+				}
+
+				this.DoShowDialog( strTitle, strMsg );
+			},
+
+			ShowErrorDialog: function( strError )
+			{
+				this.ShowGenericDialog( 'Error', strError );
+			},
+
+			CloseErrorDialog: function()
+			{
+				$( '#GenericModal' ).overlay().close();
+			},
+
+			SetupDefaultButtonBehaviors: function()
+			{
+				this.$m_CloseButton.on(
+					'click',
+					this.CloseErrorDialog
+				);
+
+				this.$m_Buttons[1].on(
+					'click',
+					this.CloseErrorDialog
+				);
+			}
+		};
+
+	</script>
+
+		<div style="display: none">
+		<img src="http://cdn.dota2.com/apps/dota2/images/store/ticker_hover.png"/>
+	</div>
+
+			
+
+
+	<div id="navBarBGRepeat" class="DotaFont">
+		<div id="navBarBG">
+			<div id="navBar">
+								
+												<div id="navLoginAndLanguage">
+
+																												<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=store%2F">Login</a>
+										
+					<span id="HeaderAdminSeperator" class="DotaFont">|</span>
+
+					<div id="languageSelector" class="DotaFont">
+						<a href="javascript:void(0)">Language</a> <img style="margin-bottom: 2px;" src="http://cdn.dota2.com/apps/dota2/images/header/small_arrow.png" width="5px" height="3px" border="0" /><br />
+						<div style="display:none;" id="languageList">
+																						<a class="DotaFont languageItem" href="?l=brazilian">Português - Brasil (Portuguese - Brazil)</a>
+																						<a class="DotaFont languageItem" href="?l=bulgarian">Български (Bulgarian)</a>
+																						<a class="DotaFont languageItem" href="?l=czech">Čeština (Czech)</a>
+																						<a class="DotaFont languageItem" href="?l=danish">Dansk (Danish)</a>
+																						<a class="DotaFont languageItem" href="?l=dutch">Nederlands (Dutch)</a>
+																													<a class="DotaFont languageItem" href="?l=finnish">Suomi (Finnish)</a>
+																						<a class="DotaFont languageItem" href="?l=french">Français (French)</a>
+																						<a class="DotaFont languageItem" href="?l=german">Deutsch (German)</a>
+																						<a class="DotaFont languageItem" href="?l=greek">Ελληνικά (Greek)</a>
+																						<a class="DotaFont languageItem" href="?l=hungarian">Magyar (Hungarian)</a>
+																						<a class="DotaFont languageItem" href="?l=italian">Italiano (Italian)</a>
+																						<a class="DotaFont languageItem" href="?l=japanese">日本語 (Japanese)</a>
+																						<a class="DotaFont languageItem" href="?l=koreana">한국어 (Korean)</a>
+																						<a class="DotaFont languageItem" href="?l=norwegian">Norsk (Norwegian)</a>
+																						<a class="DotaFont languageItem" href="?l=polish">Polski (Polish)</a>
+																						<a class="DotaFont languageItem" href="?l=portuguese">Português (Portuguese)</a>
+																						<a class="DotaFont languageItem" href="?l=russian">Русский (Russian)</a>
+																						<a class="DotaFont languageItem" href="?l=romanian">Română (Romanian)</a>
+																						<a class="DotaFont languageItem" href="?l=schinese">简体中文 (Simplified Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=spanish">Español - España (Spanish - Spain)</a>
+																						<a class="DotaFont languageItem" href="?l=swedish">Svenska (Swedish)</a>
+																						<a class="DotaFont languageItem" href="?l=tchinese">繁體中文 (Traditional Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=thai">ไทย (Thai)</a>
+																						<a class="DotaFont languageItem" href="?l=turkish">Türkçe (Turkish)</a>
+																						<a class="DotaFont languageItem" href="?l=ukrainian">Українська (Ukrainian)</a>
+													</div>
+					</div>
+				</div>
+
+
+				<a href="http://store.steampowered.com/app/570/Dota_2/"><div id="PlayForFreeButton">
+					Play for Free
+				</div></a>
+
+									<span class="navItem navItemDotaLogo">
+						<a class="navBarItem DotaFont" href="http://www.dota2.com/play/">
+							<img border="0" class="DotaLogo" src="http://cdn.dota2.com/apps/dota2/images/nav/logo.png"/>
+						</a>
+					</span>
+
+											<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://blog.dota2.com/">News</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://www.dota2.com/store/">Store</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="javascript:void(0)">Heropedia</a>
+								<div style="display:none;" class="menuSubItemList">
+																				<a class="DotaFont" href="http://www.dota2.com/heroes/">Heroes</a>
+																				<a class="DotaFont" href="http://www.dota2.com/items/">Item Explorer</a>
+																				<a class="DotaFont" href="http://www.dota2.com/workshop/builds">Builds</a>
+																				<a class="DotaFont" href="https://steamcommunity.com/app/570/guides" target="_blank">Steam Guides</a>
+																				<a class="DotaFont" href="http://www.dota2.com/quiz">The Shopkeeper's Quiz</a>
+														</div>
+								<img class="dn_arrow" src="http://cdn.dota2.com/apps/dota2/images/nav/arrow.png"/>
+							</span>
+																		</div>
+		</div>
+	</div>
+<script language="javascript">
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function PreloadHeaderImages()
+	{
+		//  Preload header rollover images
+		//MM_preloadImages(
+		//);
+	}
+
+			if ( document.addEventListener ) {
+		document.addEventListener( "DOMContentLoaded", PreloadHeaderImages, false );
+	} else if ( document.attachEvent ) {
+		document.attachEvent( 'onDomContentLoaded', PreloadHeaderImages );
+	}
+
+</script>
+
+
+
+	<script language="javascript">
+		function closeSubMenu( target ) {
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow.png" );
+			$(target).find('.menuSubItemList').hide();
+		}
+
+		function closeAllSubMenus() {
+			$('.navItem').each( function() {
+				closeSubMenu( $(this) );
+			});
+		}
+
+		function openSubMenu( target ) {
+			closeAllSubMenus();
+
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow_over.png" );
+
+			// Show the sub-menu
+			var subItemList = $(target).find('.menuSubItemList');
+			if ( subItemList.length ) {
+				var itemTop = $(target).position().top + $(target).outerHeight() - 16;
+				var itemLeft = $(target).position().left;
+				subItemList
+					.css({
+						"top": itemTop + 'px',
+						"left": itemLeft
+					})
+					.fadeIn( 'fast' );
+			}
+		}
+
+		$(document).ready( function () {
+			// Deal with the nav bars
+			$('.navItem').each( function() {
+				$(this).hover( function () {
+					$(this)
+						.find('a.navBarItem img.top')
+						.animate({
+							"opacity": 1
+						}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						openSubMenu( this );
+					}
+				},
+				function () {
+					$(this)
+					.find('a.navBarItem img.top')
+					.animate({
+						"opacity": 0
+					}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						closeSubMenu(this);
+					}
+				}
+				);
+			});
+
+			// Deal with header drop-downs
+			var strMenus = '#languageSelector';
+			
+			$(strMenus).each( function() {
+				$(this).hover( function () {
+					//show its submenu
+					$( this ).find( 'div' ).fadeIn( 'fast' );
+				},
+				function () {
+					//hide its submenu
+					$( this ).find( 'div' ).hide();
+				}
+				);
+			});
+		});
+
+	</script>
+
+	
+	<div class="StorePageBody">
+
+		<div class="StoreContainer" class="NoSelect">
+			<div class="StoreContainerBg"></div>
+			
+<div id="StoreTabs">
+<style>
+	.StoreTabMenuColumn {
+		float: left;
+		width: 184px;
+	}
+</style>
+	<span id="StoreTabButtons">
+					
+			
+						
+						
+						
+			
+						
+			<a href="javascript:void(0)" data-categoryid="1909853392" id="StoreTab_1909853392" class="StoreTab DarkGrayButton NoSelect "  >
+				
+				
+				FEATURED
+							</a>
+		
+					
+			
+						
+									
+			
+						
+						
+						
+			
+						
+			<a href="javascript:void(0)" data-categoryid="3634838168" id="StoreTab_3634838168" class="StoreTab DarkGrayButton NoSelect StoreTabMenuButton "  >
+				
+									<span class="StoreTabMenu NoSelect" data-fullwidth="1" id="StoreTabMenu_3634838168" style="left: -159px; width: 932px">
+						<div class="StoreTabMenuColumn">
+																																																																																				<div class="StoreTabMenuItem" data-filter-hero="102" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Abaddon</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="73" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Alchemist</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="1" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Anti-Mage</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="2" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Axe</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="65" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Batrider</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="38" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Beastmaster</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="4" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Bloodseeker</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="62" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Bounty Hunter</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="78" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Brewmaster</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="99" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Bristleback</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="61" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Broodmother</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="96" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Centaur Warrunner</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="81" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Chaos Knight</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="66" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Chen</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="56" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Clinkz</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="51" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Clockwerk</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="5" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Crystal Maiden</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="55" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Dark Seer</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="119" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Dark Willow</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="50" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Dazzle</div>
+																														</div>
+								<div class="StoreTabMenuColumn">
+																																																	<div class="StoreTabMenuItem" data-filter-hero="43" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Death Prophet</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="87" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Disruptor</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="69" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Doom</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="49" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Dragon Knight</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="6" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Drow Ranger</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="107" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Earth Spirit</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="7" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Earthshaker</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="106" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Ember Spirit</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="58" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Enchantress</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="41" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Faceless Void</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="72" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Gyrocopter</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="59" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Huskar</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="74" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Invoker</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="8" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Juggernaut</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="90" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Keeper of the Light</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="23" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Kunkka</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="104" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Legion Commander</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="52" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Leshrac</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="31" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lich</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="54" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lifestealer</div>
+																														</div>
+								<div class="StoreTabMenuColumn">
+																																																	<div class="StoreTabMenuItem" data-filter-hero="25" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lina</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="26" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lion</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="80" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lone Druid</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="48" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Luna</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="77" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Lycan</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="97" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Magnus</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="94" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Medusa</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="82" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Meepo</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="9" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Mirana</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="114" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Monkey King</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="10" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Morphling</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="89" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Naga Siren</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="53" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Nature's Prophet</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="36" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Necrophos</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="88" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Nyx Assassin</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="84" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Ogre Magi</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="57" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Omniknight</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="76" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Outworld Devourer</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="120" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Pangolier</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="44" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Phantom Assassin</div>
+																														</div>
+								<div class="StoreTabMenuColumn">
+																																																	<div class="StoreTabMenuItem" data-filter-hero="12" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Phantom Lancer</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="13" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Puck</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="14" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Pudge</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="45" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Pugna</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="39" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Queen of Pain</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="15" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Razor</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="32" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Riki</div>
+																																																																			<div class="StoreTabMenuItem" data-filter-hero="86" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Rubick <span class="FilterItemTag">NEW</span></div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="16" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Sand King</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="79" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Shadow Demon</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="11" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Shadow Fiend</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="27" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Shadow Shaman</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="75" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Silencer</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="101" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Skywrath Mage</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="28" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Slardar</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="93" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Slark</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="35" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Sniper</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="67" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Spectre</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="71" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Spirit Breaker</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="17" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Storm Spirit</div>
+																														</div>
+								<div class="StoreTabMenuColumn">
+																																																	<div class="StoreTabMenuItem" data-filter-hero="18" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Sven</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="105" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Techies</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="46" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Templar Assassin</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="109" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Terrorblade</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="29" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Tidehunter</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="98" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Timbersaw</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="19" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Tiny</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="83" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Treant Protector</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="100" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Tusk</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="70" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Ursa</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="40" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Venomancer</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="37" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Warlock</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="63" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Weaver</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="21" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Windranger</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="30" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Witch Doctor</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="42" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Wraith King</div>
+																																																								<div class="StoreTabMenuItem" data-filter-hero="22" data-parentid="3634838168" data-parentcategoryid="3634838168" data-categoryid="3634838168" class="StoreTabMenuItem">Zeus</div>
+																										</div>
+					</span>
+				
+				HERO SETS
+									<span class="DownArrowBase DownArrow">
+						<span class="Shadow"></span>
+					</span>
+							</a>
+		
+					
+			
+						
+						
+						
+			
+						
+			<a href="javascript:void(0)" data-categoryid="3776899405" id="StoreTab_3776899405" class="StoreTab DarkGrayButton NoSelect StoreTabMenuButton "  >
+									<span class="StoreTabMenu NoSelect" id="StoreTabMenu_3776899405">
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="4172648756" class="StoreTabMenuItem">Treasures</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="3942309495" class="StoreTabMenuItem">Tools</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="1532033519" class="StoreTabMenuItem">Charms</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="1114825040" class="StoreTabMenuItem">Couriers</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="1073146881" class="StoreTabMenuItem">Announcers</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="3444712010" class="StoreTabMenuItem">Music</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="2443340223" class="StoreTabMenuItem">Wards</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="3128342843" class="StoreTabMenuItem">HUD Skins</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="2009595502" class="StoreTabMenuItem">Loading Screens</div>
+													<div class="StoreTabMenuItem" data-parentid="3776899405" data-parentcategoryid="3776899405" data-categoryid="2585178519" class="StoreTabMenuItem">Chat Emoticons</div>
+											</span>
+				
+				
+				ITEMS
+									<span class="DownArrowBase DownArrow">
+						<span class="Shadow"></span>
+					</span>
+							</a>
+		
+					
+			
+						
+						
+						
+			
+						
+			<a href="javascript:void(0)" data-categoryid="130584270" id="StoreTab_130584270" class="StoreTab DarkGrayButton NoSelect StoreTabMenuButton "  >
+									<span class="StoreTabMenu NoSelect" id="StoreTabMenu_130584270">
+													<div class="StoreTabMenuItem" data-parentid="130584270" data-parentcategoryid="130584270" data-categoryid="2529305176" class="StoreTabMenuItem">Teams</div>
+											</span>
+				
+				
+				PRO SHOP
+									<span class="DownArrowBase DownArrow">
+						<span class="Shadow"></span>
+					</span>
+							</a>
+		
+				<span class="LowerBg"></span>
+	</span>
+
+	<span class='StoreTabPadding'></span>
+
+	<div id="StoreSearchForm">
+	<input type="text" id="StoreSearchInput" autocomplete="off" spellcheck="false" placeholder="Search" />
+	<div id="StoreSearchButton"></div>
+</div>
+<div id="StoreSearchResultsContainer" style="display: none">
+	<div id="StoreSearchResultsSpinner"></div>
+	<div id="StoreSearchResults"></div>
+</div>
+
+<style type="text/css">
+	#StoreSearchForm {
+		position: absolute;
+		top: 15px;
+		right: 18px;
+		width: 260px;
+		background-color: #444A54;
+		-moz-border-radius: 11px;
+		-webkit-border-radius: 11px;
+		border-radius: 11px;
+		box-shadow: 0px 0px 1px 1px rgba( 0, 0, 0, 0.3 );
+	}
+	#StoreSearchInput {
+		border: none;
+		color: #FFFFFF;
+		outline: none;
+		width: 220px;
+		border: 3px solid #444A54;
+		background: transparent;
+		margin: 2px 7px 2px 9px;
+	}
+	#StoreSearchInput::-webkit-input-placeholder {
+		font-style: italic;
+		color: #777e8a;
+	}
+	#StoreSearchInput:-moz-placeholder {
+		font-style: italic;
+		color: #777e8a;
+	}
+	#StoreSearchInput::-moz-placeholder {
+		font-style: italic;
+		color: #777e8a;
+	}
+	#StoreSearchButton {
+		position: absolute;
+		top: 5px;
+		right: 5px;
+		width: 19px;
+		height: 19px;
+		background-image: url('http://cdn.dota2.com/apps/dota2/images/store/icon_search.png?1');
+		background-size: 19px 19px;
+		background-repeat: no-repeat;
+		pointer-events: none;
+	}
+	#StoreSearchResultsContainer {
+		position: absolute;
+		z-index: 200;
+		top: 53px;
+		right: 0px;
+		width: 350px;
+		background-color: #24272A;
+		box-shadow: 0px 1px 2px #000;
+		border-top: 1px solid #32393F;
+		border-left: 1px solid #32393F;
+		border-bottom: 1px solid #32393F;
+		border-right: 1px solid #32393F;
+		border-collapse: collapse;
+	}
+	#StoreSearchResultsSpinner {
+		height: 60px;
+	}
+	#StoreSearchResults .ItemImage {
+		float: left;
+		width: 105px;
+		height: 74px;
+		margin-top: 6px;
+		margin-bottom: 5px;
+	}
+	#StoreSearchResults .ItemImageDropShadow {
+		width: 103px;
+		height: 68px;
+	}
+	#StoreSearchResults .ItemText {
+		width: 226px;
+		float: right;
+		vertical-align: center;
+	}
+	#StoreSearchResults .ItemContainerRow {
+		clear: both;
+		padding-left: 5px;
+		padding-right: 5px;
+		cursor: pointer;
+	}
+	#StoreSearchResults .ItemContainerRow:hover {
+		background-color: #292C2F;
+	}
+	#StoreSearchResults .ItemContainerRow .ItemContainerCell {
+		padding-bottom: 3px;
+		height: 85px;
+	}
+		#StoreSearchResults .ItemContainerRow:not(:first-child) {
+		border-top: 1px solid #32393F;
+	}
+		#StoreSearchResults .ItemContainerRow .ItemContainerCell .ItemText {
+		display: block !important;
+	}
+	#StoreSearchResults .ItemContainerRow .ItemContainerCell .HoverContentContainer {
+		display: none !important;
+	}
+	#StoreSearchResults .ItemContainerRow .ItemContainerCell .TagContainer {
+		margin-top: 8px;
+		margin-left: 2px;
+	}
+	#StoreSearchResults div.NoItems {
+		padding: 10px 20px 10px 20px;
+		font-style: italic;
+		width: 100%;
+		text-align: center;
+	}
+</style>
+
+<script type="text/javascript">
+	$(
+		function()
+		{
+			var $storeSearchInput = $('#StoreSearchInput');
+			var $storeSearchResultsContainer = $('#StoreSearchResultsContainer');
+			var $storeSearchResults = $('#StoreSearchResults');
+			var $storeSearchResultsSpinner = $('#StoreSearchResultsSpinner');
+
+			// Set up the spinner and hide the results
+						$storeSearchResultsContainer.show();
+			$storeSearchResultsSpinner.spin( {
+				lines: 11,
+				length: 5,
+				width: 3,
+				radius: 8,
+				rotate: 0,
+				color: '#fff',
+				speed: 1,
+				trail: 60,
+				shadow: false,
+				hwaccel: false,
+				className: 'spinner',
+				zIndex: 2e9,
+				top: 'auto',
+				left: 'auto'
+			} ).hide();
+			$storeSearchResultsContainer.hide();
+
+			var strLastStoreSearchInput = $storeSearchInput.val();
+			var storeDelayTimerID = false;
+			$storeSearchInput.bind( "propertychange keyup input paste", function () {
+
+				var strNewVal = $storeSearchInput.val();
+				if ( strNewVal == strLastStoreSearchInput )
+					return;
+
+				strLastStoreSearchInput = strNewVal;
+
+				$storeSearchResultsContainer.show();
+
+				if ( storeDelayTimerID !== false )
+					window.clearTimeout( storeDelayTimerID );
+
+				$storeSearchResults.html( '' );
+
+				var bIsNewValEmpty = ( strNewVal.replace(/^\s+|\s+$/g, '') === '' )
+				if ( bIsNewValEmpty )
+				{
+					$storeSearchResultsContainer.hide();
+					$storeSearchResultsSpinner.hide();
+				}
+				else
+				{
+					$storeSearchResultsSpinner.show();
+				}
+
+				storeDelayTimerID = window.setTimeout( function () {
+
+					var strQueryVal = $storeSearchInput.val();
+					var bIsQueryEmpty = ( strQueryVal.replace(/^\s+|\s+$/g, '') === '' )
+					if ( bIsQueryEmpty )
+						return;
+
+					var strNoItemsFoundHTML = '<div class="NoItems">No results found</div>';
+
+					$.post(
+						'http://www.dota2.com/store/searchdata?ajax=1&l=english&c=USD&appid=570&v=_M1545257238',
+						{ 'query' : strQueryVal }
+					).done(
+						function( json ) {
+							if ( strLastStoreSearchInput === strQueryVal )
+							{
+								if ( json.result.html !== '' )
+									$storeSearchResults.html( json.result.html );
+								else
+									$storeSearchResults.html( strNoItemsFoundHTML );
+							}
+						}
+					).error(
+						function( jqXHR, e ) {
+							if ( strLastStoreSearchInput === strQueryVal )
+							{
+								console.log( 'Error while searching for "' + strQueryVal + '": ' + e )
+								$storeSearchResults.html( strNoItemsFoundHTML );
+							}
+						}
+					).always(
+						function ( ) {
+							if ( strLastStoreSearchInput === strQueryVal )
+							{
+								$storeSearchResultsSpinner.hide();
+							}
+						}
+					);
+				}, 400 );
+			});
+
+						$storeSearchResults.delegate('.ItemContainerRow', 'mousedown', function () {
+				return false;
+			});
+
+			$storeSearchResults.delegate('.ItemContainerRow', 'click', function () {
+				window.location.href = $(this).find( 'a' ).attr( 'href' );
+				return false;
+			});
+
+			$storeSearchInput.focus( function () {
+				var strQueryVal = $storeSearchInput.val();
+				var bIsQueryEmpty = ( strQueryVal.replace(/^\s+|\s+$/g, '') === '' )
+				if ( !bIsQueryEmpty )
+				{
+					$storeSearchResultsContainer.show();
+				}
+				$storeSearchInput.data( 'placeholder', $storeSearchInput.attr( 'placeholder' ) );
+				$storeSearchInput.attr( 'placeholder', '' );
+			} );
+
+			$storeSearchInput.blur( function () {
+				$storeSearchResultsContainer.hide();
+				$storeSearchInput.attr( 'placeholder', $storeSearchInput.data( 'placeholder' ) );
+				$storeSearchInput.data( 'placeholder', '' );
+			} );
+		}
+	);
+
+</script>
+
+			<div id="CartButton" class="NoSelect CartHeaderButton" onclick="javascript:RedirectToCart();">
+	<span id="CartButtonText" class="Hidden"><div id="CartButtonTextIcon"></div>Cart <span id="CartButtonTextParenthetical">(<span id="NumItemsInCart">0</span>)</span></span>
+</div>
+
+<script type="text/javascript">
+
+		function ShowCartButtonSpinner( bShow, bDim )
+	{
+		if ( bShow )
+		{
+			var opts = {
+				lines: 8, // The number of lines to draw
+				length: 0, // The length of each line
+				width: 3, // The line thickness
+				radius: 4, // The radius of the inner circle
+				color: bDim ? '#444' : '#eee', // #rbg or #rrggbb
+				speed: 2.1, // Rounds per second
+				trail: 100, // Afterglow percentage
+				shadow: true // Whether to render a shadow
+			};
+			this.$Spinner = $( '#CartButton' ).spin( opts );
+		}
+		else
+		{
+			// Remove the spinner
+			this.$Spinner.unspin();
+		}
+	}
+
+	$(
+		function()
+		{
+			function ShowCartButtonText( bShow )
+			{
+				$( '#CartButtonText' ).removeClass( 'Hidden' );
+			}
+
+			// If the cookie is present, grab it and early out
+			var unQuantity = Common_GetCartQuantityFromCookie();
+			if ( null !== unQuantity )
+			{
+				ShowCartButtonText( true );
+				UpdateNumItemsInCartAbsolute( unQuantity );
+				return;
+			}
+
+			ShowCartButtonSpinner( true );
+			
+			var rgParams = {
+				action: "get_item_count",
+				appid: g_nAppID,
+				c: g_strCurrency,
+				l: g_strLanguage,
+				ajax: 1,
+				sessionid: '94517c2c318a4c2f9643836a'
+			};
+
+			
+			var strCartURL = "http://www.dota2.com/store/cart/";
+			$.post(
+				strCartURL,
+				rgParams,
+				function( json )
+				{
+					ShowCartButtonSpinner( false );
+					ShowCartButtonText( true );
+
+					// On failure, display an error and reload the page
+					if ( json.success )
+					{
+						// Update item count and text.
+						UpdateNumItemsInCartAbsolute( json.item_count );
+
+						// Update the cookie.
+						Common_UpdateCartQuantityCookie( json.item_count );
+					}
+					else
+					{
+						GenericDialog.ShowErrorDialog( 'An error occurred while attempting to add an item to your cart. Please try again in a few minutes.' );
+					}
+				}
+			).error(
+					function( jqXHR, e )
+					{
+						ShowCartButtonSpinner( false );
+						ShowCartButtonText( true );
+
+						// Inform the user.
+						GenericDialog.ShowErrorDialog( 'There was an error loading your cart. You may experience problems adding items to your cart for the next few minutes.' );
+					}
+			);
+		}
+	);
+
+</script>
+	
+	
+</div>
+
+<script type="text/javascript">
+
+	g_rgStoreTabs = ["1909853392","904640596","3634838168","3776899405","130584270"];
+	g_rgStoreCategories = {"1909853392":{"label":"Featured","id":"1909853392","parent_id":0,"default":true,"tab_image_override_name":null,"children":[],"home":true},"904640596":{"label":"#Store_Unknown","id":"904640596","parent_id":0,"default":false,"tab_image_override_name":null,"children":[],"home":false,"dropdown_prefab_id":3814588639,"custom_filter_name":"current_sales"},"3634838168":{"label":"Hero Sets","id":"3634838168","parent_id":0,"default":false,"tab_image_override_name":null,"children":[],"home":false,"dropdown_prefab_id":1468829639},"3776899405":{"label":"Items","id":"3776899405","parent_id":0,"default":false,"tab_image_override_name":null,"children":[{"name":"Treasures","id":"4172648756"},{"name":"Tools","id":"3942309495"},{"name":"Charms","id":"1532033519"},{"name":"Couriers","id":"1114825040"},{"name":"Announcers","id":"1073146881"},{"name":"Music","id":"3444712010"},{"name":"Wards","id":"2443340223"},{"name":"HUD Skins","id":"3128342843"},{"name":"Loading Screens","id":"2009595502"},{"name":"Chat Emoticons","id":"2585178519"}],"home":false,"dropdown_prefab_id":3814588639},"4172648756":{"label":"Treasures","id":"4172648756","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"3942309495":{"label":"Tools","id":"3942309495","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"1532033519":{"label":"Charms","id":"1532033519","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"1114825040":{"label":"Couriers","id":"1114825040","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"1073146881":{"label":"Announcers","id":"1073146881","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"3444712010":{"label":"Music","id":"3444712010","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"2443340223":{"label":"Wards","id":"2443340223","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"3128342843":{"label":"HUD Skins","id":"3128342843","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"2009595502":{"label":"Loading Screens","id":"2009595502","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"2585178519":{"label":"Chat Emoticons","id":"2585178519","parent_id":3776899405,"default":false,"tab_image_override_name":null,"parent_name":"Items","children":[],"home":false,"dropdown_prefab_id":3814588639},"130584270":{"label":"Pro Shop","id":"130584270","parent_id":0,"default":false,"tab_image_override_name":null,"children":[{"name":"Teams","id":"2529305176"}],"home":false,"dropdown_prefab_id":3814588639},"2529305176":{"label":"Teams","id":"2529305176","parent_id":130584270,"default":false,"tab_image_override_name":null,"parent_name":"Pro Shop","children":[],"home":false,"dropdown_prefab_id":3814588639}};
+
+	g_nDefaultCategoryID = 1909853392;
+	g_nHomeCategoryID = 1909853392;
+	g_bRedirectOnTabClick = 0;
+	g_nMenuFadeDuration = 250;
+	g_nSelectedCategoryID = null;	// The actual selected category - initialized by first ChangeCategory() call in store.js
+	g_nSelectedTabID = null;	// The selected tab - initialized by first ChangeCategory() call in store.js
+
+		// HUD Skins & Loading Screens
+	g_rgStoreCategories['34589234'] = {
+		'children' : [
+			{ 'id' : '3128342843', name : '' },
+			{ 'id' : '2009595502', name : '' },
+		],
+		'default' : false,
+		'dropdown_prefab_id' : 3814588639,
+		'home' : false,
+		'id' : '34589234',
+		'parent_id' : 3776899405,
+		'tab_image_override_name' : null
+	};
+	// Tools & Keys
+	g_rgStoreCategories['54869489'] = {
+		'children' : [
+			{ 'id' : '3942309495', name : '' },
+			{ 'id' : '4172648756', name : '' },
+		],
+		'default' : false,
+		'dropdown_prefab_id' : 3814588639,
+		'home' : false,
+		'id' : '54869489',
+		'parent_id' : 3776899405,
+		'tab_image_override_name' : null
+	};
+
+	function GetTab( nTabID )
+	{
+		return $( '#StoreTab_' + nTabID );
+	}
+
+	function GetMenu( nMenuID )
+	{
+		return $( '#StoreTabMenu_' + nMenuID );
+	}
+
+	function DoHideMenu( nMenuID )
+	{
+		// Hide
+		$Menu = GetMenu( nMenuID );
+		$Menu.animate( { opacity: 0 }, g_nMenuFadeDuration );
+	}
+
+		function PositionMenu( nCurMenuID )
+	{
+		$Tab = GetTab( nCurMenuID );
+		var nLeftOffset = 0;
+		if ( $Tab.find( '.StoreTabMenu' ).data( 'fullwidth' ) )
+		{
+			nLeftOffset = $Tab.parent().offset().left - $Tab.offset().left;
+		}
+		GetMenu( nCurMenuID ).offset(
+			{
+				top: $Tab.offset().top + $Tab.outerHeight(),
+				left: $Tab.offset().left + nLeftOffset
+			}
+		);
+	}
+
+	function HideMenu( nMenuID )
+	{
+		GetMenu( nMenuID ).hide();
+	}
+
+	function BIsHomeCategory( unCategoryID )
+	{
+		return unCategoryID == g_nHomeCategoryID;
+	}
+
+	function BIsHomeCategorySelected()
+	{
+		return g_nSelectedCategoryID == g_nHomeCategoryID;
+	}
+
+	$(
+		function()
+		{
+			// Init positions of the menus, which will be static
+			var $Tab;
+							PositionMenu( 3776899405 );
+							PositionMenu( 130584270 );
+			
+			// Hover function for menus
+			$( '#StoreTabButtons ').on(
+				'mouseenter',
+				'.StoreTabMenuButton',
+				function()
+				{
+					var nMenuID = $( this ).attr( 'data-categoryid' );
+					GetMenu( nMenuID ).fadeIn( g_nMenuFadeDuration );
+					PositionMenu( nMenuID );
+				}
+			).on(
+				'mouseleave',
+				'.StoreTabMenuButton',
+				function()
+				{
+					var nMenuID = $( this ).attr( 'data-categoryid' );
+					HideMenu( nMenuID );
+				}
+			).on(
+				'click',
+				'.StoreTab',
+				function()
+				{
+					var nCategoryID = $( this ).attr( 'data-categoryid' );
+					ChangeCategory( nCategoryID, true );
+					HideMenu( nCategoryID );
+					return false;
+				}
+			).on(
+				'click',
+				'.StoreTabMenuItem',
+				function()
+				{
+					var nCategoryID = $( this ).attr( 'data-categoryid' );
+					var strFilterHero = $( this ).data( 'filter-hero' );
+					ChangeCategory( nCategoryID, true, strFilterHero ? { 'h' : strFilterHero } : undefined );
+
+					var nParentID = $( this ).attr( 'data-parentcategoryid' );
+					HideMenu( nParentID );
+
+					return false;
+				}
+			);
+		}
+	);
+
+</script>
+
+			<!-- DROPDOWNS -->
+			<div id="StoreFilters" class="DarkBlueGradient NoSelect Hidden">
+
+													<span data-name="heroes" data-category-id="1468829639" class="DropdownContainer" id="DropdownContainer_1468829639">
+
+						<div class="Label">&nbsp;</div>
+
+						<form method="get" onsubmit="return false;">
+							<div class="DropdownBox NoSelect" id="DropdownBox_1468829639">
+								<input spellcheck=false name="term" type="text" class="default" size="22" autocomplete="off" onkeydown="OnDropdownTextKeyDown( event, 1468829639 );" onkeyup="OnDropdownTextKeyUp( event, 1468829639 );" onblur="OnDropdownLoseFocus( 1468829639 );">
+								<script type="text/javascript">$('#DropdownBox_1468829639 input').focus( function(){OnDropdownTextFocus( 1468829639 );})</script>
+								<div class="DropdownButton" onclick="OnDropdownButtonClicked( 1468829639 );">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+
+							<div class="DropdownBox NoSelect" style="display: none;" id="DropdownBox_1468829639_Disabled">
+								<input class="Disabled NoSelect" disabled spellcheck=false name="term" type="text" class="default" value="--" size="22" autocomplete="off">
+								<div class="DropdownButtonDisabled">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+						</form>
+
+						<div id="DropdownPanel_1468829639" class="Dropdown">
+																																							<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '102' )"
+											id="DropdownPanelElement_1468829639_102" data-elem-id="102" tabindex="-1">
+											Abaddon																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '73' )"
+											id="DropdownPanelElement_1468829639_73" data-elem-id="73" tabindex="-1">
+											Alchemist																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '991457757' )"
+											id="DropdownPanelElement_1468829639_991457757" data-elem-id="991457757" tabindex="-1">
+											All																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '1' )"
+											id="DropdownPanelElement_1468829639_1" data-elem-id="1" tabindex="-1">
+											Anti-Mage																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '2' )"
+											id="DropdownPanelElement_1468829639_2" data-elem-id="2" tabindex="-1">
+											Axe																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '65' )"
+											id="DropdownPanelElement_1468829639_65" data-elem-id="65" tabindex="-1">
+											Batrider																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '38' )"
+											id="DropdownPanelElement_1468829639_38" data-elem-id="38" tabindex="-1">
+											Beastmaster																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '4' )"
+											id="DropdownPanelElement_1468829639_4" data-elem-id="4" tabindex="-1">
+											Bloodseeker																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '62' )"
+											id="DropdownPanelElement_1468829639_62" data-elem-id="62" tabindex="-1">
+											Bounty Hunter																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '78' )"
+											id="DropdownPanelElement_1468829639_78" data-elem-id="78" tabindex="-1">
+											Brewmaster																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '99' )"
+											id="DropdownPanelElement_1468829639_99" data-elem-id="99" tabindex="-1">
+											Bristleback																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '61' )"
+											id="DropdownPanelElement_1468829639_61" data-elem-id="61" tabindex="-1">
+											Broodmother																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '96' )"
+											id="DropdownPanelElement_1468829639_96" data-elem-id="96" tabindex="-1">
+											Centaur Warrunner																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '81' )"
+											id="DropdownPanelElement_1468829639_81" data-elem-id="81" tabindex="-1">
+											Chaos Knight																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '66' )"
+											id="DropdownPanelElement_1468829639_66" data-elem-id="66" tabindex="-1">
+											Chen																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '56' )"
+											id="DropdownPanelElement_1468829639_56" data-elem-id="56" tabindex="-1">
+											Clinkz																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '51' )"
+											id="DropdownPanelElement_1468829639_51" data-elem-id="51" tabindex="-1">
+											Clockwerk																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '5' )"
+											id="DropdownPanelElement_1468829639_5" data-elem-id="5" tabindex="-1">
+											Crystal Maiden																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '55' )"
+											id="DropdownPanelElement_1468829639_55" data-elem-id="55" tabindex="-1">
+											Dark Seer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '119' )"
+											id="DropdownPanelElement_1468829639_119" data-elem-id="119" tabindex="-1">
+											Dark Willow																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '50' )"
+											id="DropdownPanelElement_1468829639_50" data-elem-id="50" tabindex="-1">
+											Dazzle																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '43' )"
+											id="DropdownPanelElement_1468829639_43" data-elem-id="43" tabindex="-1">
+											Death Prophet																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '87' )"
+											id="DropdownPanelElement_1468829639_87" data-elem-id="87" tabindex="-1">
+											Disruptor																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '69' )"
+											id="DropdownPanelElement_1468829639_69" data-elem-id="69" tabindex="-1">
+											Doom																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '49' )"
+											id="DropdownPanelElement_1468829639_49" data-elem-id="49" tabindex="-1">
+											Dragon Knight																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '6' )"
+											id="DropdownPanelElement_1468829639_6" data-elem-id="6" tabindex="-1">
+											Drow Ranger																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '107' )"
+											id="DropdownPanelElement_1468829639_107" data-elem-id="107" tabindex="-1">
+											Earth Spirit																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '7' )"
+											id="DropdownPanelElement_1468829639_7" data-elem-id="7" tabindex="-1">
+											Earthshaker																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '106' )"
+											id="DropdownPanelElement_1468829639_106" data-elem-id="106" tabindex="-1">
+											Ember Spirit																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '58' )"
+											id="DropdownPanelElement_1468829639_58" data-elem-id="58" tabindex="-1">
+											Enchantress																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '41' )"
+											id="DropdownPanelElement_1468829639_41" data-elem-id="41" tabindex="-1">
+											Faceless Void																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '72' )"
+											id="DropdownPanelElement_1468829639_72" data-elem-id="72" tabindex="-1">
+											Gyrocopter																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '59' )"
+											id="DropdownPanelElement_1468829639_59" data-elem-id="59" tabindex="-1">
+											Huskar																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '74' )"
+											id="DropdownPanelElement_1468829639_74" data-elem-id="74" tabindex="-1">
+											Invoker																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '8' )"
+											id="DropdownPanelElement_1468829639_8" data-elem-id="8" tabindex="-1">
+											Juggernaut																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '90' )"
+											id="DropdownPanelElement_1468829639_90" data-elem-id="90" tabindex="-1">
+											Keeper of the Light																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '23' )"
+											id="DropdownPanelElement_1468829639_23" data-elem-id="23" tabindex="-1">
+											Kunkka																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '104' )"
+											id="DropdownPanelElement_1468829639_104" data-elem-id="104" tabindex="-1">
+											Legion Commander																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '52' )"
+											id="DropdownPanelElement_1468829639_52" data-elem-id="52" tabindex="-1">
+											Leshrac																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '31' )"
+											id="DropdownPanelElement_1468829639_31" data-elem-id="31" tabindex="-1">
+											Lich																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '54' )"
+											id="DropdownPanelElement_1468829639_54" data-elem-id="54" tabindex="-1">
+											Lifestealer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '25' )"
+											id="DropdownPanelElement_1468829639_25" data-elem-id="25" tabindex="-1">
+											Lina																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '26' )"
+											id="DropdownPanelElement_1468829639_26" data-elem-id="26" tabindex="-1">
+											Lion																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '80' )"
+											id="DropdownPanelElement_1468829639_80" data-elem-id="80" tabindex="-1">
+											Lone Druid																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '48' )"
+											id="DropdownPanelElement_1468829639_48" data-elem-id="48" tabindex="-1">
+											Luna																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '77' )"
+											id="DropdownPanelElement_1468829639_77" data-elem-id="77" tabindex="-1">
+											Lycan																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '97' )"
+											id="DropdownPanelElement_1468829639_97" data-elem-id="97" tabindex="-1">
+											Magnus																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '94' )"
+											id="DropdownPanelElement_1468829639_94" data-elem-id="94" tabindex="-1">
+											Medusa																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '82' )"
+											id="DropdownPanelElement_1468829639_82" data-elem-id="82" tabindex="-1">
+											Meepo																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '9' )"
+											id="DropdownPanelElement_1468829639_9" data-elem-id="9" tabindex="-1">
+											Mirana																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '114' )"
+											id="DropdownPanelElement_1468829639_114" data-elem-id="114" tabindex="-1">
+											Monkey King																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '10' )"
+											id="DropdownPanelElement_1468829639_10" data-elem-id="10" tabindex="-1">
+											Morphling																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '89' )"
+											id="DropdownPanelElement_1468829639_89" data-elem-id="89" tabindex="-1">
+											Naga Siren																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '53' )"
+											id="DropdownPanelElement_1468829639_53" data-elem-id="53" tabindex="-1">
+											Nature's Prophet																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '36' )"
+											id="DropdownPanelElement_1468829639_36" data-elem-id="36" tabindex="-1">
+											Necrophos																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '88' )"
+											id="DropdownPanelElement_1468829639_88" data-elem-id="88" tabindex="-1">
+											Nyx Assassin																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '84' )"
+											id="DropdownPanelElement_1468829639_84" data-elem-id="84" tabindex="-1">
+											Ogre Magi																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '57' )"
+											id="DropdownPanelElement_1468829639_57" data-elem-id="57" tabindex="-1">
+											Omniknight																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '76' )"
+											id="DropdownPanelElement_1468829639_76" data-elem-id="76" tabindex="-1">
+											Outworld Devourer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '120' )"
+											id="DropdownPanelElement_1468829639_120" data-elem-id="120" tabindex="-1">
+											Pangolier																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '44' )"
+											id="DropdownPanelElement_1468829639_44" data-elem-id="44" tabindex="-1">
+											Phantom Assassin																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '12' )"
+											id="DropdownPanelElement_1468829639_12" data-elem-id="12" tabindex="-1">
+											Phantom Lancer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '13' )"
+											id="DropdownPanelElement_1468829639_13" data-elem-id="13" tabindex="-1">
+											Puck																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '14' )"
+											id="DropdownPanelElement_1468829639_14" data-elem-id="14" tabindex="-1">
+											Pudge																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '45' )"
+											id="DropdownPanelElement_1468829639_45" data-elem-id="45" tabindex="-1">
+											Pugna																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '39' )"
+											id="DropdownPanelElement_1468829639_39" data-elem-id="39" tabindex="-1">
+											Queen of Pain																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '15' )"
+											id="DropdownPanelElement_1468829639_15" data-elem-id="15" tabindex="-1">
+											Razor																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '32' )"
+											id="DropdownPanelElement_1468829639_32" data-elem-id="32" tabindex="-1">
+											Riki																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '86' )"
+											id="DropdownPanelElement_1468829639_86" data-elem-id="86" tabindex="-1">
+											Rubick																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '16' )"
+											id="DropdownPanelElement_1468829639_16" data-elem-id="16" tabindex="-1">
+											Sand King																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '79' )"
+											id="DropdownPanelElement_1468829639_79" data-elem-id="79" tabindex="-1">
+											Shadow Demon																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '11' )"
+											id="DropdownPanelElement_1468829639_11" data-elem-id="11" tabindex="-1">
+											Shadow Fiend																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '27' )"
+											id="DropdownPanelElement_1468829639_27" data-elem-id="27" tabindex="-1">
+											Shadow Shaman																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '75' )"
+											id="DropdownPanelElement_1468829639_75" data-elem-id="75" tabindex="-1">
+											Silencer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '101' )"
+											id="DropdownPanelElement_1468829639_101" data-elem-id="101" tabindex="-1">
+											Skywrath Mage																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '28' )"
+											id="DropdownPanelElement_1468829639_28" data-elem-id="28" tabindex="-1">
+											Slardar																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '93' )"
+											id="DropdownPanelElement_1468829639_93" data-elem-id="93" tabindex="-1">
+											Slark																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '35' )"
+											id="DropdownPanelElement_1468829639_35" data-elem-id="35" tabindex="-1">
+											Sniper																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '67' )"
+											id="DropdownPanelElement_1468829639_67" data-elem-id="67" tabindex="-1">
+											Spectre																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '71' )"
+											id="DropdownPanelElement_1468829639_71" data-elem-id="71" tabindex="-1">
+											Spirit Breaker																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '17' )"
+											id="DropdownPanelElement_1468829639_17" data-elem-id="17" tabindex="-1">
+											Storm Spirit																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '18' )"
+											id="DropdownPanelElement_1468829639_18" data-elem-id="18" tabindex="-1">
+											Sven																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '105' )"
+											id="DropdownPanelElement_1468829639_105" data-elem-id="105" tabindex="-1">
+											Techies																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '46' )"
+											id="DropdownPanelElement_1468829639_46" data-elem-id="46" tabindex="-1">
+											Templar Assassin																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '109' )"
+											id="DropdownPanelElement_1468829639_109" data-elem-id="109" tabindex="-1">
+											Terrorblade																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '29' )"
+											id="DropdownPanelElement_1468829639_29" data-elem-id="29" tabindex="-1">
+											Tidehunter																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '98' )"
+											id="DropdownPanelElement_1468829639_98" data-elem-id="98" tabindex="-1">
+											Timbersaw																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '19' )"
+											id="DropdownPanelElement_1468829639_19" data-elem-id="19" tabindex="-1">
+											Tiny																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '83' )"
+											id="DropdownPanelElement_1468829639_83" data-elem-id="83" tabindex="-1">
+											Treant Protector																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '100' )"
+											id="DropdownPanelElement_1468829639_100" data-elem-id="100" tabindex="-1">
+											Tusk																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '70' )"
+											id="DropdownPanelElement_1468829639_70" data-elem-id="70" tabindex="-1">
+											Ursa																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '40' )"
+											id="DropdownPanelElement_1468829639_40" data-elem-id="40" tabindex="-1">
+											Venomancer																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '37' )"
+											id="DropdownPanelElement_1468829639_37" data-elem-id="37" tabindex="-1">
+											Warlock																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '63' )"
+											id="DropdownPanelElement_1468829639_63" data-elem-id="63" tabindex="-1">
+											Weaver																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '21' )"
+											id="DropdownPanelElement_1468829639_21" data-elem-id="21" tabindex="-1">
+											Windranger																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '30' )"
+											id="DropdownPanelElement_1468829639_30" data-elem-id="30" tabindex="-1">
+											Witch Doctor																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '42' )"
+											id="DropdownPanelElement_1468829639_42" data-elem-id="42" tabindex="-1">
+											Wraith King																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'h', '22' )"
+											id="DropdownPanelElement_1468829639_22" data-elem-id="22" tabindex="-1">
+											Zeus																				</a>
+													</div>
+						
+					</span>
+									<span data-name="rarities" data-category-id="109301539" class="DropdownContainer" id="DropdownContainer_109301539">
+
+						<div class="Label">&nbsp;</div>
+
+						<form method="get" onsubmit="return false;">
+							<div class="DropdownBox NoSelect" id="DropdownBox_109301539">
+								<input spellcheck=false name="term" type="text" class="default" size="22" autocomplete="off" onkeydown="OnDropdownTextKeyDown( event, 109301539 );" onkeyup="OnDropdownTextKeyUp( event, 109301539 );" onblur="OnDropdownLoseFocus( 109301539 );">
+								<script type="text/javascript">$('#DropdownBox_109301539 input').focus( function(){OnDropdownTextFocus( 109301539 );})</script>
+								<div class="DropdownButton" onclick="OnDropdownButtonClicked( 109301539 );">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+
+							<div class="DropdownBox NoSelect" style="display: none;" id="DropdownBox_109301539_Disabled">
+								<input class="Disabled NoSelect" disabled spellcheck=false name="term" type="text" class="default" value="--" size="22" autocomplete="off">
+								<div class="DropdownButtonDisabled">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+						</form>
+
+						<div id="DropdownPanel_109301539" class="Dropdown">
+																																							<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '991457757' )"
+											id="DropdownPanelElement_109301539_991457757" data-elem-id="991457757" tabindex="-1">
+											All																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '1' )"
+											id="DropdownPanelElement_109301539_1" data-elem-id="1" tabindex="-1">
+											Common																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '2' )"
+											id="DropdownPanelElement_109301539_2" data-elem-id="2" tabindex="-1">
+											Uncommon																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '3' )"
+											id="DropdownPanelElement_109301539_3" data-elem-id="3" tabindex="-1">
+											Rare																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '4' )"
+											id="DropdownPanelElement_109301539_4" data-elem-id="4" tabindex="-1">
+											Mythical																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '5' )"
+											id="DropdownPanelElement_109301539_5" data-elem-id="5" tabindex="-1">
+											Legendary																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '6' )"
+											id="DropdownPanelElement_109301539_6" data-elem-id="6" tabindex="-1">
+											Ancient																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '7' )"
+											id="DropdownPanelElement_109301539_7" data-elem-id="7" tabindex="-1">
+											Immortal																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 'r', '8' )"
+											id="DropdownPanelElement_109301539_8" data-elem-id="8" tabindex="-1">
+											Arcana																				</a>
+													</div>
+						
+					</span>
+									<span data-name="sortby_noheroes" data-category-id="377574468" class="DropdownContainer" id="DropdownContainer_377574468">
+
+						<div class="Label">&nbsp;</div>
+
+						<form method="get" onsubmit="return false;">
+							<div class="DropdownBox NoSelect" id="DropdownBox_377574468">
+								<input spellcheck=false name="term" type="text" class="default" size="22" autocomplete="off" onkeydown="OnDropdownTextKeyDown( event, 377574468 );" onkeyup="OnDropdownTextKeyUp( event, 377574468 );" onblur="OnDropdownLoseFocus( 377574468 );">
+								<script type="text/javascript">$('#DropdownBox_377574468 input').focus( function(){OnDropdownTextFocus( 377574468 );})</script>
+								<div class="DropdownButton" onclick="OnDropdownButtonClicked( 377574468 );">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+
+							<div class="DropdownBox NoSelect" style="display: none;" id="DropdownBox_377574468_Disabled">
+								<input class="Disabled NoSelect" disabled spellcheck=false name="term" type="text" class="default" value="--" size="22" autocomplete="off">
+								<div class="DropdownButtonDisabled">
+									<span class="DownArrow NoSelect"></span>
+								</div>
+							</div>
+						</form>
+
+						<div id="DropdownPanel_377574468" class="Dropdown">
+																																							<a href="javascript:void(0)" onclick="DoHashRedirect( 's', '4152509351' )"
+											id="DropdownPanelElement_377574468_4152509351" data-elem-id="4152509351" tabindex="-1">
+											Release: Newest																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 's', '1935804930' )"
+											id="DropdownPanelElement_377574468_1935804930" data-elem-id="1935804930" tabindex="-1">
+											Release: Oldest																				</a>
+																																<a href="javascript:void(0)" onclick="DoHashRedirect( 's', '3812678585' )"
+											id="DropdownPanelElement_377574468_3812678585" data-elem-id="3812678585" tabindex="-1">
+											Alphabetical																				</a>
+													</div>
+						
+					</span>
+				
+			</div>
+
+			<div class="StoreItemNavContainer NoSelect">
+	
+    <span id="PageControls" class="PageControls">
+        <span class="NumDisplayItems">
+        </span>
+    
+        <span class="PageNav">
+        </span>
+    </span>
+	<br clear="right" />
+</div>
+
+			<div id="ContentContainer">
+				<div id="Featured" class="Hidden">
+	<div class="LeftColumn">
+		<div id="CarouselView" class="StoreCarousel FeaturedViewBottomPadding NoSelect">
+		</div>
+
+		<div class="MainFeaturedItemViewContainer FeaturedViewBottomPadding FeaturedContainer_Base">
+			<div class="MiniGridNavBar" id="MiniGridNavBar">
+				<span class="MiniGridTabContainer">
+					<a href="javascript:void(0)" class="GrayButton MiniGridNavButton ActiveMiniGridButton" data-areaid="NewReleasesView" data-show-nav-footer="true">NEW RELEASES</a>
+					<span class="MiniGridNavButtonSpacing"></span>
+					<a href="javascript:void(0)" class="DarkGrayButton MiniGridNavButton" data-areaid="PopularItemsView">TOP SELLERS</a>
+					<span class="MiniGridNavButtonSpacing"></span>
+				</span>
+				<span class="MiniGridTabPadding"></span>
+			</div>
+
+			<div id="MiniGridViews">
+				<div id="NewReleasesView"></div>
+				<div id="PopularItemsView" class="Hidden"></div>
+				<div id="MainFeaturedNavFooter">
+					View All:&nbsp;
+					<a href="javascript:ChangeCategory( 3634838168, true );">Hero Sets</a>
+					&nbsp;|&nbsp;
+					<a href="javascript:ChangeCategory( 1114825040, true );">Couriers</a>
+					&nbsp;|&nbsp;
+					<a href="javascript:ChangeCategory( 2443340223, true );">Wards</a>
+					&nbsp;|&nbsp;
+					<a href="javascript:ChangeCategory( 1073146881, true );">Announcer Packs</a>
+				</div>
+			</div>
+			
+			<script type="text/javascript">
+			$(
+				function()
+				{
+					$( '.MiniGridNavButton' ).on(
+						'click',
+						function( e )
+						{
+							var $Button = $( this );
+							var $AllButtons = $Button.parent().children( '.MiniGridNavButton' );
+
+							$AllButtons.removeClass( 'ActiveMiniGridButton' ).removeClass( 'GrayButton' ).addClass( 'DarkGrayButton' );
+							$Button.addClass( 'ActiveMiniGridButton' ).removeClass( 'DarkGrayButton' ).addClass( 'GrayButton' );
+
+							// Hide all children
+							$( '#MiniGridViews' ).children().hide();
+
+							// Show the footer if appropriate
+							if ( $( e.currentTarget ).data( 'show-nav-footer' ) )
+								$( '#MainFeaturedNavFooter' ).show();
+
+							// Fade in the desired div
+							var strDivToShow = $( e.currentTarget ).data( 'areaid' );
+							$( '#' + strDivToShow ).fadeIn();
+						}
+					);
+				}
+			);
+			</script>
+			
+		</div>
+
+					<div class="MarketViewContainer FeaturedViewBottomPadding FeaturedContainer_Base DarkBlueGradient">
+				<a href="https://steamcommunity.com/market/" target="_blank" class="BigButton GreenButton MarketButton">Visit The Market</a>
+				<div class="Header">
+					<p>Buy and sell items with community members using Steam Wallet funds.</p>
+				</div>
+				<div class="View" id="MarketView"></div>
+			</div>
+				
+					<div class="WorkshopViewContainer FeaturedViewBottomPadding FeaturedContainer_Base DarkBlueGradient">
+									<a href="https://steamcommunity.com/workshop/dota2/" target="_blank" class="BigButton BlueButton WorkshopButton">Visit The Workshop</a>
+				
+				<div class="Header">
+					<p>Browse and rate items created by the community.</p>
+				</div>
+				<div class="View" id="WorkshopView"></div>
+			</div>
+			</div>
+	
+	<!-- RIGHT COLUMN -->
+	<div class="RightColumn">
+		<div class="SpotlightViewContainer FeaturedViewBottomPadding FeaturedContainer_Base">
+			<div class="FeaturedViewHeader">
+				<p>Spotlight</p>
+			</div>
+			<div class="SpotlightView" id="SpotlightItemView"></div>
+		</div>
+
+		<div class="SpotlightTreasureViewContainer FeaturedViewBottomPadding FeaturedContainer_Base">
+			<div class="FeaturedViewHeader">
+				<p>Treasure Spotlight</p>
+			</div>
+			<div class="SpotlightView" id="SpotlightTreasureView"></div>
+		</div>
+
+		<div class="PopularToolsViewContainer FeaturedViewBottomPadding FeaturedContainer_Base" style="display: none;">
+			<div class="FeaturedViewHeader">
+				<p><a href="javascript:ChangeCategory( 54869489, true );">Popular Tools</a></p>
+			</div>
+			<div class="RightColumnItemsView" id="PopularToolsView"></div>
+			<div class="ViewAllButtonContainer">
+				<a href="javascript:ChangeCategory( 54869489, true );">View All</a>
+			</div>
+		</div>
+
+		<div class="InterfaceItemsViewContainer FeaturedViewBottomPadding FeaturedContainer_Base">
+			<div class="FeaturedViewHeader">
+				<p><a href="javascript:ChangeCategory( 34589234, true );">HUD Skins &amp; Loading Screens</a></p>
+			</div>
+			<div class="RightColumnItemsView" id="NewInterfaceItemsView"></div>
+			<div class="ViewAllButtonContainer">
+				<a href="javascript:ChangeCategory( 34589234, true );">View All</a>
+			</div>
+		</div>
+
+					<div class="MerchViewContainer FeaturedViewBottomPadding FeaturedContainer_Base">
+				<div class="FeaturedViewHeader">
+					<p><a href="http://store.valvesoftware.com/index.php?g=10" target="_blank">MERCHANDISE</a></p>
+				</div>
+				<a href="http://store.valvesoftware.com/index.php?g=10" target="_blank"><div class="MerchView"></div></a>
+				<div class="MerchViewFooter">OFFICIAL DOTA 2 GEAR</div>
+			</div>
+			</div>
+</div>
+
+<script type="text/javascript">
+	
+	var g_FeaturedTab = {
+		_SetHTMLOrHide: function( strElemName, strHTML, bAllowHide, bHideParent )
+		{
+			var $View = $( '#' + strElemName );
+			if ( $View.length == 0 )						return;
+
+			if ( ( !strHTML || $.trim( strHTML ).length == 0 ) && bAllowHide )
+			{
+				var $HidePanel;
+				if ( bHideParent )
+				{
+					$HidePanel = $View.parent();
+				}
+				else
+				{
+					$HidePanel = $View;
+				}
+
+				$HidePanel.fadeOut();
+			}
+			else
+			{
+								$View.parent().show();
+				
+				$View.html( strHTML );
+			}
+		},
+
+		_OnAjaxFailed: function()
+		{
+			if ( this.nTimerID != undefined )
+			{
+								clearTimeout( this.nTimerID );
+			}
+
+			this.nTimerID = setTimeout(
+				function()
+				{
+					GenericDialog.ShowErrorDialog( 'There was an error loading data from the server. Please try again in a few minutes.' );
+				},
+				700
+			);
+		},
+
+		_LoadFeaturedData: function( bSpotlightOnly )
+		{
+						var This = this;
+			$.get(
+				'http://www.dota2.com/store/featured/?ajax=1&l=english&c=USD&v=_M1545257238',
+				function( json )
+				{
+					if ( json.result )
+					{
+						This._SetHTMLOrHide( 'SpotlightItemView', json.spotlight.html, true, true );
+
+						if ( !bSpotlightOnly )
+						{
+							This._SetHTMLOrHide( 'SpotlightTreasureView', json.spotlight_treasure.html, true, true );
+							This._SetHTMLOrHide( 'CarouselView', json.carousel.html, true, false );
+							//This._SetHTMLOrHide( 'PopularToolsView', json.popular_tools.html, true, true );
+							This._SetHTMLOrHide( 'NewReleasesView', json.new_equippable_items.html, false, true );
+							This._SetHTMLOrHide( 'PopularItemsView', json.popular_items.html, false, true );
+							This._SetHTMLOrHide( 'NewInterfaceItemsView', json.new_interface_items.html, true, true );
+						}
+					}
+				}
+			).error(
+				This._OnAjaxFailed
+			);
+		},
+
+		LoadNextSpotlightSale: function()
+		{
+			this._LoadFeaturedData( true );
+		},
+
+		_LoadMarketData: function()
+		{
+											var This = this;
+				$.get(
+					'http://www.dota2.com/store/market/?ajax=1&c=USD&v=_M1545257238&l=english',
+					function( json )
+					{
+						if ( json.result )
+						{
+							This._SetHTMLOrHide( 'MarketView', json.html, true, true );
+						}
+					}
+				).error(
+					This._OnAjaxFailed
+				);
+					},
+
+		_LoadWorkshopData: function()
+		{
+											var This = this;
+				$.get(
+					'http://www.dota2.com/store/workshop/?ajax=1&v=_M1545257238',
+					function( json )
+					{
+						if ( json.result )
+						{
+							This._SetHTMLOrHide( 'WorkshopView', json.html, true, true );
+						}
+					}
+				).error(
+					This._OnAjaxFailed
+				);
+					},
+
+		Load: function()
+		{
+			if ( this.m_bInitialized != undefined )
+				return;
+
+			this._LoadFeaturedData( false );
+			this._LoadMarketData();
+			this._LoadWorkshopData();
+
+			this.m_bInitialized = true;
+		}
+	}
+</script>
+
+
+				
+				<div id="MainItemContainer" class="MainItemContainer">
+					<div id="ItemContainerBg" class="ItemContainerBg">
+						<div class="DarkBlueGradient ItemContainerGradient"></div>
+					</div>
+					<div class="ItemContainerOverlay" id="ItemContainerOverlay"></div>
+					<div class="Grid" id="MainItemGrid"></div>
+				</div>
+			</div>
+
+			<div class="StoreItemNavContainer NoSelect">
+	
+    <span id="PageControls" class="PageControls">
+        <span class="NumDisplayItems">
+        </span>
+    
+        <span class="PageNav">
+        </span>
+    </span>
+	<br clear="right" />
+</div>
+
+		</div>
+
+		<div class="ValveFooter"></div>
+
+	</div>
+
+	<div id="ItemDetailsMiniPopup">
+	<div class="Name"></div>
+	<div class="SetInfo">
+		<div class="SetNameContainer">
+			Part of <span class='SetName'></span>		</div>
+		<div class="SetCountInfo">
+			1 of <span class='SetItemCount'></span>		</div>
+	</div>
+    <div class="RarityCell">
+    	<div class="Rarity"></div>
+    </div>
+    <div class="PortraitContainer">
+		<span class="UsageType">
+			Used by:<br />
+			Slot:		</span>        
+		<span class="UsageInfo">
+			<span class="UsageInfo_UsedBy"></span><br />
+			<span class="UsageInfo_Slot"></span>
+		</span>
+		<div class="Portrait"></div>
+    </div>
+
+	<div class='NoticeInfo'>
+		<div class='NoticeIcon'></div>
+		<div class='NoticeText'>
+			This is a limited use item.<br/>
+			Number of uses:&nbsp;
+			<span class="LimitedUseQuantity"></span>
+		</div>
+	</div>
+	<div id="ItemDetailsMiniPopupDescription"></div>
+	<div class="ItemAttribute PrizePool"><span class="ContributionAmount"></span> from each sale contributes to the total tournament prize pool</div>
+	<div class="ItemAttribute Compendium">Compendium Enabled</div>
+	<div class="ItemAttribute Fantasy">Fantasy Enabled</div>
+</div>
+
+<div id="ItemDetailsMiniPopupBorderLeftArrow"></div>
+<div id="ItemDetailsMiniPopupBorderRightArrow"></div>
+
+</body>
+</html>

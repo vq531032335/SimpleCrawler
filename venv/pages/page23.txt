@@ -1,0 +1,3286 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+	<link rel="shortcut icon" href="/favicon.ico" />
+	<link href="https://fonts.googleapis.com/css?family=Inconsolata:400" rel="stylesheet">
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+	<meta http-equiv="X-UA-Compatible" content="IE=9" />
+	<link href="http://www.dota2.com/public/css/global.css?v=b4890656" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/global_english.css?v=BpCw4C6e29Gp" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/publicheader.css?v=dxJw6XR3DWJ3" rel="stylesheet" type="text/css" >
+<link href="http://www.dota2.com/public/css/duelingfates.css?v=b4890656&amp;l=english" rel="stylesheet" type="text/css" >
+	<link href="http://www.dota2.com/public/css/font_goudytrajan.css?v=b4890656" rel="stylesheet" type="text/css" >
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery-1.7.1.min.js?v=4890656"></script>
+<script type="text/javascript">$J = jQuery;</script><script type="text/javascript" src="http://steamcommunity-a.akamaihd.net/public/shared/javascript/shared_global.js?v=OBsnl6VGf94w&amp;l=english" ></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.cycle.all.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.easing.1.3.min.js?v=4890656"></script>
+	<script type="text/javascript" src="http://cdn.dota2.com/apps/dota2/javascript/static/jquery.imagesloaded.min.js?v=4890656"></script>
+	<title>Dueling Fates - The 7.07 Update</title>
+			
+	<script type="text/javascript">
+
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-33822635-2']);
+		_gaq.push(['_setSampleRate', '1']);		_gaq.push(['_setDomainName', 'dota2.com']);
+		_gaq.push(['_trackPageview']);
+
+		(function() {
+		var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		})();
+
+	</script>	<script>
+	$( function () {
+		$( '#BGItems figure img' ).each( function () {
+			var strItemID = $( this ).attr( 'data-id' );
+			$( this ).attr( 'src', 'http://cdn.dota2.com/apps/dota2/images/items/' + strItemID + '_lg.png' );
+		});
+		$( '#BGHeroes figure img' ).each( function () {
+			var strHeroID = $( this ).attr( 'data-id' );
+			$( this ).attr( 'src', 'http://cdn.dota2.com/apps/dota2/images/heroes/' + strHeroID + '_full.png' );
+		});
+	});
+	</script>
+	<script>
+	function SetActiveSkill( strID, strName, bManual )
+	{
+		if ( bManual )
+		{
+			$( strID + ' video' ).attr( 'loop', 'loop' );
+		}
+
+		$( strID ).removeClass();
+		$( strID ).addClass( 'Container' );
+		$( strID ).addClass( strName + 'Active' );
+		$( strID + ' video' ).each( function () {
+			this.currentTime = 0;
+			this.pause();
+		});
+		$( strID + ' video.' + strName ).each( function () {
+			this.currentTime = 0;
+			this.play();
+		});
+	}
+
+	var rgAbilityClasses = {
+		armadillo : [
+			'ArmadilloSwashbuckle',
+			'ArmadilloTailThump',
+			'ArmadilloHeartpiercer',
+			'ArmadilloGyroshell'
+		],
+		fairy : [
+			'FairyBloodthornBramble',
+			'FairyShadowRealm',
+			'FairyLeyConduit',
+			'FairyWillOWispStrike',
+			'FairyWillOWispFear'
+		],
+		bundle : [
+			'BundleArmadillo',
+			'BundleFairy',
+			'BundleCourier',
+			'BundleWard',
+			'BundleTaunts'
+		]
+	};
+
+	function CycleAbilityVideo( strID, nDelta )
+	{
+		var $BG = $( strID );
+		var rgThisAbilityClasses = rgAbilityClasses[$BG.data( 'id' )];
+		for ( var i = 0; i < rgThisAbilityClasses.length; i++ )
+		{
+			if ( !$BG.hasClass( rgThisAbilityClasses[i] + 'Active' ) )
+				continue;
+
+			SetActiveSkill( strID, rgThisAbilityClasses[ ( i + nDelta + rgThisAbilityClasses.length ) % rgThisAbilityClasses.length ], false );
+			break;
+		}
+	};
+
+	$( function () {
+		$( '.AbilityVideoContainer video' ).bind( 'ended', function () {
+			if ( $( this ).attr( 'loop' ) !== 'loop' )
+			{
+				CycleAbilityVideo( '#' + $( this ).parent().parent().attr( 'id' ), +1 );
+			}
+		});
+	});
+	</script>
+</head>
+<body>
+	
+
+
+	<div id="navBarBGRepeat" class="DotaFont">
+		<div id="navBarBG">
+			<div id="navBar">
+								
+												<div id="navLoginAndLanguage">
+
+																												<a href="https://steamcommunity.com/oauth/login?client_id=9B2C1229&response_type=token&state=duelingfates%2F">Login</a>
+										
+					<span id="HeaderAdminSeperator" class="DotaFont">|</span>
+
+					<div id="languageSelector" class="DotaFont">
+						<a href="javascript:void(0)">Language</a> <img style="margin-bottom: 2px;" src="http://cdn.dota2.com/apps/dota2/images/header/small_arrow.png" width="5px" height="3px" border="0" /><br />
+						<div style="display:none;" id="languageList">
+																						<a class="DotaFont languageItem" href="?l=brazilian">Português - Brasil (Portuguese - Brazil)</a>
+																						<a class="DotaFont languageItem" href="?l=bulgarian">Български (Bulgarian)</a>
+																						<a class="DotaFont languageItem" href="?l=czech">Čeština (Czech)</a>
+																						<a class="DotaFont languageItem" href="?l=danish">Dansk (Danish)</a>
+																						<a class="DotaFont languageItem" href="?l=dutch">Nederlands (Dutch)</a>
+																													<a class="DotaFont languageItem" href="?l=finnish">Suomi (Finnish)</a>
+																						<a class="DotaFont languageItem" href="?l=french">Français (French)</a>
+																						<a class="DotaFont languageItem" href="?l=german">Deutsch (German)</a>
+																						<a class="DotaFont languageItem" href="?l=greek">Ελληνικά (Greek)</a>
+																						<a class="DotaFont languageItem" href="?l=hungarian">Magyar (Hungarian)</a>
+																						<a class="DotaFont languageItem" href="?l=italian">Italiano (Italian)</a>
+																						<a class="DotaFont languageItem" href="?l=japanese">日本語 (Japanese)</a>
+																						<a class="DotaFont languageItem" href="?l=koreana">한국어 (Korean)</a>
+																						<a class="DotaFont languageItem" href="?l=norwegian">Norsk (Norwegian)</a>
+																						<a class="DotaFont languageItem" href="?l=polish">Polski (Polish)</a>
+																						<a class="DotaFont languageItem" href="?l=portuguese">Português (Portuguese)</a>
+																						<a class="DotaFont languageItem" href="?l=russian">Русский (Russian)</a>
+																						<a class="DotaFont languageItem" href="?l=romanian">Română (Romanian)</a>
+																						<a class="DotaFont languageItem" href="?l=schinese">简体中文 (Simplified Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=spanish">Español - España (Spanish - Spain)</a>
+																						<a class="DotaFont languageItem" href="?l=swedish">Svenska (Swedish)</a>
+																						<a class="DotaFont languageItem" href="?l=tchinese">繁體中文 (Traditional Chinese)</a>
+																						<a class="DotaFont languageItem" href="?l=thai">ไทย (Thai)</a>
+																						<a class="DotaFont languageItem" href="?l=turkish">Türkçe (Turkish)</a>
+																						<a class="DotaFont languageItem" href="?l=ukrainian">Українська (Ukrainian)</a>
+													</div>
+					</div>
+				</div>
+
+
+				<a href="http://store.steampowered.com/app/570/Dota_2/"><div id="PlayForFreeButton">
+					Play for Free
+				</div></a>
+
+									<span class="navItem navItemDotaLogo">
+						<a class="navBarItem DotaFont" href="http://www.dota2.com/play/">
+							<img border="0" class="DotaLogo" src="http://cdn.dota2.com/apps/dota2/images/nav/logo.png"/>
+						</a>
+					</span>
+
+											<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://blog.dota2.com/">News</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="http://www.dota2.com/store/">Store</a>
+							</span>
+																	<span id="HeaderSeperator" class="DotaFont">|</span>
+													<span class="navItem">
+								<a class="navBarItem DotaFont" href="javascript:void(0)">Heropedia</a>
+								<div style="display:none;" class="menuSubItemList">
+																				<a class="DotaFont" href="http://www.dota2.com/heroes/">Heroes</a>
+																				<a class="DotaFont" href="http://www.dota2.com/items/">Item Explorer</a>
+																				<a class="DotaFont" href="http://www.dota2.com/workshop/builds">Builds</a>
+																				<a class="DotaFont" href="https://steamcommunity.com/app/570/guides" target="_blank">Steam Guides</a>
+																				<a class="DotaFont" href="http://www.dota2.com/quiz">The Shopkeeper's Quiz</a>
+														</div>
+								<img class="dn_arrow" src="http://cdn.dota2.com/apps/dota2/images/nav/arrow.png"/>
+							</span>
+																		</div>
+		</div>
+	</div>
+<script language="javascript">
+
+	function MM_preloadImages() { //v3.0
+	  var d=document; if(d.images){ if(!d.MM_p) d.MM_p=new Array();
+		var i,j=d.MM_p.length,a=MM_preloadImages.arguments; for(i=0; i<a.length; i++)
+		if (a[i].indexOf("#")!=0){ d.MM_p[j]=new Image; d.MM_p[j++].src=a[i];}}
+	}
+
+	function PreloadHeaderImages()
+	{
+		//  Preload header rollover images
+		//MM_preloadImages(
+		//);
+	}
+
+			if ( document.addEventListener ) {
+		document.addEventListener( "DOMContentLoaded", PreloadHeaderImages, false );
+	} else if ( document.attachEvent ) {
+		document.attachEvent( 'onDomContentLoaded', PreloadHeaderImages );
+	}
+
+</script>
+
+
+
+	<script language="javascript">
+		function closeSubMenu( target ) {
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow.png" );
+			$(target).find('.menuSubItemList').hide();
+		}
+
+		function closeAllSubMenus() {
+			$('.navItem').each( function() {
+				closeSubMenu( $(this) );
+			});
+		}
+
+		function openSubMenu( target ) {
+			closeAllSubMenus();
+
+			$(target).find('.dn_arrow').attr( "src", "http://cdn.dota2.com/apps/dota2/images/nav/arrow_over.png" );
+
+			// Show the sub-menu
+			var subItemList = $(target).find('.menuSubItemList');
+			if ( subItemList.length ) {
+				var itemTop = $(target).position().top + $(target).outerHeight() - 16;
+				var itemLeft = $(target).position().left;
+				subItemList
+					.css({
+						"top": itemTop + 'px',
+						"left": itemLeft
+					})
+					.fadeIn( 'fast' );
+			}
+		}
+
+		$(document).ready( function () {
+			// Deal with the nav bars
+			$('.navItem').each( function() {
+				$(this).hover( function () {
+					$(this)
+						.find('a.navBarItem img.top')
+						.animate({
+							"opacity": 1
+						}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						openSubMenu( this );
+					}
+				},
+				function () {
+					$(this)
+					.find('a.navBarItem img.top')
+					.animate({
+						"opacity": 0
+					}, 100 );
+					if ( $(this).find('.menuSubItemList').length !== 0 ) {
+						closeSubMenu(this);
+					}
+				}
+				);
+			});
+
+			// Deal with header drop-downs
+			var strMenus = '#languageSelector';
+			
+			$(strMenus).each( function() {
+				$(this).hover( function () {
+					//show its submenu
+					$( this ).find( 'div' ).fadeIn( 'fast' );
+				},
+				function () {
+					//hide its submenu
+					$( this ).find( 'div' ).hide();
+				}
+				);
+			});
+		});
+
+	</script>
+
+	<div class="Container" id="BG2">
+		<div class="Inner VideoInner">
+			<video class="KeyArt" autoplay="" loop="" preload="auto">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/keyart.webm">
+			</video>
+		</div>
+		<div class="Inner VideoMask"></div>
+	</div>
+
+	<div class="Container" id="BG3">
+		<div class="Inner">
+			<h1 class="OrangeGradient">Introducing<br />Two New Heroes</h1>
+		</div>
+	</div>
+
+	<div class="Container" id="BG4">
+		<div class="Inner VideoInner">
+			<video class="KeyArt" autoplay="" loop="" preload="auto">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/armadillo.webm">
+			</video>
+		</div>
+		<div class="Inner VideoMask"></div>
+		<div class="Inner Overlay">
+			<h1>Pangolier</h1>
+		</div>
+	</div>
+
+	<div class="Container" id="BG5">
+		<div class="Inner">
+			<h2 class="OrangeGradient">A dash of style goes a long way</h2>
+			<h3><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_closed.png"><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_open.png"><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_open.png"><i>&nbsp;</i><b>Melee</b><i>&nbsp;</i>Carry<i>&nbsp;</i>Nuker<i>&nbsp;</i>Disabler<i>&nbsp;</i>Durable<i>&nbsp;</i>Escape<i>&nbsp;</i>Initiator</h3>
+			<p>Eager to dash into danger at a moment's notice, the Pangolier thrives on disrupting enemy movements and placing himself in the midst of chaos. Artfully guiding his blade between cracks in armor and shrugging off attacks with his protective scales, this graceful swordsman is always ready to roll into battle.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG6">
+		<div class="Inner">
+			<h1>The finest warrior in the world?<br />It's not even a contest...</h1>
+			<p>The men and women that make up the Nivan Gallants live a life of swordplay, chandelier swinging, and tawdry romance. And while all adhere to their creed that “A life of adventure is the only life worth living,” the exploits of Donté Panlin still manage to raise the eyebrows of even the most hedonistic of swordsmen.
+<br /> <br />
+There is no monster he won’t slay. No creature he won’t woo. No tyrant he won’t stand against. And no noble immune to his silver tongue.</p>
+		</div>
+	</div>
+
+	<div class="Container ArmadilloSwashbuckleActive" id="BG7" data-id="armadillo">
+		<div class="Inner AbilityVideoContainer">
+			<h2 class="OrangeGradient">Pangolier Abilities</h2>
+			<div class="ButtonIconContainer">
+				<a class="ButtonIcon ArmadilloSwashbuckle" href="javascript:SetActiveSkill( '#BG7', 'ArmadilloSwashbuckle', true );"></a>
+				<a class="ButtonIcon ArmadilloTailThump" href="javascript:SetActiveSkill( '#BG7', 'ArmadilloTailThump', true );"></a>
+				<a class="ButtonIcon ArmadilloHeartpiercer" href="javascript:SetActiveSkill( '#BG7', 'ArmadilloHeartpiercer', true );"></a>
+				<a class="ButtonIcon ArmadilloGyroshell" href="javascript:SetActiveSkill( '#BG7', 'ArmadilloGyroshell', true );"></a>
+				<div style="clear: both;"></div>
+			</div>
+			<video autoplay="" preload="auto" class="ArmadilloSwashbuckle">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/armadillo/ability_1.webm">
+			</video>
+			<video preload="auto" class="ArmadilloTailThump">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/armadillo/ability_2.webm">
+			</video>
+			<video preload="auto" class="ArmadilloHeartpiercer">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/armadillo/ability_3.webm">
+			</video>
+			<video preload="auto" class="ArmadilloGyroshell">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/armadillo/ability_4.webm">
+			</video>
+
+			<div class="LargeIcon"></div>
+
+			<h2 class="ArmadilloSwashbuckle">Swashbuckle</h2>
+			<p class="ArmadilloSwashbuckle GrayDescription">Pangolier dashes to a new position, assaulting enemies in the target direction with multiple quick thrusts, dealing physical damage and apply on hit effects.</p>
+            
+			<h2 class="ArmadilloTailThump">Shield Crash</h2>
+			<p class="ArmadilloTailThump GrayDescription">Pangolier jumps in the air and slams back to the ground. Enemies around him are damaged and grant him temporary damage reduction the more heroes he hits.</p>
+
+			<h2 class="ArmadilloHeartpiercer">Heartpiercer</h2>
+			<p class="ArmadilloHeartpiercer GrayDescription">Pangolier reads his enemies perfectly, deftly slipping his blade past defenses to give his attacks a chance to slow the target and fully negate enemy armor after a short delay.</p>
+
+			<h2 class="ArmadilloGyroshell">Rolling Thunder</h2>
+			<p class="ArmadilloGyroshell GrayDescription">Pangolier curls into a magic-immune ball and thunders forward, damaging and stunning any enemies he hits. Shield Crash can also be used while this ability is active to jump over obstacles. Has a brief channeling period.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG8">
+		<div class="Inner VideoInner">
+			<video class="KeyArt" autoplay="" loop="" preload="auto">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy.webm">
+			</video>
+		</div>
+		<div class="Inner VideoMask"></div>
+		<div class="Inner Overlay">
+			<h1>Dark Willow</h1>
+		</div>
+	</div>
+
+	<div class="Container" id="BG9">
+		<div class="Inner">
+			<h2 class="OrangeGradient">A little mischief never killed anyone</h2>
+			<h3><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_closed.png"><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_closed.png"><img src="http://cdn.dota2.com/apps/dota2/images/duelingfates/pip_open.png"><i>&nbsp;</i><b>Ranged</b><i>&nbsp;</i>Support<i>&nbsp;</i>Nuker<i>&nbsp;</i>Disabler<i>&nbsp;</i>Escape</h3>
+			<p>A slight flutter from the shadows may be all an enemy sees of Dark Willow, as she eludes pursuit and controls her foe's movements with cunning fae tricks. Calling upon powers far more ancient than any scholarly magic, she binds enemies in place before unleashing the full wrath and terror of the fae realm upon them.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG10">
+		<div class="Inner">
+			<h1>These marks won't know what hit 'em...</h1>
+			<p>Children love telling stories about the whimsical adventures of fairies... That’s because children don’t know that most fairies are spiteful jerks. And in the world of spiteful fairies there are few names spoken of with more contempt than Mireska Sunbreeze. 
+
+Born to a fae merchant king, Mireska grew up in Revtel; a cutthroat nation where manipulation and murder were the norm. But while she was quite adept at navigating the etiquette, unspoken laws, and social rituals that permeated every element of her life, she found the whole thing rather boring.  
+
+So, Mireska did what most rebellious children do: burn down her family estate and set off with her pet wisp Jex to live the life of a wandering grifter.</p>
+		</div>
+	</div>
+
+	<div class="Container FairyBloodthornBrambleActive" id="BG11" data-id="fairy">
+		<div class="Inner AbilityVideoContainer">
+			<div class="ButtonIconContainer">
+				<a class="ButtonIcon FairyBloodthornBramble" href="javascript:SetActiveSkill( '#BG11', 'FairyBloodthornBramble', true );"></a>
+				<a class="ButtonIcon FairyShadowRealm" href="javascript:SetActiveSkill( '#BG11', 'FairyShadowRealm', true );"></a>
+				<a class="ButtonIcon FairyLeyConduit" href="javascript:SetActiveSkill( '#BG11', 'FairyLeyConduit', true );"></a>
+				<a class="ButtonIcon FairyWillOWispStrike" href="javascript:SetActiveSkill( '#BG11', 'FairyWillOWispStrike', true );"></a>
+				<a class="ButtonIcon FairyWillOWispFear" href="javascript:SetActiveSkill( '#BG11', 'FairyWillOWispFear', true );"></a>
+				<div style="clear: both;"></div>
+			</div>
+			<video autoplay="" preload="auto" class="FairyBloodthornBramble">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy/ability_1.webm">
+			</video>
+			<video preload="auto" class="FairyShadowRealm">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy/ability_2.webm">
+			</video>
+			<video preload="auto" class="FairyLeyConduit">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy/ability_3.webm">
+			</video>
+			<video preload="auto" class="FairyWillOWispStrike">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy/ability_4.webm">
+			</video>
+			<video preload="auto" class="FairyWillOWispFear">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/fairy/ability_5.webm">
+			</video>
+
+			<div class="LargeIcon"></div>
+
+			<h2 class="FairyBloodthornBramble">Bramble Maze</h2>
+			<p class="FairyBloodthornBramble GrayDescription">Dark Willow creates a maze of brambles that latch onto enemies who walk into a thicket, damaging them and applying a root.</p>
+            
+			<h2 class="FairyShadowRealm">Shadow Realm</h2>
+			<p class="FairyShadowRealm GrayDescription">Dark Willow recedes into the Shadow Realm, becoming untargetable and gaining increasing bonus magic damage for her next attack the longer she remains in the shadows.</p>
+
+			<h2 class="FairyLeyConduit">Cursed Crown</h2>
+			<p class="FairyLeyConduit GrayDescription">Dark Willow bestows a cursed fae crown upon an enemy. After a four second delay, the target and any other enemies nearby are stunned.</p>
+
+			<h2 class="FairyWillOWispStrike">Bedlam</h2>
+			<p class="FairyWillOWispStrike GrayDescription">Dark Willow's companion Jex circles around her, dealing damage to nearby enemies. Cannot be used while Terrorize is active.</p>
+
+			<h2 class="FairyWillOWispFear">Terrorize</h2>
+			<p class="FairyWillOWispFear GrayDescription">Dark Willow's companion Jex strikes fear into her enemies, causing them to run towards their home fountain. Cannot be used while Bedlam is active.</p>
+
+			<h2 class="OrangeGradient">Dark Willow Abilities</h2>
+		</div>
+	</div>
+
+	<div class="Container" id="BG12">
+		<div class="Inner">
+			<h1 class="OrangeGradient">Also in This Update</h1>
+		</div>
+	</div>
+
+	<div class="Container" id="BG13">
+		<div class="Inner">
+		</div>
+	</div>
+
+	<div class="Container BundleArmadilloActive" id="BG14" data-id="bundle">
+		<div class="Inner AbilityVideoContainer">
+			<div class="ButtonIconContainer">
+				<a class="ButtonIcon BundleArmadillo" href="javascript:SetActiveSkill( '#BG14', 'BundleArmadillo', true );"></a>
+				<a class="ButtonIcon BundleFairy" href="javascript:SetActiveSkill( '#BG14', 'BundleFairy', true );"></a>
+				<a class="ButtonIcon BundleCourier" href="javascript:SetActiveSkill( '#BG14', 'BundleCourier', true );"></a>
+				<a class="ButtonIcon BundleWard" href="javascript:SetActiveSkill( '#BG14', 'BundleWard', true );"></a>
+				<a class="ButtonIcon BundleTaunts" href="javascript:SetActiveSkill( '#BG14', 'BundleTaunts', true );"></a>
+				<div style="clear: both;"></div>
+			</div>
+			<video autoplay="" preload="auto" class="BundleArmadillo">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/bundle/bundle_1.webm">
+			</video>
+			<video preload="auto" class="BundleFairy">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/bundle/bundle_2.webm">
+			</video>
+			<video preload="auto" class="BundleCourier">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/bundle/bundle_3.webm">
+			</video>
+			<video preload="auto" class="BundleWard">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/bundle/bundle_4.webm">
+			</video>
+			<video preload="auto" class="BundleTaunts">
+				<source type="video/webm" src="http://cdn.dota2.com/apps/dota2/videos/duelingfates/bundle/bundle_5.webm">
+			</video>
+
+			<h3 class="BundleArmadillo">Etienne's Revenge</h3>
+			<h4 class="BundleArmadillo">Off-hand weapon with custom Swashbuckle effect and sound</h4>
+
+			<h3 class="BundleFairy">Sunbreeze Birthright</h3>
+			<h4 class="BundleFairy">Belt Item with custom Bramble Maze effect</h4>
+
+			<h3 class="BundleCourier">Pholi the Squire</h3>
+			<h4 class="BundleCourier">Courier and self-appointed squire to Donté</h4>
+
+			<h3 class="BundleWard">Curious Snaptrap</h3>
+			<h4 class="BundleWard">A strain of wards once grown only by Revtel royalty</h4>
+
+			<h3 class="BundleTaunts">Thorns and All &amp; Foolish Gallantry</h3>
+			<h4 class="BundleTaunts">Taunts for Dark Willow and Pangolier</h4>
+
+			<h2 class="OrangeGradient">Emblems of the Dueling Fates</h2>
+			<h3 class="GraySubTitle">Immortal Bundle</h3>
+
+			<div class="VideoOverlay BundleArmadillo"></div>
+			<div class="VideoOverlay BundleFairy"></div>
+			<div class="VideoOverlay BundleCourier"></div>
+			<div class="VideoOverlay BundleWard"></div>
+
+							<a class="BuyButton" href="http://www.dota2.com/store/itemdetails/21142" target="_blank">Buy Now $9.99 <s>$14.99</s></a>
+						<div class="BuyButtonSubText">33% off until November 30, 2017</div>
+		</div>
+	</div>
+
+	<div class="Container" id="BG15">
+		<div class="Inner">
+			<h1 class="Callout">Ranked Seasons</h1>
+			<p class="Callout">In this update we've reworked how the matchmaking rating system works for both ranked and unranked players, changing to a six-month seasonal system. These regular seasons will ensure that MMR is both recent and accurate for all players, which will lead to better quality games for everyone.
+<br /> <br />
+During each season all players will earn a medal for their profile based on peak skill for that season. There are seven different medals, and within each medal there are five stars of progress to earn toward the next medal. Your current medal as well as your previous season’s medal will be displayed to all players before each match.
+<br /> <br />
+At the start of each season all players will recalibrate MMR, seeded by their previous season’s MMR. Your current historical preseason MMR value will be recorded and selectable in your profile, and ranked players will continue to be able to track their current seasonal MMR value.
+<br /> <br />
+To give everyone a chance to prepare, the first season will begin in two weeks.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG16">
+		<div class="Inner">
+			<h1 class="Callout Right">Guide System Upgrade</h1>
+			<p class="Callout Right">Hero guides can now be viewed in the Learn tab, allowing players easy access to a wealth of communal Dota knowledge about item, ability, and talent builds for all 115 heroes. You can also drag, drop, and annotate to create or edit your own guides, and even publish them for other players to use. Each guide calls out its gameplay patch and which role it covers, so you'll never feel lost in battle again.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG17">
+		<div class="Inner">
+			<h1 class="Callout">Turbo Mode</h1>
+			<p class="Callout">Dota Turbo has been added to the search queue. This new game mode keeps the same rules as All Pick but shortens match time by granting more Gold & XP to heroes; making defensive towers weaker; and reducing respawn time. Turbo's relaxed rules and buy-anywhere shop system allow for casual, quick matches perfect for trying new heroes and strategies, or introducing friends to Dota in a more forgiving environment.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG18">
+		<div class="Inner">
+			<h1 class="Callout Right">Ability Draft Update</h1>
+			<p class="Callout Right">Ability Draft has been updated with a completely new draft interface. Plus, players can now swap the hotkey order of abilities and chat with their teammates during the draft. We've also added support for fifteen previously-unusable heroes, and fixed abnormal behavior with multiple others. Think you can build a godlike set of killer abilities? Queue up and find out.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG19">
+		<div class="Inner">
+			<h1 class="Callout">Ancient Apparition Remodel</h1>
+			<p class="Callout">Kaldr is looking cooler than ever with the debut of a new Ancient Apparition hero model and ambient effects.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG20">
+		<div class="Inner">
+			<h1 class="Callout Right">Ping Wheel</h1>
+			<p class="Callout Right">With new additions to ping functionality, players have more communication tools than ever before. Now you can use the ping wheel to convey your hero's movement objectives, call out ward spots, and give the classic attack/retreat commands. Pings will appear on both the map and mini-map, and will be accompanied by a location callout in team chat.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG21">
+		<div class="Inner">
+			<h1 class="Callout">Bladeform Legacy Voice Pack</h1>
+			<p class="Callout">All owners of the Bladeform Legacy Arcana for Juggernaut will be granted a new voice pack for the hero that you can equip to replace Juggernaut's default voice with a special Arcana version. The Juggernaut now speaks with the power of an ancient lineage of revered warriors. Connected once again to the land of the living, these progenitors of the Isle of Masks shall not fall silent again.</p>
+		</div>
+	</div>
+
+	<div class="Container" id="BG22">
+		<div class="Inner">
+			<h1 class="OrangeGradient">Gameplay Updates</h1>
+		</div>
+	</div>
+
+	<div class="Container BGRepeater">
+		<div class="SubContainer" id="BGGameplay">
+			<div class="Inner" id="GeneralChanges">
+				<h2 class="OrangeBoxHeader">General Changes</h2>
+				
+<figure>
+	<ul>
+		<h1>Drafting</h1>
+		<ul>
+			<li>All Pick drafting order is now: A-BB-AA-BB-AA-B</li>
+			<li>Each day 10 heroes are selected automatically as bonus heroes for the day. Bonus heroes provide you with a free mango on selection (cannot be sold).</li>
+			<li>Randoming no longer gives bonus gold. It instead selects a hero from the set of bonus heroes and grants an extra iron branch (in addition to the mango).</li>
+			<li>Removed repicking</li>
+		</ul>
+		<br>
+		<h1>Laning</h1>
+		<ul>
+			<li>Middle lane no longer has an additional melee creep.</li>
+			<li>Creeps now meet closer to each team's respective safelanes.</li>
+			<li>Denies XP granted to the enemy (the player being denied) reduced from 70% to 25%</li>
+			<li>Denied XP gained by the denier reduced from 30% to 25%</li>
+			<li>Neutrals killing lane creeps is now considered the same as the enemy creeps killing them—it's not a deny, and gives full XP. You must deny the creep yourself to deny its XP.</li>
+			<li>Total Wave XP (the 4 creeps) increased from 210 to 240</li>
+				<ul>
+					<li>Melee Creeps XP increased from 40 to 57</li>
+					<li>Range Creeps XP reduced from 90 to 69 (result of both changes is  240)</li>
+				</ul>
+			<li>Melee creep bounty increased by 4</li>
+			<li>Range creep bounty increased by 12 (overall total gold per wave increased by 24)</li>
+			<li>First neutral creep spawn changed from 30 seconds to 1 minute</li>
+			<li>Base hero-kill XP bounty (non-assist portion) for level 1-5 reduced from 100/120/140/160/180 to 30/60/90/120/150 (You still get extra XP for hero kills from the assist formula)</li>
+			<li>XP range increased from 1300 to 1500</li>
+			<li>XP required to go from level 1 to level 2 reduced from 240 to 200</li>
+			<li>XP required to go from level 2 to level 3 increased from 360 to 400</li>
+			<li>Tier 1 tower HP increased from 1400 to 1600</li>
+		</ul>
+		<br>
+		<h1>Town Portal Scrolls</h1>
+		<ul>
+			<li>Heroes now start with a TP Scroll. TP scrolls start on cooldown at the beginning of the game.</li>
+		</ul>
+		<br>
+		<h1>Shrines and Glyph</h1>
+		<ul>
+			<li>Removed Shrines from the base (replaced by filler buildings)</li>
+			<li>Glyph now causes your creeps to be invulnerable for the glyph duration.</li>
+		</ul>
+		<br>
+		<h1>Creeps</h1>
+		<ul>
+			<li>Extra siege creep now spawns at 30 minutes instead of 40 minutes.</li>
+			<li>Siege creep HP increased by 50</li>
+			<li>Fixed extra lane creeps spawning a minute too late (the ones at 15/30/40/45 minutes for melee/melee/range/melee).</li>
+			<li>Lane Creeps upgrade amount is now capped at Mega Creeps (previously, if a game went on for over ~4 hours, it was possible for creeps to be stronger than mega).</li>
+		</ul>
+		<br>
+		<h1>Armor Mechanics</h1>
+		<ul>
+			<li>Armor formula adjusted from 0.06*Armor/(1+0.06*Armor) to 0.05*Armor/(1+0.05*Armor)</li>
+			<li>Armor per agility rescaled from 1/7 to 1/6</li>
+			<li>Tier 1 towers armor increased from 14 to 17</li>
+			<li>Tier 2 & 3 towers armor increased from 16 to 19</li>
+			<li>Tier 4 towers armor increased from 24 to 29</li>
+			<li>Roshan base armor increased from 15 to 18</li>
+			<li>Filler building armor increased from 12 to 14</li>
+			<li>Shrines building armor increased from 20 to 24</li>
+			<li>Ancient building armor increased from 15 to 18</li>
+			<li>Melee barracks building armor increased from 15 to 18</li>
+			<li>Range barracks building armor increased from 10 to 12 (these changes maintain parity with the overall damage reduction of structures before the above formula change)</li>
+		</ul>
+		<br>
+		<h1>Base Structures</h1>
+		<ul>
+			<li>Removed Tier 4 tower HP regen (previously had 3)</li>
+			<li>Ancient HP regen increased from 3 to 8</li>
+		</ul>
+		<br>
+		<h1>Map Changes</h1>
+		<ul>
+			<li>Reworked midlane for Dire (both sides can now walk along the ledges without being hit)</li>
+			<li>Adjusted midlane ramps to be narrower</li>
+			<li>Moved mid Shrines closer to the primary jungle area</li>
+			<li>Swapped offlane Shrines and Bounty Runes</li>
+			<li>Adjusted offlane terrain to be wider</li>
+			<li>Moved primary jungle Bounty Runes closer to safelane camp area (close to the river ramps)</li>
+			<li>Reworked Dire safelane jungle area</li>
+			<li>Safelane hard camp adjusted (primarily pullable to the offlane, or to connect to the small camp)</li>
+			<li>Removed one of the ramps going down the jungle camp near each of the safelanes</li>
+			<li>Removed the following ward spots: Radiant Ancient/Roshan, Bottom Radiant Rune, Dire Primary jungle (near Ancient camp)</li>
+			<li>Made multiple miscellaneous tree and line-of-sight adjustments</li>
+			<br>
+			<li>Shifted bottom river Powerup Rune up the river slightly</li>
+			<li>Adjusted ramp to Dire safelane jungle area to be narrower</li>
+			<li>Swapped medium and hard camps in the primary jungle (hard camp is now the one closest to the mid tier 2)</li>
+			<li>Adjusted tree positions in front of the Radiant small camp pull </li>
+			<li>Made minor adjustments to low-ground tree positions in front of the Radiant ramp leading to the Dire offlane (near the blue crystals — pathing around these trees is now possible)</li>
+			<li>Reduced size of the ramp going to the Radiant safelane jungle from the Dire offlane side</li>
+			<li>Adjusted position of Radiant safelane hard camp up slightly</li>
+			<li>Slightly decreased size of ramp going below the Radiant Secret Shop</li>
+			<li>Shifted the ramp on the Dire offlane (that connects to the Radiant safelane hard camp) slightly to the right</li>
+			<li>Radiant hard camp (near the mid tier 2) is no longer in a pit</li>
+			<li>Minor adjustments to tree layout, ramps and terrain above and around the Dire primary jungle</li>
+			<li>Adjusted ramp going down from Radiant Ancient camp towards the top river</li>
+		</ul>
+		<br>
+		<h1>Roshan</h1>
+		<ul>
+			<li>Third Roshan kill now drops a single-use consumable refresher orb. Cooldown is independent from Refresher Orb</li>
+		</ul>
+		<br>
+		<h1>Respawn Time</h1>
+		<ul>
+			<li>Hero Respawn timer for level 1-5 rescaled from 8/10/12/14/16 to 5/7/9/13/16</li>
+		</ul>
+		<br>
+		<h1>Neutral Aggro</h1>
+		<ul>
+			<li>Neutrals now sleep at night. They have zero aggro range while sleeping.</li>
+			<li>Removed special neutral pull aggro exceptions for heroes (on Chaos Knight, Earth Spirit, Morphling, Pudge, Clockwerk, Rubick, and Tiny)</li>
+			<li>Neutrals lane creep aggro is now based on which neutral spawn area they're in (enabled for the traditional safelane/offlane pull camps)</li>
+		</ul>
+		<br>
+		<h1>Captains Mode</h1>
+		<ul>
+			<li>Captains Mode now has an extra ban in the first phase (6 bans total in the mode).</li>
+		</ul>
+		<br>
+		<h1>Illusions</h1>
+		<ul>
+			<li>Illusions now deal 80% less damage to Roshan rather than dying instantly when attacking him.</li>
+			<li>Illusions now benefit from Health and Mana regeneration.</li>
+			<li>Roshan Slam damage increased from 70 + 5/Min to 70 + 8/Min</li>
+		</ul>
+		<br>
+		<h1>Fountain</h1>
+		<ul>
+			<li>Fountain damage increased from 190-199 to 220-240</li>
+			<li>Fountain mana regen increased from 4% MP + 14 mana per second to 6%</li>
+			<li>Fountain HP regen increased from 4% to 5%</li>
+		</ul>
+		<br>
+		<h1>Net worth</h1>
+		<ul>
+			<li>Net worth Ranking Factor (how much the richest vs poorest heroes get from assist gold) changed from 0.75->1.25 to 0.7->1.3	</li>
+		</ul>
+		<br>
+		<h1>Hex</h1>
+		<ul>
+			<li>Hex can no longer be dispelled.</li>
+		</ul>
+		<br>
+		<h1>UI</h1>
+		<ul>
+			<li>Added UI indication over inventory to show Mute state</li>
+			<li>Added a new option to require stop to interrupt your channeling abilities</li>
+		</ul>
+		<br>
+		<h1>Unique Attack Modifiers</h1>
+		<ul>
+			<li>Removed the remaining Unique Attack Modifiers</li>
+			<li>Lifesteal is no longer a Unique Attack Modifier (stacks additively)</li>
+			<li>Arcane Orb is no longer a Unique Attack Modifier</li>
+			<li>Mana Break is no longer a Unique Attack Modifier (does not stack with Diffusal Blade's Mana Break)</li>
+		</ul>
+		<br>
+		<h1>Other Changes</h1>
+		<ul>
+			<li>Removed cliffing restrictions for Rubick, Magnus, Dark Seer, etc.</li>
+			<li>Removed Pudge and Vengeful Spirit's free pathing on terrain cliffs</li>
+			<li>Roshan now upgrades every minute rather than every 4 minutes (bonuses rescaled so its the same, just smoother).</li>
+			<li>Fixed magic damage sources from attacks not being blocked by Barrier type abilities (Pipe, Hood, Flame Guard)</li>
+			<li>Improved stack count readability on buff icons</li>
+			<br>
+			<li>Heroes with turn rates of 0.4 are improved to 0.5 (Mirana, Puck, Razor, Shadow Shaman, Tidehunter, Witch Doctor, Warlock, Beastmaster, Veno, Wraith King, Viper, Clinkz, Enchantress, Spectre, Spirit Breaker, Lone Druid, Elder Titan, Oracle, and Winter Wyvern)</li>
+			<br>
+			<li>You can now see enemy mana regeneration values (previously could only see HP regen values).</li>
+			<br>
+			<li>Regeneration Rune changed from 100/67 HP/MP to 6% Max HP/MP </li>
+		</ul>
+		<br>
+		<h1>Neutral Abilities</h1>
+		<ul>
+			<li>Neutral Centaur War Stomp cast point reduced from 0.5 to 0.4</li>
+			<li>Neutral Centaur War Stomp mana cost reduced from 100 to 50</li>
+			<li>Neutral Furbolg Thunder Clap cast point reduced from 0.5 to 0.4</li>
+			<li>Neutral Furbolg Thunder Clap mana cost reduced from 100 to 50</li>
+			<li>Neutral Wildkin Tornado cast point reduced from 0.75 to 0.4</li>
+			<li>Neutral Soulstealer Mana Burn cast point reduced from 0.5 to 0.3</li>
+			<li>Neutral Prowler Shaman Desecrate cast point reduced from 0.9 to 0.4</li>
+			<li>Neutral Thunder Lizard Slam cast point increased from 0 to 0.3</li>
+			<li>Neutral Dark Troll Warlord Ensnare cast point reduced from 0.5 to 0.3</li>
+			<li>Neutral Dark Troll Warlord Ensnare mana cost reduced from 150 to 75</li>
+			<li>Neutral Dark Troll Warlord Raise Dead cast point reduced from 0.5 to 0.3</li>
+			<li>Neutral Harpy Storm Chain Lightning cast point reduced from 0.5 to 0.3</li>
+			<li>Added a projectile for Dark Troll Warlord Ensnare</li>
+			<li>Neutral Purge now works on cycloned units.</li>
+			<li>Neutral Cloak aura on heroes increased from 5% to 10%</li>
+		</ul>
+		<br>
+	</ul>
+</figure>
+			</div>
+		</div>
+		<div class="SubContainer" id="BGItems">
+			<div class="Inner" id="ItemChanges">
+				<h2 class="OrangeBoxHeader">Item Changes</h2>
+				
+<figure>
+	<ul>
+		<h1>Courier</h1>
+		<ul>
+			<li>Courier cost increased from 100 to 200</li>
+			<li>Ground Courier movement speed increased from 350 to 380</li>
+			<li>Flying Courier speed increased from 430 to 450</li>
+			<li>Flying Courier upgrade can no longer be purchased. Courier now upgrades automatically at 3 minutes.</li>
+			<li>Flying Courier now has Courier Shield instead of the Haste ability (200 CD, Duration: 2).</li>
+			<li>Courier can no longer refill Bottle.</li>
+			<li>Courier can no longer be purchased more than once.</li>
+		</ul>
+		<br>
+		<h1>Shop</h1>
+		<ul>
+			<li>Removed the following items from the side shop: Quarterstaff, Orb of Venom, Blades of Attack, Sage's Mask, Stout Shield, Ring of Regeneration, Ring of health, Bottle (1 charge)</li>
+			<li>Added the following item to the side shop: Ring of Protection</li>
+			<li>Added the following items to Secret Shop: Voidstone, Ring of Health, Bottle (full charge)</li>
+		</ul>
+		<br>
+		<h1>Support</h1>
+		<ul>
+			<li>Observer Wards cost increased from 60 to 80</li>
+			<li>Observer Wards XP bounty increased from 25 to 100</li>
+			<li>Tango cost rescaled from 125 for 4 uses to 150 for 5 uses</li>
+			<li>Smoke of Deceit cost increased from 50 to 80	</li>
+		</ul>
+		<br>
+		<h1>Misc</h1>
+		<ul>
+			<li>Gauntlet cost reduced from 150 to 135</li>
+			<li>Slippers cost reduced from 150 to 135</li>
+			<li>Mantle cost reduced from 150 to 135</li>
+			<li>Wraith Band Recipe reduced from 170 to 165</li>
+			<li>Bracer recipe reduced from 175 to 165</li>
+			<li>Null recipe increased from 155 to 165</li>
+			<li>Wraith/Bracer/Null no longer give +3 attack damage. They now give an additional +1 to primary attribute.</li>
+			<li>Veil no longer provides +6 Damage</li>
+			<li>Veil Intelligence bonus increased from +12 to +14</li>
+			<li>Dagon no longer provides +9 Damage.</li>
+			<li>Dagon Intelligence bonus increased +2</li>
+			<li>Drums of Endurance no longer provide +3 Damage.</li>
+			<li>Drums of Endurance Strength bonus increased +1</li>
+			<li>Rod of Atos no longer provides +6 Damage.</li>
+			<li>Perseverance no longer gives +10 Damage.</li>
+			<li>Linken's Sphere no longer gives +15 Damage.</li>
+			<li>Refresher Orb no longer gives +20 Damage.</li>
+			<li>Refresher Orb mana regen increased from 250 to 300%</li>
+			<li>Lotus Orb no longer gives +10 Damage.</li>
+		</ul>
+		<br>
+	</ul>
+</figure>
+<figure>
+	<img data-id='aether_lens'>
+	<h1>Aether Lens:<span class='Reworked'>Item Reworked</span></h1>
+	<ul>
+		<h1>Old:</h1>
+		<ul>
+			Provides:
+			<br>
+			<ul>
+				+220 Cast Range
+				<br>
+				+250 Mana
+				<br>
+				+100% Mana Regeneration
+				<br>
+				+6% Spell Amp
+				<br>
+			</ul>
+		</ul>
+		<br>
+		<h1>New:</h1>
+		<ul>
+			Provides:
+			<br>
+			<ul>
+				+250 Cast Range
+				<br>
+				+450 Mana
+				<br>
+				+125% Mana Regeneration
+				<br>
+			</ul>
+		</ul>
+	</ul>
+</figure>
+<figure>
+	<img data-id='bfury'>
+	<h1>Battle Fury:<span class='Reworked'>Recipe Changed</span></h1>
+	<ul>
+		<li>Battle Fury now requires a Demon Edge instead of Claymore + Broadsword (cost is 400 cheaper).</li>
+		<li>Attack damage reduced from 55 to 50</li>
+		<li>Cleave distance increased from 570 to 625</li>
+		<li>Cleave end radius increased from 300 to 330</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='boots'>
+	<h1>Boots of Speed:</h1>
+	<ul>
+		<li>Boots of Speed movement speed reduced from +45 to +40</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='travel_boots'>
+	<h1>Boots of Travel:</h1>
+	<ul>
+		<li>Boots of Travel building prioritization range increased from 325 to 700</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='bloodstone'>
+	<h1>Bloodstone:<span class='Reworked'>Recipe Changed</span></h1>
+	<ul>
+		<li>Bloodstone now requires Perseverance instead of Soul Ring + Recipe.</li>
+		<li>Initial charges increased from 12 to 14</li>
+		<li>No longer heals in an area around your hero upon death.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='butterfly'>
+	<h1>Butterfly:</h1>
+	<ul>
+		<li>Flutter duration reduced from 4 to 2 seconds</li>
+		<li>Flutter no longer disables evasion</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='desolator'>
+	<h1>Desolator:</h1>
+	<ul>
+		<li>Desolator armor reduction reduced from -7 to -6</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='diffusal_blade'>
+	<h1>Diffusal Blade:<span class='Reworked'>Item Reworked</span></h1>
+	<ul>
+		<li>No longer dispels</li>
+		<li>No longer has charge limits</li>
+		<li>No longer upgradeable</li>
+		<li>Cooldown increased to 15 seconds</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='ancient_janggo'>
+	<h1>Drums of Endurance:</h1>
+	<ul>
+		<li>Active bonus attack speed increased from 25 to 35</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='ethereal_blade'>
+	<h1>Ethereal Blade:</h1>
+	<ul>
+		<li>Projectile speed increased from 1200 to 1275</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='skadi'>
+	<h1>Skadi:</h1>
+	<ul>
+		<li>No longer requires an Orb of Venom</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='force_staff'>
+	<h1>Force Staff:</h1>
+	<ul>
+		<li>Cooldown increased from 20 to 23</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='glimmer_cape'>
+	<h1>Glimmer Cape:</h1>
+	<ul>
+		<li>Glimmer Cape can no longer be disassembled.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='hurricane_pike'>
+	<h1>Hurricane Pike:</h1>
+	<ul>
+		<li>Hurricane Pike now requires a Wraith Band instead of a 500 gold recipe.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='iron_talon'>
+	<h1>Iron Talon:<span class='Reworked'>Item Removed</span></h1>
+	<ul>
+		<li>Iron Talon has been removed from the game.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='javelin'>
+	<h1>Javelin:</h1>
+	<ul>
+		<li>Now provides 25% Accuracy</li>
+		<li>Cost reduced from 1500 to 1100</li>
+		<li>No longer grants +10 Damage</li>
+		<li>Accuracy proc now deals 100 magical damage (displayed overhead)</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='basher'>
+	<h1>Basher:</h1>
+	<ul>
+		<li>Recipe cost increased from 750 to 1150</li>
+		<li>No longer grants +10 Damage</li>
+		<li>Bashes cannot be evaded</li>
+		<li>Damage proc increased from 85 to 100 (displayed overhead)</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='abyssal_blade'>
+	<h1>Abyssal Blade:</h1>
+	<ul>
+		<li>No longer grants +10 Damage</li>
+		<li>Bashes cannot be evaded</li>
+		<li>Damage proc increased from 85 to 100 (displayed overhead)</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='monkey_king_bar'>
+	<h1>Monkey King Bar:<span class='Reworked'>Item Reworked</span></h1>
+	<ul>
+		<h1>Old:</h1>
+		<ul>
+			Requires:
+			<br>
+			<ul>
+				Demon Edge (2200)
+				<br>
+				2x Javelin (3000)
+				<br>
+				Total: 5200
+				<br>
+			</ul>
+			<br>
+			Provides:
+			<br>
+			<ul>
+				+66 Damage
+				<br>
+				+True Strike
+				<br>
+				+35% chance to proc 160 magic damage and ministun for 0.01
+				<br>
+			</ul>
+		</ul>
+		<br>
+		<h1>New:</h1>
+		<ul>
+			Requires:
+			<br>
+			<ul>
+				Hyper Stone (2000)
+				<br>
+				2x Javelin (2200)
+				<br>
+				Total: 4200
+				<br>
+			</ul>
+			<br>
+			Provides:
+			<br>
+			<ul>
+				+60 Attack Speed
+				<br>
+				+75% Accuracy + 60 Pure damage proc (the attack that procs the accuracy also procs the pure damage, pierces Spell Immunity)
+				<br>
+			</ul>
+		</ul>
+	</ul>
+</figure>
+<figure>
+	<img data-id='sphere'>
+	<h1>Linken's Sphere:</h1>
+	<ul>
+		<li>Cannot manually target self with Linken's Sphere</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='magic_wand'>
+	<h1>Magic Wand:<span class='Reworked'>Recipe Changed</span></h1>
+	<ul>
+		<h1>Old:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					Magic Stick (200)
+					<br>
+					2x Ironwood Branch (100)
+					<br>
+					Circlet (165)
+					<br>
+					Total: 465
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<br>
+				<ul>
+					+4 All Stats
+					<br>
+				</ul>
+			</ul>
+		<br>
+		<h1>New:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					Magic Stick (200)
+					<br>
+					2x Ironwood Branch (100)
+					<br>
+					Enchanted Mango (100)
+					<br>
+					Total: 400
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<br>
+				<ul>
+					+2 All Stats
+					<br>
+					+1.5 HP Regen
+					<br>
+				</ul>
+			</ul>
+	</ul>
+</figure>
+<figure>
+	<img data-id='necronomicon'>
+	<h1>Necronomicon:<span class='Reworked'>Item Reworked</span></h1>
+	<ul>
+		<li>Removed Mana Burn from Archer</li>
+		<li>Level 3 Archer now gains Purge (Slow + Dispel, targets enemies only). Cooldown: 15</li>
+		<h1>Old:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					Staff of Wizardry (1000)
+					<br>
+					Belt of Strength (450)
+					<br>
+					Recipe (1200)
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<ul>
+					+8/12/16 Strength
+					<br>
+					+15/21/24 Intelligence
+					<br>
+				</ul>
+			</ul>
+		<br>
+		<h1>New:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					2x Sage's Mask (650)
+					<br>
+					Belt of Strength (550)
+					<br>
+					Recipe (1300)
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<br>
+				<ul>
+					+10/15/20 Strength
+					<br>
+					+100/125/150% Mana Regen
+					<br>
+				</ul>
+			</ul>
+	</ul>
+</figure>
+<figure>
+	<img data-id='poor_mans_shield'>
+	<h1>Poor Man's Shield:<span class='Reworked'>Item Removed</span></h1>
+	<ul>
+		<li>Poor Man's Shield has been removed from the game.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='orb_of_venom'>
+	<h1>Orb of Venom:</h1>
+	<ul>
+		<li>Damage over time no longer dispels consumables or disables Blink (behaves like Poison Sting)</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='pipe'>
+	<h1>Pipe of Insight:</h1>
+	<ul>
+		<li>Barrier active can now affect buildings.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='ring_of_regen'>
+	<h1>Ring of Regen:</h1>
+	<ul>
+		<li>Cost reduced from 325 to 300</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='satanic'>
+	<h1>Satanic:<span class='Reworked'>Recipe Changed</span></h1>
+	<ul>
+		<li>Now requires Claymore instead of Mithril Hammer</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='ward_sentry'>
+	<h1>Sentry Wards:</h1>
+	<ul>
+		<li>Sentry wards no longer automatically appear in front of Observer Wards when buying the item.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='silver_edge'>
+	<h1>Silver Edge:</h1>
+	<ul>
+		<li>No longer applies enemy damage reduction</li>
+		<li>Movement speed bonus increased from 20% to 25%</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='smoke_of_deceit'>
+	<h1>Smoke:</h1>
+	<ul>
+		<li>Stock cooldown reduced from 11 minutes to 10 minutes</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='solar_crest'>
+	<h1>Solar Crest:</h1>
+	<ul>
+		<li>Accuracy increased from 35% to 40%</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='soul_ring'>
+	<h1>Soul Ring:<span class='Reworked'>Item Reworked</span></h1>
+	<ul>
+		<h1>Old:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					Sage's Mask (325)
+					<br>
+					Ring of Regen (325)
+					<br>
+					Enchanted Mango (100)
+					<br>
+					Total: 750
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<ul>
+					+3 Health Regen
+					<br>
+					+50% Mana Regen
+					<br>
+				</ul>
+				<br>
+				Sacrifice CD: 30
+				<br>
+			</ul>
+		<br>
+		<h1>New:</h1>
+			<ul>
+				Requires:
+				<br>
+				<ul>
+					Ring of Regen (300)
+					<br>
+					2x Gauntlets of Strength (270)
+					<br>
+					Recipe (185)
+					<br>
+					Total: 755
+					<br>
+				</ul>
+				<br>
+				Provides:
+				<br>
+				<ul>
+					+6 Strength
+					<br>
+					+2 Health Regen
+					<br>
+				</ul>
+				<br>
+				Sacrifice CD: 25
+				<br>
+			</ul>
+	</ul>
+</figure>
+<figure>
+	<img data-id='stout_shield'>
+	<h1>Stout Shield:</h1>
+	<ul>
+		<li>Damage Block increased from16/8 to 18/9</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='urn_of_shadows'>
+	<h1>Urn of Shadows:</h1>
+	<ul>
+		<li>Urn of Shadows damage type changed from pure to magical</li>
+		<li>Urn Shadows damage increased from 150 to 200</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='vladmir'>
+	<h1>Vladmir's Offering:</h1>
+	<ul>
+		<li>Vladmir's Aura now stacks with Ring of Aquila/Ring of Basilius.</li>
+	</ul>
+</figure>
+<figure>
+	<img data-id='meteor_hammer'>
+	<h1>Meteor Hammer:<span class='NewItem'>New Item</span></h1>
+	<ul>
+		Requires:
+		<br>
+		<ul>
+			Ogre Axe (1000)
+			<br>
+			Staff of Wizardry (1000)
+			<br>
+			Ring of Regen (300)
+			<br>
+			Sage's Mask (325)
+			<br>
+			Total: 2625
+			<br>
+		</ul>
+		<br>
+		Provides:
+		<br>
+		<ul>
+			+12 Strength
+			<br>
+			+12 Intelligence
+			<br>
+			+4 HP Regen
+			<br>
+			+1.5 Mana Regen
+			<br>
+		</ul>
+		<br>
+		Active:
+		<br>
+		<ul>
+			Channeling, 3 seconds. Summons a Meteor that strikes a 300 AoE and stuns for 1.75 seconds. Applies a 6 second debuff that deals 60 damage per second to structures (115 to non-structures). Cast Range: 600 , CD: 40, Mana cost: 125. You have vision over the impact area for the channel duration. Meteor impact destroys trees. Meteor takes 0.5 seconds to land.
+			<br>
+		</ul>
+		<br>
+	</ul>
+</figure>
+<figure>
+	<img data-id='combo_breaker'>
+	<h1>Aeon Disk:<span class='NewItem'>New Item</span></h1>
+	<ul>
+		Requires:
+		<br>
+		<ul>
+			Vitality Booster (1100)
+			<br>
+			Energy Booster (900)
+			<br>
+			Recipe (1750)
+			<br>
+			Total: 3750
+			<br>
+		</ul>
+		<br>
+		Provides:
+		<br>
+		<ul>
+			+250 Health
+			<br>
+			+250 Mana
+			<br>
+			+25% Status Resistance (Reduces the duration of effects like silence/stun/disarm/root/fear/etc. For DPS debuffs with slows, it instead just reduces the slow values, leaving the damage amount unaffected)
+			<br>
+		</ul>
+		<br>
+		Passive:
+		<br>
+		<ul>
+			Whenever you take damage and are below 80% health, you apply a strong dispel on your hero and you gain a 2.5 second buff that reduces all incoming and outgoing damage to zero. Cooldown: 100. Only triggers on player-based damage.
+			<br>
+		</ul>
+		<br>
+	</ul>
+</figure>
+<figure>
+	<img data-id='spirit_vessel'>
+	<h1>Spirit Vessel:<span class='NewItem'>New Item</span></h1>
+	<ul>
+		Requires:
+		<br>
+		<ul>
+			Urn of Shadows (875)
+			<br>
+			Vitality Booster (1100)
+			<br>
+			Wind Lace (250)
+			<br>
+			Recipe (600)
+			<br>
+			Total Cost: 2825
+			<br>
+		</ul>
+		<br>
+		Provides:
+		<br>
+		<ul>
+			+250 Health
+			<br>
+			+30 Movement Speed
+			<br>
+			+2 All Stats
+			<br>
+			+2 Armor
+			<br>
+			+1 Mana regeneration
+			<br>
+		</ul>
+		<br>
+		Active:
+		<br>
+		<ul>
+			In addition to urn behavior, casting on an enemy target now reduces enemy HP regen and heals by 70%, and drains 3% of the target's current health per second. Casting on an allied target now amplifies HP regen and heals by 20%, and increases the target's health by 1% of their current health per second.
+			<br>
+		</ul>
+		<br>
+	</ul>
+</figure>
+<figure>
+	<img data-id='nullifier'>
+	<h1>Nullifier:<span class='NewItem'>New Item</span></h1>
+	<ul>
+		Requires:
+		<br>
+		<ul>
+			Sacred Relic (3800)
+			<br>
+			Helm of Iron Will (900)
+			<br>
+			Total Cost: 4700
+			<br>
+		</ul>
+		<br>
+		Provides:
+		<br>
+		<ul>
+			+65 Damage
+			<br>
+			+5 Armor
+			<br>
+			+5 HP Regen
+			<br>
+		</ul>
+		<br>
+		Active:
+		<br>
+		<ul>
+			Dispels the target and mutes them for 5 seconds. Anytime the muted target is attacked, it will be slowed by 100% for 0.4 seconds. Applies slow on projectile impact. Cooldown: 14, Mana cost: 100, Cast Range: 600, Projectile Speed: 1200.
+			<br>
+		</ul>
+		<br>
+	</ul>
+</figure>
+<figure>
+	<img data-id='trident'>
+	<h1>Kaya:<span class='NewItem'>New Item</span></h1>
+	<ul>
+		Requires:
+		<br>
+		<ul>
+			Staff of Wizardry (1000)
+			<br>
+			Robe of the Magi (450)
+			<br>
+			Recipe (500)
+			<br>
+			Total: 1950
+			<br>
+		</ul>
+		<br>
+		Provides:
+		<br>
+		<ul>
+			+16 Intelligence
+			<br>
+			+10% Spell Amp
+			<br>
+			+10% Mana cost & Manaloss Reduction (affects things like manaburn, manabreak, etc)
+			<br>
+			Note: Multiple instances don't stack
+			<br>
+		</ul>
+		<br>
+	</ul>
+</figure>
+			</div>
+		</div>
+		<div class="SubContainer" id="BGRegen">
+			<div class="Inner" id="RegenChanges">
+				<h2 class="OrangeBoxHeader">Regeneration Formula</h2>
+				
+<figure>
+	<h1>Summary</h1>
+	<ul>
+		<li>Health and mana regeneration formulas have been reworked. For both health and mana, you gain a direct value. After that, Strength and Intelligence both amplify health and mana regenerations. Void Stone for example provides 1.0 mana regeneration, instead of 100%.</li>
+	</ul>
+	<br>
+	<h1>Stat Tooltip</h1>
+	<ul>
+		<li>The stat tooltip area tells you how much HP/MP percentage increase is provided by your attributes, and what the absolute values of regen + Int/Str based bonus values are.</li>
+	</ul>
+	<br>
+	<h1>Mana Formula</h1>
+	<li>Reworked mana regeneration formula to change percentage bonuses (like Void Stone, etc) to raw bonuses. Each point of Intelligence amplifies mana regeneration by 2%.</li>
+	<ul>
+		<br>
+		<li>Old: (0.01 + 0.04 * Int) * (1 + Percentages Bonuses) + Flat Bonuses</li>
+		<br>
+		<li>New: (Base + Flat Bonuses) and increases by 2% Per Intelligence</li>
+		<br>
+		<li>Note 1: All heroes currently have 0.9 Base, but may be adjusted on case by case basis in the future (like base HP regen is now).</li>
+		<li>Note 2: Adjusted various mana regen items, talents, and skills (see lists below)</li>
+	</ul>
+	<br>
+	<ul>
+	<li>Adjusted Items</li>
+	<ul>
+		<li>In general items that gave 50% mana regen before, now give 0.5 mana regen, 100% gives 1.0, etc.</li>
+		<li>Other item values:</li>
+		<ul>
+	        <li>Perseverance: 1.5</li>
+	        <li>Scythe of Vyse: 2.25</li>
+	        <li>Battle Fury: 2.25</li>
+	        <li>Orchid: 2.25</li>
+	        <li>Bloodthorn: 2.25</li>
+	        <li>Eul: 2.25</li>
+	        <li>Linken's Sphere:  2.25</li>
+	        <li>Lotus Orb: 1.75</li>
+	        <li>Drums: 0.75</li>
+	        <li>Solar Crest: 1.0</li>
+	        <li>Aether Lens: 1.25</li>
+	        <li>Raindrops: 0.5</li>
+	        <li>Bloodstone per charge: 0.4</li>
+	        <li>Clarity Potion: 3.2</li>		
+	        <li>Vlad: 0.65</li>		
+	        <li>Basilius: 0.5</li>		
+	        <li>Aquila: 0.5</li>		
+	        <li>Bottle: 40</li>		
+		</ul>
+	</ul>
+	<br>
+	<li>Talents have been rescaled to account for the new formula.</li>
+	<br>
+	<li>Adjusted Skills:</li>
+	<ul>
+		<li>Crystal Maiden Aura on Allies rescaled from 1/1.5/2/3 to 0.8/1.0/1.2/1.4</li>
+		<li>Crystal Maiden Aura on Self rescaled from 2/3/4/8 to 1/2/3/4</li>
+		<li>Death Pulse mana regen rescaled from 1/3/5/7 to 2/2.25/2.5/2.75</li>
+	</ul>
+	<br>
+	<li>Other Adjustments:</li>
+	<ul>
+		<li>Shrine MP regen from 40 to 30</li>
+		<li>Shrines no longer increase their MP regen value as time elapses.</li>
+	</ul>
+	<br>
+	<h1>Health</h1>
+		<li>Reworked Health Regeneration formula. Each point of Strength amplifies regeneration by 0.7%</li>
+	<ul>
+		<br>
+		<li>Old: Base + 0.06 * Strength + Flat Bonuses</li>
+		<br>
+		<li>New: (Base + Flat Bonuses) and increases by 0.7% Per Strength</li>
+
+		<li>Note 1: Base values increased by 1.5 for all heroes in the new formula</li>
+		<li>Note 2: Adjusted various HP regen items, talents, and skills (see lists below)</li>
+	</ul>
+	<br>
+	<li>Adjusted Items</li>
+	<ul>
+		<li>Ring of Health: 5</li>
+		<li>Hood of Defiance: 6.5</li>
+		<li>Perseverance: 5.5</li>
+		<li>Force Staff: 5</li>
+		<li>Vanguard: 5.5</li>
+		<li>Abyssal Blade: 7</li>
+		<li>Crimson Guard: 6</li>
+		<li>Helm of the Dominator: 8</li>
+		<li>Refresher Orb: 11</li>
+		<li>Linken Sphere: 5.5</li>
+		<li>Lotus Orb: 5.5</li>
+		<li>Pipe: 6.5</li>
+		<li>Pipe Insight Aura: 2</li>
+		<li>Greaves Aura: 3.5</li>
+		<li>Greaves Critical Heal: 12</li>
+		<li>Headdress Aura: 2</li>
+		<li>Mek Aura: 3.5</li>
+		<li>Tranquil: 12</li>
+		<li>Bloodstone: 7</li>
+		<li>Armlet: 4</li>
+		<li>Soul Ring: 2</li>
+		<li>Ring of Regen: 1.5</li>
+		<li>Veil from 6 to 5</li>
+		<li>Hurricane Pike from 6 to 5.5</li>
+		<li>Vladmir 3 to 2.5</li>
+		<li>Armlet life drain from 45 to 54</li>
+		<li>Bottle: 80</li>
+		<li>Urn: 35</li>
+	</ul>
+	<br>
+	<li>Talents have been rescaled to account for the new formula.</li>
+	<br>
+	<li>Adjusted Skills:</li>
+	<ul>
+		<li>Chemical Rage HP regen rescaled from 50/75/100 to 40/48/56</li>
+		<li>Dragon Blood rescaled from 3/6/9/12 to 4/6/8/10</li>
+		<li>Press The Attack rescaled from 30/40/50/60 to 30/35/40/45</li>
+		<li>Feral Impulse rescaled from 1/4/7/10 to 1/3/5/7</li>
+		<li>Reactive Armor rescaled from 1/1.2/1.4/1.6 to 1/1.15/1.3/1.45</li>
+		<li>Satyr Tormentor Aura rescaled from 6 to 5.5</li>
+		<li>Inner Vitality threshold heal factor rescaled from 20/40/60/80% to 22/30/38/46%</li>
+		<li>Inner Vitality normal heal factor rescaled from 5/10/15/20% to 6/8/10/12%</li>
+		<li>Death Pulse kill HP regen multiplier rescaled from 10 to 6</li>
+		<li>Death Pulse kill HP regen duration rescaled from 7 to 6</li>
+		<li>Death Pulse HP regen rescaled from 1/3/5/7 to 2/3/4/5</li>
+		<li>Doom Scorched Earth heal rescaled from 16/24/32/40 to 12/18/24/30</li>
+		<li>Living Armor rescaled from 4/8/12/16 to 4/7/10/13</li>
+		<li>Cold Embrace base rescaled from 25 to 15</li>
+	</ul>
+	<br>
+	<li>Other Adjustments:</li>
+	<ul>
+		<li>Shrine HP regen from 90 to 75</li>
+		<li>Shrines no longer increase their HP regen value as time elapses.</li>
+	</ul>
+</figure>
+			</div>
+		</div>
+		<div class="SubContainer" id="BGStat">
+			<div class="Inner" id="StatChanges">
+				<h2 class="OrangeBoxHeader">Attribute Changes</h2>
+				
+<figure>
+<h1>Hero Attributes</h1>
+	<ul>
+		<li>Intelligence mana increased from 11 to 12</li>
+		<li>All Agility heroes base movement speeds reduced by 5</li>
+		<li>Strength, Agility, and Intelligence attributes now give a unique perk to the hero if they are the respective hero type (in addition to the +1 damage).</li>
+	</ul>
+	<br>
+	<h1>Perks</h1>
+	<ul>
+        <li>Strength gains +0.15% Status Resistance (Reduces the duration of effects like silence/stun/disarm/root/fear/etc. For DPS debuffs with slows, it instead just reduces the slow values to keep the damage amount unaffected)</li>
+        <li>Agility gains +0.06% Movement Speed</li>
+        <li>Intelligence gains +0.15% Magic Resistance</li>
+		<li>In the stat hover area, you can see the effect impact each of these perks has on a hero.</li>
+	</ul>
+	<br>
+	<h1>Attribute Summary</h1>
+	<ul>
+		<li>Strength</li>
+			<ul>
+				<li>+20 Health</li>
+				<li>+0.7% HP Regen Amplification</li>
+				<br>
+				<li>Perk: +1 Damage</li>
+				<li>Perk: +0.15% Status Resistance</li>
+			</ul>
+		<br>
+
+		<li>Agility</li>
+		<ul>
+			<li>+1/6 Armor</li>
+			<li>+1 Attack Speed</li>
+			<br>
+			<li>Perk: +1 Damage</li>
+			<li>Perk: +0.06% Movement Speed</li>
+		</ul>
+		<br>
+
+		<li>Intelligence</li>
+		<ul>
+			<li>+12 Mana</li>
+			<li>+2.0% Mana Regen Amplification</li>
+			<li>+0.07% Spell Amplification</li>
+			<br>
+			<li>Perk: +1 Damage</li>
+			<li>Perk: +0.15% Magic Resistance</li>
+		</ul>
+	</ul>
+</figure>
+			</div>
+		</div>
+		<div class="SubContainer" id="BGHeroes">
+			<div class="Inner" id="HeroChanges">
+				<h2 class="OrangeBoxHeader">Hero Changes</h2>
+				
+<figure>
+	<h1>Talent Trees</h1>
+		<li>All hero Talent Trees have been redesigned. Many new ability-specific talents have been added.</li>
+</figure>
+
+<figure>
+	<img data-id='abaddon'>
+	<h1>Abaddon:</h1>
+	<ol>
+		<li>Level 10: +25 Movement Speed <b>OR</b> +20% XP Gain</li>
+		<li>Level 15: +6 Armor <b>OR</b> +50 Mist Coil Heal/Damage</li>
+		<li>Level 20: +15% Cooldown Reduction <b>OR</b> +90 Damage</li>
+		<li>Level 25: +250 Aphotic Shield Health <b>OR</b> +25% Curse of Avernus Slow</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='alchemist'>
+	<h1>Alchemist:</h1>
+	<ol>
+		<li>Level 10: +25 Attack Speed <b>OR</b> +5 Armor</li>
+		<li>Level 15: +50 Damage <b>OR</b> +250 Health</li>
+		<li>Level 20: +25% Cleave <b>OR</b> +200 Unstable Concoction Damage</li>
+		<li>Level 25: -8s Unstable Concoction Cooldown <b>OR</b> -0.2 Chemical Rage Base Attack Time</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='ancient_apparition'>
+	<h1>Ancient Apparition:</h1>
+	<ul>
+		<li>Chilling Touch duration rescaled from 30 to 20/24/28/32</li>
+		<li>Chilling Touch no longer reduces allies attack speed.</li>
+		<li>Chilling Touch magic damage reduced from 50/60/70/80 to 30/45/60/75</li>
+		<li>Chilling Touch now applies a stacking 30% slow for 0.3 seconds.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +60 Gold/Min <b>OR</b> +10% Spell Amplification</li>
+		<li>Level 15: +20 Health Regen <b>OR</b> -1.5s Ice Vortex Cooldown</li>
+		<li>Level 20: +80 Chilling Touch Damage <b>OR</b> +8% Ice Vortex Slow/Resistance</li>
+		<li>Level 25: +4% Ice Blast Kill Threshold <b>OR</b> +4 Charges of Cold Feet</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='antimage'>
+	<h1>Anti-Mage:</h1>
+	<ol>
+		<li>Level 10: +175 Health <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: -1s Blink Cooldown <b>OR</b> Blink Uncontrollable Illusion<em><del>Creates a 25% Damage Illusion, takes 250% damage, lasts 10 seconds. Cannot be controlled.</del></em></li>
+		<li>Level 20: +300 Blink Cast Range <b>OR</b> +10 All Stats</li>
+		<li>Level 25: -50s Mana Void Cooldown <b>OR</b> +30% Spell Shield</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='arc_warden'>
+	<h1>Arc Warden:</h1>
+	<ol>
+		<li>Level 10: +25 Attack Speed <b>OR</b> +5 Armor</li>
+		<li>Level 15: +2s Flux Duration <b>OR</b> +350 Health</li>
+		<li>Level 20: +100 Attack Range <b>OR</b> +10% Cooldown Reduction</li>
+		<li>Level 25: +30% Lifesteal <b>OR</b> +350 Spark Wraith Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='axe'>
+	<h1>Axe:</h1>
+	<ol>
+		<li>Level 10: +8 Strength <b>OR</b> +40 Attack Speed</li>
+		<li>Level 15: +3 Mana Regen <b>OR</b> +30 Movement Speed</li>
+		<li>Level 20: +20 Health Regen <b>OR</b> Attacks Proc Counter Helix<em><del>Rolls helix chance on attacks</del></em></li>
+		<li>Level 25: +100 Berserker's Call AoE <b>OR</b> +120 Battle Hunger DPS</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='bane'>
+	<h1>Bane:</h1>
+	<ul>
+		<li>Bane can attack nightmared units without waking them.</li>
+		<li>All cast points reduced from 0.5 to 0.4</li>
+		<li>Nightmare no longer deals 20 damage per second.</li>
+	</ul>
+	<ol>
+		<li>Level 10: Enfeeble Steals Damage <b>OR</b> +6 Armor</li>
+		<li>Level 15: +150 Cast Range <b>OR</b> +40% XP Gain</li>
+		<li>Level 20: +100 Enfeeble Damage Reduction <b>OR</b> +75 Movement Speed</li>
+		<li>Level 25: +7s Fiend's Grip Duration <b>OR</b> +250 Brain Sap Damage/Heal</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='batrider'>
+	<h1>Batrider:</h1>
+	<ul>
+		<li>Flamebreak projectile now visually flies on an arc.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +6% Spell Amplification</li>
+		<li>Level 15: +300 Health <b>OR</b> +2s Flamebreak Burn Duration</li>
+		<li>Level 20: +50 Movement Speed <b>OR</b> +15% Cooldown Reduction</li>
+		<li>Level 25: +8s Firefly Duration <b>OR</b> -13s Flamebreak Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='beastmaster'>
+	<h1>Beastmaster:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Wild Axes reworked:</li>
+		<ul>
+			<li>Wild Axes spread distance (how far the axes are from each other at mid distance) increased from 353 to 450</li>
+			<li>Wild Axes hit radius increased from 140 to 175</li>
+			<li>Wild Axes mana cost reduced from 105/110/115/120 to 60/65/70/75</li>
+			<li>Wild Axes damage reduced from 70/100/130/160 to 40/70/100/130</li>
+			<li>Wild Axes cooldown reduced from 13 to 8</li>
+			<li>Wild Axes now places a stacking debuff on affected units. Amplifies all damage the target takes from Beastmaster or his units by 6/8/10/12% for each axe hit. Debuff lasts 10 seconds.</li>
+		</ul>
+		<li>Primal Roar now causes Beastmaster and all his units to gain 30% movement speed for 3 seconds.</li>
+		<li>Reworked Call of the Wild. It is now a single ability.</li>
+		<ul>
+			<li>Beasts last 60 seconds. Cooldown: 60, Mana cost: 50/60/70/80</li>
+
+			<li>Level 1: Boar Level 1</li>
+			<li>Level 2: Boar Level 2</li>
+			<li>Level 3: Boar Level 3 + Hawk</li>
+			<li>Level 4: Boar Level 4 + Hawk + Random Neutral</li>
+
+			<li>Boar HP: 275/350/425/500</li>
+			<li>Boar Attack Damage: 20/30/40/50 (rescaled from 10/25/40/55)</li>
+			<li>Boar Slow: 10/20/30/40%</li>
+			<li>Boar Slow Duration: 3</li>
+
+			<li>Hawk no longer becomes invisible.</li>
+			<li>Hawk HP: 350 (increased from 40/60/80/100)</li>
+			<li>Hawk Armor: 5</li>
+			<li>Hawk Speed: 450</li>
+			<li>Hawk Night Sight: 1000</li>
+			<li>Hawk Day Sight: 1000</li>
+
+			<li>Neutral: Will select a random neutral from the following list (Alpha Wolf, Hellbear Smasher, Satyr Tormenter, Centaur Conqueror, Dark Troll Summoner)</li>
+		</ul>
+	</ul>
+	<ol>
+		<li>Level 10: +30 Movement Speed <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +40 Boar Damage <b>OR</b> +7 Armor</li>
+		<li>Level 20: +500 Health <b>OR</b> +120 Wild Axes Damage</li>
+		<li>Level 25: +2 Hawks <b>OR</b> +40 Inner Beast Attack Speed</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='bloodseeker'>
+	<h1>Bloodseeker:</h1>
+	<ul>
+		<li>Rupture cast range reduced from 1000 to 800</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Attack Speed <b>OR</b> +4 Armor</li>
+		<li>Level 15: +300 Health <b>OR</b> +75 Bloodrite Damage</li>
+		<li>Level 20: +25% Lifesteal <b>OR</b> +14% Rupture Damage</li>
+		<li>Level 25: -6s Blood Rite Cooldown <b>OR</b> +20 Thirst</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='bounty_hunter'>
+	<h1>Bounty Hunter:</h1>
+	<ul>
+		<li>Track can now be alt-clicked to alert your team to how much gold the target has (this information is already available in the track debuff tooltip).</li>
+	</ul>
+	<ol>
+		<li>Level 10: +30 Movement Speed <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +50 Attack Speed <b>OR</b> +350 Health</li>
+		<li>Level 20: +75 Shuriken Toss Damage <b>OR</b> +125% Jinada Critical Strike</li>
+		<li>Level 25: +50% Evasion <b>OR</b> 300 Track Gold (affects self and allies)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='brewmaster'>
+	<h1>Brewmaster:</h1>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +30 Damage</li>
+		<li>Level 15: +3s Thunder Clap Slow <b>OR</b> +20% Magic Resistance</li>
+		<li>Level 20: +100 Attack Speed <b>OR</b> +1500 Primal Split Health</li>
+		<li>Level 25: -65s Primal Split Cooldown <b>OR</b> +15% Drunken Brawler</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='bristleback'>
+	<h1>Bristleback:</h1>
+	<ol>
+		<li>Level 10: +2 Mana Regen <b>OR</b> +20 Movement Speed</li>
+		<li>Level 15: +6 Max Goo Stacks <b>OR</b> +250 Health</li>
+		<li>Level 20: +25 Quill Stack Damage <b>OR</b> +20 Health Regen</li>
+		<li>Level 25: +15% Spell Lifesteal <b>OR</b> +20 Warpath Damage Per Stack</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='broodmother'>
+	<h1>Broodmother:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Spin Web no longer grants invisibility</li>
+		<li>Spin Web pathing/speed buff is no longer removed when taking damage</li>
+		<li>Movement speed reduced from 290 to 270</li>
+		<li>Spiderling HP reduced from 450 to 250</li>
+		<li>Spiderlite HP reduced from 175 to 100</li>
+		<li>Spiders now have 50% magic resistance.</li>
+		<li>Spiders armor increased by 8</li>
+		<li>Spiders HP regen increased from 0.5 to 2</li>
+		<li>Spin Web charges increased from 1/2/3/4 to 2/4/6/8 (matches amount you can place)</li>
+	</ul>
+	<ol>
+		<li>Level 10: +60 Spawn Spiderling Damage <b>OR</b> +200 Health</li>
+		<li>Level 15: +35% XP Gain <b>OR</b> +20% Cooldown Reduction</li>
+		<li>Level 20: +60 Attack Speed <b>OR</b> +20 Spiders Attack Damage</li>
+		<li>Level 25: +75 Insatiable Hunger Damage/Lifesteal <b>OR</b> +350 Spiders Health</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='centaur'>
+	<h1>Centaur Warrunner:</h1>
+	<ol>
+		<li>Level 10: +10% Evasion <b>OR</b> +10% Magic Resistance</li>
+		<li>Level 15: +75 Damage <b>OR</b> +15% Return Strength Damage</li>
+		<li>Level 20: +250 Double Edge Damage <b>OR</b> +20 Strength</li>
+		<li>Level 25: +1.5s Hoof Stomp Duration <b>OR</b> Gains Return Aura</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='chaos_knight'>
+	<h1>Chaos Knight:</h1>
+	<ol>
+		<li>Level 10: +20 Movement Speed <b>OR</b> +5 All Stats</li>
+		<li>Level 15: +15 Strength <b>OR</b> 12% Cooldown Reduction</li>
+		<li>Level 20: 150 Gold/Min <b>OR</b> Reality Rift Pierces Spell Immunity</li>
+		<li>Level 25: -7 Reality Rift Armor Reduction <b>OR</b> +2 Max Chaos Bolt Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='chen'>
+	<h1>Chen:</h1>
+	<ul>
+		<li>Attack range increased from 600 to 650</li>
+		<li>Removed Test of Faith (Teleport)</li>
+		<li>Holy Persuasion can be cast on allied units to send them home after a 6/5/4/3 second delay and on yourself to teleport your creeps to you.</li>
+		<li>Holy Persuasion mana cost rescaled from 100 to 100/110/120/130</li>
+		<li>Test of Faith can now target allies, healing for half of the damage values. Always applies max values to yourself.</li>
+		<li>Test of Faith mana cost rescaled from 90/100/110/120 to 60/80/100/120</li>
+	</ul>
+	<ol>
+		<li>Level 10: +20% XP Gain <b>OR</b> +125 Cast Range</li>
+		<li>Level 15: +7 Armor <b>OR</b> -10 Test of Faith Cooldown</li>
+		<li>Level 20: +180 Gold/Min <b>OR</b> +1000 Creep Min Health</li>
+		<li>Level 25: +4 Holy Persuasion Max Count <b>OR</b> +400 Hand of God Heal</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='clinkz'>
+	<h1>Clinkz:</h1>
+	<ul>
+		<li>Agility growth reduced from 3.3 to 2.6</li>
+		<li>Death Pact HP reduced from 50/70/90 to 40/60/80%</li>
+		<li>Death Pact damage reduced from 5/7/9% to 4/6/8%</li>
+		<li>Reworked Strafe. Now gives you +80/140/200/260 Attack Speed for 3 seconds. During this time you will automatically dodge up to 3 projectiles (ranged attacks or spells), stepping to the side slightly upon impact. Strafe ends if you lose the 3 stacks. CD: 45/35/25/15. </li>
+	</ul>
+	<ol>
+		<li>Level 10: +12% Magic Resistance <b>OR</b> +5 Armor</li>
+		<li>Level 15: +15% Evasion <b>OR</b> +30 Searing Arrows Damage</li>
+		<li>Level 20: +100 Attack Range <b>OR</b> +20 Health Regen</li>
+		<li>Level 25: +4s Strafe Stacks/Duration<b>OR</b> Searing Arrows Multishot (Fires Searing Arrows on a random nearby target)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='rattletrap'>
+	<h1>Clockwerk:</h1>
+	<ol>
+		<li>Level 10: +25 Movement Speed <b>OR</b> +5 Armor</li>
+		<li>Level 15: +15 Strength <b>OR</b> +30 Battery Assault Damage</li>
+		<li>Level 20: +20% Magic Resistance <b>OR</b> +125 Rocket Flare Damage</li>
+		<li>Level 25: -0.3s Battery Assault Interval <b>OR</b> Rocket Flare True Sight (affects wards as well)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='crystal_maiden'>
+	<h1>Crystal Maiden:</h1>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +100 Cast Range</li>
+		<li>Level 15: +14% Mana cost/Manaloss Reduction Aura <b>OR</b> +90 Gold/Min</li>
+		<li>Level 20: +60 Freezing Field Damage <b>OR</b> +250 Attack Speed</li>
+		<li>Level 25: +300 Crystal Nova Damage <b>OR</b> +1.5s Frostbite Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='dark_seer'>
+	<h1>Dark Seer:</h1>
+	<ol>
+		<li>Level 10: +12% Evasion <b>OR</b> +90 Damage</li>
+		<li>Level 15: +12 HP Regen <b>OR</b> +75 Vacuum AoE</li>
+		<li>Level 20: 300 AoE Surge <b>OR</b> +15% Cooldown Reduction</li>
+		<li>Level 25: Parallel Wall <b>OR</b> +150 Ion Shell Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='dazzle'>
+	<h1>Dazzle:</h1>
+	<ul>
+		<li>Reworked Poison Touch. Targets a unit and releases a poison that splashes on nearby targets (like Ethershock targeting). Applies a DPS and a slow to the targeted enemies. Anytime a poisoned target gets attacked, the debuff duration gets refreshed. Deals 10/20/30/40 DPS and slows for 14/16/18/20%. Lasts 4/5/6/7 seconds. Affects up to 4/5/6/7 targets. Cooldown: 35/30/25/20. Mana cost: 80. Cast Range: 600/700/800/900. Physical damage type. Gets refreshed by the same target rules as Blink (player-controlled units and Roshan).</li>
+	</ul>
+	<ol>
+		<li>Level 10: +60 Damage <b>OR</b> +175 Health</li>
+		<li>Level 15: +125 Cast Range <b>OR</b> +20 Shadow Wave Heal/Damage</li>
+		<li>Level 20: +50 Movement Speed <b>OR</b> +30 Poison Touch DPS</li>
+		<li>Level 25: -4s Shadow Wave Cooldown <b>OR</b> +0.5 Weave Armor Per Second</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='death_prophet'>
+	<h1>Death Prophet:</h1>
+	<ol>
+		<li>Level 10: +12% Magic Resistance <b>OR</b> +50 Damage</li>
+		<li>Level 15: +150 Cast Range <b>OR</b> +1% Max Health Spirit Siphon</li>
+		<li>Level 20: +500 Health <b>OR</b> -2s Crypt Swarm Cooldown</li>
+		<li>Level 25: +8 Exorcism Spirits <b>OR</b> Exorcism Grants Haste</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='disruptor'>
+	<h1>Disruptor:</h1>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +40 Thunder Strike Damage</li>
+		<li>Level 15: +150 Cast Range <b>OR</b> -3s Kinetic Field Cooldown</li>
+		<li>Level 20: +180 Gold/Min <b>OR</b> +4 Thunder Strike Hits</li>
+		<li>Level 25: -10s Glimpse Cooldown <b>OR</b> +4s Kinetic Field Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='doom_bringer'>
+	<h1>Doom:</h1>
+	<ol>
+		<li>Level 10: +10 Scorched Earth Damage/Heal <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +20% Evasion <b>OR</b> +150 Devour Bonus Gold</li>
+		<li>Level 20: +40 Doom DPS <b>OR</b> Devour Targets Ancients</li>
+		<li>Level 25: +3% Infernal Blade Damage <b>OR</b> +100% Cleave</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='dragon_knight'>
+	<h1>Dragon Knight:</h1>
+	<ul>
+		<li>Breathe Fire now reduces total attack damage and not just base damage.</li>
+		<li>Breathe Fire attack damage reduction reduced from 35% to 25%</li>
+		<li>Breathe Fire cast point increased from 0 to 0.2</li>
+		<li>Breathe Fire distance increased from 650 to 750</li>
+	</ul>
+	<ol>
+		<li>Level 10: +2 Mana Regen <b>OR</b> +30 Attack Speed</li>
+		<li>Level 15: +300 Health <b>OR</b> +40% XP Gain</li>
+		<li>Level 20: 2x Dragon Blood HP Regen/Armor <b>OR</b> +150 Gold/Min</li>
+		<li>Level 25: +40 Strength <b>OR</b> +1.75s Dragon Tail Stun Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='drow_ranger'>
+	<h1>Drow Ranger:</h1>
+	<ul>
+		<li>Added a visual effect on creeps when Precision Aura is cast</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 All Stats <b>OR</b> +20 Movement Speed</li>
+		<li>Level 15: +25 Attack Speed <b>OR</b> +300 Gust Distance/Knockback</li>
+		<li>Level 20: +1.5s Gust Duration <b>OR</b> +20 Marksmanship Agility</li>
+		<li>Level 25: 50% Cooldown Reduction <b>OR</b> +20% Precision Aura</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='earth_spirit'>
+	<h1>Earth Spirit:</h1>
+	<ol>
+		<li>Level 10: +10 Intelligence <b>OR</b> +40 Damage</li>
+		<li>Level 15: +7 Armor <b>OR</b> +200 Rolling Boulder Damage</li>
+		<li>Level 20: +150 Gold/Min <b>OR</b> +15% Spell Amplification</li>
+		<li>Level 25: +1s Boulder Smash Stun Duration <b>OR</b> Geomagnetic Grip Targets Allies</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='earthshaker'>
+	<h1>Earthshaker:</h1>
+	<ul>
+		<li>Echo Slam initial damage removed</li>
+		<li>Echo Slam Echo Damage increased from 40/55/70 to 60/85/110</li>
+		<li>Echo Slam bounces twice off of non-illusion heroes</li>
+	</ul>
+	<ol>
+		<li>Level 10: +250 Mana <b>OR</b> +30 Damage</li>
+		<li>Level 15: +7 armor <b>OR</b> +30 Movement Speed</li>
+		<li>Level 20: +50 Echo Damage <b>OR</b> +400 Fissure Range</li>
+		<li>Level 25: -2s Enchant Totem Cooldown <b>OR</b> +50% Magic Resistance</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='elder_titan'>
+	<h1>Elder Titan:</h1>
+	<ul>
+		<li>Echo Stomp now wakes up if the target takes more than 50/100/150/200 cumulative damage (no longer has exception for player owned damage source or not).</li>
+		<li>Added visual effects for Natural Order</li>
+	</ul>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +30 Astral Spirit Hero Attack <b>OR</b> +15% Magic Resistance</li>
+		<li>Level 20: +70 Attack Speed <b>OR</b> +100 Echo Stomp Damage</li>
+		<li>Level 25: -75s Earth Splitter Cooldown <b>OR</b> +100% Lifesteal</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='ember_spirit'>
+	<h1>Ember Spirit:</h1>
+	<ol>
+		<li>Level 10: +150 Flame Guard Absorption <b>OR</b> +20 Damage</li>
+		<li>Level 15: +30 Flame Guard DPS <b>OR</b> +1s Searing Chains Duration</li>
+		<li>Level 20: +10% Spell Amplification <b>OR</b> True Strike</li>
+		<li>Level 25: 2 Sleight of Fist Charges <b>OR</b> -25s Remnant Charge Replenish</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='enchantress'>
+	<h1>Enchantress:</h1>
+	<ul>
+		<li>Enchant now removes positive buffs on enemy heroes.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +15% Magic Resistance <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +50 Damage <b>OR</b> +8 Nature's Attendants Wisps</li>
+		<li>Level 20: Enchant Affects Ancients <b>OR</b> +100 Untouchable Slow</li>
+		<li>Level 25: +25 Nature's Attendants Heal <b>OR</b> +8% Impetus Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='enigma'>
+	<h1>Enigma:</h1>
+	<ol>
+		<li>Level 10: +15% Magic Resistance <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +120 Gold/Min <b>OR</b> +15% Cooldown Reduction</li>
+		<li>Level 20: +400 Health <b>OR</b> +70 Eidolon Damage</li>
+		<li>Level 25: +4 Malefice Instances <b>OR</b> +8 Demonic Conversion Eidolons</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='faceless_void'>
+	<h1>Faceless Void:</h1>
+	<ol>
+		<li>Level 10: +8 Strength <b>OR</b> +20 Damage</li>
+		<li>Level 15: +100 Time Lock Damage <b>OR</b> +300 Health</li>
+		<li>Level 20: +500 Timewalk Cast Range <b>OR</b> +40 Attack Speed</li>
+		<li>Level 25: +25% Backtrack <b>OR</b> +175 Chronosphere AoE</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='gyrocopter'>
+	<h1>Gyrocopter:</h1>
+	<ul>
+		<li>Removed Homing Missile cast point</li>
+		<li>Homing Missile will find a new target if its primary target dies. Prioritizes heroes.</li>
+		<li>Homing Missile speed increased from 340 to 500</li>
+		<li>Homing Missile launch delay increased from 2 to 3 seconds</li>
+		<li>Homing Missile now does a fixed amount of damage, rescaled from a max of 125/250/375/500 to a fixed 100/175/250/325</li>
+		<li>Homing Missile hits to destroy from 3/3/4/5 to 3/3/4/4</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Damage <b>OR</b> +200 Health</li>
+		<li>Level 15: +3 Flak Cannon Attacks <b>OR</b> +11 Rocket Barrage Damage</li>
+		<li>Level 20: +50 Movement Speed <b>OR</b> -25s Call Down Cooldown</li>
+		<li>Level 25: Global Call Down <b>OR</b> 3 Homing Missile Charges</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='huskar'>
+	<h1>Huskar:</h1>
+	<ol>
+		<li>Level 10: +20 Damage <b>OR</b> +175 Health</li>
+		<li>Level 15: +15% Lifesteal <b>OR</b> +10 Burning Spears DPS</li>
+		<li>Level 20: +15 Strength <b>OR</b> +400 Life Break Cast Range</li>
+		<li>Level 25: +125 Attack Range <b>OR</b> 0s Inner Vitality Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='invoker'>
+	<h1>Invoker:</h1>
+	<ol>
+		<li>Level 10: +30 Chaos Meteor Damage <b>OR</b> +0.3s Tornado Duration</li>
+		<li>Level 15: +1.5s Cold Snap Duration <b>OR</b> +1 Forged Spirit Summoned</li>
+		<li>Level 20: +35 Alacrity Damage/Speed <b>OR</b> Cataclysm (Launched when Sun Strike is doubled tapped. Puts it on a 90 second cooldown. Creates 2 visible Sun Strikes within 175-250 range of each enemy hero)</li>
+		<li>Level 25: AoE Deafening Blast <b>OR</b> -16s Tornado Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='wisp'>
+	<h1>Io:</h1>
+	<ul>
+		<li>Relocate cooldown increased from 100/80/60 to 120/100/80</li>
+		<li>Max Spirits range reduced from 875 to 700</li>
+	</ul>
+	<ol>
+		<li>Level 10: +400 Spirits Max Range <b>OR</b> +60 Damage</li>
+		<li>Level 15: Tether Grants Scepter Bonus <b>OR</b> +90 Spirits Damage</li>
+		<li>Level 20: +150 Gold/Min <b>OR</b> Attack Tethered Ally's Target<em><del>Automatically attacks every time your ally attacks</del></em></li>
+		<li>Level 25: +50 Health Regen <b>OR</b> Tether Stuns</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='jakiro'>
+	<h1>Jakiro:</h1>
+	<ul>
+		<li>Dual Breath cast point reduced from 0.65 to 0.55</li>
+		<li>Macropyre cast point reduced from 0.65 to 0.55</li>
+	</ul>
+	<ol>
+		<li>Level 10: +8% Spell Amplification <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +250 Attack Range <b>OR</b> +40 Dual Breath Damage</li>
+		<li>Level 20: -60 Liquid Fire Attack Speed <b>OR</b> +150 Gold/Min</li>
+		<li>Level 25: +1.25s Ice Path Duration <b>OR</b> Macropyre Pure and Pierces Immunity</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='juggernaut'>
+	<h1>Juggernaut:</h1>
+	<ul>
+		<li>Juggernaut is no longer silenced while using Blade Fury (but still cannot cast Omnislash; can cast ward).</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 All Stats <b>OR</b> +20 Movement Speed</li>
+		<li>Level 15: +1s Blade Fury Duration <b>OR</b> +25 Attack Speed</li>
+		<li>Level 20: +10 Armor <b>OR</b> +100 Blade Fury DPS</li>
+		<li>Level 25: +600 Health <b>OR</b> +5 Omnislash Strikes</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='keeper_of_the_light'>
+	<h1>Keeper of the Light:</h1>
+	<ul>
+		<li>Mana Leak cast range reduced from 550/700/850/1000 to 400/500/600/700</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Movement Speed <b>OR</b> +8% Spell Lifesteal</li>
+		<li>Level 15: +40% XP Gain <b>OR</b> +350 Cast Range</li>
+		<li>Level 20: +300 Chakra Magic Mana <b>OR</b> +40% Magic Resistance</li>
+		<li>Level 25: +200 Illuminate Damage/Heal <b>OR</b> +2s Mana Leak Stun</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='kunkka'>
+	<h1>Kunkka:</h1>
+	<ul>
+		<li>Kunkka is no longer restricted from using Quelling Blade.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +40 Damage <b>OR</b> +6 Armor</li>
+		<li>Level 15: +10 Health Regen <b>OR</b> +120 Torrent Damage</li>
+		<li>Level 20: +100 Torrent AoE <b>OR</b> +25 Strength</li>
+		<li>Level 25: Ghost Ship Fleet <b>OR</b> +50% Tidebringer Cleave</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='legion_commander'>
+	<h1>Legion Commander:</h1>
+	<ol>
+		<li>Level 10: +25% XP Gain <b>OR</b> +8 Strength</li>
+		<li>Level 15: +30 Attack Speed <b>OR</b> +50 Overwhelming Odds Hero Damage</li>
+		<li>Level 20: +60 Movement Speed <b>OR</b> +10% Moment Proc Chance</li>
+		<li>Level 25: +40 Duel Damage Bonus <b>OR</b> -10s Press The Attack Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='leshrac'>
+	<h1>Leshrac:</h1>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +250 Mana</li>
+		<li>Level 15: +15 Strength <b>OR</b> +40 Movement Speed</li>
+		<li>Level 20: +25% Evasion <b>OR</b> +50 Pulse Nova Damage</li>
+		<li>Level 25: +50 Diabolic Edict Explostions <b>OR</b> +3s Lightning Storm Slow Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='lich'>
+	<h1>Lich:</h1>
+	<ul>
+		<li>Chainfrost is now reflected on initial projectile impact, rather than on cast time.</li>
+		<li>Ice Armor slow rescaled from 24/26/28/30% to 8/16/24/32%</li>
+	</ul>
+	<ol>
+		<li>Level 10: +175 Health <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +120 Damage <b>OR</b> -4s Frost Blast Cooldown</li>
+		<li>Level 20: +120 Gold/Min <b>OR</b> +175 Cast Range</li>
+		<li>Level 25: Attacks Apply 30% MS/AS Slow <b>OR</b> Ice Armor Provides +30 HP Regen</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='life_stealer'>
+	<h1>Lifestealer:</h1>
+	<ol>
+		<li>Level 10: +20 Attack Speed <b>OR</b> +200 Health</li>
+		<li>Level 15: +30 Damage <b>OR</b> +35 Movement Speed</li>
+		<li>Level 20: +20% Evasion <b>OR</b> +50% Open Wounds Heal</li>
+		<li>Level 25: +2s Rage Duration <b>OR</b> +2% Feast</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='lina'>
+	<h1>Lina:</h1>
+	<ol>
+		<li>Level 10: +100 Cast Range <b>OR</b> +25 Damage</li>
+		<li>Level 15: +300 Health <b>OR</b> +140 Light Strike Array Damage</li>
+		<li>Level 20: +10% Spell Amplification <b>OR</b> +25/2% Fiery Soul Per Stack</li>
+		<li>Level 25: +175 Attack Range <b>OR</b> -6s Dragon Slave Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='lion'>
+	<h1>Lion:</h1>
+	<ol>
+		<li>Level 10: +75 Cast Range <b>OR</b> +75 Damage</li>
+		<li>Level 15: +200 Finger of Death Damage <b>OR</b> +90 Gold/Min</li>
+		<li>Level 20: +500 Health <b>OR</b> +2 Mana Drain Multi Target</li>
+		<li>Level 25: +1000 Earth Spike Range <b>OR</b> +325 AoE Hex</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='lone_druid'>
+	<h1>Lone Druid:</h1>
+	<ul>
+		<li>Battle Cry cooldown reduced from 60 to 45</li>
+		<li>Battle Cry duration reduced from 6 to 5</li>
+	</ul>
+	<ol>
+		<li>Level 10: +175 Attack Range <b>OR</b> +250 Health</li>
+		<li>Level 15: -8s Savage Roar Cooldown <b>OR</b> +10 Spirit Bear Armor</li>
+		<li>Level 20: +40 Rabid Attack Speed <b>OR</b> -25s Battle Cry Cooldown</li>
+		<li>Level 25: 0 Entangle Cooldown <b>OR</b> Battle Cry Grants Spell Immunity</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='luna'>
+	<h1>Luna:</h1>
+	<ol>
+		<li>Level 10: +20 Attack Speed <b>OR</b> +150 Cast Range</li>
+		<li>Level 15: -2s Lucent Beam CD <b>OR</b> +24 Luna Blessing Damage</li>
+		<li>Level 20: +10 All Stats <b>OR</b> +100 Lucent Beam Damage</li>
+		<li>Level 25: +25% Lifesteal <b>OR</b> +0.25s Eclipse Lucent Ministun</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='lycan'>
+	<h1>Lycan:</h1>
+	<ul>
+		<li>Fixed Break not disabling Feral Impulse</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +20 Damage</li>
+		<li>Level 15: +8 Feral HP Regen <b>OR</b> +12% Cooldown Reduction</li>
+		<li>Level 20: +8s Shapeshift Duration <b>OR</b> +16% Feral Impulse Damage</li>
+		<li>Level 25: +3 Wolves Summoned <b>OR</b> +600 Howl Hero Health</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='magnataur'>
+	<h1>Magnus:</h1>
+	<ul>
+		<li>Shockwave Scepter speed increased from 1575 to 1700</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Attack Speed <b>OR</b> +200 Health</li>
+		<li>Level 15: +15 Strength <b>OR</b> +75 Shockwave Damage</li>
+		<li>Level 20: +12 Armor <b>OR</b> +500 Skewer Range</li>
+		<li>Level 25: +20% Empower Damage/Cleave <b>OR</b> +0.75s Reverse Polarity</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='medusa'>
+	<h1>Medusa:</h1>
+	<ul>
+		<li>Stone Gaze slow no longer continues to affect targets after they turn away from Medusa.</li>
+		<li>Stone Gaze can now be reapplied after it wears off if the target continues to face Medusa (timer on facing direction is reset after a Stone debuff is over).</li>
+		<li>Split Shot is now a passive.</li>
+		<li>Split Shot projectiles rescaled from 1/2/3/4 to 3</li>
+		<li>Split Shot rescaled from -20% damage to -65/50/35/20%</li>
+		<li>Split Shot no longer reduces damage for the primary target.</li>
+		<li>Split Shot range now uses your attack range +100, rather than a fixed 700.</li>
+		<li>Split Shot does not fire when attacking allied units.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Damage <b>OR</b> +10% Evasion</li>
+		<li>Level 15: +30 Attack Speed <b>OR</b> +10% Mystic Snake Mana Steal</li>
+		<li>Level 20: +800 Mana <b>OR</b> +2s Stone Gaze Duration<em><del>This isn't the stun duration</del></em></li>
+		<li>Level 25: +7 Split Shot Targets <b>OR</b> Split Shot Uses Modifiers<em><del>They all proc stuff like skadi</del></em></li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='meepo'>
+	<h1>Meepo:</h1>
+	<ol>
+		<li>Level 10: +10% Lifesteal <b>OR</b> +30 Movement Speed</li>
+		<li>Level 15: +10 Strength <b>OR</b> +40 Poof Damage</li>
+		<li>Level 20: +40 Damage <b>OR</b> +15% Evasion</li>
+		<li>Level 25: +700 Health <b>OR</b> -4s Poof Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='mirana'>
+	<h1>Mirana:</h1>
+	<ul>
+		<li>Reworked Leap. Has 3 charges. Leaps a distance of 550 per charge. Grants you movement and attack speed for 2 seconds. Replenish Time: 60/50/40/30. Mana cost: 40. Movement Speed: 8/16/24/32%. Attack Speed: 25/50/75/100. Leap bonus affects only Mirana.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +20 Damage</li>
+		<li>Level 15: -5s Sacred Arrow Cooldown <b>OR</b> +100 Leap Attack Speed</li>
+		<li>Level 20: +12% Spell Amp <b>OR</b> +25 Mana Break</li>
+		<li>Level 25: +2 Multishot Sacred Arrows <b>OR</b> -70 Moonlight Shadow Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='monkey_king'>
+	<h1>Monkey King:</h1>
+	<ul>
+		<li>Base damage reduced by 3</li>
+		<li>Jingu Mastery bonus damage rescaled from 75/100/125/150 to 60/90/120/150</li>
+		<li>Monkey King no longer destroys trees he is standing on during Scepter Stampede.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +150 Tree Dance Vision AoE <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: +300 Tree Dance Cast Range <b>OR</b> +75 Jingu Mastery Damage</li>
+		<li>Level 20: +50% Boundless Strike Damage <b>OR</b> +300 Primal Spring Damage</li>
+		<li>Level 25: +100 Armor Wukong's Command <b>OR</b> +1 Wukong Command Ring</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='morphling'>
+	<h1>Morphling:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Reduced base Intelligence from 17 to 13</li>
+		<li>Renamed Morph to Attribute Shift</li>
+		<li>Attribute Shift rate rescaled from 2/4/8/16 to 1/4/10/25</li>
+		<li>Attribute Shift now costs no mana.</li>
+		<li>Adaptive Strike is now two abilities, one that deals damage based on Agility and one that stuns/knocks back based on Strength. When one is cast, the other goes into cooldown for 3 seconds.</li>
+		<li>Adaptive Strike (Strength) stun duration rescaled from 1.25/2.25/3.25/4.25 to 1.5/2/2.5/3.0</li>
+		<li>Adaptive Strike (Strength) knockback increased from max 300 to 500</li>
+		<li>Removed Morphling's Scepter</li>
+		<li>Replaced Replicate with a new ultimate: Morph. Changes your hero to match the target enemy. Copies the target's visual model, basic abilities, base movement speed, attack range, and attributes. Applies a soft dispel on transformation. If you die during this, Morphling dies. You can exit the morphed form anytime. Lasts 30 seconds. CD: 160/100/40. Cast Range: 600. Mana cost: 75/100/125.<em><del>Note: This is not an illusion, your hero changes appearance and abilities to match the target.</del></em></li>
+	</ul>
+	<ol>
+		<li>Level 10: +10 Agility <b>OR</b> +20 Movement Speed</li>
+		<li>Level 15: Waveform Attacks Targets <b>OR</b> +30 Attack Speed</li>
+		<li>Level 20: -25s Morph Cooldown <b>OR</b> Morph Targets Allies</li>
+		<li>Level 25: +800 Waveform Range <b>OR</b> +2 Multishot Adaptive Strike</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='naga_siren'>
+	<h1>Naga Siren:</h1>
+	<ul>
+		<li>Ensnare mana cost rescaled from 100 to 70/80/90/100</li>
+	</ul>
+	<ol>
+		<li>Level 10: +175 Health <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: +15 Agility <b>OR</b> +14 Strength</li>
+		<li>Level 20: +1 Mirror Image Illusion <b>OR</b> -5s Ensnare Cooldown</li>
+		<li>Level 25: -6 Rip Tide Armor <b>OR</b> +30% Evasion</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='furion'>
+	<h1>Nature's Prophet:</h1>
+	<ol>
+		<li>Level 10: +30 Damage <b>OR</b> +30 Movement Speed</li>
+		<li>Level 15: +4 Treants Summoned <b>OR</b> +8 Armor</li>
+		<li>Level 20: +40 Attack Speed <b>OR</b> -4s Sprout Cooldown</li>
+		<li>Level 25: Removed Teleportation Cooldown <b>OR</b> 2x Treant HP/Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='necrolyte'>
+	<h1>Necrophos:</h1>
+	<ul>
+		<li>Ghost Shroud slow reduced from 12/20/28/36 to 6/12/18/24</li>
+		<li>Ghost Shroud bonus magic damage taken increased from 25% to 30%</li>
+		<li>Heartstopper Aura range reduced from 900 to 700</li>
+		<li>Heartstopper Aura rescaled from 0.6/1.0/1.4/1.8 to 0.5/1.0/1.5/2.0</li>
+		<li>Reaper's Scythe cooldown increased from 100 to 120</li>
+		<li>Reaper's Scythe mana cost from 175/340/500 to 200/350/500</li>
+	</ul>
+	<ol>
+		<li>Level 10: +10 Strength <b>OR</b> +40 Damage</li>
+		<li>Level 15: +30 Movement Speed <b>OR</b> +300 Health</li>
+		<li>Level 20: +20% Magic Resistance <b>OR</b> +80 Attack Speed</li>
+		<li>Level 25: -1.5s Death Pulse Cooldown <b>OR</b> +0.6 Heartstopper Aura</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='night_stalker'>
+	<h1>Night Stalker:</h1>
+	<ul>
+		<li>Daytime vision reduced from 1200 to 800</li>
+	</ul>
+	<ol>
+		<li>Level 10: +200 Mana <b>OR</b> +200 Health</li>
+		<li>Level 15: +15 Strength <b>OR</b> +150 Cast Range</li>
+		<li>Level 20: +50 Movement Speed <b>OR</b> +50 Damage</li>
+		<li>Level 25: -8s Crippling Fear Cooldown <b>OR</b> +140 Hunter In The Night Attack Speed</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='nyx_assassin'>
+	<h1>Nyx Assassin:</h1>
+	<ul>
+		<li>Spiked Carapace damage return mechanics now work like Blademail (still returns only once per enemy, does not stun the Spell Immune).</li>
+	</ul>
+	<ol>
+		<li>Level 10: +60 Gold/Min <b>OR</b> +6% Spell Amplification</li>
+		<li>Level 15: +325 Health <b>OR</b> +35 Movement Speed</li>
+		<li>Level 20: +75% Spiked Carapace Damage <b>OR</b> +175 Impale Damage</li>
+		<li>Level 25: +100 Agility <b>OR</b> Vendetta Unobstructed Pathing</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='ogre_magi'>
+	<h1>Ogre Magi:</h1>
+	<ol>
+		<li>Level 10: +100 Cast Range <b>OR</b> +60 Gold/Min</li>
+		<li>Level 15: +300 Health <b>OR</b> +90 Damage</li>
+		<li>Level 20: +40 Bloodlust Attack Speed <b>OR</b> +30 Strength</li>
+		<li>Level 25: +90 Movement Speed <b>OR</b> +275 Fireblast Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='omniknight'>
+	<h1>Omniknight:</h1>
+	<ul>
+		<li>Guardian Angel cast point reduced from 0.5 to 0.4</li>
+	</ul>
+	<ol>
+		<li>Level 10: +90 Gold/Min <b>OR</b> +75 Purification AoE</li>
+		<li>Level 15: +35% XP Gain <b>OR</b> +90 Damage</li>
+		<li>Level 20: +6 Mana Regen <b>OR</b> -12% Degen Aura</li>
+		<li>Level 25: +3s Repel Duration <b>OR</b> +200 Purification Damage/Heal</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='oracle'>
+	<h1>Oracle:</h1>
+	<ul>
+		<li>False Promise visual effects now show if the hero will die or not.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +1s Fortune's End Max Duration <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +150 Cast Range <b>OR</b> +90 Gold/Min</li>
+		<li>Level 20: +75 Movement Speed <b>OR</b> False Promise Invisibility (0.6s Fade Time)</li>
+		<li>Level 25: -5s Fate's Edict Cooldown <b>OR</b> +2 False Promise Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='obsidian_destroyer'>
+	<h1>Outworld Devourer:</h1>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: +15% Essence Aura Chance <b>OR</b> +40 Movement Speed</li>
+		<li>Level 20: +20 Strength <b>OR</b> +2 Sanity's Eclipse Multiplier</li>
+		<li>Level 25: +60s Arcane Orb Int Steal <b>OR</b> +15% Spell Lifesteal</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='phantom_assassin'>
+	<h1>Phantom Assassin:</h1>
+	<ol>
+		<li>Level 10: +150 Health <b>OR</b> +15 Damage</li>
+		<li>Level 15: +20% Cleave <b>OR</b> -4 Armor Corruption</li>
+		<li>Level 20: 20% Lifesteal <b>OR</b> Double Strike Stifling Dagger</li>
+		<li>Level 25: +5% Coup de Grace <b>OR</b> +25% Blur Evasion</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='phantom_lancer'>
+	<h1>Phantom Lancer:</h1>
+	<ul>
+		<li>Phantom Rush can now be toggled to disable it (default state is enabled).</li>
+		<li>Doppelganger now adds 2 seconds duration to all your illusions.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +10% Evasion <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: +250 Health <b>OR</b> +125 Spirit Lance Damage</li>
+		<li>Level 20: +4 Max Juxtapose Illusions <b>OR</b> +500 Phantom Rush Range</li>
+		<li>Level 25: -5s Doppelganger CD <b>OR</b> 30% Critical Strike (2x)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='phoenix'>
+	<h1>Phoenix:</h1>
+	<ol>
+		<li>Level 10: +8% Spell Amplification <b>OR</b> +90 Gold/Min</li>
+		<li>Level 15: +60 Fire Spirits DPS <b>OR</b> +40% XP Gain</li>
+		<li>Level 20: +1400 Icarus Dive <b>OR</b> +1s Supernova Stun Duration</li>
+		<li>Level 25: +3 Supernova Hit Count <b>OR</b> +2% Max Health Sun Ray Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='puck'>
+	<h1>Puck:</h1>
+	<ul>
+		<li>Dreamcoil no longer deals 100/150/200 damage on cast.</li>
+		<li>Dreamcoil link break damage increased from 100/150/200 to 300/400/500 (Scepter damage increased from 200/250/300 to 400/550/700)</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +10 Intelligence</li>
+		<li>Level 15: +50 Damage <b>OR</b> +8% Spell Amplification</li>
+		<li>Level 20: -5s Waning Rift Cooldown <b>OR</b> +40% Illusory Orb Distance/Speed</li>
+		<li>Level 25: +420 Gold/Min <b>OR</b> Dream Coil Rapid Fire (Attacks everyone once per 0.6 seconds within attack range)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='pudge'>
+	<h1>Pudge:</h1>
+	<ul>
+		<li>Meat Hook can pull Runes back to you. Mana cost is refunded if successful.</li>
+		<li>Dismember now pulls the target closer to Pudge.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +35 Rot Damage</li>
+		<li>Level 15: +13% Spell Lifesteal <b>OR</b> +75 Damage</li>
+		<li>Level 20: +15% Cooldown Reduction<b>OR</b> +180 Gold/Min</li>
+		<li>Level 25: +2.0 Flesh Heap Stack Str <b>OR</b> +3s Dismember Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='pugna'>
+	<h1>Pugna:</h1>
+	<ul>
+		<li>Life Drain range reduced by 100</li>
+		<li>Decrepify can now target Tombstone.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +225 Health <b>OR</b> +25 Movement Speed</li>
+		<li>Level 15: -1s Netherblast Cooldown <b>OR</b> +1 Nether Ward Health</li>
+		<li>Level 20: +2s Decrepify Duration <b>OR</b> +25% Life Drain Heal</li>
+		<li>Level 25: +1.75 Netherward Damage per Mana <b>OR</b> +200 Netherblast Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='queenofpain'>
+	<h1>Queen of Pain:</h1>
+	<ol>
+		<li>Level 10: +10 Strength <b>OR</b> +25 Damage</li>
+		<li>Level 15: +40 Attack Speed <b>OR</b> +12% Cooldown Reduction</li>
+		<li>Level 20: +650 AoE Shadow Strike <b>OR</b> +30% Spell Lifesteal</li>
+		<li>Level 25: 20s Spell Block <b>OR</b> Scream of Pain 1.5s Fear</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='razor'>
+	<h1>Razor:</h1>
+	<ul>
+		<li>Base movement speed reduced by 5</li>
+		<li>Reworked Unstable Current</li>
+		<ul>
+			<li>Passive: 4/8/12/16% Movement Bonus (like before)</li>
+			<li>Every 5 seconds, a random enemy within 350 AoE will be shocked, taking 100/130/160/190 damage and getting purged (40% slow for 0.5/1/1.5/2 seconds, dispells positive buffs).</li>
+		</ul>
+	</ul>
+	<ol>
+		<li>Level 10: +15 Agility <b>OR</b> +200 Health</li>
+		<li>Level 15: +4% Unstable Current Movement Speed <b>OR</b> +7 Static Link Damage Steal </li>
+		<li>Level 20: +10 Armor <b>OR</b> -0.1 Eye of the Storm Strike Interval</li>
+		<li>Level 25: +100 Attack Speed <b>OR</b> -3s Unstable Current Interval</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='riki'>
+	<h1>Riki:</h1>
+	<ul>
+		<li>Base movement speed reduced by 5</li>
+		<li>Enemy units in Smoke Screen have no vision.</li>
+		<li>Backstab damage can now be used in procs like Critical Strike, Cleave, etc.</li>
+		<li>Backstab damage reduced from 0.5/0.75/1.0/1.25 to 0.4/0.6/0.8/1.0</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Health Regen <b>OR</b> +8 Agility</li>
+		<li>Level 15: -4s Smokescreen Cooldown <b>OR</b> 20% 1.5x Crit</li>
+		<li>Level 20: +900 Blink Strike Cast Range <b>OR</b> +0.2 Backstab Multiplier</li>
+		<li>Level 25: +400 Tricks of the Trade AoE <b>OR</b> Cloak and Dagger Doesn't Reveal<em><del>No actions take you out of invisibility, can still be revealed with true sight</del></em></li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='rubick'>
+	<h1>Rubick:</h1>
+	<ul>
+		<li>Null Field can now be toggled between defensive and offensive forms. Has a 30 second cooldown once toggled. Offensive form reduces enemy magic resistance. </li>
+		<li>Null Field AoE increased from 900 to 1200</li>
+	</ul>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +60 Damage</li>
+		<li>Level 15: +100 Cast Range <b>OR</b> -35 Fade Bolt Hero Attack</li>
+		<li>Level 20: +5% Null Field <b>OR</b> +300 Telekinesis Land Distance</li>
+		<li>Level 25: +75% Spell Amp For Stolen Spells <b>OR</b> -15s Telekinesis Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='sand_king'>
+	<h1>Sand King:</h1>
+	<ol>
+		<li>Level 10: +30 Movement Speed <b>OR</b> +200 Health</li>
+		<li>Level 15: +50 Sand Storm DPS <b>OR</b> -50 Epicenter Attack Slow</li>
+		<li>Level 20: +10 Armor <b>OR</b> +4 Epicenter Pulses</li>
+		<li>Level 25: +35 Health Regen <b>OR</b> 50% Sand Storm Slow and Blind</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='shadow_demon'>
+	<h1>Shadow Demon:</h1>
+	<ul>
+		<li>Demonic Purge now works on cycloned units.</li>
+		<li>Soul Catcher no longer splits its effect, it only affects one unit in the area.</li>
+		<li>Shadow Poison radius increased from 190 to 200</li>
+		<li>When an enemy dies under Soul Catcher, an illusion of them is created under your control. Lasts until they respawn or it is killed. Deals 30/45/60/75% damage and takes 200% damage.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25% XP Gain <b>OR</b> +10 Strength</li>
+		<li>Level 15: +25% Shadow Poison Damage <b>OR</b> +40 Movement Speed</li>
+		<li>Level 20: -6s Soul Catcher Cooldown <b>OR</b> -1.5s Shadow Poison Cooldown</li>
+		<li>Level 25: +500 Demonic Purge Damage <b>OR</b> +5s Disruption Banish Duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='nevermore'>
+	<h1>Shadow Fiend:</h1>
+	<ul>
+		<li>Shadow Raze damage reduced from 100/175/250/325 to 90/160/230/300</li>
+		<li>Shadow Raze now has a stack counter for each time an enemy gets hit. Causes the enemy to take 60 more Shadow Raze damage per stack. Lasts 8 seconds, gets refreshed on stack gain. (First hit does 0 bonus, next does 60, 120, etc.)</li>
+	</ul>
+	<ol>
+		<li>Level 10: +10% Spell Amplification <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: Presence Aura Affects Building <b>OR</b> +40 Movement Speed</li>
+		<li>Level 20: +150 Shadow Raze Damage <b>OR</b> +20% Evasion</li>
+		<li>Level 25: 40% Cooldown Reduction <b>OR</b> +3 Damage Per Soul</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='shadow_shaman'>
+	<h1>Shadow Shaman:</h1>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +20% XP Gain</li>
+		<li>Level 15: -4s Hex Cooldown <b>OR</b> +125 Cast Range</li>
+		<li>Level 20: +3s Shackles Duration <b>OR</b> +1 Serpent Wards Attacks HP</li>
+		<li>Level 25: +400 Ether Shock Damage <b>OR</b> +60 Wards Attack Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='silencer'>
+	<h1>Silencer:</h1>
+	<ul>
+		<li>Glaives of Wisdom damage from 35/50/65/80% to 15/30/45/60%</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +25 Attack Speed</li>
+		<li>Level 15: +90 Gold/Min <b>OR</b> +2 Intelligence Steal</li>
+		<li>Level 20: +125 Attack Range <b>OR</b> +30 Curse Damage</li>
+		<li>Level 25: +20% Glaives of Wisdom <b>OR</b> +2s Global Silence</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='skywrath_mage'>
+	<h1>Skywrath Mage:</h1>
+	<ol>
+		<li>Level 10: +25 Movement Speed <b>OR</b> +8 Intelligence</li>
+		<li>Level 15: -6s Ancient Seal Cooldown <b>OR</b> +1 Arcane Bolt</li>
+		<li>Level 20: Global Concussive Shot <b>OR</b> +15% Ancient Seal Magic Resistance Reduction</li>
+		<li>Level 25: +600 Mystic Flare damage <b>OR</b> +300 Gold/Min</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='slardar'>
+	<h1>Slardar:</h1>
+	<ul>
+		<li>Guardian Sprint moves at 700 Speed along the river at ability-level 4</li>
+	</ul>
+	<ol>
+		<li>Level 10: +20 Damage <b>OR</b> +5 Health Regen</li>
+		<li>Level 15: +300 Health <b>OR</b> +100 Bash Damage</li>
+		<li>Level 20: +50 Attack Speed <b>OR</b> Night Vision +1000</li>
+		<li>Level 25: +15% Bash Chance <b>OR</b> Corrosive Haze Undispellable</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='slark'>
+	<h1>Slark:</h1>
+	<ul>
+		<li>Fixed a bug with Pounce where you could sometimes force yourself out if you were not moving on pounce impact.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +8 Strength <b>OR</b> +10 Agility</li>
+		<li>Level 15: +30 Attack Speed <b>OR</b> +20% Lifesteal</li>
+		<li>Level 20: +150 Dark Pact Damage <b>OR</b> +3s Pounce Leash</li>
+		<li>Level 25: +1s Shadow Dance Duration <b>OR</b> +120s Essence Shift duration</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='sniper'>
+	<h1>Sniper:</h1>
+	<ol>
+		<li>Level 10: +12% Cooldown Reduction <b>OR</b> +20 Damage</li>
+		<li>Level 15: +40 Attack Speed <b>OR</b> +20 Shrapnel DPS</li>
+		<li>Level 20: +35 Knockback Distance Headshot <b>OR</b> -1.5s Assassinate</li>
+		<li>Level 25: +6 Shrapnel Charges <b>OR</b> +125 Attack Range</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='spectre'>
+	<h1>Spectre:</h1>
+	<ul>
+		<li>Desolate now applies a debuff that reduces the unit's vision by 40/50/60/70% for 5 seconds.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Health Regen <b>OR</b> +15 Desolate Damage</li>
+		<li>Level 15: -8s Spectral Dagger Cooldown <b>OR</b> +8 All Stats</li>
+		<li>Level 20: +500 Health <b>OR</b> +20% Spectral Dagger Slow/Bonus</li>
+		<li>Level 25: +20% Haunt Illusion Damage <b>OR</b> +8% Dispersion</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='spirit_breaker'>
+	<h1>Spirit Breaker:</h1>
+	<ul>
+		<li>Charge of Darkness no longer goes into cooldown when you die.</li>
+		<li>Spirit Breaker base HP regen reduced by 1</li>
+		<li>Greater Bash damage rescaled from 22/30/38/46 to 12/24/36/48%</li>
+	</ul>
+	<ol>
+		<li>Level 10: +400 Night Vision <b>OR</b> +5 Armor</li>
+		<li>Level 15: +10 Health Regen <b>OR</b> +30 Damage</li>
+		<li>Level 20: +400 Charge Speed <b>OR</b> +30% Greater Bash Damage</li>
+		<li>Level 25: +800 Health <b>OR</b> +25% Greater Bash Chance</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='storm_spirit'>
+	<h1>Storm Spirit:</h1>
+	<ol>
+		<li>Level 10: +20 Damage <b>OR</b> +2 Mana Regen</li>
+		<li>Level 15: +80 Static Remnant Damage <b>OR</b> +300 Health</li>
+		<li>Level 20: +0.5s Electric Vortex <b>OR</b> +40 Attack Speed</li>
+		<li>Level 25: Overload Pierces Immunity <b>OR</b> Auto Remnant per 500 Ball Lightning</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='sven'>
+	<h1>Sven:</h1>
+	<ol>
+		<li>Level 10: +2 Mana Regen <b>OR</b> +8 Strength</li>
+		<li>Level 15: +30 Movement Speed <b>OR</b> +30 Damage</li>
+		<li>Level 20: +25% Lifesteal <b>OR</b> Storm Hammer Dispels Enemies</li>
+		<li>Level 25: +40 STR God's Strength <b>OR</b> -8s Storm Hammer Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='techies'>
+	<h1>Techies:</h1>
+	<ul>
+		<li>Proximity Mines bounty reduced from 50 to 25</li>
+		<li>Proximity Mines damage increased from 150/350/550/750 to 200/400/600/800</li>
+	</ul>
+	<ol>
+		<li>Level 10: +30% XP Gain <b>OR</b> -4s Proximity Mines Cooldown</li>
+		<li>Level 15: +300 Blast Off Damage <b>OR</b> +4 Mana Regen</li>
+		<li>Level 20: +75 Movement Speed <b>OR</b> +150 Gold/Min</li>
+		<li>Level 25: +251 Damage <b>OR</b> +25 Mines Movement Speed</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='templar_assassin'>
+	<h1>Templar Assassin:</h1>
+	<ul>
+		<li>Psionic Traps now deal 100/125/150 damage when fully charged (dealt over the duration of the debuff rather than instantly).</li>
+	</ul>
+	<ol>
+		<li>Level 10: +200 Health <b>OR</b> +25 Attack Speed</li>
+		<li>Level 15: +7 Armor <b>OR</b> +200 Psionic Trap Damage</li>
+		<li>Level 20: Refraction Dispels <b>OR</b> -4 Meld Armor Reduction</li>
+		<li>Level 25: +4 Refraction Instances <b>OR</b> Psi Blades Spill Paralyzes (slows affected targets MS by 100% for 1 second)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='terrorblade'>
+	<h1>Terrorblade:</h1>
+	<ol>
+		<li>Level 10: +20 Movement Speed <b>OR</b> +10% Evasion</li>
+		<li>Level 15: +300 Health <b>OR</b> +25 Attack Speed</li>
+		<li>Level 20: +10 All Stats <b>OR</b> -8s Reflection Cooldown</li>
+		<li>Level 25: -35s Sunder Cooldown <b>OR</b> +300 Metamorphosis Attack Range</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='tidehunter'>
+	<h1>Tidehunter:</h1>
+	<ul>
+		<li>Ravage AoE increased from 1025 to 1250</li>
+		<li>Ravage speed reduced from 775 to 725</li>
+	</ul>
+	<ol>
+		<li>Level 10: +25 Movement Speed <b>OR</b> +80 Gush Damage</li>
+		<li>Level 15: +40% XP Gain <b>OR</b> +25% Anchor Smash Damage Reduction</li>
+		<li>Level 20: +24 Kraken Shell <b>OR</b> -4 Gush Armor</li>
+		<li>Level 25: +25% Cooldown Reduction <b>OR</b> +250 Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='shredder'>
+	<h1>Timbersaw:</h1>
+	<ol>
+		<li>Level 10: +6% Spell Amplification <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +100 Damage <b>OR</b> +5 Reactive Armor Stacks</li>
+		<li>Level 20: +15 Strength <b>OR</b> +10% Cooldown Reduction</li>
+		<li>Level 25: +8% Whirling Death Attribute Reduction <b>OR</b> +1400 Timber Chain Range</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='tinker'>
+	<h1>Tinker:</h1>
+	<ul>
+		<li>Rearm now affects items in the backpack.</li>
+		<li>Heat Seeking Missiles travel speed reduced from 900 to 700</li>
+		<li>Heat Seeking Missiles mana cost reduced from 120/140/160/180 to 80/100/120/140</li>
+	</ul>
+	<ol>
+		<li>Level 10: +6% Spell Amplification <b>OR</b> +75 Cast Range</li>
+		<li>Level 15: +40 Movement Speed <b>OR</b> +10% Spell Lifesteal</li>
+		<li>Level 20: +100 Attack Damage <b>OR</b> +8 March of the Machines Damage</li>
+		<li>Level 25: +100 Laser Damage <b>OR</b> +0.3s Heat-Seeking Missile Ministun</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='tiny'>
+	<h1>Tiny:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Base HP regen increased by 1</li>
+		<li>Attack point reduced from 0.49 to 0.4</li>
+		<li>Avalanche damage rescaled from 100/180/260/300 to 120/180/240/300</li>
+		<li>Tiny Agility from 9 + 0.9 to 0 + 0</li>
+		<li>Tiny base armor increased from -1 to 0</li>
+		<li>Removed Scepter</li>
+		<li>Removed Craggy Exterior</li>
+		<li>Added a new ability: Tree Grab. Targets a tree to use in attacks for 2/3/4/5 hits. Extends attack range to 350 range. Each hit deals 25% more base damage to units and 75% more base damage to buildings. Splashes 70% damage along the attack path. Affects buildings. Cooldown starts after bonus attacks are used. Cooldown: 40/32/24/16. Mana cost: 20/30/40/50</li>
+		<li>Reworked Grow: Grants you 20/30/40% Status Resistance, increases base damage by 40/80/120, movement by 40/50/60, and reduces attack speed by 30.</li>
+		<li>Tree Grab gives you a secondary ability when you grab a tree. Lets you throw your tree (resulting in your charges being empty) at a targeted unit, proccing your attack on it and splashing 70% damage onto a 250 area. Cast Range: 1000</li>
+	</ul>
+	<ol>
+		<li>Level 10: +15% Magic Resistance <b>OR</b> +25 Damage</li>
+		<li>Level 15: +75 Avalanche Damage <b>OR</b> +350 Health</li>
+		<li>Level 20: -10s Tree Grab CD <b>OR</b> Toss Requires No Target</li>
+		<li>Level 25: -12s Avalanche Cooldown <b>OR</b> 3 Toss Charges</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='treant'>
+	<h1>Treant Protector:</h1>
+	<ol>
+		<li>Level 10: +35% XP Gain <b>OR</b> +10% Cooldown Reduction</li>
+		<li>Level 15: +90 Damage <b>OR</b> 3s Tree Respawn Time (Means trees always respawn in 3 seconds)</li>
+		<li>Level 20: +2s Nature's Guise Root <b>OR</b> +40 Leech Seed Damage/Heal</li>
+		<li>Level 25: +6 Living Armor Block Instances <b>OR</b> +350 Eyes and Overgrowth AoE</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='troll_warlord'>
+	<h1>Troll Warlord:</h1>
+	<ul>
+		<li>Whirling Axes ability icons are always visible on the UI, but disabled when unavailable due to melee/range form.</li>
+		<li>Whirling Axes (ranged) cooldown reduced from 19/16/13/10 to 9</li>
+		<li>Whirling Axes (ranged) slow reduced from 3/3.75/4.5/5.25 to 2.5/3/3.5/4</li>
+		<li>Whirling Axes (ranged) slow amount increased from 30% to 40%</li>
+		<li>Whirling Axes (melee) cooldown reduced from 12 to 9</li>
+		<li>Whirling Axes (melee) blind duration rescaled from 4/5/6/7 to 5</li>
+	</ul>
+	<ol>
+		<li>Level 10: +10 Agility <b>OR</b> +200 Health</li>
+		<li>Level 15: +3 Max Fervor Stacks <b>OR</b> +50 Whirling Axes Damage</li>
+		<li>Level 20: +20% Evasion <b>OR</b> +50 Damage</li>
+		<li>Level 25: -6s Whirling Axes Cooldown <b>OR</b> Battle Trance Dispels (affects allies as well)</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='tusk'>
+	<h1>Tusk:</h1>
+	<ol>
+		<li>Level 10: +40% XP Gain <b>OR</b> +90 Gold/Min</li>
+		<li>Level 15: +350 Health <b>OR</b> +150 Snowball Damage</li>
+		<li>Level 20: +300 Snowball Speed <b>OR</b> +100% Walrus Punch Crit</li>
+		<li>Level 25: 12% Chance Walrus Punch <b>OR</b> -6s Ice Shards Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='abyssal_underlord'>
+	<h1>Underlord:</h1>
+	<ol>
+		<li>Level 10: +18 Firestorm Damage <b>OR</b> +30 Movement Speed</li>
+		<li>Level 15: +100 Cast Range <b>OR</b> +15 Atrophy Attack Bonus Damage</li>
+		<li>Level 20: +70 Attack Speed <b>OR</b> +30 Health Regen</li>
+		<li>Level 25: +0.8s Pit of Malice Root <b>OR</b> 25% Firestorm Building Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='undying'>
+	<h1>Undying:</h1>
+	<ul>
+		<li>Tombstone duration rescaled from 15/20/25/30 to 30</li>
+		<li>Tombstone AoE rescaled from 600/800/1000/1200 to 1200</li>
+		<li>Tombstone spawn rate rescaled from 3 to 4.5/4/3.5/3</li>
+		<li>Tombstone cooldown rescaled from 70 to 85/80/75/70</li>
+		<li>Reduced Tombstone zombie collision size</li>
+		<li>Decay mana cost rescaled from 70/90/110/130 to 70/85/100/115</li>
+		<li>Decay damage from 20/60/100/140 to 20/50/80/110</li>
+	</ul>
+	<ol>
+		<li>Level 10: +100 Cast Range <b>OR</b> +8 Health Regen</li>
+		<li>Level 15: Tombstone On Death <b>OR</b> +20 Decay Duration</li>
+		<li>Level 20: +30 Tombstone Zombie Damage <b>OR</b> +3 Tombstone Attacks</li>
+		<li>Level 25: Gains Reincarnation 200 CD <b>OR</b> -2s Decay Cooldown</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='ursa'>
+	<h1>Ursa:</h1>
+	<ol>
+		<li>Level 10: +1.75 Mana Regen <b>OR</b> +8 Strength</li>
+		<li>Level 15: +16 Agility <b>OR</b> -1s Earthshock Cooldown</li>
+		<li>Level 20: +1 Enrage Duration <b>OR</b> +25s Fury Swipes</li>
+		<li>Level 25: +14 Fury Swipes Damage <b>OR</b> +600 AoE Earthshock</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='vengefulspirit'>
+	<h1>Vengeful Spirit:</h1>
+	<ul>
+		<li>Wave of Terror vision AoE reduced from 500 to 300 (same as impact radius)</li>
+		<li>Wave of Terror cooldown reduced from 22/20/18/16 to 10</li>
+		<li>Wave of Terror debuff duration reduced from 15 to 8</li>
+		<li>Scepter Illusion damage increased from 50% to 100%</li>
+		<li>Vengeance Aura AoE increased from 900 to 1200</li>
+		<li>Vengeance Aura no longer applied to enemies when you die</li>
+		<li>Whenever an allied hero dies under your damage aura, an illusion of that hero will be created, attacking the enemy that killed him for 7 seconds. Illusions deal 100% Damage. Illusions are ghosts/not targetable and are visible/known to the enemy.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +15% Magic Resistance <b>OR</b> -1 Wave of Terror Armor</li>
+		<li>Level 15: +15 Agility <b>OR</b> -6s Wave of Terror Cooldown</li>
+		<li>Level 20: -4s Magic Missile Cooldown <b>OR</b> +15% Vengeance Aura Damage</li>
+		<li>Level 25: +400 Magic Missile Damage <b>OR</b> Magic Missile Pierces Spell Immunity</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='venomancer'>
+	<h1>Venomancer:</h1>
+	<ul>
+		<li>Base movement speed reduced by 5</li>
+		<li>Base damage reduced by 3</li>
+		<li>Venomous Gale can now be dispelled.</li>
+	</ul>
+	<ol>
+		<li>Level 10: -8 Venomous Gale CD <b>OR</b> +90 Gold/Min</li>
+		<li>Level 15: +150 Cast Range <b>OR</b> +6% Poison Sting Slow</li>
+		<li>Level 20: +6s Poison Nova Duration <b>OR</b> Gale Hero Impact Summons 2 Wards </li>
+		<li>Level 25: +600 Poison Nova AoE <b>OR</b> 3x Plague Ward HP/Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='viper'>
+	<h1>Viper:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Base movement speed reduced by 5</li>
+		<li>Base armor reduced by 1</li>
+		<li>Corrosive Skin no longer slows movement speed.</li>
+		<li>Corrosive Skin damage increased from 10/15/20/25 to 8/16/24/32</li>
+		<li>Corrosive Skin Attack Slow rescaled from 10/15/20/25 to 8/16/24/32</li>
+		<li>Reworked Poison Attack. Slows the target and deals damage based on how much health the target is missing.</li>
+		<ul>
+			<li>MS/AS Slow: 25/30/35/40%</li>
+			<li>DPS: 0.25/0.5/0.75/1.0x * Missing Health percentage (so at max level 50% missing health would be 50 DPS, 90% missing health would be 90 DPS)</li>
+			<li>Duration: 3</li>
+			<li>CD: 6/4/2/0</li>
+			<li>Mana cost: 40/35/30/25</li>
+		</ul>
+		<li>Reworked Nethertoxin. Releases poison onto the targeted area. Deals damage over time, reduces magic resistance and applies Break (disabling passive abilities) to those standing in that area.</li>
+		<ul>
+			<li>AoE: 300</li>
+			<li>DPS: 20/30/40/50</li>
+			<li>Magic Resistance: -10/15/20/25%  + Applies Break</li>
+			<li>Duration: 8</li>
+			<li>Cooldown: 5</li>
+			<li>Mana cost: 75 </li>
+			<li>Cast Range: 900  (2000 projectile speed)</li>
+			<li>Note: This affects the area targeted on the ground, does not leave a debuff on enemies upon cast. Only active as long as they are in the area.</li>
+		</ul>
+	</ul>
+	<ol>
+		<li>Level 10: +20 Attack Speed <b>OR</b> +8% Spell Lifesteal </li>
+		<li>Level 15: +100 Attack Range <b>OR</b> +6 Corrosive Skin</li>
+		<li>Level 20: Poison Attack Affects Buildings <b>OR</b> +100 Viper Strike DPS</li>
+		<li>Level 25: +120 Damage <b>OR</b> Nethertoxin Silences</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='visage'>
+	<h1>Visage:</h1>
+	<ul>
+		<li>Familiar's attack is now a constant 25/40/55 rather than damage charges.</li>
+		<li>Casting Grave Chill now gives the buff to Familiars within 900 AoE at cast time.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +125 Cast Range <b>OR</b> +30 Damage</li>
+		<li>Level 15: +40% XP Gain <b>OR</b> Soul Assumption Double Strike</li>
+		<li>Level 20: +15 Soul Assumption Damage Per Charge <b>OR</b> +80 Familiars Movement Speed</li>
+		<li>Level 25: -2s Gravekeeper's Cloak <b>OR</b> +1 Familiar</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='warlock'>
+	<h1>Warlock:</h1>
+	<ol>
+		<li>Level 10: +5% Fatal Bonds Damage <b>OR</b> +125 Cast Range</li>
+		<li>Level 15: -7s Shadow Word Cooldown <b>OR</b> +40% XP Gain</li>
+		<li>Level 20: Summon a Golem on Death <b>OR</b> 250 Shadow Word AoE</li>
+		<li>Level 25: +20 Chaotic Offering Golems Armor <b>OR</b> Spell Immunity for Golems</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='weaver'>
+	<h1>Weaver:</h1>
+	<ol>
+		<li>Level 10: +20 Mana Break <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: 12 Strength <b>OR</b> +75 Shukuchi Damage</li>
+		<li>Level 20: -0.5 Swarm Armor Reduction <b>OR</b> +2 Swarm Attacks to Kill</li>
+		<li>Level 25: +200 Shukuchi Movement Speed <b>OR</b> +1 Geminate Attack</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='windrunner'>
+	<h1>Windranger:</h1>
+	<ul>
+		<li>Focus Fire now allows Windranger to move while attacking the Focus Fire target.</li>
+		<li>Focus Fire attack speed bonus reduced from 500 to 350</li>
+		<li>Focus Fire cooldown increased from 60 to 70</li>
+		<li>Shackleshot now shows an indicator for the missed area if it fails to latch onto a target.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +30% Windrun Slow <b>OR</b> +1.75 Mana/sec</li>
+		<li>Level 15: +90 Powershot Damage <b>OR</b> +75 Attack Range</li>
+		<li>Level 20: 25% Cooldown <b>OR</b> Windrun Grants Invis</li>
+		<li>Level 25: +20% Ministun Focus Fire <b>OR</b> +1 Shackleshot Target</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='winter_wyvern'>
+	<h1>Winter Wyvern:</h1>
+	<ol>
+		<li>Level 10: 90 Gold/Min <b>OR</b> +50 Damage</li>
+		<li>Level 15: +350 Health <b>OR</b> +600 Night Vision</li>
+		<li>Level 20: +15% Arctic Burn Slow <b>OR</b> -5s Cold Embrace Cooldown</li>
+		<li>Level 25: +1.5s Winter's Curse Duration <b>OR</b> Splinter Blast 2s Stun</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='witch_doctor'>
+	<h1>Witch Doctor:</h1>
+	<ul>
+		<li>Death Ward now attacks the enemy hero nearest to the ward on creation</li>
+	</ul>
+	<ol>
+		<li>Level 10: +5 Armor <b>OR</b> +75 Damage</li>
+		<li>Level 15: +2 Cask Bounces <b>OR</b> +120 Gold/Min</li>
+		<li>Level 20: +1 Maledict Tick <b>OR</b> +125 Death Ward Attack Range</li>
+		<li>Level 25: +1.5% Max Health Voodoo Restoration <b>OR</b> +75 Death Ward Damage</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='skeleton_king'>
+	<h1>Wraith King:<span class='Reworked'>Hero Reworked</span></h1>
+	<ul>
+		<li>Strength gain reduced from 3.2 to 2.8</li>
+		<li>Reworked Mortal Strike:</li>
+		<ul>
+			<li>Mortal Strike hero chance rescaled from 15% to 9/11/13/15% (same as creep chance)</li>
+			<li>Mortal Strike hero crit rescaled from 150/200/250/300 to 300%</li>
+			<li>Reworked Mortal Strike vs creeps. Grants a 9/11/13/15% chance to kill a non-player non-ancient unit in one hit and gain a charge counter.</li>
+			<li>Can cast mortal strike to summon skeletons equal to the number of charges you have (max of 4/5/6/7 charges). Skeletons are not bound to you and will auto attack targets they find.</li>
+			<li>Activation requires 75 mana and has a 50 second cooldown. Skeletons have 35-40 Damage, 1.2 attack rate, 350 MS, 350 Health. Grant 15 Gold/XP Bounty. </li>
+			<li>Skeletons are summoned once per 0.25 seconds (first is immediate).</li>
+			<li>Note: If you have Vampiric, you lifesteal as if your attack dealt enough damage to kill the creep.</li>
+		</ul>
+		<li>Casting Hellfire Blast on a target will order all skeletons to attack that target.</li>
+	</ul>
+	<ol>
+		<li>Level 10: +40 Wraithfire Blast DPS <b>OR</b> +20 Attack Speed</li>
+		<li>Level 15: +5 Max Skeletons <b>OR</b> +15 Strength</li>
+		<li>Level 20: No Reincarnation Mana cost <b>OR</b> +30 Skeletons Attack Damage</li>
+		<li>Level 25: +25% Vampiric Aura Lifesteal <b>OR</b> Reincarnation Casts Wraithfire Blasts</li>
+	</ol>
+</figure>
+<figure>
+	<img data-id='zuus'>
+	<h1>Zeus:</h1>
+	<ol>
+		<li>Level 10: +6 Armor <b>OR</b> +25% XP Gain</li>
+		<li>Level 15: +40 Movement Speed <b>OR</b> +1% Static Field</li>
+		<li>Level 20: +15% Cooldown <b>OR</b> +0.5 Lightning Bolt Stun</li>
+		<li>Level 25: +200 Cast Range <b>OR</b> +170 Arc Lightning Damage</li>
+	</ol>
+</figure>
+			</div>
+		</div>
+		<div class="SubContainer" id="BGOtherstuff">
+			<div class="Inner" id="Otherstuff">
+				<h2 class="OrangeBoxHeader">Also in this update</h2>
+				
+<figure>
+<h1>User Interface</h1>
+	<ul>
+		<li>The hero loadout now allows you to select between different Tiny Grow sizes and Night Stalker nighttime and daytime forms.</li>
+		<li>When typing in chat, using : will bring up autocomplete for all of your owned emoticons.</li>
+		<li>Chat links are now automatically clickable. Links sent to public chat channels are redirected through the Steam link filter.</li>
+		<li>You can now chat with your party in-game by using the /p chat command.</li>
+	</ul>
+	<br>
+	<h1>Cosmetics</h1>
+	<ul>
+        	<li>Added the following heroes to the workshop: Pangolier, Jakiro, Ancient Apparition, and Techies</li>
+	        <li>Added a headslot for Phantom Lancer</li>
+	</ul>
+	<br>
+	<h1>Ability Draft</h1>
+	<ul>
+		<li>New Drafting UI</li>
+		<li>Added support for chat during draft.</li>
+		<li>Added support for swapping ability slots.</li>
+		<li>Dark Willow and Pangolier added.</li>
+		<li>Added tooltips for hero talents and base stats as well as indicators for hero primary attributes.</li>
+		<li>Scoreboard will now show drafted abilities at end of game and when viewing replays.</li>
+		<li>The following heroes added to Ability Draft with a limited set of abilities:</li>
+			<ul>
+				<li>Puck</li>
+				<li>Templar Assassin</li>
+				<li>Chen</li>
+				<li>Doom</li>
+				<li>Shadow Fiend</li>
+				<li>Ember Spirit</li>
+				<li>Vengeful Spirit</li>
+				<li>Keeper of the Light</li>
+				<li>Spectre</li>
+				<li>Troll Warlord</li>
+				<li>Phoenix</li>
+				<li>Timbersaw</li>
+				<li>Elder Titan</li>
+				<li>Ogre Magi</li>
+				<li>Tusk</li>
+			</ul>
+		<br>
+		<li>Bug fixes for the following heroes:</li>
+		<ul>
+			<li>Zeus</li>
+			<li>Gyrocopter</li>
+			<li>Dragon Knight</li>
+			<li>Treant Protector</li>
+			<li>Nyx Assassin</li>
+			<li>Terrorblade</li>
+		</ul>
+		<br>
+		<li>Added support for inverse kinematics to Dota 2, beginning with Broodmother.  Check out <a href="http://cdn.dota2.com/apps/dota2/videos/duelingfates/broodmother.webm">this video</a> showcasing her body and legs aligning to the cliff faces, stairways, and other inclined surfaces she travels across.
+	</ul>
+</figure>
+			</div>
+		</div>
+	</div>
+
+	<div class="Container" id="Footer">
+		<div class="Inner">
+		</div>
+	</div>
+
+</body>
+</html>
